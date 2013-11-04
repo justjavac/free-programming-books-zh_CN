@@ -23,7 +23,7 @@
 ### WEB服务器
 
 * [Nginx开发从入门到精通](https://github.com/taobao/nginx-book)
-* [Pro Git](http://git-scm.com/book/zh) github:https://github.com/progit/progit
+* [Pro Git](http://git-scm.com/book/zh) (fork on [github](https://github.com/progit/progit))
 
 ## 语言相关类
 
