@@ -30,6 +30,7 @@
 
 ### 版本控制
 
+* [Git 参考手册](http://gitref.justjavac.com)
 * [Pro Git](http://git-scm.com/book/zh) (fork on [github](https://github.com/progit/progit))
 
 ### NoSQL
@@ -46,18 +47,26 @@
 
 ### javascript
 
+* [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
 * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
 * [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (pdf)
 * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
+* [Developing Backbone.js Applications(中文版)](http://feliving.github.io/developing-backbone-applications)
+* [AngularJS中译本](https://github.com/basestyle/angularjs-cn)
 
 ### PHP
 
 * [PHP之道](https://github.com/wulijun/php-the-right-way)
-* [深入理解PHP内核](https://github.com/reeze/tipi) 
+* [PHP 最佳实践](https://github.com/justjavac/PHP-Best-Practices-zh_CN)
+* [深入理解PHP内核](https://github.com/reeze/tipi)
+* [PHP扩展开发及内核应用](https://github.com/walu/phpbook)
 
 ### Python
 
+* [Python的神奇方法指南](http://article.yeeyan.org/view/311527/287706)
 * [Django 文档中文版](https://django-document-cn.readthedocs.org/en/latest/)
+* [Django 最佳实践](https://github.com/brantyoung/zh-django-best-practices/blob/master/readme.rst)
+* 
 
 ### Go
 
@@ -65,3 +74,8 @@
 * [Go入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN)
 * [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang)
 * [Go实战开发](https://github.com/astaxie/Go-in-Action)
+* [Network programming with Go 中文翻译版本](https://github.com/astaxie/NPWG_zh)
+
+### LISP
+
+* [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
