@@ -28,12 +28,12 @@
 
 ### WEB服务器
 
-* [Nginx开发从入门到精通](https://github.com/taobao/nginx-book)
+* [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) ([源码](https://github.com/taobao/nginx-book))
 
 ### 版本控制
 
-* [Git 参考手册](http://gitref.justjavac.com)
-* [Pro Git](http://git-scm.com/book/zh) (fork on [github](https://github.com/progit/progit))
+* [Git 参考手册](http://gitref.justjavac.com) ([源码](https://github.com/justjavac/git-reference))
+* [Pro Git](http://git-scm.com/book/zh) ([源码](https://github.com/progit/progit))
 
 ### NoSQL
 
