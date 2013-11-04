@@ -48,6 +48,7 @@
 ### javascript
 
 * [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
+* [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns)
 * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
 * [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (pdf)
 * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
