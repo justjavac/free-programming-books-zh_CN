@@ -12,6 +12,7 @@
 
 * [语言无关类](#语言无关类)
   * [WEB服务器](#web服务器)
+  * [版本控制](#版本控制)
   * [NoSQL](#nosql)
   
 * [语言相关类](#语言相关类)
@@ -26,6 +27,9 @@
 ### WEB服务器
 
 * [Nginx开发从入门到精通](https://github.com/taobao/nginx-book)
+
+### 版本控制
+
 * [Pro Git](http://git-scm.com/book/zh) (fork on [github](https://github.com/progit/progit))
 
 ### NoSQL
