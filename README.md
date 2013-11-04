@@ -79,7 +79,7 @@
 
 * [Go编程基础](https://github.com/Unknwon/go-fundamental-programming)
 * [Go入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN)
-* [学习Go语言](http://mikespook.com/learning-go/) ([源码](https://github.com/mikespook/Learning-Go-zh-cn)、[PDF](http://xxiyy.qiniudn.com/%E5%AD%A6%E4%B9%A0%20Go%20%E8%AF%AD%E8%A8%80(Golang).pdf?download))
+* [学习Go语言](http://mikespook.com/learning-go/) ([源码](https://github.com/mikespook/Learning-Go-zh-cn)、[PDF](http://xxiyy.qiniudn.com/%E5%AD%A6%E4%B9%A0%20Go%20%E8%AF%AD%E8%A8%80\(Golang\).pdf?download))
 * [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang)
 * [Go实战开发](https://github.com/astaxie/Go-in-Action)
 * [Network programming with Go 中文翻译版本](https://github.com/astaxie/NPWG_zh)
