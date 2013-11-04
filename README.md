@@ -51,7 +51,7 @@
 
 * [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
 * [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF)
-* [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html) (注：原文由[为之漫笔](http://www.cn-cuckoo.com)翻译，原始地址无法打开，因此此处地址为我博客上的备份)
+* [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html)  (注:原文由[为之漫笔](http://www.cn-cuckoo.com)翻译，原始地址无法打开，所以此处地址为我博客上的备份)
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns)
 * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
 * [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
