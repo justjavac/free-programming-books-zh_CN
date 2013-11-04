@@ -12,14 +12,14 @@
 
 * [语言无关类](#语言无关类)
   * [WEB服务器](#WEB服务器)
-  * [NoSQL](#NoSQL)
+  * [NoSQL](#nosql)
   
 * [语言相关类](#语言相关类)
-  * [C/C++](#C/C++)
+  * [C/C++](#cc)
   * [javascript](#javascript)
-  * [PHP](#PHP)
-  * [Python](#Python)
-  * [Go](#Go)
+  * [PHP](#php)
+  * [Python](#python)
+  * [Go](#go)
   
 ## 语言无关类
 
