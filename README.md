@@ -21,6 +21,8 @@
   * [PHP](#php)
   * [Python](#python)
   * [Go](#go)
+
+* [读书笔记及其它](#读书笔记及其它)
   
 ## 语言无关类
 
@@ -49,6 +51,7 @@
 
 * [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
 * [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF)
+* [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html) (注：原文由[为之漫笔](http://www.cn-cuckoo.com)翻译，原始地址无法打开，因此此处地址为我博客上的备份)
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns)
 * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
 * [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
@@ -82,3 +85,9 @@
 ### LISP
 
 * [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
+
+### 读书笔记及其它
+
+* [编译原理（紫龙书）中文第2版习题答案](https://github.com/fool2fish/dragon-book-exercise-answers)
+* [把《编程珠玑》读薄](http://hawstein.com/posts/make-thiner-programming-pearls.html)
+
