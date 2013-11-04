@@ -8,8 +8,8 @@
 
 欢迎大家讲珍藏已久的经典免费书籍共享出来，您可以：
 
-* 使用 Issues 以及 Pull Request 
-* 发邮箱给我 justjavac+ghbooks@gmail.com
+* 使用 [Issues](https://github.com/justjavac/free-programming-books-zh_CN/issues) 以及 Pull Request 
+* 发邮箱给我 <justjavac+ghbooks@gmail.com>
 * 来 [SegmentFault](http://segmentfault.com/q/1010000000329895) 交流
 
 **注**：看到有人 fork 此 repository，其实如果觉得有帮助，可以 start 或者 watch，
