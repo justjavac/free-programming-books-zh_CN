@@ -45,6 +45,7 @@
 ### C/C++
 
 * [C++ 并发编程指南](https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial)
+* [Linux C编程一站式学习](http://learn.akae.cn/media/index.html)
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
 
 ### javascript
