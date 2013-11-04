@@ -10,7 +10,7 @@
 
 * 使用 [Issues](https://github.com/justjavac/free-programming-books-zh_CN/issues) 以及 Pull Request 
 * 发邮箱给我 <justjavac+ghbooks@gmail.com>
-* 来 [SegmentFault](http://segmentfault.com/q/1010000000329895) 交流
+* <del>来 [SegmentFault](http://segmentfault.com/q/1010000000329895) 交流</del>（不要来 sf 交流了，不知何故，问题被隐藏了，-.-）
 
 **注**：看到有人 fork 此 repository，其实如果觉得有帮助，可以 start 或者 watch，
 如果 fork 到你的 repositories 下则不能保证你的 repo 是最新的，除非是主动定期的 pull。
