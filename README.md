@@ -6,7 +6,11 @@
 
 ## 参与交流
 
-鼓励使用 Issues 以及 Pull Request 进行参与。
+欢迎大家讲珍藏已久的经典免费书籍共享出来，您可以：
+
+* 使用 Issues 以及 Pull Request 
+* 发邮箱给我 justjavac+ghbooks@gmail.com
+* 来 [SegmentFault](http://segmentfault.com/q/1010000000329895) 交流
 
 ## 目录
 
