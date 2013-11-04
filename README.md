@@ -67,6 +67,7 @@
 * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
 * [Developing Backbone.js Applications(中文版)](http://feliving.github.io/developing-backbone-applications)
 * [AngularJS中译本](https://github.com/basestyle/angularjs-cn)
+* [zepto 简明中文手册](http://www.360weboy.com/handbook/zepto/index.html)
 
 ### PHP
 
