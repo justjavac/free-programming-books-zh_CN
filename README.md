@@ -13,7 +13,7 @@
 * 发邮箱给我 <justjavac+ghbooks@gmail.com>
 * 来 [SegmentFault](http://segmentfault.com/q/1010000000329895) 交流
 
-**注**：看到有人 fork 此 repository，其实如果觉得有帮助，可以 start 或者 watch，
+**注**：看到有人 fork 此 repository，其实如果觉得有帮助，可以 star 或者 watch，
 如果 fork 到你的 repositories 下则不能保证你的 repo 是最新的，除非是主动定期的 pull。
 
 * star 的作用是收藏，目的是方便以后查找。
