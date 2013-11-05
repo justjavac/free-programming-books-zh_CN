@@ -51,6 +51,7 @@
 
 ### NoSQL
 
+* [Redis 命令参考](http://www.redisdoc.com/en/latest/) (译)
 * [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md) (译)
 * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md) (译)
 
