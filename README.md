@@ -42,71 +42,71 @@
 
 ### WEB服务器
 
-* [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) ([源码](https://github.com/taobao/nginx-book))
+* [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) (淘宝出品)
 
 ### 版本控制
 
-* [Git 参考手册](http://gitref.justjavac.com) ([源码](https://github.com/justjavac/git-reference))
-* [Pro Git](http://git-scm.com/book/zh) ([源码](https://github.com/progit/progit))
+* [Git 参考手册](http://gitref.justjavac.com) (译)
+* [Pro Git](http://git-scm.com/book/zh) (译)
 
 ### NoSQL
 
-* [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
-* [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
+* [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md) (译)
+* [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md) (译)
 
 ### 项目相关
 
-* [持续集成（第二版）](http://article.yeeyan.org/view/2251/94882)
+* [持续集成（第二版）](http://article.yeeyan.org/view/2251/94882) (译言网)
 
 ## 语言相关类
 
 ### C/C++
 
-* [C++ 并发编程指南](https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial)
-* [Linux C编程一站式学习](http://learn.akae.cn/media/index.html)
-* [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
+* [C++ 并发编程指南](https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial) ([@傅海平ICT](http://weibo.com/1702076100))
+* [Linux C编程一站式学习](http://learn.akae.cn/media/index.html) (宋劲杉, 北京亚嵌教育研究中心)
+* [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese) (译)
 
 ### javascript
 
-* [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
-* [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF)
+* [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)(译)
+* [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF) (此书已由人民邮电出版社出版发行，但作者依然免费提供PDF版本，希望开发者们去购买，支持作者)
 * [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html)  (注:原文由[为之漫笔](http://www.cn-cuckoo.com)翻译，原始地址无法打开，所以此处地址为我博客上的备份)
-* [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns)
-* [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
+* [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
+* [Node入门](http://www.nodebeginner.org/index-zh-cn.html) (译)
 * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
 * [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
-* [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
+* [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note) (译)
 * [Developing Backbone.js Applications(中文版)](http://feliving.github.io/developing-backbone-applications)
-* [AngularJS中译本](https://github.com/basestyle/angularjs-cn)
-* [zepto 简明中文手册](http://www.360weboy.com/handbook/zepto/index.html)
+* [AngularJS中译本](https://github.com/basestyle/angularjs-cn) (译)
+* [zepto 简明中文手册](http://www.360weboy.com/handbook/zepto/index.html) (译)
 
 ### PHP
 
 * [PHP调试技术手册](http://www.laruence.com/2010/06/21/1608.html)(PDF)
-* [PHP之道](https://github.com/wulijun/php-the-right-way)
-* [PHP 最佳实践](https://github.com/justjavac/PHP-Best-Practices-zh_CN)
+* [PHP之道](https://github.com/wulijun/php-the-right-way) (译)
+* [PHP 最佳实践](https://github.com/justjavac/PHP-Best-Practices-zh_CN) (译)
 * [深入理解PHP内核](https://github.com/reeze/tipi)
-* [PHP扩展开发及内核应用](https://github.com/walu/phpbook)
+* [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/)
 
 ### Python
 
-* [简明Python教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
-* [Python的神奇方法指南](http://article.yeeyan.org/view/311527/287706)
-* [Django 文档中文版](https://django-document-cn.readthedocs.org/en/latest/)
-* [Django 最佳实践](https://github.com/brantyoung/zh-django-best-practices/blob/master/readme.rst)
+* [简明Python教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/) (译)
+* [Python的神奇方法指南](http://article.yeeyan.org/view/311527/287706) (译)
+* [Django 文档中文版](https://django-document-cn.readthedocs.org/en/latest/) (译)
+* [Django 最佳实践](https://github.com/brantyoung/zh-django-best-practices) (译)
 
 ### Go
 
 * [Go编程基础](https://github.com/Unknwon/go-fundamental-programming)
 * [Go入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN)
-* [学习Go语言](http://mikespook.com/learning-go/) ([源码](https://github.com/mikespook/Learning-Go-zh-cn)、[PDF](http://xxiyy.qiniudn.com/%E5%AD%A6%E4%B9%A0%20Go%20%E8%AF%AD%E8%A8%80\(Golang\).pdf?download))
-* [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang)
-* [Go实战开发](https://github.com/astaxie/Go-in-Action)
-* [Network programming with Go 中文翻译版本](https://github.com/astaxie/NPWG_zh)
+* [学习Go语言](http://mikespook.com/learning-go/) (译 [PDF](http://xxiyy.qiniudn.com/%E5%AD%A6%E4%B9%A0%20Go%20%E8%AF%AD%E8%A8%80\(Golang\).pdf?download))
+* [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang) (此书已经出版，希望开发者们去购买，支持作者的创作)
+* [Go实战开发](https://github.com/astaxie/Go-in-Action) (当我收录此项目时，作者已经写完第三章，如果读完前面章节觉得有帮助，可以给作者[捐赠](https://me.alipay.com/astaxie)，以鼓励作者的继续创作)
+* [Network programming with Go 中文翻译版本](https://github.com/astaxie/NPWG_zh) (译)
 
 ### LISP
 
-* [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
+* [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/) (译)
 
 ### 读书笔记及其它
 
