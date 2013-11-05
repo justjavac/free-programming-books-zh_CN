@@ -1,7 +1,9 @@
 免费的编程中文书籍索引
 ============================
 
-免费的编程中文书籍索引，欢迎投稿。或者鼓励我<script data-gittip-username="justjavac" data-gittip-widget="button" src="//gttp.co/v1.js"></script>。
+免费的编程中文书籍索引，欢迎投稿，或者鼓励我。
+
+<script data-gittip-username="justjavac" data-gittip-widget="button" src="//gttp.co/v1.js"></script>
 
 ## 参与交流
 
