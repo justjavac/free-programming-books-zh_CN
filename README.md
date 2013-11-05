@@ -27,6 +27,7 @@
   * [WEB服务器](#web服务器)
   * [版本控制](#版本控制)
   * [NoSQL](#nosql)
+  * [项目相关](#项目相关)
   
 * [语言相关类](#语言相关类)
   * [C/C++](#cc)
@@ -52,6 +53,10 @@
 
 * [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
 * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
+
+### 项目相关
+
+* [持续集成（第二版）](http://article.yeeyan.org/view/2251/94882)
 
 ## 语言相关类
 
