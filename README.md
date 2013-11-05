@@ -97,6 +97,7 @@
 * [Django 文档中文版](https://django-document-cn.readthedocs.org/en/latest/) (译)
 * [Django 最佳实践](https://github.com/brantyoung/zh-django-best-practices) (译)
 * [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn) (译)
+* [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn) (译)
 
 ### Go
 
