@@ -207,4 +207,4 @@
 * [把《编程珠玑》读薄](http://hawstein.com/posts/make-thiner-programming-pearls.html)
 * [Golang 学习笔记、Python 学习笔记、C 学习笔记](https://github.com/qyuhen/book) (PDF)
 * [Jsoup 学习笔记](https://github.com/code4craft/jsoup-learning)
-
+* [学习笔记: Vim、Python、memcached](https://github.com/lzjun567/note)
