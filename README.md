@@ -28,6 +28,7 @@
   * [WEB服务器](#web服务器)
   * [版本控制](#版本控制)
   * [NoSQL](#nosql)
+  * [MySQL](#mysql)
   * [项目相关](#项目相关)
   * [Web](#web)
   
@@ -58,6 +59,10 @@
 * [Redis 命令参考](http://www.redisdoc.com/en/latest/) (译)
 * [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md) (译)
 * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md) (译)
+
+### MySQL
+
+* [MySQL索引背后的数据结构及算法原理](http://www.cnblogs.com/leoo2sk/archive/2011/07/10/mysql-index.html)
 
 ### 项目相关
 
