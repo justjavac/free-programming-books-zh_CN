@@ -146,13 +146,16 @@
 * [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html)  (注:原文由[为之漫笔](http://www.cn-cuckoo.com)翻译，原始地址无法打开，所以此处地址为我博客上的备份)
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
 * [Node入门](http://www.nodebeginner.org/index-zh-cn.html) (译)
-* [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
-* [express.js 指南](http://sofish.github.io/express-guide/)
-* [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
-* [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note) (译)
-* [Developing Backbone.js Applications(中文版)](http://feliving.github.io/developing-backbone-applications)
-* [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
-* [AngularJS中译本](https://github.com/basestyle/angularjs-cn) (译)
+* Node.js
+    * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
+    * [express.js 指南](http://sofish.github.io/express-guide/)
+* backbone.js
+    * [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
+    * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note) (译)
+    * [Developing Backbone.js Applications(中文版)](http://feliving.github.io/developing-backbone-applications)
+* AngularJS
+    * [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
+    * [AngularJS中译本](https://github.com/basestyle/angularjs-cn) (译)
 * [zepto 简明中文手册](http://www.360weboy.com/handbook/zepto/index.html) (译)
 
 ### PHP
