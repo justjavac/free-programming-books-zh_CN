@@ -35,6 +35,7 @@
   
 * [语言相关类](#语言相关类)
   * [C/C++](#cc)
+  * [CSS]($css)
   * [Dart](#dart)
   * [java](#java)
   * [javascript](#javascript)
@@ -92,6 +93,10 @@
 * [C++ 并发编程指南](https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial) ([@傅海平ICT](http://weibo.com/1702076100))
 * [Linux C编程一站式学习](http://learn.akae.cn/media/index.html) (宋劲杉, 北京亚嵌教育研究中心)
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese) (译)
+
+### CSS
+
+* [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
 
 ### Dart
 
