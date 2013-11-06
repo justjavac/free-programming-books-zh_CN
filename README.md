@@ -49,6 +49,7 @@
 
 ### 版本控制
 
+* [git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html) (译)
 * [Git 参考手册](http://gitref.justjavac.com) (译)
 * [Pro Git](http://git-scm.com/book/zh) (译)
 
