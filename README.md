@@ -147,6 +147,7 @@
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
 * [Node入门](http://www.nodebeginner.org/index-zh-cn.html) (译)
 * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
+* [express.js 指南](http://sofish.github.io/express-guide/)
 * [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
 * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note) (译)
 * [Developing Backbone.js Applications(中文版)](http://feliving.github.io/developing-backbone-applications)
