@@ -103,6 +103,7 @@
 * [PHP 最佳实践](https://github.com/justjavac/PHP-Best-Practices-zh_CN) (译)
 * [深入理解PHP内核](https://github.com/reeze/tipi)
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/)
+* [Laravel4 中文文档](http://www.golaravel.com/docs/)
 
 ### Python
 
