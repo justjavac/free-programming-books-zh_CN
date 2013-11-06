@@ -40,6 +40,7 @@
   * [java](#java)
   * [javascript](#javascript)
   * [PHP](#php)
+  * [iOS](#ios)
   * [Python](#python)
   * [Ruby](#ruby)
   * [Go](#go)
@@ -169,6 +170,10 @@
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/)
 * [CodeIgniter 用户指南](http://codeigniter.org.cn/user_guide/index.html)
 * [Laravel4 中文文档](http://www.golaravel.com/docs/)
+
+### iOS
+
+* [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 
 ### Python
 
