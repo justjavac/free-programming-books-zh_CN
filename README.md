@@ -40,6 +40,7 @@
   * [javascript](#javascript)
   * [PHP](#php)
   * [Python](#python)
+  * [Ruby](#ruby)
   * [Go](#go)
   * [Groovy](#groovy)
   * [LISP](#lisp)
@@ -166,6 +167,10 @@
 * [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn) (译)
 * [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn) (译)
 * [Symfony2中文文档](http://symfony-docs-chs.readthedocs.org/en/latest/) (未译完)
+
+### Ruby
+
+* [Ruby on Rails Tutorial 原书第 2 版](http://railstutorial-china.org/) (本书网页版免费提供，电子版以 PDF、EPub 和 Mobi 格式提供购买，仅售 9.9 美元)
 
 ### Go
 
