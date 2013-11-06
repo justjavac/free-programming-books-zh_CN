@@ -55,11 +55,12 @@
 ### 操作系统
 
 * [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
+* [鸟哥的Linux私房菜](http://vbird.dic.ksu.edu.tw/) (简体)
 * [Linux 系统高级编程](http://sourceforge.net/apps/trac/elpi/wiki/ALP)
 
 ### WEB服务器
 
-* [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) (淘宝出品)
+* [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) (淘宝团队出品)
 
 ### 版本控制
 
