@@ -51,6 +51,7 @@
 ### 操作系统
 
 * [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
+* [Linux 系统高级编程](http://sourceforge.net/apps/trac/elpi/wiki/ALP)
 
 ### WEB服务器
 
