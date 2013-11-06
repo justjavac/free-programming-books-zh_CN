@@ -37,8 +37,8 @@
   * [C/C++](#cc)
   * [CSS]($css)
   * [Dart](#dart)
-  * [java](#java)
-  * [javascript](#javascript)
+  * [Java](#java)
+  * [JavaScript](#javascript)
   * [PHP](#php)
   * [iOS](#ios)
   * [Python](#python)
@@ -106,7 +106,7 @@
 
 * [Dart 语言导览](http://dart.lidian.info/wiki/Language_Tour) (译)
 
-### java
+### Java
 
 * [实时 Java 系列](http://www.ibm.com/developerworks/cn/java/j-rtj/?ca=j-h-p)
 
@@ -140,7 +140,7 @@
     * [第 4 部分: 创建本体](http://www.ibm.com/developerworks/cn/education/xml/x-ultimashup4/index.html)
     * [第 5 部分: 切换 Web 服务](http://www.ibm.com/developerworks/cn/education/xml/x-ultimashup5/index.html)
 
-### javascript
+### JavaScript
 
 * [Google JavaScript 代码风格指南](http://chajn.org/jsguide/javascriptguide.html) (译)
 * [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide) (译)
