@@ -194,4 +194,5 @@
 
 * [编译原理（紫龙书）中文第2版习题答案](https://github.com/fool2fish/dragon-book-exercise-answers)
 * [把《编程珠玑》读薄](http://hawstein.com/posts/make-thiner-programming-pearls.html)
+* [Golang 学习笔记、Python 学习笔记、C 学习笔记](https://github.com/qyuhen/book) (PDF)
 
