@@ -35,6 +35,7 @@
 * [语言相关类](#语言相关类)
   * [C/C++](#cc)
   * [Dart](#dart)
+  * [java](#java)
   * [javascript](#javascript)
   * [PHP](#php)
   * [Python](#python)
@@ -84,6 +85,13 @@
 ### Dart
 
 * [Dart 语言导览](http://dart.lidian.info/wiki/Language_Tour) (译)
+
+### java
+
+* 使用 Eclipse 和 Java SE 6 创建独立 Web Services 应用程序
+    * [第 1 部分: Web Services 服务端应用程序](http://www.ibm.com/developerworks/cn/education/webservices/ws-eclipse-javase1/index.html)
+    * [第 2 部分: Web 服务客户端应用程序](http://www.ibm.com/developerworks/cn/webservices/tutorials/ws-jse/index.html)
+
 
 ### javascript
 
