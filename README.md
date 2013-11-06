@@ -86,6 +86,7 @@
 
 * [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home) (译)
 * [前端知识体系](http://knowledge.ecomfe.com/)
+* [浏览器开发工具的秘密](http://jinlong.github.io/blog/2013/08/29/devtoolsecrets/)
 
 ## 语言相关类
 
