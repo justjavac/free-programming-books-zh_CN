@@ -150,6 +150,7 @@
 * [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
 * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note) (译)
 * [Developing Backbone.js Applications(中文版)](http://feliving.github.io/developing-backbone-applications)
+* [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
 * [AngularJS中译本](https://github.com/basestyle/angularjs-cn) (译)
 * [zepto 简明中文手册](http://www.360weboy.com/handbook/zepto/index.html) (译)
 
