@@ -29,6 +29,7 @@
   * [版本控制](#版本控制)
   * [NoSQL](#nosql)
   * [项目相关](#项目相关)
+  * [Web](#web)
   
 * [语言相关类](#语言相关类)
   * [C/C++](#cc)
@@ -61,6 +62,10 @@
 
 * [持续集成（第二版）](http://article.yeeyan.org/view/2251/94882) (译言网)
 
+### Web
+
+* [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home) (译)
+
 ## 语言相关类
 
 ### C/C++
@@ -75,8 +80,8 @@
 
 ### javascript
 
-* [Google JavaScript 代码风格指南](http://chajn.org/jsguide/javascriptguide.html)
-* [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide)
+* [Google JavaScript 代码风格指南](http://chajn.org/jsguide/javascriptguide.html) (译)
+* [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide) (译)
 * [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks) (译)
 * [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/) (译)
 * [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF) (此书已由人民邮电出版社出版发行，但作者依然免费提供PDF版本，希望开发者们去购买，支持作者)
