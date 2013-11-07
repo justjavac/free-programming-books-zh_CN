@@ -187,6 +187,7 @@
 * [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn)
 * [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
 * [Symfony2中文文档](http://symfony-docs-chs.readthedocs.org/en/latest/) (未译完)
+* [Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/)
 
 ### Ruby
 
