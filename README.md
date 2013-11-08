@@ -3,7 +3,8 @@
 
 免费的编程中文书籍索引，欢迎投稿。
 
-国外程序员在 [stackoverflow](http://stackoverflow.com/a/1713/343194) 推荐的程序员必读书籍，[中文版](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html "一个合格的程序员应该读过哪些书")。
+- 国外程序员在 [stackoverflow](http://stackoverflow.com/a/1713/343194) 推荐的程序员必读书籍，[中文版](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html "一个合格的程序员应该读过哪些书")。
+- [stackoverflow](http://stackoverflow.com/q/38210/343194) 上的程序员应该阅读的非编程类书籍有哪些？ [中文版](what-non-programming-books-should-programmers-read.md)
 
 ## 参与交流
 
