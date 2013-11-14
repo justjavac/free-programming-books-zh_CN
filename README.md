@@ -193,6 +193,7 @@
 * [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
 * [Symfony2中文文档](http://symfony-docs-chs.readthedocs.org/en/latest/) (未译完)
 * [Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/)
+* [Python入门教程](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf)
 
 ### Ruby
 
