@@ -185,6 +185,7 @@
 ### Python
 
 * [简明Python教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
+* [Python入门教程](http://liam0205.me/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
 * [Python的神奇方法指南](http://article.yeeyan.org/view/311527/287706)
 * [Django 文档中文版](https://django-document-cn.readthedocs.org/en/latest/)
 * [Django 最佳实践](https://github.com/brantyoung/zh-django-best-practices)
