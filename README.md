@@ -177,6 +177,7 @@
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/)
 * [CodeIgniter 用户指南](http://codeigniter.org.cn/user_guide/index.html)
 * [Laravel4 中文文档](http://www.golaravel.com/docs/)
+* [Symfony2中文文档](http://symfony-docs-chs.readthedocs.org/en/latest/) (未译完)
 
 ### iOS
 
@@ -192,7 +193,6 @@
 * [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
 * [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn)
 * [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
-* [Symfony2中文文档](http://symfony-docs-chs.readthedocs.org/en/latest/) (未译完)
 * [Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/)
 
 ### Ruby
