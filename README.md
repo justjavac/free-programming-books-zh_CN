@@ -24,10 +24,11 @@
 
 请选择合理的方式。（上面的内容是写给一些 fork 狂的，很多开发者喜欢 fork 一些 linux 内核，jquery之类的东东，其实这些东东完全没有必要 fork）
 
-## 帮助与支持
+## 捐赠与福利
 
 如果觉得我收录的内容对你有帮助，可以捐赠我点比特币 `15hfB3YMe31TkLz9vS8ybY7NFGHRXr2HyP`。
-如果你没有可以去这儿免费领取点儿：https://github.com/freebitcoin/freebitcoin
+
+如果你没有可以去这儿**免费领取**：[如何免费获得比特币？](https://github.com/freebitcoin/freebitcoin)
 
 ## 目录
 
