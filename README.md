@@ -49,6 +49,8 @@
   * [Go](#go)
   * [Groovy](#groovy)
   * [LISP](#lisp)
+  * [Haskell](#haskell)
+  * [Scala](#scala)
 
 * [读书笔记及其它](#读书笔记及其它)
   
@@ -95,6 +97,7 @@
 * [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home) 
 * [前端知识体系](http://knowledge.ecomfe.com/)
 * [浏览器开发工具的秘密](http://jinlong.github.io/blog/2013/08/29/devtoolsecrets/)
+* [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
 
 ## 语言相关类
 
@@ -196,6 +199,8 @@
 * [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn)
 * [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
 * [Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/)
+* [Bottle 文档中文版](http://bottlepy.org/docs/dev-cn/)
+* [Flask 文档中文版](http://docs.torriacg.org/docs/flask/)
 
 ### Ruby
 
@@ -223,6 +228,14 @@
 ### LISP
 
 * [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
+
+### Haskell
+
+* [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
+
+### Scala
+
+* [Scala课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
 
 ### 读书笔记及其它
 
