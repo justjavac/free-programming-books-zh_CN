@@ -163,6 +163,7 @@
 
 * [Google JavaScript 代码风格指南](http://chajn.org/jsguide/javascriptguide.html)
 * [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide)
+* [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
 * [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
 * [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF) (此书已由人民邮电出版社出版发行，但作者依然免费提供PDF版本，希望开发者们去购买，支持作者)
