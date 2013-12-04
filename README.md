@@ -183,6 +183,8 @@
 * [zepto 简明中文手册](http://www.360weboy.com/handbook/zepto/index.html) 
 * Sea.js
     * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
+* CoffeeScript
+    * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
 
 ### PHP
 
