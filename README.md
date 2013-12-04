@@ -181,6 +181,8 @@
     * [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
     * [AngularJS中译本](https://github.com/basestyle/angularjs-cn) 
 * [zepto 简明中文手册](http://www.360weboy.com/handbook/zepto/index.html) 
+* Sea.js
+    * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
 
 ### PHP
 
