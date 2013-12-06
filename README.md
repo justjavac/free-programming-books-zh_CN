@@ -115,6 +115,7 @@
 * [Linux C编程一站式学习](http://learn.akae.cn/media/index.html) (宋劲杉, 北京亚嵌教育研究中心)
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
 * [ZMQ 指南](https://github.com/anjuke/zguide-cn)
+* [How to Think Like a Computer Scientist](http://www.ituring.com.cn/book/1203) (中英文版)
 
 ### CSS
 
@@ -262,3 +263,4 @@
 * [Golang 学习笔记、Python 学习笔记、C 学习笔记](https://github.com/qyuhen/book) (PDF)
 * [Jsoup 学习笔记](https://github.com/code4craft/jsoup-learning)
 * [学习笔记: Vim、Python、memcached](https://github.com/lzjun567/note)
+* [图灵开放书翻译计划--C++、Python、Java等](http://www.ituring.com.cn/activity/details/2004)
