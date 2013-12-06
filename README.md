@@ -105,6 +105,7 @@
 * [前端知识体系](http://knowledge.ecomfe.com/)
 * [浏览器开发工具的秘密](http://jinlong.github.io/blog/2013/08/29/devtoolsecrets/)
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
+* [Grunt中文文档](http://www.gruntjs.org/)
 
 ## 语言相关类
 
@@ -162,6 +163,7 @@
 
 * [Google JavaScript 代码风格指南](http://chajn.org/jsguide/javascriptguide.html)
 * [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide)
+* [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
 * [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
 * [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF) (此书已由人民邮电出版社出版发行，但作者依然免费提供PDF版本，希望开发者们去购买，支持作者)
@@ -170,7 +172,7 @@
 * Node.js
     * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
     * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
-    * [express.js 指南](http://sofish.github.io/express-guide/)
+    * [express.js 中文文档](http://expressjs.jser.us/)
 * backbone.js
     * [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
     * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
@@ -179,6 +181,10 @@
     * [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
     * [AngularJS中译本](https://github.com/basestyle/angularjs-cn) 
 * [zepto 简明中文手册](http://www.360weboy.com/handbook/zepto/index.html) 
+* Sea.js
+    * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
+* CoffeeScript
+    * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
 
 ### PHP
 
@@ -190,6 +196,8 @@
 * [CodeIgniter 用户指南](http://codeigniter.org.cn/user_guide/index.html)
 * [Laravel4 中文文档](http://www.golaravel.com/docs/)
 * [Symfony2中文文档](http://symfony-docs-chs.readthedocs.org/en/latest/) (未译完)
+* [Phalcon中文文档](http://phalcon.5iunix.net/)（翻译进行中）
+* [YiiBook几本Yii框架的在线教程](http://yiibook.com/)
 
 ### iOS
 
@@ -200,6 +208,7 @@
 * [简明Python教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
 * [Python入门教程](http://liam0205.me/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
 * [Python的神奇方法指南](http://article.yeeyan.org/view/311527/287706)
+* [笨办法学 Python](https://learn-python-the-hard-way-zh_cn-translation.readthedocs.org/en/1.0/)
 * [Django 文档中文版](https://django-document-cn.readthedocs.org/en/latest/)
 * [Django 最佳实践](https://github.com/brantyoung/zh-django-best-practices)
 * [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
@@ -213,6 +222,7 @@
 
 * [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
 * [Rails 风格指南](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
+* [笨方法學 Ruby](http://lrthw.github.io/)
 * [Ruby on Rails Tutorial 原书第 2 版](http://railstutorial-china.org/) (本书网页版免费提供，电子版以 PDF、EPub 和 Mobi 格式提供购买，仅售 9.9 美元)
 
 ### Shell
