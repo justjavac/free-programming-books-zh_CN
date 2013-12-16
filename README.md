@@ -89,6 +89,8 @@
 * [Redis 命令参考](http://www.redisdoc.com/en/latest/)
 * [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
 * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
+* [Neo4j 简体中文手册 v1.8](http://docs.neo4j.org.cn/)
+* [Neo4j  .rb 中文資源](http://neo4j.tw/) 
 
 ### MySQL
 
