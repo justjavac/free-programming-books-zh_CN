@@ -68,6 +68,8 @@
 * [鸟哥的Linux私房菜](http://vbird.dic.ksu.edu.tw/) (简体)
 * [Linux 系统高级编程](http://sourceforge.net/apps/trac/elpi/wiki/ALP)
 * [The Linux Command Line](http://billie66.github.io/TLCL/index.html) (中英文版)
+* [Linux 设备驱动](http://oss.org.cn/kernel-book/ldd3/index.html) (第三版)
+* [深入分析Linux内核源码](http://www.kerneltravel.net/kernel-book/%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90Linux%E5%86%85%E6%A0%B8%E6%BA%90%E7%A0%81.html)
 
 ### WEB服务器
 
@@ -87,6 +89,8 @@
 * [Redis 命令参考](http://www.redisdoc.com/en/latest/)
 * [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
 * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
+* [Neo4j 简体中文手册 v1.8](http://docs.neo4j.org.cn/)
+* [Neo4j  .rb 中文資源](http://neo4j.tw/) 
 
 ### MySQL
 
@@ -170,6 +174,7 @@
 * [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF) (此书已由人民邮电出版社出版发行，但作者依然免费提供PDF版本，希望开发者们去购买，支持作者)
 * [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html)  (注:原文由[为之漫笔](http://www.cn-cuckoo.com)翻译，原始地址无法打开，所以此处地址为我博客上的备份)
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
+* [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 * Node.js
     * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
     * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
