@@ -179,6 +179,7 @@
     * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
     * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
     * [express.js 中文文档](http://expressjs.jser.us/)
+    * [koa 中文文档](https://github.com/turingou/koa-guide)
 * backbone.js
     * [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
     * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
