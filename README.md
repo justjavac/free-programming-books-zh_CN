@@ -81,6 +81,7 @@
 * [Git 参考手册](http://gitref.justjavac.com)
 * [Pro Git](http://git-scm.com/book/zh)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
+* [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
 
 ### NoSQL
 
