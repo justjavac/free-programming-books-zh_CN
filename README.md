@@ -204,6 +204,7 @@
 ### PHP
 
 * [PHP调试技术手册](http://www.laruence.com/2010/06/21/1608.html)(PDF)
+* [XDebug 2中文手册(译)](http://www.blogkun.com/project.html) (CHM)
 * [PHP之道](https://github.com/wulijun/php-the-right-way)
 * [PHP 最佳实践](https://github.com/justjavac/PHP-Best-Practices-zh_CN)
 * [深入理解PHP内核](https://github.com/reeze/tipi)
