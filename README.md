@@ -12,8 +12,8 @@
 欢迎大家讲珍藏已久的经典免费书籍共享出来，您可以：
 
 * 使用 [Issues](https://github.com/justjavac/free-programming-books-zh_CN/issues) 以及 Pull Request 
-* 发邮箱给我 <justjavac+ghbooks@gmail.com>
-* 来 [SegmentFault](http://segmentfault.com/q/1010000000329895) 交流
+
+贡献者名单: https://github.com/justjavac/free-programming-books-zh_CN/graphs/contributors
 
 **注**：看到有人 fork 此 repository，其实如果觉得有帮助，可以 star 或者 watch，
 如果 fork 到你的 repositories 下则不能保证你的 repo 是最新的，除非是主动定期的 pull。
