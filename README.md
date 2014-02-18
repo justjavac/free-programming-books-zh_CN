@@ -184,6 +184,7 @@
 * [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 * Node.js
     * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
+    * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
     * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
     * [express.js 中文文档](http://expressjs.jser.us/)
     * [koa 中文文档](https://github.com/turingou/koa-guide)
