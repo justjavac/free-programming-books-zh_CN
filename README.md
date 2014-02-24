@@ -86,6 +86,7 @@
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 * [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
 * [Mercurial 使用教程](http://mercurial.selenic.com/wiki/ChineseTutorial)
+* [HgInit (中文版)](http://bucunzai.net/hginit/)
 
 ### NoSQL
 
