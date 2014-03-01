@@ -12,8 +12,8 @@
 欢迎大家讲珍藏已久的经典免费书籍共享出来，您可以：
 
 * 使用 [Issues](https://github.com/justjavac/free-programming-books-zh_CN/issues) 以及 Pull Request 
-* 发邮箱给我 <justjavac+ghbooks@gmail.com>
-* 来 [SegmentFault](http://segmentfault.com/q/1010000000329895) 交流
+
+贡献者名单: https://github.com/justjavac/free-programming-books-zh_CN/graphs/contributors
 
 **注**：看到有人 fork 此 repository，其实如果觉得有帮助，可以 star 或者 watch，
 如果 fork 到你的 repositories 下则不能保证你的 repo 是最新的，除非是主动定期的 pull。
@@ -30,6 +30,8 @@
 
 如果你没有可以去这儿**免费领取**：[如何免费获得比特币？](https://github.com/freebitcoin/freebitcoin)
 
+通过 Gittip 捐赠: [<img height="26px" src="https://github.com/gittip/www.gittip.com/raw/master/www/assets/gittip.opengraph.png"/>](https://www.gittip.com/justjavac/) https://www.gittip.com/justjavac/
+
 ## 目录
 
 * [语言无关类](#语言无关类)
@@ -40,6 +42,7 @@
   * [MySQL](#mysql)
   * [项目相关](#项目相关)
   * [Web](#web)
+  * [编程艺术](#编程艺术)
   
 * [语言相关类](#语言相关类)
   * [C/C++](#cc)
@@ -82,6 +85,8 @@
 * [Pro Git](http://git-scm.com/book/zh)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 * [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
+* [Mercurial 使用教程](http://mercurial.selenic.com/wiki/ChineseTutorial)
+* [HgInit (中文版)](http://bucunzai.net/hginit/)
 
 ### NoSQL
 
@@ -111,6 +116,11 @@
 * [浏览器开发工具的秘密](http://jinlong.github.io/blog/2013/08/29/devtoolsecrets/)
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
 * [Grunt中文文档](http://www.gruntjs.org/)
+
+## 编程艺术
+
+* [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
+* [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
 
 ## 语言相关类
 
@@ -178,6 +188,7 @@
 * [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 * Node.js
     * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
+    * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
     * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
     * [express.js 中文文档](http://expressjs.jser.us/)
     * [koa 中文文档](https://github.com/turingou/koa-guide)
@@ -199,8 +210,10 @@
 ### PHP
 
 * [PHP调试技术手册](http://www.laruence.com/2010/06/21/1608.html)(PDF)
+* [XDebug 2中文手册(译)](http://www.blogkun.com/project.html) (CHM)
 * [PHP之道](https://github.com/wulijun/php-the-right-way)
 * [PHP 最佳实践](https://github.com/justjavac/PHP-Best-Practices-zh_CN)
+* [PHP安全最佳实践](http://www.blogkun.com/php/2013/12/21/php-security-best-practices/) 
 * [深入理解PHP内核](https://github.com/reeze/tipi)
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/)
 * [CodeIgniter 用户指南](http://codeigniter.org.cn/user_guide/index.html)
@@ -219,7 +232,7 @@
 * [Python入门教程](http://liam0205.me/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
 * [Python的神奇方法指南](http://article.yeeyan.org/view/311527/287706)
 * [笨办法学 Python](https://learn-python-the-hard-way-zh_cn-translation.readthedocs.org/en/1.0/)
-* [Django 文档中文版](https://django-document-cn.readthedocs.org/en/latest/)
+* [Django 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/)
 * [Django 最佳实践](https://github.com/brantyoung/zh-django-best-practices)
 * [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
 * [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn)
