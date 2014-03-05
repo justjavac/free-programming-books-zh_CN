@@ -47,7 +47,7 @@
   
 * [语言相关类](#语言相关类)
   * [C/C++](#cc)
-  * [CSS]($css)
+  * [CSS/HTML](#css)
   * [Dart](#dart)
   * [Java](#java)
   * [JavaScript](#javascript)
@@ -141,6 +141,7 @@
 
 * [学习CSS布局](http://zh.learnlayout.com/)
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
+* [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
 
 ### Dart
 
