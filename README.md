@@ -42,6 +42,7 @@
   * [MySQL](#mysql)
   * [项目相关](#项目相关)
   * [Web](#web)
+  * [大数据](#大数据)
   * [编程艺术](#编程艺术)
   
 * [语言相关类](#语言相关类)
@@ -116,6 +117,10 @@
 * [浏览器开发工具的秘密](http://jinlong.github.io/blog/2013/08/29/devtoolsecrets/)
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
 * [Grunt中文文档](http://www.gruntjs.org/)
+
+### 大数据
+
+* [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
 
 ## 编程艺术
 
