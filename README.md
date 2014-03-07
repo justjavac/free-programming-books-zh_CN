@@ -42,11 +42,12 @@
   * [MySQL](#mysql)
   * [项目相关](#项目相关)
   * [Web](#web)
+  * [大数据](#大数据)
   * [编程艺术](#编程艺术)
   
 * [语言相关类](#语言相关类)
   * [C/C++](#cc)
-  * [CSS]($css)
+  * [CSS/HTML](#css)
   * [Dart](#dart)
   * [Java](#java)
   * [JavaScript](#javascript)
@@ -117,6 +118,10 @@
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
 * [Grunt中文文档](http://www.gruntjs.org/)
 
+### 大数据
+
+* [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
+
 ## 编程艺术
 
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
@@ -136,6 +141,7 @@
 
 * [学习CSS布局](http://zh.learnlayout.com/)
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
+* [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
 
 ### Dart
 
