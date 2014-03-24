@@ -110,6 +110,7 @@
 * [追求代码质量](http://www.ibm.com/developerworks/cn/java/j-cq/)
 * [selenium 中文文档](https://github.com/fool2fish/selenium-doc)
 * [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_\(Simplified\))
+* [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81)
 
 ### Web
 
