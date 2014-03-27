@@ -53,6 +53,7 @@
   * [JavaScript](#javascript)
   * [PHP](#php)
   * [iOS](#ios)
+  * [Android](#android)
   * [Python](#python)
   * [Ruby](#ruby)
   * [Shell](#shell)
@@ -234,6 +235,11 @@
 ### iOS
 
 * [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
+* [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
+
+### Android
+
+* [Android Design(中文版)](http://www.apkbus.com/design/index.html)
 
 ### Python
 
