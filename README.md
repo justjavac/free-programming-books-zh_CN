@@ -247,6 +247,7 @@
 * [Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/)
 * [Bottle 文档中文版](http://bottlepy.org/docs/dev-cn/)
 * [Flask 文档中文版](http://docs.torriacg.org/docs/flask/)
+* [Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html)
 
 ### Ruby
 
