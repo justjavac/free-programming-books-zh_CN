@@ -257,7 +257,7 @@
 * [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn)
 * [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
 * [Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/)
-* [Bottle 文档中文版](http://bottlepy.org/docs/dev-cn/)
+* [Bottle 文档中文版](http://bottlepy.org/docs/dev-cn/) (此链接已失效)
 * [Flask 文档中文版](http://docs.torriacg.org/docs/flask/)
 * [Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html)
 
