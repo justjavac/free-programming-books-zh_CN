@@ -30,7 +30,7 @@
 
 如果你没有可以去这儿**免费领取**：[如何免费获得比特币？](https://github.com/freebitcoin/freebitcoin)
 
-通过 Gittip 捐赠: [<img height="26px" src="https://github.com/gittip/www.gittip.com/raw/master/www/assets/gittip.opengraph.png"/>](https://www.gittip.com/justjavac/) https://www.gittip.com/justjavac/
+通过 Gittip 捐赠: [<img height="26px" src="https://assets-gittipllc.netdna-ssl.com/12.4.3/logo.png"/>](https://www.gittip.com/justjavac/) https://www.gittip.com/justjavac/
 
 ## 目录
 
