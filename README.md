@@ -90,7 +90,7 @@
 * [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
 * [Mercurial 使用教程](http://mercurial.selenic.com/wiki/ChineseTutorial)
 * [HgInit (中文版)](http://bucunzai.net/hginit/)
-
+* [廖雪峰的Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 ### NoSQL
 
 * [NoSQL数据库笔谈](http://www.yankay.com/wp-content/NoSql_Database_Note.html) ([PDF](http://yankaycom-wordpress.stor.sinaapp.com/uploads/2012/12/NoSQL%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AC%94%E8%B0%88v2.pdf))
@@ -121,15 +121,18 @@
 * [浏览器开发工具的秘密](http://jinlong.github.io/blog/2013/08/29/devtoolsecrets/)
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
 * [Grunt中文文档](http://www.gruntjs.org/)
+* [Bootstrap中文文档](http://www.bootcss.com/)
 
 ### 大数据
 
 * [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
 
+
 ## 编程艺术
 
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
+* [代码大全](http://ishare.iask.sina.com.cn/f/36717741.html)
 
 ## 语言相关类
 
@@ -254,12 +257,14 @@
 * [Django 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/)
 * [Django 最佳实践](https://github.com/brantyoung/zh-django-best-practices)
 * [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
+* [Django实战系列](http://www.cnblogs.com/holbrook/archive/2012/03/02/2357343.html)
 * [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn)
 * [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
 * [Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/)
 * [Bottle 文档中文版](http://bottlepy.org/docs/dev-cn/) (此链接已失效)
 * [Flask 文档中文版](http://docs.torriacg.org/docs/flask/)
 * [Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html)
+* [Learning Python 中文版(第4版)](http://pan.baidu.com/share/link?shareid=273511&uk=1595216014)
 
 ### Ruby
 
