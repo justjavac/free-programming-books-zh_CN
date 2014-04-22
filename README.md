@@ -53,6 +53,7 @@
   * [JavaScript](#javascript)
   * [PHP](#php)
   * [iOS](#ios)
+  * [Android](#android)
   * [Python](#python)
   * [Ruby](#ruby)
   * [Shell](#shell)
@@ -86,6 +87,7 @@
 * [Pro Git](http://git-scm.com/book/zh)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 * [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
+* [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
 * [Mercurial 使用教程](http://mercurial.selenic.com/wiki/ChineseTutorial)
 * [HgInit (中文版)](http://bucunzai.net/hginit/)
 
@@ -109,6 +111,8 @@
 * [让开发自动化系列专栏](http://www.ibm.com/developerworks/cn/java/j-ap/)
 * [追求代码质量](http://www.ibm.com/developerworks/cn/java/j-cq/)
 * [selenium 中文文档](https://github.com/fool2fish/selenium-doc)
+* [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_\(Simplified\))
+* [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81)
 
 ### Web
 
@@ -136,6 +140,9 @@
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
 * [ZMQ 指南](https://github.com/anjuke/zguide-cn)
 * [How to Think Like a Computer Scientist](http://www.ituring.com.cn/book/1203) (中英文版)
+* [跟我一起写Makefile(PDF)](http://scc.qibebt.cas.cn/docs/linux/base/%B8%FA%CE%D2%D2%BB%C6%F0%D0%B4Makefile-%B3%C2%F0%A9.pdf)
+* [GNU make中文手册](http://www.yayu.org/book/gnu_make/)
+* [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 
 ### CSS
 
@@ -217,7 +224,7 @@
 
 * [PHP调试技术手册](http://www.laruence.com/2010/06/21/1608.html)(PDF)
 * [XDebug 2中文手册(译)](http://www.blogkun.com/project.html) (CHM)
-* [PHP之道](https://github.com/wulijun/php-the-right-way)
+* [PHP之道](http://wulijun.github.io/php-the-right-way/)
 * [PHP 最佳实践](https://github.com/justjavac/PHP-Best-Practices-zh_CN)
 * [PHP安全最佳实践](http://www.blogkun.com/php/2013/12/21/php-security-best-practices/) 
 * [深入理解PHP内核](https://github.com/reeze/tipi)
@@ -231,6 +238,11 @@
 ### iOS
 
 * [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
+* [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
+
+### Android
+
+* [Android Design(中文版)](http://www.apkbus.com/design/index.html)
 
 ### Python
 
@@ -238,14 +250,16 @@
 * [Python入门教程](http://liam0205.me/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
 * [Python的神奇方法指南](http://article.yeeyan.org/view/311527/287706)
 * [笨办法学 Python](https://learn-python-the-hard-way-zh_cn-translation.readthedocs.org/en/1.0/)
+* [廖雪峰的Python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 * [Django 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/)
 * [Django 最佳实践](https://github.com/brantyoung/zh-django-best-practices)
 * [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
 * [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn)
 * [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
 * [Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/)
-* [Bottle 文档中文版](http://bottlepy.org/docs/dev-cn/)
+* [Bottle 文档中文版](http://bottlepy.org/docs/dev-cn/) (此链接已失效)
 * [Flask 文档中文版](http://docs.torriacg.org/docs/flask/)
+* [Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html)
 
 ### Ruby
 
