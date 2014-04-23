@@ -212,6 +212,7 @@
     * [Developing Backbone.js Applications(中文版)](http://feliving.github.io/developing-backbone-applications)
 * AngularJS
     * [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
+    * [AngularJS中译本](https://github.com/peiransun/angularjs-cn)
     * [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn)
     * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
 * [zepto 简明中文手册](http://www.360weboy.com/handbook/zepto/index.html) 
