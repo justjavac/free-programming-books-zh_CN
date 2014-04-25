@@ -12,8 +12,8 @@
 欢迎大家讲珍藏已久的经典免费书籍共享出来，您可以：
 
 * 使用 [Issues](https://github.com/justjavac/free-programming-books-zh_CN/issues) 以及 Pull Request 
-* 发邮箱给我 <justjavac+ghbooks@gmail.com>
-* 来 [SegmentFault](http://segmentfault.com/q/1010000000329895) 交流
+
+贡献者名单: https://github.com/justjavac/free-programming-books-zh_CN/graphs/contributors
 
 **注**：看到有人 fork 此 repository，其实如果觉得有帮助，可以 star 或者 watch，
 如果 fork 到你的 repositories 下则不能保证你的 repo 是最新的，除非是主动定期的 pull。
@@ -30,6 +30,8 @@
 
 如果你没有可以去这儿**免费领取**：[如何免费获得比特币？](https://github.com/freebitcoin/freebitcoin)
 
+通过 Gittip 捐赠: [<img height="26px" src="https://github.com/gittip/www.gittip.com/raw/master/www/assets/gittip.opengraph.png"/>](https://www.gittip.com/justjavac/) https://www.gittip.com/justjavac/
+
 ## 目录
 
 * [语言无关类](#语言无关类)
@@ -40,16 +42,18 @@
   * [MySQL](#mysql)
   * [项目相关](#项目相关)
   * [Web](#web)
+  * [大数据](#大数据)
   * [编程艺术](#编程艺术)
   
 * [语言相关类](#语言相关类)
   * [C/C++](#cc)
-  * [CSS]($css)
+  * [CSS/HTML](#css)
   * [Dart](#dart)
   * [Java](#java)
   * [JavaScript](#javascript)
   * [PHP](#php)
   * [iOS](#ios)
+  * [Android](#android)
   * [Python](#python)
   * [Ruby](#ruby)
   * [Shell](#shell)
@@ -71,6 +75,7 @@
 * [The Linux Command Line](http://billie66.github.io/TLCL/index.html) (中英文版)
 * [Linux 设备驱动](http://oss.org.cn/kernel-book/ldd3/index.html) (第三版)
 * [深入分析Linux内核源码](http://www.kerneltravel.net/kernel-book/%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90Linux%E5%86%85%E6%A0%B8%E6%BA%90%E7%A0%81.html)
+* [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
 
 ### WEB服务器
 
@@ -83,6 +88,9 @@
 * [Pro Git](http://git-scm.com/book/zh)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 * [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
+* [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
+* [Mercurial 使用教程](http://mercurial.selenic.com/wiki/ChineseTutorial)
+* [HgInit (中文版)](http://bucunzai.net/hginit/)
 
 ### NoSQL
 
@@ -104,6 +112,8 @@
 * [让开发自动化系列专栏](http://www.ibm.com/developerworks/cn/java/j-ap/)
 * [追求代码质量](http://www.ibm.com/developerworks/cn/java/j-cq/)
 * [selenium 中文文档](https://github.com/fool2fish/selenium-doc)
+* [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_\(Simplified\))
+* [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81)
 
 ### Web
 
@@ -113,6 +123,10 @@
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
 * [Grunt中文文档](http://www.gruntjs.org/)
 * [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
+
+### 大数据
+
+* [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
 
 ## 编程艺术
 
@@ -128,11 +142,15 @@
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
 * [ZMQ 指南](https://github.com/anjuke/zguide-cn)
 * [How to Think Like a Computer Scientist](http://www.ituring.com.cn/book/1203) (中英文版)
+* [跟我一起写Makefile(PDF)](http://scc.qibebt.cas.cn/docs/linux/base/%B8%FA%CE%D2%D2%BB%C6%F0%D0%B4Makefile-%B3%C2%F0%A9.pdf)
+* [GNU make中文手册](http://www.yayu.org/book/gnu_make/)
+* [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 
 ### CSS
 
 * [学习CSS布局](http://zh.learnlayout.com/)
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
+* [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
 
 ### Dart
 
@@ -185,6 +203,7 @@
 * [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 * Node.js
     * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
+    * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
     * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
     * [express.js 中文文档](http://expressjs.jser.us/)
     * [koa 中文文档](https://github.com/turingou/koa-guide)
@@ -194,7 +213,8 @@
     * [Developing Backbone.js Applications(中文版)](http://feliving.github.io/developing-backbone-applications)
 * AngularJS
     * [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
-    * [AngularJS中译本](https://github.com/basestyle/angularjs-cn) 
+    * [AngularJS中译本](https://github.com/peiransun/angularjs-cn)
+    * [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn)
     * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
 * [zepto 简明中文手册](http://www.360weboy.com/handbook/zepto/index.html) 
 * Sea.js
@@ -207,7 +227,7 @@
 
 * [PHP调试技术手册](http://www.laruence.com/2010/06/21/1608.html)(PDF)
 * [XDebug 2中文手册(译)](http://www.blogkun.com/project.html) (CHM)
-* [PHP之道](https://github.com/wulijun/php-the-right-way)
+* [PHP之道](http://wulijun.github.io/php-the-right-way/)
 * [PHP 最佳实践](https://github.com/justjavac/PHP-Best-Practices-zh_CN)
 * [PHP安全最佳实践](http://www.blogkun.com/php/2013/12/21/php-security-best-practices/) 
 * [深入理解PHP内核](https://github.com/reeze/tipi)
@@ -221,6 +241,11 @@
 ### iOS
 
 * [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
+* [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
+
+### Android
+
+* [Android Design(中文版)](http://www.apkbus.com/design/index.html)
 
 ### Python
 
@@ -228,14 +253,16 @@
 * [Python入门教程](http://liam0205.me/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
 * [Python的神奇方法指南](http://article.yeeyan.org/view/311527/287706)
 * [笨办法学 Python](https://learn-python-the-hard-way-zh_cn-translation.readthedocs.org/en/1.0/)
-* [Django 文档中文版](https://django-document-cn.readthedocs.org/en/latest/)
+* [廖雪峰的Python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
+* [Django 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/)
 * [Django 最佳实践](https://github.com/brantyoung/zh-django-best-practices)
 * [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
 * [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn)
 * [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
 * [Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/)
-* [Bottle 文档中文版](http://bottlepy.org/docs/dev-cn/)
+* [Bottle 文档中文版](http://bottlepy.org/docs/dev-cn/) (此链接已失效)
 * [Flask 文档中文版](http://docs.torriacg.org/docs/flask/)
+* [Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html)
 
 ### Ruby
 
