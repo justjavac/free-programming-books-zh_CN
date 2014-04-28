@@ -44,6 +44,7 @@
   * [Web](#web)
   * [大数据](#大数据)
   * [编程艺术](#编程艺术)
+  * [编辑器](#编辑器)
   
 * [语言相关类](#语言相关类)
   * [C/C++](#cc)
@@ -128,10 +129,14 @@
 
 * [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
 
-## 编程艺术
+### 编程艺术
 
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
+
+### 编辑器
+
+* [Vim](https://drive.google.com/file/d/0BzAdLLN_zTf5aEdQS2hzUnAtY0k/edit?usp=sharing)
 
 ## 语言相关类
 
