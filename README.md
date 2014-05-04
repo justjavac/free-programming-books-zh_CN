@@ -244,6 +244,7 @@
 
 * [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 * [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
+* [Google Objective-C Style Guide 中文版](http://www.iwangke.me/objc-style-guide/#avoid_new)
 
 ### Android
 
