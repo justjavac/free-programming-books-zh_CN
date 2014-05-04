@@ -91,6 +91,7 @@
 * [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
 * [Mercurial 使用教程](http://mercurial.selenic.com/wiki/ChineseTutorial)
 * [HgInit (中文版)](http://bucunzai.net/hginit/)
+* [沉浸式学 Git](http://igit.linuxtoy.org/)
 
 ### NoSQL
 
