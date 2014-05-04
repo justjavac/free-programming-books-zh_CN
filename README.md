@@ -91,6 +91,7 @@
 * [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
 * [Mercurial 使用教程](http://mercurial.selenic.com/wiki/ChineseTutorial)
 * [HgInit (中文版)](http://bucunzai.net/hginit/)
+* [沉浸式学 Git](http://igit.linuxtoy.org/)
 
 ### NoSQL
 
@@ -300,6 +301,11 @@
 ### Scala
 
 * [Scala课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
+
+### Perl
+
+* [Modern Perl 中文版](https://github.com/horus/modern_perl_book)
+* [Perl 程序员应该知道的事](http://perl.linuxtoy.org/)
 
 ### 读书笔记及其它
 
