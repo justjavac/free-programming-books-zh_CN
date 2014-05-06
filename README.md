@@ -124,6 +124,7 @@
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
 * [Grunt中文文档](http://www.gruntjs.org/)
 * [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
+* [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
 
 ### 大数据
 
