@@ -132,7 +132,6 @@
 
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
-* [代码大全](http://ishare.iask.sina.com.cn/f/36717741.html)
 
 ## 语言相关类
 
@@ -264,7 +263,6 @@
 * [Bottle 文档中文版](http://bottlepy.org/docs/dev-cn/) (此链接已失效)
 * [Flask 文档中文版](http://docs.torriacg.org/docs/flask/)
 * [Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html)
-* [Learning Python 中文版(第4版)](http://pan.baidu.com/share/link?shareid=273511&uk=1595216014)
 
 ### Ruby
 
