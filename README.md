@@ -255,7 +255,7 @@
 
 * [简明Python教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
 * [PEP8 Python代码风格规范](https://code.google.com/p/zhong-wiki/wiki/PEP8)
-* [Python入门教程](http://liam0205.me/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
+* [Python入门教程](http://liam0205.me/2013/11/02/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
 * [Python的神奇方法指南](http://article.yeeyan.org/view/311527/287706)
 * [笨办法学 Python](https://learn-python-the-hard-way-zh_cn-translation.readthedocs.org/en/1.0/)
 * [廖雪峰的Python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
