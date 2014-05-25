@@ -30,7 +30,7 @@
 
 如果你没有可以去这儿**免费领取**：[如何免费获得比特币？](https://github.com/freebitcoin/freebitcoin)
 
-通过 Gittip 捐赠: [<img height="26px" src="https://github.com/gittip/www.gittip.com/raw/master/www/assets/gittip.opengraph.png"/>](https://www.gittip.com/justjavac/) https://www.gittip.com/justjavac/
+通过 Gittip 捐赠: [<img height="26px" src="https://github.com/gittip/www.gittip.com/raw/master/www/assets/%25version/gittip.opengraph.png"/>](https://www.gittip.com/justjavac/) https://www.gittip.com/justjavac/
 
 ## 目录
 
@@ -75,6 +75,7 @@
 * [The Linux Command Line](http://billie66.github.io/TLCL/index.html) (中英文版)
 * [Linux 设备驱动](http://oss.org.cn/kernel-book/ldd3/index.html) (第三版)
 * [深入分析Linux内核源码](http://www.kerneltravel.net/kernel-book/%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90Linux%E5%86%85%E6%A0%B8%E6%BA%90%E7%A0%81.html)
+* [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
 
 ### WEB服务器
 
@@ -90,6 +91,7 @@
 * [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
 * [Mercurial 使用教程](http://mercurial.selenic.com/wiki/ChineseTutorial)
 * [HgInit (中文版)](http://bucunzai.net/hginit/)
+* [沉浸式学 Git](http://igit.linuxtoy.org/)
 
 ### NoSQL
 
@@ -121,6 +123,8 @@
 * [浏览器开发工具的秘密](http://jinlong.github.io/blog/2013/08/29/devtoolsecrets/)
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
 * [Grunt中文文档](http://www.gruntjs.org/)
+* [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
+* [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
 
 ### 大数据
 
@@ -149,6 +153,7 @@
 * [学习CSS布局](http://zh.learnlayout.com/)
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
 * [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
+* [前端代码规范](http://alloyteam.github.io/code-guide/)(腾讯alloyteam团队)
 
 ### Dart
 
@@ -193,12 +198,14 @@
 * [Google JavaScript 代码风格指南](http://chajn.org/jsguide/javascriptguide.html)
 * [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide)
 * [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
+* [Javascript编程指南](http://pij.robinqu.me/) ([源码](https://github.com/RobinQu/Programing-In-Javascript))
 * [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
 * [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF) (此书已由人民邮电出版社出版发行，但作者依然免费提供PDF版本，希望开发者们去购买，支持作者)
 * [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html)  (注:原文由[为之漫笔](http://www.cn-cuckoo.com)翻译，原始地址无法打开，所以此处地址为我博客上的备份)
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
 * [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
+* [ECMAScript 6 入门](http://es6.ruanyifeng.com/) (作者：阮一峰)
 * Node.js
     * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
     * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
@@ -211,7 +218,8 @@
     * [Developing Backbone.js Applications(中文版)](http://feliving.github.io/developing-backbone-applications)
 * AngularJS
     * [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
-    * [AngularJS中译本](https://github.com/basestyle/angularjs-cn) 
+    * [AngularJS中译本](https://github.com/peiransun/angularjs-cn)
+    * [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn)
     * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
 * [zepto 简明中文手册](http://www.360weboy.com/handbook/zepto/index.html) 
 * Sea.js
@@ -219,6 +227,7 @@
 * CoffeeScript
     * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
     * [The Little Book on CoffeeScript中文版](http://island205.github.io/tlboc/)
+* [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)  
 
 ### PHP
 
@@ -239,6 +248,7 @@
 
 * [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 * [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
+* [Google Objective-C Style Guide 中文版](http://www.iwangke.me/objc-style-guide/#avoid_new)
 
 ### Android
 
@@ -247,7 +257,8 @@
 ### Python
 
 * [简明Python教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
-* [Python入门教程](http://liam0205.me/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
+* [PEP8 Python代码风格规范](https://code.google.com/p/zhong-wiki/wiki/PEP8)
+* [Python入门教程](http://liam0205.me/2013/11/02/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
 * [Python的神奇方法指南](http://article.yeeyan.org/view/311527/287706)
 * [笨办法学 Python](https://learn-python-the-hard-way-zh_cn-translation.readthedocs.org/en/1.0/)
 * [廖雪峰的Python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
@@ -296,6 +307,11 @@
 ### Scala
 
 * [Scala课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
+
+### Perl
+
+* [Modern Perl 中文版](https://github.com/horus/modern_perl_book)
+* [Perl 程序员应该知道的事](http://perl.linuxtoy.org/)
 
 ### 读书笔记及其它
 
