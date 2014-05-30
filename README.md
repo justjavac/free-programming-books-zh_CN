@@ -55,13 +55,16 @@
   * [iOS](#ios)
   * [Android](#android)
   * [Python](#python)
+  * [Prolog](#prolog)
   * [Ruby](#ruby)
   * [Shell](#shell)
   * [Go](#go)
   * [Groovy](#groovy)
   * [LISP](#lisp)
   * [Haskell](#haskell)
+  * [R](#r)
   * [Scala](#scala)
+  * [Vimscript](#vimscript)
 
 * [读书笔记及其它](#读书笔记及其它)
   
@@ -304,6 +307,10 @@
 
 * [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
 
+### R
+
+* [R语言忍者秘笈](https://github.com/yihui/r-ninja)
+
 ### Scala
 
 * [Scala课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
@@ -312,6 +319,14 @@
 
 * [Modern Perl 中文版](https://github.com/horus/modern_perl_book)
 * [Perl 程序员应该知道的事](http://perl.linuxtoy.org/)
+
+### Prolog
+
+* [笨办法学Prolog](http://fengdidi.github.io/blog/2011/11/15/qian-yan/)
+
+### Vimscript
+
+* [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com/)
 
 ### 读书笔记及其它
 
