@@ -55,13 +55,16 @@
   * [iOS](#ios)
   * [Android](#android)
   * [Python](#python)
+  * [Prolog](#prolog)
   * [Ruby](#ruby)
   * [Shell](#shell)
   * [Go](#go)
   * [Groovy](#groovy)
   * [LISP](#lisp)
   * [Haskell](#haskell)
+  * [R](#r)
   * [Scala](#scala)
+  * [Vimscript](#vimscript)
 
 * [读书笔记及其它](#读书笔记及其它)
   
@@ -248,7 +251,7 @@
 
 * [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 * [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
-* [Google Objective-C Style Guide 中文版](http://www.iwangke.me/objc-style-guide/#avoid_new)
+* [Google Objective-C Style Guide 中文版](http://www.iwangke.me/objc-style-guide/)
 
 ### Android
 
@@ -304,6 +307,10 @@
 
 * [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
 
+### R
+
+* [R语言忍者秘笈](https://github.com/yihui/r-ninja)
+
 ### Scala
 
 * [Scala课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
@@ -312,6 +319,14 @@
 
 * [Modern Perl 中文版](https://github.com/horus/modern_perl_book)
 * [Perl 程序员应该知道的事](http://perl.linuxtoy.org/)
+
+### Prolog
+
+* [笨办法学Prolog](http://fengdidi.github.io/blog/2011/11/15/qian-yan/)
+
+### Vimscript
+
+* [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com/)
 
 ### 读书笔记及其它
 
