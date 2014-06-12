@@ -64,6 +64,7 @@
   * [Haskell](#haskell)
   * [R](#r)
   * [Scala](#scala)
+  * [Swift](#swift)
   * [Vimscript](#vimscript)
 
 * [读书笔记及其它](#读书笔记及其它)
@@ -314,6 +315,10 @@
 ### Scala
 
 * [Scala课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
+
+### Swift
+
+* [The Swift Programming Language 中文版](http://numbbbbb.github.io/the-swift-programming-language-in-chinese/)
 
 ### Perl
 
