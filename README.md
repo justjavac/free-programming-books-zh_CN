@@ -64,6 +64,7 @@
   * [Haskell](#haskell)
   * [R](#r)
   * [Scala](#scala)
+  * [Swift](#swift)
   * [Vimscript](#vimscript)
 
 * [读书笔记及其它](#读书笔记及其它)
@@ -128,6 +129,7 @@
 * [Grunt中文文档](http://www.gruntjs.org/)
 * [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
 * [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
+* [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
 
 ### 大数据
 
@@ -314,6 +316,10 @@
 ### Scala
 
 * [Scala课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
+
+### Swift
+
+* [The Swift Programming Language 中文版](http://numbbbbb.github.io/the-swift-programming-language-in-chinese/)
 
 ### Perl
 
