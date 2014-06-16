@@ -49,6 +49,7 @@
   * [C/C++](#cc)
   * [CSS/HTML](#css)
   * [Dart](#dart)
+  * [Fortran](#fortran)
   * [Java](#java)
   * [JavaScript](#javascript)
   * [PHP](#php)
@@ -164,6 +165,10 @@
 ### Dart
 
 * [Dart 语言导览](http://dart.lidian.info/wiki/Language_Tour)
+
+### Fortran
+
+* [Fortran77和90/95编程入门](http://micro.ustc.edu.cn/Fortran/ZJDing/)
 
 ### Java
 
