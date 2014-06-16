@@ -49,6 +49,7 @@
   * [C/C++](#cc)
   * [CSS/HTML](#css)
   * [Dart](#dart)
+  * [Fortran](#fortran)
   * [Java](#java)
   * [JavaScript](#javascript)
   * [PHP](#php)
@@ -130,6 +131,7 @@
 * [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
 * [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
 * [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
+* [移动前端开发收藏夹](https://github.com/hoosin/mobile-web-favorites)
 
 ### 大数据
 
@@ -163,6 +165,10 @@
 ### Dart
 
 * [Dart 语言导览](http://dart.lidian.info/wiki/Language_Tour)
+
+### Fortran
+
+* [Fortran77和90/95编程入门](http://micro.ustc.edu.cn/Fortran/ZJDing/)
 
 ### Java
 
@@ -262,7 +268,10 @@
 ### Python
 
 * [简明Python教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
+* [Python 2.7 官方教程中文版](http://www.pythondoc.com/pythontutorial27/index.html)
+* [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
 * [PEP8 Python代码风格规范](https://code.google.com/p/zhong-wiki/wiki/PEP8)
+* [Google Python 风格指南 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/)
 * [Python入门教程](http://liam0205.me/2013/11/02/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
 * [Python的神奇方法指南](http://article.yeeyan.org/view/311527/287706)
 * [笨办法学 Python](https://learn-python-the-hard-way-zh_cn-translation.readthedocs.org/en/1.0/)
