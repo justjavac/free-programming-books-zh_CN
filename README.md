@@ -133,7 +133,7 @@
 * [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
 * [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
 * [移动前端开发收藏夹](https://github.com/hoosin/mobile-web-favorites)
-
+* [JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
 ### 大数据
 
 * [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
@@ -155,6 +155,7 @@
 * [跟我一起写Makefile(PDF)](http://scc.qibebt.cas.cn/docs/linux/base/%B8%FA%CE%D2%D2%BB%C6%F0%D0%B4Makefile-%B3%C2%F0%A9.pdf)
 * [GNU make中文手册](http://www.yayu.org/book/gnu_make/)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
+* [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
 
 ### CSS
 
@@ -286,6 +287,7 @@
 * [Bottle 文档中文版](https://associates.amazon.cn/gp/associates/network/main.html) (需翻墙)
 * [Flask 文档中文版](http://docs.torriacg.org/docs/flask/)
 * [Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html)
+* [Google Python 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/)
 
 ### Ruby
 
