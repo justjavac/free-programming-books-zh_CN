@@ -155,6 +155,7 @@
 * [跟我一起写Makefile(PDF)](http://scc.qibebt.cas.cn/docs/linux/base/%B8%FA%CE%D2%D2%BB%C6%F0%D0%B4Makefile-%B3%C2%F0%A9.pdf)
 * [GNU make中文手册](http://www.yayu.org/book/gnu_make/)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
+* [C专家编程](http://www.e-reading.ws/bookreader.php/138815/Linden_-_Expert_C_Programming:_Deep_C_Secrets.pdf) （英文版）
 
 ### CSS
 
