@@ -326,6 +326,8 @@
 ### Scala
 
 * [Scala课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
+* [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html)(Twitter的Scala最佳实践的中文翻译)
+* [Scala指南](http://zh.scala-tour.com/)
 
 ### Swift
 
