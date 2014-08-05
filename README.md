@@ -104,6 +104,7 @@
 * [Redis 设计与实现](http://www.redisbook.com/en/latest/)
 * [Redis 命令参考](http://www.redisdoc.com/en/latest/)
 * [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
+* [带有详细注释的 Redis 2.6 代码](https://github.com/huangz1990/annotated_redis_source)
 * [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
 * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
 * [Neo4j 简体中文手册 v1.8](http://docs.neo4j.org.cn/)
