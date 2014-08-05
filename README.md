@@ -9,7 +9,7 @@
 
 ## 参与交流
 
-欢迎大家讲珍藏已久的经典免费书籍共享出来，您可以：
+欢迎大家将珍藏已久的经典免费书籍共享出来，您可以：
 
 * 使用 [Issues](https://github.com/justjavac/free-programming-books-zh_CN/issues) 以及 Pull Request 
 
@@ -104,6 +104,7 @@
 * [Redis 设计与实现](http://www.redisbook.com/en/latest/)
 * [Redis 命令参考](http://www.redisdoc.com/en/latest/)
 * [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
+* [带有详细注释的 Redis 2.6 代码](https://github.com/huangz1990/annotated_redis_source)
 * [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
 * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
 * [Neo4j 简体中文手册 v1.8](http://docs.neo4j.org.cn/)
@@ -162,6 +163,7 @@
 
 * [学习CSS布局](http://zh.learnlayout.com/)
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
+* [CSS参考手册](http://css.doyoe.com/)
 * [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
 * [前端代码规范](http://alloyteam.github.io/code-guide/)(腾讯alloyteam团队)
 
@@ -241,6 +243,8 @@
 * CoffeeScript
     * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
     * [The Little Book on CoffeeScript中文版](http://island205.github.io/tlboc/)
+* ExtJS
+    * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)  
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)  
 
 ### PHP
@@ -329,6 +333,8 @@
 ### Scala
 
 * [Scala课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
+* [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html)(Twitter的Scala最佳实践的中文翻译)
+* [Scala指南](http://zh.scala-tour.com/)
 
 ### Swift
 
