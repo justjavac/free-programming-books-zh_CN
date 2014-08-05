@@ -133,6 +133,7 @@
 * [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
 * [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
 * [移动前端开发收藏夹](https://github.com/hoosin/mobile-web-favorites)
+* [前端資源懶人包](https://docs.google.com/document/d/13nK_XY9u5uIleTpSCw88lMupzgCSwXd6j6je44eLhMQ/edit)
 
 ### 大数据
 
@@ -162,6 +163,11 @@
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
 * [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
 * [前端代码规范](http://alloyteam.github.io/code-guide/)(腾讯alloyteam团队)
+ 
+### SASS
+
+* [Sass教學手冊](http://sam0512.blogspot.tw/2013/10/sass.html)
+
 
 ### Dart
 
