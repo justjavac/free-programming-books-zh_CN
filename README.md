@@ -62,6 +62,7 @@
   * [Go](#go)
   * [Groovy](#groovy)
   * [LISP](#lisp)
+  * [Lua](#lua)
   * [Haskell](#haskell)
   * [R](#r)
   * [Scala](#scala)
@@ -322,6 +323,10 @@
 ### LISP
 
 * [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
+
+### Lua
+
+* [Lua编程入门](https://github.com/andycai/luaprimer)
 
 ### Haskell
 
