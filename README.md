@@ -200,7 +200,7 @@
     * [第 2 部分: 构建第一个应用程序](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe2/index.html)
     * [第 3 部分: 集成 DAO 与 ORM](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe3/index.html)
     * [第 4 部分: 混合使用 Spring AOP 和 Spring Web Flow](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe4/index.html)
-    * [第 5 部分: Spring MVC](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe5/index.html)
+    * [第 5 部分: Spring MVC](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe5/os-ag-springframe5.html)
     * [第 6 部分: Spring MVC：使用 Web 视图技术](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe6/index.html)
 * 终极 mashup —— Web 服务和语义 Web
     * [第 1 部分: 使用与组合 Web 服务](http://www.ibm.com/developerworks/cn/education/xml/x-ultimashup1/index.html)
@@ -266,11 +266,12 @@
 
 * [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 * [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
-* [Google Objective-C Style Guide 中文版](http://www.iwangke.me/objc-style-guide/)
+* [Google Objective-C Style Guide 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/)
 
 ### Android
 
 * [Android Design(中文版)](http://www.apkbus.com/design/index.html)
+* [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 
 ### Python
 
