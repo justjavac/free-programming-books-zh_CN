@@ -271,6 +271,7 @@
 ### Android
 
 * [Android Design(中文版)](http://www.apkbus.com/design/index.html)
+* [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 
 ### Python
 
