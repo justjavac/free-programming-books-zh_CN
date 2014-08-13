@@ -159,6 +159,7 @@
 * [GNU make中文手册](http://www.yayu.org/book/gnu_make/)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 * [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
+* [C/C++ Primer](https://github.com/andycai/cprimer) (by @andycai)
 
 ### CSS
 
