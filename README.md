@@ -30,7 +30,7 @@
 
 如果你没有可以去这儿**免费领取**：[如何免费获得比特币？](https://github.com/freebitcoin/freebitcoin)
 
-通过 Gittip 捐赠: [<img height="26px" src="https://github.com/gittip/www.gittip.com/raw/master/www/assets/%25version/gittip.opengraph.png"/>](https://www.gittip.com/justjavac/) https://www.gittip.com/justjavac/
+通过 Gittip 捐赠: https://www.gittip.com/justjavac/
 
 ## 目录
 
@@ -62,6 +62,7 @@
   * [Go](#go)
   * [Groovy](#groovy)
   * [LISP](#lisp)
+  * [Lua](#lua)
   * [Haskell](#haskell)
   * [R](#r)
   * [Scala](#scala)
@@ -158,6 +159,7 @@
 * [GNU make中文手册](http://www.yayu.org/book/gnu_make/)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 * [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
+* [C/C++ Primer](https://github.com/andycai/cprimer) (by @andycai)
 
 ### CSS
 
@@ -222,6 +224,8 @@
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
 * [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/) (作者：阮一峰)
+* jQuery
+    * [jQuery 解构](http://www.cn-cuckoo.com/deconstructed/jquery.html)
 * Node.js
     * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
     * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
@@ -322,6 +326,10 @@
 ### LISP
 
 * [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
+
+### Lua
+
+* [Lua编程入门](https://github.com/andycai/luaprimer)
 
 ### Haskell
 
