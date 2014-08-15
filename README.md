@@ -9,7 +9,7 @@
 
 ## 参与交流
 
-欢迎大家讲珍藏已久的经典免费书籍共享出来，您可以：
+欢迎大家将珍藏已久的经典免费书籍共享出来，您可以：
 
 * 使用 [Issues](https://github.com/justjavac/free-programming-books-zh_CN/issues) 以及 Pull Request 
 
@@ -30,7 +30,7 @@
 
 如果你没有可以去这儿**免费领取**：[如何免费获得比特币？](https://github.com/freebitcoin/freebitcoin)
 
-通过 Gittip 捐赠: [<img height="26px" src="https://github.com/gittip/www.gittip.com/raw/master/www/assets/%25version/gittip.opengraph.png"/>](https://www.gittip.com/justjavac/) https://www.gittip.com/justjavac/
+通过 Gittip 捐赠: https://www.gittip.com/justjavac/
 
 ## 目录
 
@@ -49,19 +49,25 @@
   * [C/C++](#cc)
   * [CSS/HTML](#css)
   * [Dart](#dart)
+  * [Fortran](#fortran)
   * [Java](#java)
   * [JavaScript](#javascript)
   * [PHP](#php)
   * [iOS](#ios)
   * [Android](#android)
   * [Python](#python)
+  * [Prolog](#prolog)
   * [Ruby](#ruby)
   * [Shell](#shell)
   * [Go](#go)
   * [Groovy](#groovy)
   * [LISP](#lisp)
+  * [Lua](#lua)
   * [Haskell](#haskell)
+  * [R](#r)
   * [Scala](#scala)
+  * [Swift](#swift)
+  * [Vimscript](#vimscript)
 
 * [读书笔记及其它](#读书笔记及其它)
   
@@ -98,6 +104,8 @@
 * [NoSQL数据库笔谈](http://www.yankay.com/wp-content/NoSql_Database_Note.html) ([PDF](http://yankaycom-wordpress.stor.sinaapp.com/uploads/2012/12/NoSQL%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AC%94%E8%B0%88v2.pdf))
 * [Redis 设计与实现](http://www.redisbook.com/en/latest/)
 * [Redis 命令参考](http://www.redisdoc.com/en/latest/)
+* [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
+* [带有详细注释的 Redis 2.6 代码](https://github.com/huangz1990/annotated_redis_source)
 * [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
 * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
 * [Neo4j 简体中文手册 v1.8](http://docs.neo4j.org.cn/)
@@ -125,6 +133,9 @@
 * [Grunt中文文档](http://www.gruntjs.org/)
 * [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
 * [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
+* [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
+* [移动前端开发收藏夹](https://github.com/hoosin/mobile-web-favorites)
+* [JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
 
 ### 大数据
 
@@ -147,17 +158,24 @@
 * [跟我一起写Makefile(PDF)](http://scc.qibebt.cas.cn/docs/linux/base/%B8%FA%CE%D2%D2%BB%C6%F0%D0%B4Makefile-%B3%C2%F0%A9.pdf)
 * [GNU make中文手册](http://www.yayu.org/book/gnu_make/)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
+* [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
+* [C/C++ Primer](https://github.com/andycai/cprimer) (by @andycai)
 
 ### CSS
 
 * [学习CSS布局](http://zh.learnlayout.com/)
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
+* [CSS参考手册](http://css.doyoe.com/)
 * [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
 * [前端代码规范](http://alloyteam.github.io/code-guide/)(腾讯alloyteam团队)
 
 ### Dart
 
 * [Dart 语言导览](http://dart.lidian.info/wiki/Language_Tour)
+
+### Fortran
+
+* [Fortran77和90/95编程入门](http://micro.ustc.edu.cn/Fortran/ZJDing/)
 
 ### Java
 
@@ -184,7 +202,7 @@
     * [第 2 部分: 构建第一个应用程序](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe2/index.html)
     * [第 3 部分: 集成 DAO 与 ORM](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe3/index.html)
     * [第 4 部分: 混合使用 Spring AOP 和 Spring Web Flow](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe4/index.html)
-    * [第 5 部分: Spring MVC](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe5/index.html)
+    * [第 5 部分: Spring MVC](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe5/os-ag-springframe5.html)
     * [第 6 部分: Spring MVC：使用 Web 视图技术](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe6/index.html)
 * 终极 mashup —— Web 服务和语义 Web
     * [第 1 部分: 使用与组合 Web 服务](http://www.ibm.com/developerworks/cn/education/xml/x-ultimashup1/index.html)
@@ -206,6 +224,8 @@
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
 * [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/) (作者：阮一峰)
+* jQuery
+    * [jQuery 解构](http://www.cn-cuckoo.com/deconstructed/jquery.html)
 * Node.js
     * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
     * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
@@ -227,6 +247,8 @@
 * CoffeeScript
     * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
     * [The Little Book on CoffeeScript中文版](http://island205.github.io/tlboc/)
+* ExtJS
+    * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)  
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)  
 
 ### PHP
@@ -248,16 +270,20 @@
 
 * [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 * [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
-* [Google Objective-C Style Guide 中文版](http://www.iwangke.me/objc-style-guide/#avoid_new)
+* [Google Objective-C Style Guide 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/)
 
 ### Android
 
 * [Android Design(中文版)](http://www.apkbus.com/design/index.html)
+* [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 
 ### Python
 
 * [简明Python教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
+* [Python 2.7 官方教程中文版](http://www.pythondoc.com/pythontutorial27/index.html)
+* [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
 * [PEP8 Python代码风格规范](https://code.google.com/p/zhong-wiki/wiki/PEP8)
+* [Google Python 风格指南 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/)
 * [Python入门教程](http://liam0205.me/2013/11/02/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
 * [Python的神奇方法指南](http://article.yeeyan.org/view/311527/287706)
 * [笨办法学 Python](https://learn-python-the-hard-way-zh_cn-translation.readthedocs.org/en/1.0/)
@@ -268,9 +294,10 @@
 * [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn)
 * [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
 * [Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/)
-* [Bottle 文档中文版](http://bottlepy.org/docs/dev-cn/) (此链接已失效)
+* [Bottle 文档中文版](https://associates.amazon.cn/gp/associates/network/main.html) (需翻墙)
 * [Flask 文档中文版](http://docs.torriacg.org/docs/flask/)
 * [Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html)
+* [Google Python 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/)
 
 ### Ruby
 
@@ -300,18 +327,40 @@
 
 * [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
 
+### Lua
+
+* [Lua编程入门](https://github.com/andycai/luaprimer)
+
 ### Haskell
 
 * [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
 
+### R
+
+* [R语言忍者秘笈](https://github.com/yihui/r-ninja)
+
 ### Scala
 
 * [Scala课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
+* [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html)(Twitter的Scala最佳实践的中文翻译)
+* [Scala指南](http://zh.scala-tour.com/)
+
+### Swift
+
+* [The Swift Programming Language 中文版](http://numbbbbb.github.io/the-swift-programming-language-in-chinese/)
 
 ### Perl
 
 * [Modern Perl 中文版](https://github.com/horus/modern_perl_book)
 * [Perl 程序员应该知道的事](http://perl.linuxtoy.org/)
+
+### Prolog
+
+* [笨办法学Prolog](http://fengdidi.github.io/blog/2011/11/15/qian-yan/)
+
+### Vimscript
+
+* [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com/)
 
 ### 读书笔记及其它
 
