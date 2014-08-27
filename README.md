@@ -82,6 +82,7 @@
 * [Linux 设备驱动](http://oss.org.cn/kernel-book/ldd3/index.html) (第三版)
 * [深入分析Linux内核源码](http://www.kerneltravel.net/kernel-book/%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90Linux%E5%86%85%E6%A0%B8%E6%BA%90%E7%A0%81.html)
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
+* [Docker中文指南](https://github.com/widuu/chinese_docker)
 
 ### WEB服务器
 
@@ -128,7 +129,7 @@
 
 * [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home) 
 * [前端知识体系](http://knowledge.ecomfe.com/)
-* [浏览器开发工具的秘密](http://jinlong.github.io/blog/2013/08/29/devtoolsecrets/)
+* [浏览器开发工具的秘密](http://jinlong.github.io/2013/08/29/devtoolsecrets/)
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
 * [Grunt中文文档](http://www.gruntjs.org/)
 * [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
@@ -145,6 +146,7 @@
 
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
+* [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) （豆瓣阅读，免费书籍）
 
 ## 语言相关类
 
@@ -276,6 +278,7 @@
 
 * [Android Design(中文版)](http://www.apkbus.com/design/index.html)
 * [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
+* [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)
 
 ### Python
 
