@@ -243,6 +243,7 @@
     * [AngularJS中译本](https://github.com/peiransun/angularjs-cn)
     * [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn)
     * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
+    * [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/)
 * [zepto 简明中文手册](http://www.360weboy.com/handbook/zepto/index.html) 
 * Sea.js
     * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
