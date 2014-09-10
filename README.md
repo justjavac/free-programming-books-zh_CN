@@ -99,6 +99,7 @@
 * [Mercurial 使用教程](http://mercurial.selenic.com/wiki/ChineseTutorial)
 * [HgInit (中文版)](http://bucunzai.net/hginit/)
 * [沉浸式学 Git](http://igit.linuxtoy.org/)
+* [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) （[@廖雪峰](http://weibo.com/liaoxuefeng)）
 
 ### NoSQL
 
