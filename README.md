@@ -11,7 +11,7 @@
 
 欢迎大家讲珍藏已久的经典免费书籍共享出来，您可以：
 
-* 使用 [Issues](https://github.com/justjavac/free-programming-books-zh_CN/issues) 以及 Pull Request 
+* 使用 [Issues](https://github.com/justjavac/free-programming-books-zh_CN/issues) 以及 Pull Request
 
 贡献者名单: https://github.com/justjavac/free-programming-books-zh_CN/graphs/contributors
 
@@ -44,7 +44,7 @@
   * [Web](#web)
   * [大数据](#大数据)
   * [编程艺术](#编程艺术)
-  
+
 * [语言相关类](#语言相关类)
   * [C/C++](#cc)
   * [CSS/HTML](#css)
@@ -64,7 +64,7 @@
   * [Scala](#scala)
 
 * [读书笔记及其它](#读书笔记及其它)
-  
+
 ## 语言无关类
 
 ### 操作系统
@@ -101,7 +101,7 @@
 * [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
 * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
 * [Neo4j 简体中文手册 v1.8](http://docs.neo4j.org.cn/)
-* [Neo4j  .rb 中文資源](http://neo4j.tw/) 
+* [Neo4j  .rb 中文資源](http://neo4j.tw/)
 
 ### MySQL
 
@@ -118,7 +118,7 @@
 
 ### Web
 
-* [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home) 
+* [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home)
 * [前端知识体系](http://knowledge.ecomfe.com/)
 * [浏览器开发工具的秘密](http://jinlong.github.io/blog/2013/08/29/devtoolsecrets/)
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
@@ -219,7 +219,7 @@
     * [AngularJS中译本](https://github.com/peiransun/angularjs-cn)
     * [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn)
     * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
-* [zepto 简明中文手册](http://www.360weboy.com/handbook/zepto/index.html) 
+* [zepto 简明中文手册](http://www.360weboy.com/handbook/zepto/index.html)
 * Sea.js
     * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
 * CoffeeScript
@@ -232,7 +232,7 @@
 * [XDebug 2中文手册(译)](http://www.blogkun.com/project.html) (CHM)
 * [PHP之道](http://wulijun.github.io/php-the-right-way/)
 * [PHP 最佳实践](https://github.com/justjavac/PHP-Best-Practices-zh_CN)
-* [PHP安全最佳实践](http://www.blogkun.com/php/2013/12/21/php-security-best-practices/) 
+* [PHP安全最佳实践](http://www.blogkun.com/php/2013/12/21/php-security-best-practices/)
 * [深入理解PHP内核](https://github.com/reeze/tipi)
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/)
 * [CodeIgniter 用户指南](http://codeigniter.org.cn/user_guide/index.html)
@@ -268,6 +268,7 @@
 * [Bottle 文档中文版](http://bottlepy.org/docs/dev-cn/) (此链接已失效)
 * [Flask 文档中文版](http://docs.torriacg.org/docs/flask/)
 * [Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html)
+* [Matplotlib 教程中文翻译](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
 
 ### Ruby
 
