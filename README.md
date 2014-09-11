@@ -272,6 +272,7 @@
 * [Symfony2中文文档](http://symfony-docs-chs.readthedocs.org/en/latest/) (未译完)
 * [Phalcon中文文档](http://phalcon.5iunix.net/)（翻译进行中）
 * [YiiBook几本Yii框架的在线教程](http://yiibook.com/)
+* [简单易懂的PHP魔法](http://www.nowamagic.net/librarys/books/contents/php)
 
 ### iOS
 
