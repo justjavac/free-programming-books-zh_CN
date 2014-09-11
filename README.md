@@ -388,7 +388,7 @@
 * [Jsoup 学习笔记](https://github.com/code4craft/jsoup-learning)
 * [学习笔记: Vim、Python、memcached](https://github.com/lzjun567/note)
 * [图灵开放书翻译计划--C++、Python、Java等](http://www.ituring.com.cn/activity/details/2004)
-* 
+* [蒂姆·奥莱利随笔](http://g.yeeyan.org/books/2095) （由译言网翻译，电子版免费）
 
 ### 测试相关
 
