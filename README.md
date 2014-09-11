@@ -303,7 +303,9 @@
 * [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
 * [Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/)
 * [Bottle 文档中文版](https://associates.amazon.cn/gp/associates/network/main.html) (需翻墙)
-* [Flask 文档中文版](http://docs.torriacg.org/docs/flask/)
+* [Flask 文档中文版](http://docs.jinkan.org/docs/flask/)
+* [Jinja2 文档中文版](http://docs.jinkan.org/docs/jinja2/)
+* [Werkzeug 文档中文版](http://werkzeug-docs-cn.readthedocs.org/zh_CN/latest/)
 * [Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html)
 * [Google Python 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/)
 
