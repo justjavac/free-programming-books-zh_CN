@@ -216,6 +216,7 @@
     * [第 4 部分: 创建本体](http://www.ibm.com/developerworks/cn/education/xml/x-ultimashup4/index.html)
     * [第 5 部分: 切换 Web 服务](http://www.ibm.com/developerworks/cn/education/xml/x-ultimashup5/index.html)
 * [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
+* [MyBatis中文文档](http://mybatis.github.io/mybatis-3/zh/index.html)
 
 ### JavaScript
 
