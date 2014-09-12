@@ -90,6 +90,7 @@
 
 ### 版本控制
 
+* [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) （本文由 [@廖雪峰](http://weibo.com/liaoxuefeng) 创作，如果觉得本教程对您有帮助，可以去 [iTunes](https://itunes.apple.com/cn/app/git-jiao-cheng/id876420437) 购买）
 * [git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 * [Git 参考手册](http://gitref.justjavac.com)
 * [Pro Git](http://git-scm.com/book/zh)
@@ -99,6 +100,7 @@
 * [Mercurial 使用教程](http://mercurial.selenic.com/wiki/ChineseTutorial)
 * [HgInit (中文版)](http://bucunzai.net/hginit/)
 * [沉浸式学 Git](http://igit.linuxtoy.org/)
+
 
 ### NoSQL
 
@@ -162,6 +164,7 @@
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 * [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
 * [C/C++ Primer](https://github.com/andycai/cprimer) (by @andycai)
+* [简单易懂的C魔法](http://www.nowamagic.net/librarys/books/contents/c)
 
 ### CSS
 
@@ -213,6 +216,7 @@
     * [第 4 部分: 创建本体](http://www.ibm.com/developerworks/cn/education/xml/x-ultimashup4/index.html)
     * [第 5 部分: 切换 Web 服务](http://www.ibm.com/developerworks/cn/education/xml/x-ultimashup5/index.html)
 * [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
+* [MyBatis中文文档](http://mybatis.github.io/mybatis-3/zh/index.html)
 
 ### JavaScript
 
@@ -223,18 +227,22 @@
 * [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
 * [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF) (此书已由人民邮电出版社出版发行，但作者依然免费提供PDF版本，希望开发者们去购买，支持作者)
+* [《JavaScript 模式》](https://github.com/cutsin/javascript-patterns)翻译，此书中文版有售，但是纸质书翻译的还没有这个版本翻译的好
 * [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html)  (注:原文由[为之漫笔](http://www.cn-cuckoo.com)翻译，原始地址无法打开，所以此处地址为我博客上的备份)
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
 * [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/) (作者：阮一峰)
 * jQuery
     * [jQuery 解构](http://www.cn-cuckoo.com/deconstructed/jquery.html)
+    * [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
 * Node.js
     * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
     * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
     * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
     * [express.js 中文文档](http://expressjs.jser.us/)
     * [koa 中文文档](https://github.com/turingou/koa-guide)
+    * [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
+    * [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
 * backbone.js
     * [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
     * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
@@ -269,6 +277,7 @@
 * [Symfony2中文文档](http://symfony-docs-chs.readthedocs.org/en/latest/) (未译完)
 * [Phalcon中文文档](http://phalcon.5iunix.net/)（翻译进行中）
 * [YiiBook几本Yii框架的在线教程](http://yiibook.com/)
+* [简单易懂的PHP魔法](http://www.nowamagic.net/librarys/books/contents/php)
 
 ### iOS
 
@@ -284,6 +293,7 @@
 
 ### Python
 
+* [小白的Python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 * [简明Python教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
 * [Python 2.7 官方教程中文版](http://www.pythondoc.com/pythontutorial27/index.html)
 * [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
@@ -292,7 +302,6 @@
 * [Python入门教程](http://liam0205.me/2013/11/02/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
 * [Python的神奇方法指南](http://article.yeeyan.org/view/311527/287706)
 * [笨办法学 Python](https://learn-python-the-hard-way-zh_cn-translation.readthedocs.org/en/1.0/)
-* [廖雪峰的Python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 * [Django 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/)
 * [Django 最佳实践](https://github.com/brantyoung/zh-django-best-practices)
 * [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
@@ -300,15 +309,19 @@
 * [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
 * [Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/)
 * [Bottle 文档中文版](https://associates.amazon.cn/gp/associates/network/main.html) (需翻墙)
-* [Flask 文档中文版](http://docs.torriacg.org/docs/flask/)
+* [Flask 文档中文版](http://docs.jinkan.org/docs/flask/)
+* [Jinja2 文档中文版](http://docs.jinkan.org/docs/jinja2/)
+* [Werkzeug 文档中文版](http://werkzeug-docs-cn.readthedocs.org/zh_CN/latest/)
 * [Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html)
 * [Google Python 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/)
+* [Python自然语言处理中文版](http://pan.baidu.com/s/1qW4pvnY) （感谢陈涛同学的翻译，也谢谢 [@shwley](https://github.com/shwley) 联系了作者）
 
 ### Ruby
 
 * [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
 * [Rails 风格指南](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
 * [笨方法學 Ruby](http://lrthw.github.io/)
+* [Ruby on Rails 指南](http://guides.ruby-china.org/)
 * [Ruby on Rails Tutorial 原书第 2 版](http://railstutorial-china.org/) (本书网页版免费提供，电子版以 PDF、EPub 和 Mobi 格式提供购买，仅售 9.9 美元)
 
 ### Shell
@@ -376,3 +389,8 @@
 * [Jsoup 学习笔记](https://github.com/code4craft/jsoup-learning)
 * [学习笔记: Vim、Python、memcached](https://github.com/lzjun567/note)
 * [图灵开放书翻译计划--C++、Python、Java等](http://www.ituring.com.cn/activity/details/2004)
+* [蒂姆·奥莱利随笔](http://g.yeeyan.org/books/2095) （由译言网翻译，电子版免费）
+
+### 测试相关
+
+* [移动APP自动化测试优秀框架Appium API Reference V1.2.0 CN](http://appium.io/slate/cn/v1.2.0/)
