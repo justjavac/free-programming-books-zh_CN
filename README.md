@@ -243,6 +243,7 @@
     * [koa 中文文档](https://github.com/turingou/koa-guide)
     * [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
     * [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
+    * [nodejs文档](https://www.gitbook.io/book/0532/nodejs)
 * backbone.js
     * [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
     * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
