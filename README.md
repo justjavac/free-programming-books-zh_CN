@@ -277,6 +277,7 @@
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/)
 * [CodeIgniter 用户指南](http://codeigniter.org.cn/user_guide/index.html)
 * [Laravel4 中文文档](http://www.golaravel.com/docs/)
+* [Laravel 入门](https://github.com/huanghua581/laravel-getting-started)
 * [Symfony2中文文档](http://symfony-docs-chs.readthedocs.org/en/latest/) (未译完)
 * [Phalcon中文文档](http://phalcon.5iunix.net/)（翻译进行中）
 * [YiiBook几本Yii框架的在线教程](http://yiibook.com/)
