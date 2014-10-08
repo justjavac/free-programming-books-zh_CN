@@ -158,7 +158,7 @@
 ### C/C++
 
 * [C++ 并发编程指南](https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial) ([@傅海平ICT](http://weibo.com/1702076100))
-* [Linux C编程一站式学习](http://learn.akae.cn/media/index.html) (宋劲杉, 北京亚嵌教育研究中心)
+* [Linux C编程一站式学习](http://akaedu.github.io/book/) (宋劲杉, 北京亚嵌教育研究中心)
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
 * [ZMQ 指南](https://github.com/anjuke/zguide-cn)
 * [How to Think Like a Computer Scientist](http://www.ituring.com.cn/book/1203) (中英文版)
