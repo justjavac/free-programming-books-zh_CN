@@ -412,6 +412,7 @@
 * [图灵开放书翻译计划--C++、Python、Java等](http://www.ituring.com.cn/activity/details/2004)
 * [蒂姆·奥莱利随笔](http://g.yeeyan.org/books/2095) （由译言网翻译，电子版免费）
 * [Octave 入门](http://coer.zju.edu.cn/liu/octave-tutorial-cn.pdf) （PDF版）
+* [SICP 解题集](http://sicp.readthedocs.org/en/latest/)
 
 ### 测试相关
 
