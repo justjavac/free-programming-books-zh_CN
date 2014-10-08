@@ -62,6 +62,7 @@
   * [Shell](#shell)
   * [Go](#go)
   * [Groovy](#groovy)
+  * [LaTeX](latex)
   * [LISP](#lisp)
   * [Lua](#lua)
   * [Haskell](#haskell)
@@ -354,6 +355,10 @@
 ### Groovy
 
 * [实战 Groovy 系列](http://www.ibm.com/developerworks/cn/java/j-pg/)
+
+### LaTeX
+
+* [一份其实很短的 LaTeX 入门文档](http://liam0205.me/2014/09/08/latex-introduction/)
 
 ### LISP
 
