@@ -46,6 +46,7 @@
   * [编程艺术](#编程艺术)
   
 * [语言相关类](#语言相关类)
+  * [AWK](#awk)
   * [C/C++](#cc)
   * [CSS/HTML](#css)
   * [Dart](#dart)
@@ -154,6 +155,10 @@
 * [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) （豆瓣阅读，免费书籍）
 
 ## 语言相关类
+
+### AWK
+
+* [awk程序设计语言](http://awk.readthedocs.org/en/latest/)
 
 ### C/C++
 
