@@ -46,6 +46,7 @@
   * [编程艺术](#编程艺术)
   
 * [语言相关类](#语言相关类)
+  * [AWK](#awk)
   * [C/C++](#cc)
   * [CSS/HTML](#css)
   * [Dart](#dart)
@@ -61,6 +62,7 @@
   * [Shell](#shell)
   * [Go](#go)
   * [Groovy](#groovy)
+  * [LaTeX](latex)
   * [LISP](#lisp)
   * [Lua](#lua)
   * [Haskell](#haskell)
@@ -115,7 +117,7 @@
 * [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
 * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
 * [Neo4j 简体中文手册 v1.8](http://docs.neo4j.org.cn/)
-* [Neo4j  .rb 中文資源](http://neo4j.tw/) 
+* [Neo4j .rb 中文資源](http://neo4j.tw/) 
 
 ### MySQL
 
@@ -151,14 +153,18 @@
 
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
-* [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) （豆瓣阅读，免费书籍）
+* [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
 
 ## 语言相关类
+
+### AWK
+
+* [awk程序设计语言](http://awk.readthedocs.org/en/latest/)
 
 ### C/C++
 
 * [C++ 并发编程指南](https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial) ([@傅海平ICT](http://weibo.com/1702076100))
-* [Linux C编程一站式学习](http://learn.akae.cn/media/index.html) (宋劲杉, 北京亚嵌教育研究中心)
+* [Linux C编程一站式学习](http://akaedu.github.io/book/) (宋劲杉, 北京亚嵌教育研究中心)
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
 * [ZMQ 指南](https://github.com/anjuke/zguide-cn)
 * [How to Think Like a Computer Scientist](http://www.ituring.com.cn/book/1203) (中英文版)
@@ -168,6 +174,8 @@
 * [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
 * [C/C++ Primer](https://github.com/andycai/cprimer) (by @andycai)
 * [简单易懂的C魔法](http://www.nowamagic.net/librarys/books/contents/c)
+* [Cmake 实践](http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF版)
+* [C++ FAQ LITE(中文版)](http://www.sunistudio.com/cppfaq/)
 
 ### CSS
 
@@ -175,7 +183,7 @@
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
 * [CSS参考手册](http://css.doyoe.com/)
 * [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
-* [前端代码规范](http://alloyteam.github.io/code-guide/)(腾讯alloyteam团队)
+* [前端代码规范](http://alloyteam.github.io/code-guide/) (腾讯alloyteam团队)
 
 ### Dart
 
@@ -247,6 +255,7 @@
     * [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
     * [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
     * [nodejs文档](https://www.gitbook.io/book/0532/nodejs)
+    * [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
 * backbone.js
     * [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
     * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
@@ -307,7 +316,7 @@
 * [Google Python 风格指南 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/)
 * [Python入门教程](http://liam0205.me/2013/11/02/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
 * [Python的神奇方法指南](http://article.yeeyan.org/view/311527/287706)
-* [笨办法学 Python](https://learn-python-the-hard-way-zh_cn-translation.readthedocs.org/en/1.0/)
+* [笨办法学 Python](http://sebug.net/paper/books/LearnPythonTheHardWay/) （[PDF](http://liam0205.me/attachment/Python/PyHardWay/Learn_Python_The_Hard_Way_zh-cn.pdf)版下载）
 * [Django 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/)
 * [Django 最佳实践](https://github.com/brantyoung/zh-django-best-practices)
 * [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
@@ -318,8 +327,10 @@
 * [Flask 文档中文版](http://docs.jinkan.org/docs/flask/)
 * [Jinja2 文档中文版](http://docs.jinkan.org/docs/jinja2/)
 * [Werkzeug 文档中文版](http://werkzeug-docs-cn.readthedocs.org/zh_CN/latest/)
+* [Flask之旅](http://spacewander.github.io/explore-flask-zh)
 * [Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html)
 * [Python自然语言处理中文版](http://pan.baidu.com/s/1qW4pvnY) （感谢陈涛同学的翻译，也谢谢 [@shwley](https://github.com/shwley) 联系了作者）
+* [Python 绘图库 matplotlib 官方指南中文翻译](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
 
 ### Ruby
 
@@ -346,6 +357,11 @@
 ### Groovy
 
 * [实战 Groovy 系列](http://www.ibm.com/developerworks/cn/java/j-pg/)
+
+### LaTeX
+
+* [一份其实很短的 LaTeX 入门文档](http://liam0205.me/2014/09/08/latex-introduction/)
+* [一份不太简短的 LATEX 2ε 介绍](http://www.mohu.org/info/lshort-cn.pdf) （PDF版）
 
 ### LISP
 
@@ -396,6 +412,8 @@
 * [学习笔记: Vim、Python、memcached](https://github.com/lzjun567/note)
 * [图灵开放书翻译计划--C++、Python、Java等](http://www.ituring.com.cn/activity/details/2004)
 * [蒂姆·奥莱利随笔](http://g.yeeyan.org/books/2095) （由译言网翻译，电子版免费）
+* [Octave 入门](http://coer.zju.edu.cn/liu/octave-tutorial-cn.pdf) （PDF版）
+* [SICP 解题集](http://sicp.readthedocs.org/en/latest/)
 
 ### 测试相关
 
