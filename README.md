@@ -11,7 +11,7 @@
 
 欢迎大家将珍藏已久的经典免费书籍共享出来，您可以：
 
-* 使用 [Issues](https://github.com/justjavac/free-programming-books-zh_CN/issues) 以及 Pull Request 
+* 使用 [Issues](https://github.com/justjavac/free-programming-books-zh_CN/issues) 以及 Pull Request
 
 贡献者名单: https://github.com/justjavac/free-programming-books-zh_CN/graphs/contributors
 
@@ -44,7 +44,7 @@
   * [Web](#web)
   * [大数据](#大数据)
   * [编程艺术](#编程艺术)
-  
+
 * [语言相关类](#语言相关类)
   * [AWK](#awk)
   * [C/C++](#cc)
@@ -72,7 +72,7 @@
   * [Vimscript](#vimscript)
 
 * [读书笔记及其它](#读书笔记及其它)
-  
+
 ## 语言无关类
 
 ### 操作系统
@@ -121,7 +121,7 @@
 * [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
 * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
 * [Neo4j 简体中文手册 v1.8](http://docs.neo4j.org.cn/)
-* [Neo4j .rb 中文資源](http://neo4j.tw/) 
+* [Neo4j .rb 中文資源](http://neo4j.tw/)
 
 ### MySQL
 
@@ -138,7 +138,7 @@
 
 ### Web
 
-* [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home) 
+* [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home)
 * [前端知识体系](http://knowledge.ecomfe.com/)
 * [浏览器开发工具的秘密](http://jinlong.github.io/2013/08/29/devtoolsecrets/)
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
@@ -148,6 +148,7 @@
 * [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
 * [移动前端开发收藏夹](https://github.com/hoosin/mobile-web-favorites)
 * [JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
+* [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
 
 ### 大数据
 
@@ -158,7 +159,6 @@
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
 * [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
-* [接口设计指北](https://github.com/bolasblack/api-guide)
 
 ## 语言相关类
 
@@ -271,15 +271,15 @@
     * [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn)
     * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
     * [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/)
-* [zepto 简明中文手册](http://www.360weboy.com/handbook/zepto/index.html) 
+* [zepto 简明中文手册](http://www.360weboy.com/handbook/zepto/index.html)
 * Sea.js
     * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
 * CoffeeScript
     * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
     * [The Little Book on CoffeeScript中文版](http://island205.github.io/tlboc/)
 * ExtJS
-    * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)  
-* [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)  
+    * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
+* [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
 ### PHP
 
@@ -287,7 +287,7 @@
 * [XDebug 2中文手册(译)](http://www.blogkun.com/project.html) (CHM)
 * [PHP之道](http://wulijun.github.io/php-the-right-way/)
 * [PHP 最佳实践](https://github.com/justjavac/PHP-Best-Practices-zh_CN)
-* [PHP安全最佳实践](http://www.blogkun.com/php/2013/12/21/php-security-best-practices/) 
+* [PHP安全最佳实践](http://www.blogkun.com/php/2013/12/21/php-security-best-practices/)
 * [深入理解PHP内核](https://github.com/reeze/tipi)
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/)
 * [CodeIgniter 用户指南](http://codeigniter.org.cn/user_guide/index.html)
