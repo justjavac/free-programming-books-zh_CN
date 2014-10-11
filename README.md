@@ -88,6 +88,10 @@
 * [Docker —— 从入门到实践](https://github.com/yeasy/docker_practice)
 * [FreeRADIUS新手入门](http://freeradius.akagi201.org)
 
+#### 智能系统
+* [一步步搭建物联网系统](https://github.com/gmszone/designiot)
+
+
 ### WEB服务器
 
 * [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) (淘宝团队出品)
