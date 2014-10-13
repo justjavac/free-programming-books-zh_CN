@@ -62,7 +62,7 @@
   * [Shell](#shell)
   * [Go](#go)
   * [Groovy](#groovy)
-  * [LaTeX](latex)
+  * [LaTeX](#latex)
   * [LISP](#lisp)
   * [Lua](#lua)
   * [Haskell](#haskell)
