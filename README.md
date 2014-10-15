@@ -261,6 +261,8 @@
     * [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
     * [nodejs文档](https://www.gitbook.io/book/0532/nodejs)
     * [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
+* underscore.js
+    * [Underscore.js中文文档](http://learningcn.com/underscore/)
 * backbone.js
     * [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
     * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
