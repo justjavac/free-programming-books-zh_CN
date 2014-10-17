@@ -319,6 +319,7 @@
 * [简明Python教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
 * [Python 2.7 官方教程中文版](http://www.pythondoc.com/pythontutorial27/index.html)
 * [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
+* [深入 Python 3](http://sebug.net/paper/books/dive-into-python3/)
 * [PEP8 Python代码风格规范](https://code.google.com/p/zhong-wiki/wiki/PEP8)
 * [Google Python 风格指南 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/)
 * [Python入门教程](http://liam0205.me/2013/11/02/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
