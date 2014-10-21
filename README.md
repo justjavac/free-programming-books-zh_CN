@@ -407,6 +407,7 @@
 * [蒂姆·奥莱利随笔](http://g.yeeyan.org/books/2095) （由译言网翻译，电子版免费）
 * [Octave 入门](http://coer.zju.edu.cn/liu/octave-tutorial-cn.pdf) （PDF版）
 * [SICP 解题集](http://sicp.readthedocs.org/en/latest/)
+* [精彩博客集合](https://github.com/hacke2/hacke2.github.io/issues/2)
 
 ### 测试相关
 
