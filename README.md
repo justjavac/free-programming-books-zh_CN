@@ -15,23 +15,6 @@
 
 贡献者名单: https://github.com/justjavac/free-programming-books-zh_CN/graphs/contributors
 
-**注**：看到有人 fork 此 repository，其实如果觉得有帮助，可以 star 或者 watch，
-如果 fork 到你的 repositories 下则不能保证你的 repo 是最新的，除非是主动定期的 pull。
-
-* star 的作用是收藏，目的是方便以后查找。
-* watch 的作用是关注，目的是等我更新的时候，你可以收到通知。
-* fork 的作用是参与，目的是你增加新的内容，然后 Pull Request，我会考虑把你的修改和我原来的内容合并。
-
-请选择合理的方式。（上面的内容是写给一些 fork 狂的，很多开发者喜欢 fork 一些 linux 内核，jquery之类的东东，其实这些东东完全没有必要 fork）
-
-## 捐赠与福利
-
-如果觉得我收录的内容对你有帮助，可以捐赠我点比特币 `15hfB3YMe31TkLz9vS8ybY7NFGHRXr2HyP`。
-
-如果你没有可以去这儿**免费领取**：[如何免费获得比特币？](https://github.com/freebitcoin/freebitcoin)
-
-通过 Gittip 捐赠: https://www.gittip.com/justjavac/
-
 ## 目录
 
 * [语言无关类](#语言无关类)
