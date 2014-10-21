@@ -132,7 +132,7 @@
 * [移动前端开发收藏夹](https://github.com/hoosin/mobile-web-favorites)
 * [JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
 * [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
-* [前端资源分享](hacke2/hacke2.github.io#3)
+* [前端资源分享](https://github.com/hacke2/hacke2.github.io/issues/3)
 
 ### 大数据
 
