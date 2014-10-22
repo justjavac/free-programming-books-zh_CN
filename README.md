@@ -15,23 +15,6 @@
 
 贡献者名单: https://github.com/justjavac/free-programming-books-zh_CN/graphs/contributors
 
-**注**：看到有人 fork 此 repository，其实如果觉得有帮助，可以 star 或者 watch，
-如果 fork 到你的 repositories 下则不能保证你的 repo 是最新的，除非是主动定期的 pull。
-
-* star 的作用是收藏，目的是方便以后查找。
-* watch 的作用是关注，目的是等我更新的时候，你可以收到通知。
-* fork 的作用是参与，目的是你增加新的内容，然后 Pull Request，我会考虑把你的修改和我原来的内容合并。
-
-请选择合理的方式。（上面的内容是写给一些 fork 狂的，很多开发者喜欢 fork 一些 linux 内核，jquery之类的东东，其实这些东东完全没有必要 fork）
-
-## 捐赠与福利
-
-如果觉得我收录的内容对你有帮助，可以捐赠我点比特币 `15hfB3YMe31TkLz9vS8ybY7NFGHRXr2HyP`。
-
-如果你没有可以去这儿**免费领取**：[如何免费获得比特币？](https://github.com/freebitcoin/freebitcoin)
-
-通过 Gittip 捐赠: https://www.gittip.com/justjavac/
-
 ## 目录
 
 * [语言无关类](#语言无关类)
@@ -149,6 +132,8 @@
 * [移动前端开发收藏夹](https://github.com/hoosin/mobile-web-favorites)
 * [JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
 * [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
+* [前端资源分享（一）](https://github.com/hacke2/hacke2.github.io/issues/1)
+* [前端资源分享（二）](https://github.com/hacke2/hacke2.github.io/issues/3)
 
 ### 大数据
 
@@ -423,6 +408,7 @@
 * [蒂姆·奥莱利随笔](http://g.yeeyan.org/books/2095) （由译言网翻译，电子版免费）
 * [Octave 入门](http://coer.zju.edu.cn/liu/octave-tutorial-cn.pdf) （PDF版）
 * [SICP 解题集](http://sicp.readthedocs.org/en/latest/)
+* [精彩博客集合](https://github.com/hacke2/hacke2.github.io/issues/2)
 
 ### 测试相关
 
