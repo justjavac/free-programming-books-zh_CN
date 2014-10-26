@@ -412,6 +412,7 @@
 * [Octave 入门](http://coer.zju.edu.cn/liu/octave-tutorial-cn.pdf) （PDF版）
 * [SICP 解题集](http://sicp.readthedocs.org/en/latest/)
 * [精彩博客集合](https://github.com/hacke2/hacke2.github.io/issues/2)
+* [正则表达式简明参考](http://www.xiaoleilu.com/regex-guide/)
 
 ### 测试相关
 
