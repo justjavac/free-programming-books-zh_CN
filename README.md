@@ -83,6 +83,7 @@
 
 * [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) （本文由 [@廖雪峰](http://weibo.com/liaoxuefeng) 创作，如果觉得本教程对您有帮助，可以去 [iTunes](https://itunes.apple.com/cn/app/git-jiao-cheng/id876420437) 购买）
 * [git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+* [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
 * [Git 参考手册](http://gitref.justjavac.com)
 * [Pro Git](http://git-scm.com/book/zh)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
@@ -124,6 +125,7 @@
 * [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home)
 * [前端知识体系](http://knowledge.ecomfe.com/)
 * [浏览器开发工具的秘密](http://jinlong.github.io/2013/08/29/devtoolsecrets/)
+* [Chrome 开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
 * [Grunt中文文档](http://www.gruntjs.org/)
 * [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
@@ -411,6 +413,7 @@
 * [Octave 入门](http://coer.zju.edu.cn/liu/octave-tutorial-cn.pdf) （PDF版）
 * [SICP 解题集](http://sicp.readthedocs.org/en/latest/)
 * [精彩博客集合](https://github.com/hacke2/hacke2.github.io/issues/2)
+* [正则表达式简明参考](http://www.xiaoleilu.com/regex-guide/)
 
 ### 测试相关
 
