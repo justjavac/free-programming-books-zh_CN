@@ -249,6 +249,7 @@
     * [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
     * [nodejs文档](https://www.gitbook.io/book/0532/nodejs)
     * [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
+    * [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.org/package/learnyounode-zh-cn)
 * underscore.js
     * [Underscore.js中文文档](http://learningcn.com/underscore/)
 * backbone.js
