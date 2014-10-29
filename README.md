@@ -188,6 +188,7 @@
 ### Java
 
 * [实时 Java 系列](http://www.ibm.com/developerworks/cn/java/j-rtj/?ca=j-h-p)
+* [Apache Shiro 用户指南](https://github.com/waylau/apache-shiro-1.2.x-reference)
 
 * 使用 Eclipse 和 Java SE 6 创建独立 Web Services 应用程序
     * [第 1 部分: Web Services 服务端应用程序](http://www.ibm.com/developerworks/cn/education/webservices/ws-eclipse-javase1/index.html)
