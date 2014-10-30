@@ -70,6 +70,7 @@
 * [Docker中文指南](https://github.com/widuu/chinese_docker)
 * [Docker —— 从入门到实践](https://github.com/yeasy/docker_practice)
 * [FreeRADIUS新手入门](http://freeradius.akagi201.org)
+* [Mac 开发配置手册](http://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 
 #### 智能系统
 * [一步步搭建物联网系统](https://github.com/gmszone/designiot)
