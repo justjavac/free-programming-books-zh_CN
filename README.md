@@ -188,6 +188,7 @@
 ### Java
 
 * [实时 Java 系列](http://www.ibm.com/developerworks/cn/java/j-rtj/?ca=j-h-p)
+* [Apache Shiro 用户指南](https://github.com/waylau/apache-shiro-1.2.x-reference)
 
 * 使用 Eclipse 和 Java SE 6 创建独立 Web Services 应用程序
     * [第 1 部分: Web Services 服务端应用程序](http://www.ibm.com/developerworks/cn/education/webservices/ws-eclipse-javase1/index.html)
@@ -248,6 +249,7 @@
     * [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
     * [nodejs文档](https://www.gitbook.io/book/0532/nodejs)
     * [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
+    * [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.org/package/learnyounode-zh-cn)
 * underscore.js
     * [Underscore.js中文文档](http://learningcn.com/underscore/)
 * backbone.js
