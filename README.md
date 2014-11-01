@@ -93,7 +93,7 @@
 * [Mercurial 使用教程](http://mercurial.selenic.com/wiki/ChineseTutorial)
 * [HgInit (中文版)](http://bucunzai.net/hginit/)
 * [沉浸式学 Git](http://igit.linuxtoy.org/)
-* [Git-Cheat-Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet) （感谢 @ArslanBilal 翻译了中文版）
+* [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) （感谢 @flyhigher139 翻译了中文版）
 
 
 ### NoSQL
