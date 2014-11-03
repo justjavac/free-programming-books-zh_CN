@@ -289,6 +289,7 @@
 * [Phalcon中文文档](http://phalcon.5iunix.net/)（翻译进行中）
 * [YiiBook几本Yii框架的在线教程](http://yiibook.com/)
 * [简单易懂的PHP魔法](http://www.nowamagic.net/librarys/books/contents/php)
+* [swoole文档及入门教程](https://github.com/LinkedDestiny/swoole-doc)
 
 ### iOS
 
