@@ -137,6 +137,7 @@
 * [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
 * [前端资源分享（一）](https://github.com/hacke2/hacke2.github.io/issues/1)
 * [前端资源分享（二）](https://github.com/hacke2/hacke2.github.io/issues/3)
+* [前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
 
 ### 大数据
 
