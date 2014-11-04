@@ -13,7 +13,7 @@
 
 * 使用 [Issues](https://github.com/justjavac/free-programming-books-zh_CN/issues) 以及 Pull Request
 
-贡献者名单: https://github.com/justjavac/free-programmch'ring-books-zh_CN/graphs/contributors
+贡献者名单: https://github.com/justjavac/free-programming-books-zh_CN/graphs/contributors
 
 ## 目录
 
