@@ -93,7 +93,7 @@
 * [Mercurial 使用教程](http://mercurial.selenic.com/wiki/ChineseTutorial)
 * [HgInit (中文版)](http://bucunzai.net/hginit/)
 * [沉浸式学 Git](http://igit.linuxtoy.org/)
-* [Git-Cheat-Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet) （感谢 @ArslanBilal 翻译了中文版）
+* [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) （感谢 @flyhigher139 翻译了中文版）
 
 
 ### NoSQL
@@ -137,6 +137,7 @@
 * [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
 * [前端资源分享（一）](https://github.com/hacke2/hacke2.github.io/issues/1)
 * [前端资源分享（二）](https://github.com/hacke2/hacke2.github.io/issues/3)
+* [前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
 
 ### 大数据
 
@@ -240,6 +241,7 @@
 * jQuery
     * [jQuery 解构](http://www.cn-cuckoo.com/deconstructed/jquery.html)
     * [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
+    * [How to write jQuery plugin](http://i5ting.github.io/How-to-write-jQuery-plugin/build/jquery.plugin.html)
 * Node.js
     * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
     * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
@@ -289,6 +291,7 @@
 * [Phalcon中文文档](http://phalcon.5iunix.net/)（翻译进行中）
 * [YiiBook几本Yii框架的在线教程](http://yiibook.com/)
 * [简单易懂的PHP魔法](http://www.nowamagic.net/librarys/books/contents/php)
+* [swoole文档及入门教程](https://github.com/LinkedDestiny/swoole-doc)
 
 ### iOS
 
