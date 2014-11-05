@@ -127,6 +127,7 @@
 * [前端知识体系](http://knowledge.ecomfe.com/)
 * [浏览器开发工具的秘密](http://jinlong.github.io/2013/08/29/devtoolsecrets/)
 * [Chrome 开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
+* [Chrome 扩展中文文档](https://lmk123.duapp.com/extensions/api_index)
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
 * [Grunt中文文档](http://www.gruntjs.org/)
 * [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
@@ -245,6 +246,7 @@
 * Node.js
     * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
     * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
+    * [Nodejs中文资料导航](https://github.com/sergtitov/NodeJS-Learning/blob/master/cn_resource.md)
     * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
     * [express.js 中文文档](http://expressjs.jser.us/)
     * [koa 中文文档](https://github.com/turingou/koa-guide)
