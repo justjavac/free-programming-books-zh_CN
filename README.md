@@ -179,6 +179,7 @@
 * [CSS参考手册](http://css.doyoe.com/)
 * [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
 * [前端代码规范](http://alloyteam.github.io/code-guide/) (腾讯alloyteam团队)
+* [CSS创作指南](https://github.com/yisibl/css-creating)
 
 ### Dart
 
