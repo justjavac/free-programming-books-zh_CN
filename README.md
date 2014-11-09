@@ -27,6 +27,7 @@
   * [Web](#web)
   * [大数据](#大数据)
   * [编程艺术](#编程艺术)
+  * [工具](#工具)
 
 * [语言相关类](#语言相关类)
   * [AWK](#awk)
@@ -149,6 +150,10 @@
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
 * [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
+
+### 工具
+
+* [Sublime Text 全程指南](http://zh.lucida.me/blog/sublime-text-complete-guide/)
 
 ## 语言相关类
 
