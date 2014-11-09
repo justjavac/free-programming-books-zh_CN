@@ -110,7 +110,7 @@
 
 ### MySQL
 
-* [MySQL索引背后的数据结构及算法原理](http://www.cnblogs.com/leoo2sk/archive/2011/07/10/mysql-index.html)
+* [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 
 ### 项目相关
 
@@ -136,9 +136,7 @@
 * [移动前端开发收藏夹](https://github.com/hoosin/mobile-web-favorites)
 * [JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
 * [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
-* [前端资源分享（一）](https://github.com/hacke2/hacke2.github.io/issues/1)
-* [前端资源分享（二）](https://github.com/hacke2/hacke2.github.io/issues/3)
-* [前端资源分享（三）](https://github.com/hacke2/hacke2.github.io/issues/6)
+* [前端资源分享 半月刊](http://www.hacke2.cn/monthly)
 * [我收集的一些关于前端的思维导图](https://github.com/hacke2/hacke2.github.io/issues/8)
 * [前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
 
@@ -181,6 +179,7 @@
 * [CSS参考手册](http://css.doyoe.com/)
 * [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
 * [前端代码规范](http://alloyteam.github.io/code-guide/) (腾讯alloyteam团队)
+* [CSS创作指南](https://github.com/yisibl/css-creating)
 
 ### Dart
 
