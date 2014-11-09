@@ -80,6 +80,7 @@
 ### WEB服务器
 
 * [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) (淘宝团队出品)
+* [Web性能权威指南](http://maemual-share.qiniudn.com/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
 
 ### 版本控制
 
@@ -177,6 +178,7 @@
 * [简单易懂的C魔法](http://www.nowamagic.net/librarys/books/contents/c)
 * [Cmake 实践](http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF版)
 * [C++ FAQ LITE(中文版)](http://www.sunistudio.com/cppfaq/)
+* [C++Primer+中文第四版(非扫描)](http://maemual-share.qiniudn.com/C%2B%2BPrimer%2B%E4%B8%AD%E6%96%87%E7%AC%AC%E5%9B%9B%E7%89%88(%E9%9D%9E%E6%89%AB%E6%8F%8F.pdf)
 
 ### CSS
 
