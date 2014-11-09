@@ -90,6 +90,7 @@
 * [Pro Git](http://git-scm.com/book/zh)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 * [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
+* [Github 帮助文档(中文翻译)](https://github.com/waylau/github-help)
 * [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
 * [Mercurial 使用教程](http://mercurial.selenic.com/wiki/ChineseTutorial)
 * [HgInit (中文版)](http://bucunzai.net/hginit/)
