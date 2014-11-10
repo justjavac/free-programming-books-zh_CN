@@ -27,6 +27,7 @@
   * [Web](#web)
   * [大数据](#大数据)
   * [编程艺术](#编程艺术)
+  * [工具](#工具)
 
 * [语言相关类](#语言相关类)
   * [AWK](#awk)
@@ -89,6 +90,7 @@
 * [Pro Git](http://git-scm.com/book/zh)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 * [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
+* [Github 帮助文档(中文翻译)](https://github.com/waylau/github-help)
 * [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
 * [Mercurial 使用教程](http://mercurial.selenic.com/wiki/ChineseTutorial)
 * [HgInit (中文版)](http://bucunzai.net/hginit/)
@@ -149,6 +151,10 @@
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
 * [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
+
+### 工具
+
+* [Sublime Text 全程指南](http://zh.lucida.me/blog/sublime-text-complete-guide/)
 
 ## 语言相关类
 
@@ -336,6 +342,7 @@
 * [Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html)
 * [Python自然语言处理中文版](http://pan.baidu.com/s/1qW4pvnY) （感谢陈涛同学的翻译，也谢谢 [@shwley](https://github.com/shwley) 联系了作者）
 * [Python 绘图库 matplotlib 官方指南中文翻译](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
+* [用Python做科学计算](http://sebug.net/paper/books/scipydoc/)
 * [Scrapy 0.25 文档](http://scrapy-chs.readthedocs.org/zh_CN/latest/)
 
 ### Ruby
@@ -423,6 +430,7 @@
 * [SICP 解题集](http://sicp.readthedocs.org/en/latest/)
 * [精彩博客集合](https://github.com/hacke2/hacke2.github.io/issues/2)
 * [正则表达式简明参考](http://www.xiaoleilu.com/regex-guide/)
+* [各语言的快速入门](https://github.com/adambard/learnxinyminutes-docs/tree/master/zh-cn)
 
 ### 测试相关
 
