@@ -335,7 +335,7 @@
 * [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn)
 * [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
 * [Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/)
-* [Bottle 文档中文版](https://associates.amazon.cn/gp/associates/network/main.html) (需翻墙)
+* [Bottle 文档中文版](http://justjavac.com/python/2014/06/26/bottle-doc-cn.html) (原文需翻墙，我转到我博客了)
 * [Flask 文档中文版](http://docs.jinkan.org/docs/flask/)
 * [Jinja2 文档中文版](http://docs.jinkan.org/docs/jinja2/)
 * [Werkzeug 文档中文版](http://werkzeug-docs-cn.readthedocs.org/zh_CN/latest/)
