@@ -125,6 +125,7 @@
 
 ### Web
 
+* [一个合格的前端工程师必看的书籍](http://caifujianghu.com/article/yige-hege-de-qianduan-gongchengshi-bikan-de-shuji.html)
 * [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home)
 * [前端知识体系](http://knowledge.ecomfe.com/)
 * [浏览器开发工具的秘密](http://jinlong.github.io/2013/08/29/devtoolsecrets/)
@@ -156,6 +157,7 @@
 ### 工具
 
 * [Sublime Text 全程指南](http://zh.lucida.me/blog/sublime-text-complete-guide/)
+* [Kibana 中文指南](https://github.com/chenryn/kibana-guide-cn)
 
 ## 语言相关类
 
@@ -335,7 +337,7 @@
 * [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn)
 * [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
 * [Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/)
-* [Bottle 文档中文版](https://associates.amazon.cn/gp/associates/network/main.html) (需翻墙)
+* [Bottle 文档中文版](http://justjavac.com/python/2014/06/26/bottle-doc-cn.html) (原文需翻墙，我转到我博客了)
 * [Flask 文档中文版](http://docs.jinkan.org/docs/flask/)
 * [Jinja2 文档中文版](http://docs.jinkan.org/docs/jinja2/)
 * [Werkzeug 文档中文版](http://werkzeug-docs-cn.readthedocs.org/zh_CN/latest/)
