@@ -157,6 +157,7 @@
 ### 工具
 
 * [Sublime Text 全程指南](http://zh.lucida.me/blog/sublime-text-complete-guide/)
+* [Kibana 中文指南](https://github.com/chenryn/kibana-guide-cn)
 
 ## 语言相关类
 
