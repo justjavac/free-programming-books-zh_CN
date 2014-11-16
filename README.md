@@ -406,6 +406,9 @@
 
 * [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com/)
 
+### Scheme
+* [Yet Another Scheme Tutorial Scheme入门教程](http://deathking.github.io/yast-cn/)
+
 ### 读书笔记及其它
 
 * [编译原理（紫龙书）中文第2版习题答案](https://github.com/fool2fish/dragon-book-exercise-answers)
