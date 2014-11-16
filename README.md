@@ -27,7 +27,6 @@
   * [Web](#web)
   * [大数据](#大数据)
   * [编程艺术](#编程艺术)
-  * [工具](#工具)
 
 * [语言相关类](#语言相关类)
   * [AWK](#awk)
@@ -43,7 +42,6 @@
   * [Python](#python)
   * [Prolog](#prolog)
   * [Ruby](#ruby)
-  * [Rust](#rust)
   * [Shell](#shell)
   * [Go](#go)
   * [Groovy](#groovy)
@@ -91,7 +89,6 @@
 * [Pro Git](http://git-scm.com/book/zh)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 * [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
-* [Github 帮助文档(中文翻译)](https://github.com/waylau/github-help)
 * [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
 * [Mercurial 使用教程](http://mercurial.selenic.com/wiki/ChineseTutorial)
 * [HgInit (中文版)](http://bucunzai.net/hginit/)
@@ -113,7 +110,7 @@
 
 ### MySQL
 
-* [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
+* [MySQL索引背后的数据结构及算法原理](http://www.cnblogs.com/leoo2sk/archive/2011/07/10/mysql-index.html)
 
 ### 项目相关
 
@@ -126,12 +123,10 @@
 
 ### Web
 
-* [一个合格的前端工程师必看的书籍](http://caifujianghu.com/article/yige-hege-de-qianduan-gongchengshi-bikan-de-shuji.html)
 * [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home)
 * [前端知识体系](http://knowledge.ecomfe.com/)
 * [浏览器开发工具的秘密](http://jinlong.github.io/2013/08/29/devtoolsecrets/)
 * [Chrome 开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
-* [Chrome 扩展中文文档](https://lmk123.duapp.com/extensions/api_index)
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
 * [Grunt中文文档](http://www.gruntjs.org/)
 * [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
@@ -140,8 +135,8 @@
 * [移动前端开发收藏夹](https://github.com/hoosin/mobile-web-favorites)
 * [JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
 * [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
-* [前端资源分享 半月刊](http://www.hacke2.cn/monthly)
-* [我收集的一些关于前端的思维导图](https://github.com/hacke2/hacke2.github.io/issues/8)
+* [前端资源分享（一）](https://github.com/hacke2/hacke2.github.io/issues/1)
+* [前端资源分享（二）](https://github.com/hacke2/hacke2.github.io/issues/3)
 * [前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
 
 ### 大数据
@@ -153,12 +148,6 @@
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
 * [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
-* [The introduction to Reactive Programming you've been missing -- 中文版](https://github.com/benjycui/introrx-chinese-edition)
-
-### 工具
-
-* [Sublime Text 全程指南](http://zh.lucida.me/blog/sublime-text-complete-guide/)
-* [Kibana 中文指南](https://github.com/chenryn/kibana-guide-cn)
 
 ## 语言相关类
 
@@ -169,7 +158,6 @@
 ### C/C++
 
 * [C++ 并发编程指南](https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial) ([@傅海平ICT](http://weibo.com/1702076100))
-* [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 * [Linux C编程一站式学习](http://akaedu.github.io/book/) (宋劲杉, 北京亚嵌教育研究中心)
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
 * [ZMQ 指南](https://github.com/anjuke/zguide-cn)
@@ -190,7 +178,6 @@
 * [CSS参考手册](http://css.doyoe.com/)
 * [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
 * [前端代码规范](http://alloyteam.github.io/code-guide/) (腾讯alloyteam团队)
-* [CSS创作指南](https://github.com/yisibl/css-creating)
 
 ### Dart
 
@@ -258,7 +245,6 @@
 * Node.js
     * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
     * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
-    * [Nodejs中文资料导航](https://github.com/sergtitov/NodeJS-Learning/blob/master/cn_resource.md)
     * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
     * [express.js 中文文档](http://expressjs.jser.us/)
     * [koa 中文文档](https://github.com/turingou/koa-guide)
@@ -339,7 +325,7 @@
 * [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn)
 * [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
 * [Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/)
-* [Bottle 文档中文版](http://justjavac.com/python/2014/06/26/bottle-doc-cn.html) (原文需翻墙，我转到我博客了)
+* [Bottle 文档中文版](https://associates.amazon.cn/gp/associates/network/main.html) (需翻墙)
 * [Flask 文档中文版](http://docs.jinkan.org/docs/flask/)
 * [Jinja2 文档中文版](http://docs.jinkan.org/docs/jinja2/)
 * [Werkzeug 文档中文版](http://werkzeug-docs-cn.readthedocs.org/zh_CN/latest/)
@@ -347,7 +333,6 @@
 * [Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html)
 * [Python自然语言处理中文版](http://pan.baidu.com/s/1qW4pvnY) （感谢陈涛同学的翻译，也谢谢 [@shwley](https://github.com/shwley) 联系了作者）
 * [Python 绘图库 matplotlib 官方指南中文翻译](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
-* [用Python做科学计算](http://sebug.net/paper/books/scipydoc/)
 * [Scrapy 0.25 文档](http://scrapy-chs.readthedocs.org/zh_CN/latest/)
 
 ### Ruby
@@ -359,10 +344,6 @@
 * [Ruby on Rails 實戰聖經](http://ihower.tw/rails4/index.html)
 * [Ruby on Rails Tutorial 原书第 2 版](http://railstutorial-china.org/) (本书网页版免费提供，电子版以 PDF、EPub 和 Mobi 格式提供购买，仅售 9.9 美元)
 * [编写Ruby的C拓展](http://wusuopu.gitbooks.io/write-ruby-extension-with-c/index.html)
-
-### Rust
-
-* [RUST 官方文档翻译](https://github.com/tennix/rustdoc-zh_CN)
 
 ### Shell
 
@@ -425,6 +406,9 @@
 
 * [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com/)
 
+### Scheme
+* [Yet Another Scheme Tutorial Scheme入门教程](http://deathking.github.io/yast-cn/)
+
 ### 读书笔记及其它
 
 * [编译原理（紫龙书）中文第2版习题答案](https://github.com/fool2fish/dragon-book-exercise-answers)
@@ -439,7 +423,6 @@
 * [SICP 解题集](http://sicp.readthedocs.org/en/latest/)
 * [精彩博客集合](https://github.com/hacke2/hacke2.github.io/issues/2)
 * [正则表达式简明参考](http://www.xiaoleilu.com/regex-guide/)
-* [各语言的快速入门](https://github.com/adambard/learnxinyminutes-docs/tree/master/zh-cn)
 
 ### 测试相关
 
