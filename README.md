@@ -163,6 +163,8 @@
 * [C++ 并发编程指南](https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial) ([@傅海平ICT](http://weibo.com/1702076100))
 * [Linux C编程一站式学习](http://akaedu.github.io/book/) (宋劲杉, 北京亚嵌教育研究中心)
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
+* [100个gdb小技巧](https://github.com/hellogcc/100-gdb-tips/blob/master/src/index.md)
+* [100个gcc小技巧](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
 * [ZMQ 指南](https://github.com/anjuke/zguide-cn)
 * [How to Think Like a Computer Scientist](http://www.ituring.com.cn/book/1203) (中英文版)
 * [跟我一起写Makefile(PDF)](http://scc.qibebt.cas.cn/docs/linux/base/%B8%FA%CE%D2%D2%BB%C6%F0%D0%B4Makefile-%B3%C2%F0%A9.pdf)
