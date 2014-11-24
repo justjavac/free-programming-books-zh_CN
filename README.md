@@ -163,6 +163,8 @@
 * [C++ 并发编程指南](https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial) ([@傅海平ICT](http://weibo.com/1702076100))
 * [Linux C编程一站式学习](http://akaedu.github.io/book/) (宋劲杉, 北京亚嵌教育研究中心)
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
+* [100个gdb小技巧](https://github.com/hellogcc/100-gdb-tips/blob/master/src/index.md)
+* [100个gcc小技巧](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
 * [ZMQ 指南](https://github.com/anjuke/zguide-cn)
 * [How to Think Like a Computer Scientist](http://www.ituring.com.cn/book/1203) (中英文版)
 * [跟我一起写Makefile(PDF)](http://scc.qibebt.cas.cn/docs/linux/base/%B8%FA%CE%D2%D2%BB%C6%F0%D0%B4Makefile-%B3%C2%F0%A9.pdf)
@@ -302,6 +304,7 @@
 * [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
 * [Google Objective-C Style Guide 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/)
 * [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
+* [Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
 
 ### Android
 
@@ -346,7 +349,7 @@
 * [Ruby on Rails 指南](http://guides.ruby-china.org/)
 * [Ruby on Rails 實戰聖經](http://ihower.tw/rails4/index.html)
 * [Ruby on Rails Tutorial 原书第 2 版](http://railstutorial-china.org/) (本书网页版免费提供，电子版以 PDF、EPub 和 Mobi 格式提供购买，仅售 9.9 美元)
-* [编写Ruby的C拓展](http://wusuopu.gitbooks.io/write-ruby-extension-with-c/index.html)
+* [编写Ruby的C拓展](http://wusuopu.gitbooks.io/write-ruby-extension-with-c/content/)
 
 ### Shell
 
