@@ -175,7 +175,7 @@
 * [简单易懂的C魔法](http://www.nowamagic.net/librarys/books/contents/c)
 * [Cmake 实践](http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF版)
 * [C++ FAQ LITE(中文版)](http://www.sunistudio.com/cppfaq/)
-
+* [C++ Primer 5th Answers](https://github.com/Mooophy/Cpp-Primer)
 ### CSS
 
 * [学习CSS布局](http://zh.learnlayout.com/)
