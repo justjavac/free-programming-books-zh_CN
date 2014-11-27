@@ -141,6 +141,7 @@
 * [前端资源分享（一）](https://github.com/hacke2/hacke2.github.io/issues/1)
 * [前端资源分享（二）](https://github.com/hacke2/hacke2.github.io/issues/3)
 * [前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
+* [w3school教程整理](http://www.flygon.net/archives/427)
 
 ### 大数据
 
