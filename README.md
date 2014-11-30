@@ -73,6 +73,7 @@
 * [Docker —— 从入门到实践](https://github.com/yeasy/docker_practice)
 * [FreeRADIUS新手入门](http://freeradius.akagi201.org)
 * [Mac 开发配置手册](http://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
+* [FreeBSD 使用手册](https://www.freebsd.org/doc/zh_CN/books/handbook/index.html)
 
 #### 智能系统
 * [一步步搭建物联网系统](https://github.com/gmszone/designiot)
@@ -342,6 +343,7 @@
 * [Python自然语言处理中文版](http://pan.baidu.com/s/1qW4pvnY) （感谢陈涛同学的翻译，也谢谢 [@shwley](https://github.com/shwley) 联系了作者）
 * [Python 绘图库 matplotlib 官方指南中文翻译](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
 * [Scrapy 0.25 文档](http://scrapy-chs.readthedocs.org/zh_CN/latest/)
+* [ThinkPython](https://github.com/carfly/thinkpython-cn)
 
 ### Ruby
 
