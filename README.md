@@ -415,6 +415,7 @@
 ### Vimscript
 
 * [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com/)
+* [Vim中文文档](https://github.com/vimcn/vimcdoc)
 
 ### Scheme
 * [Yet Another Scheme Tutorial Scheme入门教程](http://deathking.github.io/yast-cn/)
