@@ -308,6 +308,7 @@
 * [Google Objective-C Style Guide 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/)
 * [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
 * [Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
+* [马上着手开发 iOS 应用程序](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOSCh/index.html)
 
 ### Android
 
