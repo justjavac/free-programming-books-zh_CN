@@ -355,7 +355,7 @@
 * [笨方法學 Ruby](http://lrthw.github.io/)
 * [Ruby on Rails 指南](http://guides.ruby-china.org/)
 * [Ruby on Rails 實戰聖經](http://ihower.tw/rails4/index.html)
-* [Ruby on Rails Tutorial 原书第 2 版](http://railstutorial-china.org/) (本书网页版免费提供，电子版以 PDF、EPub 和 Mobi 格式提供购买，仅售 9.9 美元)
+* [Ruby on Rails Tutorial 原书第 3 版](http://railstutorial-china.org/) (本书网页版免费提供，电子版以 PDF、EPub 和 Mobi 格式提供购买，仅售 9.9 美元)
 * [编写Ruby的C拓展](http://wusuopu.gitbooks.io/write-ruby-extension-with-c/content/)
 * [Ruby 源码解读](https://ruby-china.org/topics/22386)
 
