@@ -55,6 +55,7 @@
   * [Scala](#scala)
   * [Swift](#swift)
   * [Vimscript](#vimscript)
+  * [Scheme](#scheme)
 
 * [读书笔记及其它](#读书笔记及其它)
 
