@@ -7,6 +7,8 @@
 - [stackoverflow](http://stackoverflow.com/q/38210/343194) 上的程序员应该阅读的非编程类书籍有哪些？ [中文版](what-non-programming-books-should-programmers-read.md)
 - [github](https://github.com/vhf/free-programming-books) 上的一个流行的编程书籍索引  [中文版](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
 
+感谢 [@siberiawolf](https://github.com/siberiawolf) 使用 Bootstrap 开发了网页版，地址：http://siberiawolf.com/free_programming/index.html
+
 ## 参与交流
 
 欢迎大家将珍藏已久的经典免费书籍共享出来，您可以：
@@ -71,6 +73,8 @@
 * [Docker —— 从入门到实践](https://github.com/yeasy/docker_practice)
 * [FreeRADIUS新手入门](http://freeradius.akagi201.org)
 * [Mac 开发配置手册](http://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
+* [FreeBSD 使用手册](https://www.freebsd.org/doc/zh_CN/books/handbook/index.html)
+* [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
 
 #### 智能系统
 * [一步步搭建物联网系统](https://github.com/gmszone/designiot)
@@ -94,6 +98,7 @@
 * [HgInit (中文版)](http://bucunzai.net/hginit/)
 * [沉浸式学 Git](http://igit.linuxtoy.org/)
 * [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) （感谢 @flyhigher139 翻译了中文版）
+* [GitHub秘籍](http://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
 
 
 ### NoSQL
@@ -138,6 +143,7 @@
 * [前端资源分享（一）](https://github.com/hacke2/hacke2.github.io/issues/1)
 * [前端资源分享（二）](https://github.com/hacke2/hacke2.github.io/issues/3)
 * [前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
+* [w3school教程整理](http://www.flygon.net/archives/427)
 
 ### 大数据
 
@@ -148,6 +154,10 @@
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
 * [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
+
+## 其它
+
+* [OpenWrt智能、自动、透明翻墙路由器教程](http://softwaredownload.gitbooks.io/openwrt-fanqiang/)
 
 ## 语言相关类
 
@@ -160,6 +170,8 @@
 * [C++ 并发编程指南](https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial) ([@傅海平ICT](http://weibo.com/1702076100))
 * [Linux C编程一站式学习](http://akaedu.github.io/book/) (宋劲杉, 北京亚嵌教育研究中心)
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
+* [100个gdb小技巧](https://github.com/hellogcc/100-gdb-tips/blob/master/src/index.md)
+* [100个gcc小技巧](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
 * [ZMQ 指南](https://github.com/anjuke/zguide-cn)
 * [How to Think Like a Computer Scientist](http://www.ituring.com.cn/book/1203) (中英文版)
 * [跟我一起写Makefile(PDF)](http://scc.qibebt.cas.cn/docs/linux/base/%B8%FA%CE%D2%D2%BB%C6%F0%D0%B4Makefile-%B3%C2%F0%A9.pdf)
@@ -170,6 +182,7 @@
 * [简单易懂的C魔法](http://www.nowamagic.net/librarys/books/contents/c)
 * [Cmake 实践](http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF版)
 * [C++ FAQ LITE(中文版)](http://www.sunistudio.com/cppfaq/)
+* [C++ Primer 5th Answers](https://github.com/Mooophy/Cpp-Primer)
 
 ### CSS
 
@@ -253,6 +266,7 @@
     * [nodejs文档](https://www.gitbook.io/book/0532/nodejs)
     * [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
     * [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.org/package/learnyounode-zh-cn)
+    * [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
 * underscore.js
     * [Underscore.js中文文档](http://learningcn.com/underscore/)
 * backbone.js
@@ -299,6 +313,9 @@
 * [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
 * [Google Objective-C Style Guide 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/)
 * [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
+* [Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
+* [马上着手开发 iOS 应用程序](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOSCh/index.html)
+* [网易斯坦福大学公开课：iOS 7应用开发字幕文件](https://github.com/jkyin/Subtitle)
 
 ### Android
 
@@ -334,6 +351,7 @@
 * [Python自然语言处理中文版](http://pan.baidu.com/s/1qW4pvnY) （感谢陈涛同学的翻译，也谢谢 [@shwley](https://github.com/shwley) 联系了作者）
 * [Python 绘图库 matplotlib 官方指南中文翻译](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
 * [Scrapy 0.25 文档](http://scrapy-chs.readthedocs.org/zh_CN/latest/)
+* [ThinkPython](https://github.com/carfly/thinkpython-cn)
 
 ### Ruby
 
@@ -342,8 +360,9 @@
 * [笨方法學 Ruby](http://lrthw.github.io/)
 * [Ruby on Rails 指南](http://guides.ruby-china.org/)
 * [Ruby on Rails 實戰聖經](http://ihower.tw/rails4/index.html)
-* [Ruby on Rails Tutorial 原书第 2 版](http://railstutorial-china.org/) (本书网页版免费提供，电子版以 PDF、EPub 和 Mobi 格式提供购买，仅售 9.9 美元)
-* [编写Ruby的C拓展](http://wusuopu.gitbooks.io/write-ruby-extension-with-c/index.html)
+* [Ruby on Rails Tutorial 原书第 3 版](http://railstutorial-china.org/) (本书网页版免费提供，电子版以 PDF、EPub 和 Mobi 格式提供购买，仅售 9.9 美元)
+* [编写Ruby的C拓展](http://wusuopu.gitbooks.io/write-ruby-extension-with-c/content/)
+* [Ruby 源码解读](https://ruby-china.org/topics/22386)
 
 ### Shell
 
@@ -405,6 +424,7 @@
 ### Vimscript
 
 * [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com/)
+* [Vim中文文档](https://github.com/vimcn/vimcdoc)
 
 ### Scheme
 * [Yet Another Scheme Tutorial Scheme入门教程](http://deathking.github.io/yast-cn/)
