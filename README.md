@@ -76,6 +76,7 @@
 * [Mac 开发配置手册](http://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 * [FreeBSD 使用手册](https://www.freebsd.org/doc/zh_CN/books/handbook/index.html)
 * [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
+* [LUPA社区](http://man.lupaworld.com/)
 
 #### 智能系统
 * [一步步搭建物联网系统](https://github.com/gmszone/designiot)
