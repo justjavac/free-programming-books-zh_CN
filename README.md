@@ -204,38 +204,7 @@
 
 ### Java
 
-* [实时 Java 系列](http://www.ibm.com/developerworks/cn/java/j-rtj/?ca=j-h-p)
 * [Apache Shiro 用户指南](https://github.com/waylau/apache-shiro-1.2.x-reference)
-
-* 使用 Eclipse 和 Java SE 6 创建独立 Web Services 应用程序
-    * [第 1 部分: Web Services 服务端应用程序](http://www.ibm.com/developerworks/cn/education/webservices/ws-eclipse-javase1/index.html)
-    * [第 2 部分: Web 服务客户端应用程序](http://www.ibm.com/developerworks/cn/webservices/tutorials/ws-jse/index.html)
-* JavaServer Faces 1.2 入门
-    * [第 1 部分: 构建基本应用程序](http://www.ibm.com/developerworks/cn/education/java/j-jsf1/index.html)
-    * [第 2 部分: JSF 生命周期、转换、检验和阶段监听器](http://www.ibm.com/developerworks/cn/education/java/j-jsf2/index.html)
-* 用 Eclipse Europa 进行 Web 开发
-    * [第 1 部分: Eclipse Java EE](http://www.ibm.com/developerworks/cn/education/opensource/os-eclipse-europa1/index.html)
-    * [第 2 部分: PHP 开发工具](http://www.ibm.com/developerworks/cn/education/opensource/os-eclipse-europa2/index.html)
-    * [第 3 部分: Ruby Development Toolkit 和 RadRails](http://www.ibm.com/developerworks/cn/education/opensource/os-eclipse-europa3/index.html)
-* 使用 JavaServer Faces 构建 Apache Geronimo 应用程序
-    * [第 1 部分: 使用 Eclipse 和 Apache MyFaces Core 构建基本的应用程序](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-jsf1/index.html)
-    * [第 2 部分: 在 JavaServer Faces 中使用 Tomahawk](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-jsf2/index.html)
-    * [第 3 部分: 使用 ajax4jsf 添加 Ajax 功能](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-jsf3/index.html)
-    * [第 4 部分: 使用 Apache Trinidad 组件扩展 JSF](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-jsf4/index.html)
-    * [第 5 部分: 将 JSF 应用程序与 Spring 集成](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-jsf5/index.html)
-* Apache Geronimo 和 Spring 框架
-    * [第 1 部分: 开发方法学](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe1/index.html)
-    * [第 2 部分: 构建第一个应用程序](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe2/index.html)
-    * [第 3 部分: 集成 DAO 与 ORM](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe3/index.html)
-    * [第 4 部分: 混合使用 Spring AOP 和 Spring Web Flow](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe4/index.html)
-    * [第 5 部分: Spring MVC](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe5/os-ag-springframe5.html)
-    * [第 6 部分: Spring MVC：使用 Web 视图技术](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe6/index.html)
-* 终极 mashup —— Web 服务和语义 Web
-    * [第 1 部分: 使用与组合 Web 服务](http://www.ibm.com/developerworks/cn/education/xml/x-ultimashup1/index.html)
-    * [第 2 部分: 管理 Mashup 数据缓存](http://www.ibm.com/developerworks/cn/education/xml/x-ultimashup2/index.html)
-    * [第 3 部分: 理解 RDF 和 RDFs](http://www.ibm.com/developerworks/cn/education/xml/x-ultimashup3/index.html)
-    * [第 4 部分: 创建本体](http://www.ibm.com/developerworks/cn/education/xml/x-ultimashup4/index.html)
-    * [第 5 部分: 切换 Web 服务](http://www.ibm.com/developerworks/cn/education/xml/x-ultimashup5/index.html)
 * [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
 * [MyBatis中文文档](http://mybatis.github.io/mybatis-3/zh/index.html)
 
