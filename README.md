@@ -26,6 +26,7 @@
   * [NoSQL](#nosql)
   * [MySQL](#mysql)
   * [项目相关](#项目相关)
+  * [设计模式](#设计模式)
   * [Web](#web)
   * [大数据](#大数据)
   * [编程艺术](#编程艺术)
@@ -55,6 +56,7 @@
   * [Scala](#scala)
   * [Swift](#swift)
   * [Vimscript](#vimscript)
+  * [Scheme](#scheme)
 
 * [读书笔记及其它](#读书笔记及其它)
 
@@ -126,6 +128,10 @@
 * [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_\(Simplified\))
 * [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81)
 
+### 设计模式
+
+* [图说设计模式](https://github.com/me115/design_patterns)
+
 ### Web
 
 * [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home)
@@ -144,6 +150,7 @@
 * [前端资源分享（二）](https://github.com/hacke2/hacke2.github.io/issues/3)
 * [前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
 * [w3school教程整理](http://www.flygon.net/archives/427)
+* [Wireshark用户手册](http://man.lupaworld.com/content/network/wireshark/index.html)
 
 ### 大数据
 
@@ -202,40 +209,10 @@
 
 ### Java
 
-* [实时 Java 系列](http://www.ibm.com/developerworks/cn/java/j-rtj/?ca=j-h-p)
 * [Apache Shiro 用户指南](https://github.com/waylau/apache-shiro-1.2.x-reference)
-
-* 使用 Eclipse 和 Java SE 6 创建独立 Web Services 应用程序
-    * [第 1 部分: Web Services 服务端应用程序](http://www.ibm.com/developerworks/cn/education/webservices/ws-eclipse-javase1/index.html)
-    * [第 2 部分: Web 服务客户端应用程序](http://www.ibm.com/developerworks/cn/webservices/tutorials/ws-jse/index.html)
-* JavaServer Faces 1.2 入门
-    * [第 1 部分: 构建基本应用程序](http://www.ibm.com/developerworks/cn/education/java/j-jsf1/index.html)
-    * [第 2 部分: JSF 生命周期、转换、检验和阶段监听器](http://www.ibm.com/developerworks/cn/education/java/j-jsf2/index.html)
-* 用 Eclipse Europa 进行 Web 开发
-    * [第 1 部分: Eclipse Java EE](http://www.ibm.com/developerworks/cn/education/opensource/os-eclipse-europa1/index.html)
-    * [第 2 部分: PHP 开发工具](http://www.ibm.com/developerworks/cn/education/opensource/os-eclipse-europa2/index.html)
-    * [第 3 部分: Ruby Development Toolkit 和 RadRails](http://www.ibm.com/developerworks/cn/education/opensource/os-eclipse-europa3/index.html)
-* 使用 JavaServer Faces 构建 Apache Geronimo 应用程序
-    * [第 1 部分: 使用 Eclipse 和 Apache MyFaces Core 构建基本的应用程序](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-jsf1/index.html)
-    * [第 2 部分: 在 JavaServer Faces 中使用 Tomahawk](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-jsf2/index.html)
-    * [第 3 部分: 使用 ajax4jsf 添加 Ajax 功能](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-jsf3/index.html)
-    * [第 4 部分: 使用 Apache Trinidad 组件扩展 JSF](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-jsf4/index.html)
-    * [第 5 部分: 将 JSF 应用程序与 Spring 集成](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-jsf5/index.html)
-* Apache Geronimo 和 Spring 框架
-    * [第 1 部分: 开发方法学](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe1/index.html)
-    * [第 2 部分: 构建第一个应用程序](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe2/index.html)
-    * [第 3 部分: 集成 DAO 与 ORM](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe3/index.html)
-    * [第 4 部分: 混合使用 Spring AOP 和 Spring Web Flow](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe4/index.html)
-    * [第 5 部分: Spring MVC](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe5/os-ag-springframe5.html)
-    * [第 6 部分: Spring MVC：使用 Web 视图技术](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe6/index.html)
-* 终极 mashup —— Web 服务和语义 Web
-    * [第 1 部分: 使用与组合 Web 服务](http://www.ibm.com/developerworks/cn/education/xml/x-ultimashup1/index.html)
-    * [第 2 部分: 管理 Mashup 数据缓存](http://www.ibm.com/developerworks/cn/education/xml/x-ultimashup2/index.html)
-    * [第 3 部分: 理解 RDF 和 RDFs](http://www.ibm.com/developerworks/cn/education/xml/x-ultimashup3/index.html)
-    * [第 4 部分: 创建本体](http://www.ibm.com/developerworks/cn/education/xml/x-ultimashup4/index.html)
-    * [第 5 部分: 切换 Web 服务](http://www.ibm.com/developerworks/cn/education/xml/x-ultimashup5/index.html)
 * [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
 * [MyBatis中文文档](http://mybatis.github.io/mybatis-3/zh/index.html)
+* [用jersey构建REST服务](https://github.com/waylau/RestDemo)
 
 ### JavaScript
 
@@ -295,7 +272,6 @@
 * [XDebug 2中文手册(译)](http://www.blogkun.com/project.html) (CHM)
 * [PHP之道](http://wulijun.github.io/php-the-right-way/)
 * [PHP 最佳实践](https://github.com/justjavac/PHP-Best-Practices-zh_CN)
-* [PHP安全最佳实践](http://www.blogkun.com/php/2013/12/21/php-security-best-practices/)
 * [深入理解PHP内核](https://github.com/reeze/tipi)
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/)
 * [CodeIgniter 用户指南](http://codeigniter.org.cn/user_guide/index.html)
@@ -320,6 +296,7 @@
 ### Android
 
 * [Android Design(中文版)](http://www.apkbus.com/design/index.html)
+* Google Material Design 正體中文版 ([译本一](http://wcc723.gitbooks.io/google_design_translate/content/style-icons.html) [译本二](https://github.com/1sters/material_design_zh))
 * [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 * [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)
 
@@ -443,6 +420,7 @@
 * [SICP 解题集](http://sicp.readthedocs.org/en/latest/)
 * [精彩博客集合](https://github.com/hacke2/hacke2.github.io/issues/2)
 * [正则表达式简明参考](http://www.xiaoleilu.com/regex-guide/)
+* [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 
 ### 测试相关
 
