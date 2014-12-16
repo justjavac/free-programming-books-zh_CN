@@ -214,6 +214,7 @@
 * [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
 * [MyBatis中文文档](http://mybatis.github.io/mybatis-3/zh/index.html)
 * [用jersey构建REST服务](https://github.com/waylau/RestDemo)
+* [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
 
 ### JavaScript
 
