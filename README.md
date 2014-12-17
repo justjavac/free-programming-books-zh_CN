@@ -101,6 +101,7 @@
 * [沉浸式学 Git](http://igit.linuxtoy.org/)
 * [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) （感谢 @flyhigher139 翻译了中文版）
 * [GitHub秘籍](http://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
+* [Github帮助文档](https://github.com/waylau/github-help)
 
 
 ### NoSQL
@@ -213,6 +214,7 @@
 * [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
 * [MyBatis中文文档](http://mybatis.github.io/mybatis-3/zh/index.html)
 * [用jersey构建REST服务](https://github.com/waylau/RestDemo)
+* [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
 
 ### JavaScript
 
