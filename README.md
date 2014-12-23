@@ -152,6 +152,7 @@
 * [前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
 * [w3school教程整理](http://www.flygon.net/archives/427)
 * [Wireshark用户手册](http://man.lupaworld.com/content/network/wireshark/index.html)
+* [HTTP 下午茶](http://happypeter.github.io/tealeaf-http/)
 
 ### 大数据
 
@@ -301,6 +302,7 @@
 * Google Material Design 正體中文版 ([译本一](http://wcc723.gitbooks.io/google_design_translate/content/style-icons.html) [译本二](https://github.com/1sters/material_design_zh))
 * [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 * [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)
+* [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
 
 ### Python
 
