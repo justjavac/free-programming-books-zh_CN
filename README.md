@@ -103,7 +103,6 @@
 * [GitHub秘籍](http://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
 * [Github帮助文档](https://github.com/waylau/github-help)
 
-
 ### NoSQL
 
 * [NoSQL数据库笔谈](http://www.yankay.com/wp-content/NoSql_Database_Note.html) ([PDF](http://yankaycom-wordpress.stor.sinaapp.com/uploads/2012/12/NoSQL%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AC%94%E8%B0%88v2.pdf))
@@ -128,6 +127,7 @@
 * [selenium 中文文档](https://github.com/fool2fish/selenium-doc)
 * [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_\(Simplified\))
 * [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81)
+* [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
 
 ### 设计模式
 
@@ -302,7 +302,6 @@
 * Google Material Design 正體中文版 ([译本一](http://wcc723.gitbooks.io/google_design_translate/content/style-icons.html) [译本二](https://github.com/1sters/material_design_zh))
 * [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 * [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)
-* [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
 
 ### Python
 
