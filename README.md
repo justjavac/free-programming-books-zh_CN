@@ -334,6 +334,7 @@
 * [Python 绘图库 matplotlib 官方指南中文翻译](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
 * [Scrapy 0.25 文档](http://scrapy-chs.readthedocs.org/zh_CN/latest/)
 * [ThinkPython](https://github.com/carfly/thinkpython-cn)
+* [Python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
 
 ### Ruby
 
