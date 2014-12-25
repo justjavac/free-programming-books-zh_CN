@@ -163,10 +163,12 @@
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
 * [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
+* [编程技巧总汇](http://xiaobeicn.gitbooks.io/programming-skills-summary/)
 
 ## 其它
 
 * [OpenWrt智能、自动、透明翻墙路由器教程](http://softwaredownload.gitbooks.io/openwrt-fanqiang/)
+* [SAN 管理入门系列](https://community.emc.com/docs/DOC-16067)
 
 ## 语言相关类
 
