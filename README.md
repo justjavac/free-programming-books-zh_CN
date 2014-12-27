@@ -163,10 +163,12 @@
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
 * [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
+* [编程技巧总汇](http://xiaobeicn.gitbooks.io/programming-skills-summary/)
 
 ## 其它
 
 * [OpenWrt智能、自动、透明翻墙路由器教程](http://softwaredownload.gitbooks.io/openwrt-fanqiang/)
+* [SAN 管理入门系列](https://community.emc.com/docs/DOC-16067)
 
 ## 语言相关类
 
@@ -283,6 +285,7 @@
 * [Symfony2中文文档](http://symfony-docs-chs.readthedocs.org/en/latest/) (未译完)
 * [Phalcon中文文档](http://phalcon.5iunix.net/)（翻译进行中）
 * [YiiBook几本Yii框架的在线教程](http://yiibook.com/)
+* [深入理解 Yii 2.0](http://www.digpage.com/)
 * [简单易懂的PHP魔法](http://www.nowamagic.net/librarys/books/contents/php)
 * [swoole文档及入门教程](https://github.com/LinkedDestiny/swoole-doc)
 
@@ -332,6 +335,7 @@
 * [Python 绘图库 matplotlib 官方指南中文翻译](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
 * [Scrapy 0.25 文档](http://scrapy-chs.readthedocs.org/zh_CN/latest/)
 * [ThinkPython](https://github.com/carfly/thinkpython-cn)
+* [Python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
 
 ### Ruby
 
