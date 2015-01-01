@@ -24,6 +24,7 @@
   * [WEB服务器](#web服务器)
   * [版本控制](#版本控制)
   * [NoSQL](#nosql)
+  * [PostgreSQL](#postgresql)
   * [MySQL](#mysql)
   * [项目相关](#项目相关)
   * [设计模式](#设计模式)
@@ -86,6 +87,7 @@
 ### WEB服务器
 
 * [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) (淘宝团队出品)
+* [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/index.html)
 
 ### 版本控制
 
@@ -115,6 +117,10 @@
 * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
 * [Neo4j 简体中文手册 v1.8](http://docs.neo4j.org.cn/)
 * [Neo4j .rb 中文資源](http://neo4j.tw/)
+
+### PostgreSQL
+
+* [PostgreSQL 8.2.3 中文文档](http://works.jinbuguo.com/postgresql/menu823/index.html)
 
 ### MySQL
 
@@ -338,6 +344,7 @@
 * [Scrapy 0.25 文档](http://scrapy-chs.readthedocs.org/zh_CN/latest/)
 * [ThinkPython](https://github.com/carfly/thinkpython-cn)
 * [Python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
+* [Python 正则表达式操作指南](http://wiki.ubuntu.org.cn/Python正则表达式操作指南)
 
 ### Ruby
 
