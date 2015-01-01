@@ -24,6 +24,7 @@
   * [WEB服务器](#web服务器)
   * [版本控制](#版本控制)
   * [NoSQL](#nosql)
+  * [PostgreSQL](#postgresql)
   * [MySQL](#mysql)
   * [项目相关](#项目相关)
   * [设计模式](#设计模式)
@@ -116,6 +117,10 @@
 * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
 * [Neo4j 简体中文手册 v1.8](http://docs.neo4j.org.cn/)
 * [Neo4j .rb 中文資源](http://neo4j.tw/)
+
+### PostgreSQL
+
+* [PostgreSQL 8.2.3 中文文档](http://works.jinbuguo.com/postgresql/menu823/index.html)
 
 ### MySQL
 
