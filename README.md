@@ -86,6 +86,7 @@
 ### WEB服务器
 
 * [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) (淘宝团队出品)
+* [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/index.html)
 
 ### 版本控制
 
