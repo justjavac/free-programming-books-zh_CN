@@ -338,6 +338,7 @@
 * [Scrapy 0.25 文档](http://scrapy-chs.readthedocs.org/zh_CN/latest/)
 * [ThinkPython](https://github.com/carfly/thinkpython-cn)
 * [Python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
+* [Python 正则表达式操作指南](http://wiki.ubuntu.org.cn/Python正则表达式操作指南)
 
 ### Ruby
 
