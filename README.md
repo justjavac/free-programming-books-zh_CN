@@ -271,7 +271,6 @@
     * [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/)
 * Zepto.js
     * [Zepto.js 中文文檔](http://mweb.baidu.com/zeptoapi/)
-* [zepto 简明中文手册](http://www.360weboy.com/handbook/zepto/index.html)
 * Sea.js
     * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
 * CoffeeScript
