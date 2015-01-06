@@ -269,6 +269,8 @@
     * [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn)
     * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
     * [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/)
+* Zepto.js
+    * [Zepto.js 中文文檔](http://mweb.baidu.com/zeptoapi/)
 * [zepto 简明中文手册](http://www.360weboy.com/handbook/zepto/index.html)
 * Sea.js
     * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
@@ -294,6 +296,7 @@
 * [Phalcon中文文档](http://phalcon.5iunix.net/)（翻译进行中）
 * [YiiBook几本Yii框架的在线教程](http://yiibook.com/)
 * [深入理解 Yii 2.0](http://www.digpage.com/)
+* [Yii 框架中文文檔](http://www.yiichina.com/)
 * [简单易懂的PHP魔法](http://www.nowamagic.net/librarys/books/contents/php)
 * [swoole文档及入门教程](https://github.com/LinkedDestiny/swoole-doc)
 
