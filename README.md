@@ -294,7 +294,7 @@
 * [Laravel 入门](https://github.com/huanghua581/laravel-getting-started)
 * [Symfony2中文文档](http://symfony-docs-chs.readthedocs.org/en/latest/) (未译完)
 * [Phalcon中文文档](http://phalcon.5iunix.net/)（翻译进行中）
-* [YiiBook几本Yii框架的在线教程](http://yiibook.com/)
+* [YiiBook几本Yii框架的在线教程](http://yiibook.com//doc)
 * [深入理解 Yii 2.0](http://www.digpage.com/)
 * [Yii 框架中文文檔](http://www.yiichina.com/)
 * [简单易懂的PHP魔法](http://www.nowamagic.net/librarys/books/contents/php)
