@@ -160,6 +160,7 @@
 * [w3school教程整理](http://www.flygon.net/archives/427)
 * [Wireshark用户手册](http://man.lupaworld.com/content/network/wireshark/index.html)
 * [HTTP 下午茶](http://happypeter.github.io/tealeaf-http/)
+* [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1&rf=http%3A%2F%2Ffex.baidu.com%2Fblog%2F2014%2F09%2Fhttp-2.0%2F)
 
 ### 大数据
 
@@ -298,6 +299,8 @@
 * [Yii 框架中文文檔](http://www.yiichina.com/)
 * [简单易懂的PHP魔法](http://www.nowamagic.net/librarys/books/contents/php)
 * [swoole文档及入门教程](https://github.com/LinkedDestiny/swoole-doc)
+* [Composer 中文网](http://www.phpcomposer.com/)
+* [Slim 中文文檔](http://minimee.org/php/slim)
 
 ### iOS
 
@@ -392,6 +395,7 @@
 ### Haskell
 
 * [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
+* [Haskell趣学指南](http://learnyouahaskell-zh-tw.csie.org/zh-cn/chapters.html)
 
 ### R
 
