@@ -301,6 +301,7 @@
 * [Yii 框架中文文檔](http://www.yiichina.com/)
 * [简单易懂的PHP魔法](http://www.nowamagic.net/librarys/books/contents/php)
 * [swoole文档及入门教程](https://github.com/LinkedDestiny/swoole-doc)
+* [Slim 中文文档](http://minimee.org/php/slim)
 
 ### iOS
 
