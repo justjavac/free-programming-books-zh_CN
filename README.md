@@ -106,6 +106,10 @@
 * [GitHub秘籍](http://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
 * [Github帮助文档](https://github.com/waylau/github-help)
 
+### 编辑器
+
+* [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
+
 ### NoSQL
 
 * [NoSQL数据库笔谈](http://www.yankay.com/wp-content/NoSql_Database_Note.html) ([PDF](http://yankaycom-wordpress.stor.sinaapp.com/uploads/2012/12/NoSQL%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AC%94%E8%B0%88v2.pdf))
