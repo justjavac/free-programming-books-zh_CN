@@ -283,6 +283,7 @@
 * CoffeeScript
     * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
     * [The Little Book on CoffeeScript中文版](http://island205.github.io/tlboc/)
+    * [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
 * ExtJS
     * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
