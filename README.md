@@ -113,7 +113,7 @@
 ### NoSQL
 
 * [NoSQL数据库笔谈](http://www.yankay.com/wp-content/NoSql_Database_Note.html) ([PDF](http://yankaycom-wordpress.stor.sinaapp.com/uploads/2012/12/NoSQL%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AC%94%E8%B0%88v2.pdf))
-* [Redis 设计与实现](http://www.redisbook.com/en/latest/)
+* [Redis 设计与实现](http://redisbook.com/)
 * [Redis 命令参考](http://www.redisdoc.com/en/latest/)
 * [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
 * [带有详细注释的 Redis 2.6 代码](https://github.com/huangz1990/annotated_redis_source)
@@ -384,6 +384,7 @@
 * [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang) (此书已经出版，希望开发者们去购买，支持作者的创作)
 * [Go实战开发](https://github.com/astaxie/Go-in-Action) (当我收录此项目时，作者已经写完第三章，如果读完前面章节觉得有帮助，可以给作者[捐赠](https://me.alipay.com/astaxie)，以鼓励作者的继续创作)
 * [Network programming with Go 中文翻译版本](https://github.com/astaxie/NPWG_zh)
+* [Effective Go](http://www.hellogcc.org/effective_go.html)
 
 ### Groovy
 
