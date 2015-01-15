@@ -420,6 +420,7 @@
 ### Swift
 
 * [The Swift Programming Language 中文版](http://numbbbbb.github.io/the-swift-programming-language-in-chinese/)
+* [Swift 语言指南](http://dev.swiftguide.cn)
 
 ### Perl
 
