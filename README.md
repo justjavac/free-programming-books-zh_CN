@@ -79,6 +79,7 @@
 * [FreeBSD 使用手册](https://www.freebsd.org/doc/zh_CN/books/handbook/index.html)
 * [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
 * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
+* [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
 
 #### 智能系统
 * [一步步搭建物联网系统](https://github.com/gmszone/designiot)
@@ -375,7 +376,7 @@
 ### Shell
 
 * [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
-
+* [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
 ### Go
 
 * [Go编程基础](https://github.com/Unknwon/go-fundamental-programming)
