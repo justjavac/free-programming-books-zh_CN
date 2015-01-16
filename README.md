@@ -404,6 +404,8 @@
 ### Lua
 
 * [Lua编程入门](https://github.com/andycai/luaprimer)
+* [Lua 5.1 参考手册 中文翻译](http://www.codingnow.com/2000/download/lua_manual.html)
+* [Lua 5.3 参考手册 中文翻译](http://cloudwu.github.io/lua53doc/)
 
 ### Haskell
 
