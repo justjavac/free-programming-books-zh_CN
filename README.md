@@ -341,7 +341,8 @@
 * [Python入门教程](http://liam0205.me/2013/11/02/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
 * [Python的神奇方法指南](http://article.yeeyan.org/view/311527/287706)
 * [笨办法学 Python](http://sebug.net/paper/books/LearnPythonTheHardWay/) （[PDF](http://liam0205.me/attachment/Python/PyHardWay/Learn_Python_The_Hard_Way_zh-cn.pdf)版下载）
-* [Django 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/) 正在翻译中
+* [Django 1.5 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/) 正在翻译中
+* [Diango 1.7 文档中文版](http://django-1-7-doc.coding.io/)
 * [Django 最佳实践](https://github.com/brantyoung/zh-django-best-practices)
 * [Django搭建简易博客教程](http://andrew-liu.gitbooks.io/django-blog/)
 * [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
