@@ -171,6 +171,7 @@
 ### 大数据
 
 * [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
+* [面向程序员的数据挖掘指南](https://github.com/jizhang/guidetodatamining)
 
 ## 编程艺术
 
@@ -183,6 +184,7 @@
 
 * [OpenWrt智能、自动、透明翻墙路由器教程](http://softwaredownload.gitbooks.io/openwrt-fanqiang/)
 * [SAN 管理入门系列](https://community.emc.com/docs/DOC-16067)
+* [Sketch 中文手册](http://sketchcn.com/sketch-chinese-user-manual.html#introduce)
 
 ## 语言相关类
 
