@@ -462,6 +462,7 @@
 * [精彩博客集合](https://github.com/hacke2/hacke2.github.io/issues/2)
 * [正则表达式简明参考](http://www.xiaoleilu.com/regex-guide/)
 * [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+* [Standard C 语言标准函数库速查 (Cheat Sheet)](http://ganquan.info/standard-c/)
 
 ### 测试相关
 
