@@ -130,6 +130,7 @@
 ### MySQL
 
 * [MySQL索引背后的数据结构及算法原理](http://www.cnblogs.com/leoo2sk/archive/2011/07/10/mysql-index.html)
+* [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
 
 ### 项目相关
 
@@ -145,6 +146,7 @@
 ### 设计模式
 
 * [图说设计模式](https://github.com/me115/design_patterns)
+* [史上最全设计模式导学目录](http://blog.csdn.net/lovelion/article/details/17517213)
 
 ### Web
 
@@ -329,6 +331,7 @@
 * Google Material Design 正體中文版 ([译本一](http://wcc723.gitbooks.io/google_design_translate/content/style-icons.html) [译本二](https://github.com/1sters/material_design_zh))
 * [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 * [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)
+* [Material Design 中文版](http://design.1sters.com/)
 
 ### Python
 
