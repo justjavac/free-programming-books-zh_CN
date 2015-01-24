@@ -80,6 +80,7 @@
 * [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
 * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
+* [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)
 
 #### 智能系统
 * [一步步搭建物联网系统](https://github.com/gmszone/designiot)
