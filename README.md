@@ -466,6 +466,7 @@
 * [正则表达式简明参考](http://www.xiaoleilu.com/regex-guide/)
 * [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 * [Standard C 语言标准函数库速查 (Cheat Sheet)](http://ganquan.info/standard-c/)
+* [Git Cheatsheet Chs](http://gh.amio.us/git-cheatsheet-chs/)
 
 ### 测试相关
 
