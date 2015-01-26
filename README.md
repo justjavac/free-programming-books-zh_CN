@@ -106,6 +106,7 @@
 * [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) （感谢 @flyhigher139 翻译了中文版）
 * [GitHub秘籍](http://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
 * [Github帮助文档](https://github.com/waylau/github-help)
+* [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
 
 ### 编辑器
 
@@ -368,6 +369,7 @@
 * [Python 正则表达式操作指南](http://wiki.ubuntu.org.cn/Python正则表达式操作指南)
 * [python初级教程：入门详解](http://www.crifan.com/files/doc/docbook/python_beginner_tutorial/release/html/python_beginner_tutorial.html)
 * [Python Cookbook 第3版 中文版](http://python3-cookbook.readthedocs.org/zh_CN/latest/)
+* [Twisted 与异步编程入门](http://likebeta.gitbooks.io/twisted-intro-cn/)
 
 ### Ruby
 
@@ -383,6 +385,7 @@
 ### Shell
 
 * [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
+* [Bash脚本15分钟进阶教程](http://blog.sae.sina.com.cn/archives/3606)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
 ### Go
 
@@ -465,6 +468,8 @@
 * [精彩博客集合](https://github.com/hacke2/hacke2.github.io/issues/2)
 * [正则表达式简明参考](http://www.xiaoleilu.com/regex-guide/)
 * [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+* [Standard C 语言标准函数库速查 (Cheat Sheet)](http://ganquan.info/standard-c/)
+* [Git Cheatsheet Chs](http://gh.amio.us/git-cheatsheet-chs/)
 
 ### 测试相关
 
