@@ -158,6 +158,7 @@
 * [Chrome 开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
 * [Grunt中文文档](http://www.gruntjs.org/)
+* [Yeoman中文文档](http://yeomanjs.org/)
 * [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
 * [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
 * [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
@@ -176,6 +177,7 @@
 
 * [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
 * [面向程序员的数据挖掘指南](https://github.com/jizhang/guidetodatamining)
+* [大型集群上的快速和通用数据处理架构](https://code.csdn.net/CODE_Translation/spark_matei_phd)
 
 ## 编程艺术
 
