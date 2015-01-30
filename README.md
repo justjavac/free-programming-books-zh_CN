@@ -18,9 +18,11 @@
 贡献者名单: https://github.com/justjavac/free-programming-books-zh_CN/graphs/contributors
 
 ## 目录
-* [网友知识库]
+* [优质博客]
 	* [PyTab在线手册中心](http://docs.pythontab.com/)
 	* [ImportNew](http://www.importnew.com/)
+	* [廖雪峰的官方网站](http://www.liaoxuefeng.com/)
+	* [程序员博客墙](http://blogwall.us/zh)
 * [语言无关类](#语言无关类)
   * [操作系统](#操作系统)
   * [WEB服务器](#web服务器)
