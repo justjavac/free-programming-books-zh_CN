@@ -80,6 +80,7 @@
 * [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
 * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
+* [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)
 
 #### 智能系统
 * [一步步搭建物联网系统](https://github.com/gmszone/designiot)
@@ -131,6 +132,7 @@
 ### MySQL
 
 * [MySQL索引背后的数据结构及算法原理](http://www.cnblogs.com/leoo2sk/archive/2011/07/10/mysql-index.html)
+* [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
 
 ### 项目相关
 
@@ -146,6 +148,7 @@
 ### 设计模式
 
 * [图说设计模式](https://github.com/me115/design_patterns)
+* [史上最全设计模式导学目录](http://blog.csdn.net/lovelion/article/details/17517213)
 
 ### Web
 
@@ -155,6 +158,7 @@
 * [Chrome 开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
 * [Grunt中文文档](http://www.gruntjs.org/)
+* [Yeoman中文文档](http://yeomanjs.org/)
 * [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
 * [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
 * [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
@@ -369,6 +373,7 @@
 * [Python Cookbook 第3版 中文版](http://python3-cookbook.readthedocs.org/zh_CN/latest/)
 * [Twisted 与异步编程入门](http://likebeta.gitbooks.io/twisted-intro-cn/)
 * [TextGrocery 中文 API](http://textgrocery.readthedocs.org/zh/latest/index.html) ( 基于svm算法的一个短文本分类 Python 库 )
+* [Requests: HTTP for Humans](http://requests-docs-cn.readthedocs.org/zh_CN/latest/)
 
 ### Ruby
 
