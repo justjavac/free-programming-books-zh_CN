@@ -342,6 +342,7 @@
 * [小白的Python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 * [简明Python教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
 * [零基础学Python](http://looly.gitbooks.io/python-basic)
+* [可爱的 Python ](http://lovelypython.readthedocs.org/en/latest/)
 * [Python 2.7 官方教程中文版](http://www.pythondoc.com/pythontutorial27/index.html)
 * [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
 * [深入 Python 3](http://sebug.net/paper/books/dive-into-python3/)
