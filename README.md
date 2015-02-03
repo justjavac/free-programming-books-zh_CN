@@ -59,7 +59,6 @@
   * [R](#r)
   * [Scala](#scala)
   * [Swift](#swift)
-  * [Vimscript](#vimscript)
   * [Scheme](#scheme)
 
 * [读书笔记及其它](#读书笔记及其它)
@@ -117,6 +116,9 @@
 ### 编辑器
 
 * [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
+* [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com/)
+* [Vim中文文档](https://github.com/vimcn/vimcdoc)
+* [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
 
 ### NoSQL
 
@@ -451,11 +453,6 @@
 ### Prolog
 
 * [笨办法学Prolog](http://fengdidi.github.io/blog/2011/11/15/qian-yan/)
-
-### Vimscript
-
-* [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com/)
-* [Vim中文文档](https://github.com/vimcn/vimcdoc)
 
 ### Scheme
 * [Yet Another Scheme Tutorial Scheme入门教程](http://deathking.github.io/yast-cn/)
