@@ -348,6 +348,7 @@
 * [小白的Python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 * [简明Python教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
 * [零基础学Python](http://looly.gitbooks.io/python-basic)
+* [可爱的 Python ](http://lovelypython.readthedocs.org/en/latest/)
 * [Python 2.7 官方教程中文版](http://www.pythondoc.com/pythontutorial27/index.html)
 * [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
 * [深入 Python 3](http://sebug.net/paper/books/dive-into-python3/)
@@ -379,6 +380,8 @@
 * [python初级教程：入门详解](http://www.crifan.com/files/doc/docbook/python_beginner_tutorial/release/html/python_beginner_tutorial.html)
 * [Python Cookbook 第3版 中文版](http://python3-cookbook.readthedocs.org/zh_CN/latest/)
 * [Twisted 与异步编程入门](http://likebeta.gitbooks.io/twisted-intro-cn/)
+* [TextGrocery 中文 API](http://textgrocery.readthedocs.org/zh/latest/index.html) ( 基于svm算法的一个短文本分类 Python 库 )
+* [Requests: HTTP for Humans](http://requests-docs-cn.readthedocs.org/zh_CN/latest/)
 
 ### Ruby
 
