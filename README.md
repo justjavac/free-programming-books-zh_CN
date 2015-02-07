@@ -249,6 +249,7 @@
 * [MyBatis中文文档](http://mybatis.github.io/mybatis-3/zh/index.html)
 * [用jersey构建REST服务](https://github.com/waylau/RestDemo)
 * [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
+* [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
 
 ### JavaScript
 
