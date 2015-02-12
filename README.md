@@ -251,6 +251,7 @@
 * [用jersey构建REST服务](https://github.com/waylau/RestDemo)
 * [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
 * [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
+* [Netty 4.x 用户指南](https://github.com/waylau/netty-4-user-guide)
 
 ### JavaScript
 
