@@ -232,6 +232,7 @@
 * [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
 * [前端代码规范](http://alloyteam.github.io/code-guide/) (腾讯alloyteam团队)
 * [HTML和CSS编码规范](http://codeguide.bootcss.com/)
+* [Sass Guidelines 中文](http://sass-guidelin.es/zh/)
 
 ### Dart
 
@@ -249,6 +250,8 @@
 * [MyBatis中文文档](http://mybatis.github.io/mybatis-3/zh/index.html)
 * [用jersey构建REST服务](https://github.com/waylau/RestDemo)
 * [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
+* [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
+* [Netty 4.x 用户指南](https://github.com/waylau/netty-4-user-guide)
 
 ### JavaScript
 
@@ -348,6 +351,7 @@
 * [小白的Python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 * [简明Python教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
 * [零基础学Python](http://looly.gitbooks.io/python-basic)
+* [可爱的 Python ](http://lovelypython.readthedocs.org/en/latest/)
 * [Python 2.7 官方教程中文版](http://www.pythondoc.com/pythontutorial27/index.html)
 * [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
 * [深入 Python 3](http://sebug.net/paper/books/dive-into-python3/)
@@ -379,6 +383,8 @@
 * [python初级教程：入门详解](http://www.crifan.com/files/doc/docbook/python_beginner_tutorial/release/html/python_beginner_tutorial.html)
 * [Python Cookbook 第3版 中文版](http://python3-cookbook.readthedocs.org/zh_CN/latest/)
 * [Twisted 与异步编程入门](http://likebeta.gitbooks.io/twisted-intro-cn/)
+* [TextGrocery 中文 API](http://textgrocery.readthedocs.org/zh/latest/index.html) ( 基于svm算法的一个短文本分类 Python 库 )
+* [Requests: HTTP for Humans](http://requests-docs-cn.readthedocs.org/zh_CN/latest/)
 
 ### Ruby
 
@@ -444,6 +450,7 @@
 
 * [The Swift Programming Language 中文版](http://numbbbbb.github.io/the-swift-programming-language-in-chinese/)
 * [Swift 语言指南](http://dev.swiftguide.cn)
+* [Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译文件](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)
 
 ### Perl
 
