@@ -21,8 +21,10 @@
 
 * [语言无关类](#语言无关类)
   * [操作系统](#操作系统)
+  * [智能系统](#智能系统)
   * [WEB服务器](#web服务器)
   * [版本控制](#版本控制)
+  * [编辑器](#编辑器)
   * [NoSQL](#nosql)
   * [PostgreSQL](#postgresql)
   * [MySQL](#mysql)
@@ -31,6 +33,7 @@
   * [Web](#web)
   * [大数据](#大数据)
   * [编程艺术](#编程艺术)
+  * [其它](#其它)
 
 * [语言相关类](#语言相关类)
   * [AWK](#awk)
@@ -56,10 +59,10 @@
   * [R](#r)
   * [Scala](#scala)
   * [Swift](#swift)
-  * [Vimscript](#vimscript)
   * [Scheme](#scheme)
 
 * [读书笔记及其它](#读书笔记及其它)
+* [测试相关](#测试相关)
 
 ## 语言无关类
 
@@ -80,6 +83,7 @@
 * [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
 * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
+* [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)
 
 #### 智能系统
 * [一步步搭建物联网系统](https://github.com/gmszone/designiot)
@@ -88,6 +92,7 @@
 ### WEB服务器
 
 * [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) (淘宝团队出品)
+* [Nginx教程从入门到精通](http://www.ttlsa.com/nginx/nginx-stu-pdf/)(PDF版本，运维生存时间出品)
 * [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/index.html)
 
 ### 版本控制
@@ -106,10 +111,14 @@
 * [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) （感谢 @flyhigher139 翻译了中文版）
 * [GitHub秘籍](http://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
 * [Github帮助文档](https://github.com/waylau/github-help)
+* [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
 
 ### 编辑器
 
 * [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
+* [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com/)
+* [Vim中文文档](https://github.com/vimcn/vimcdoc)
+* [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
 
 ### NoSQL
 
@@ -130,6 +139,7 @@
 ### MySQL
 
 * [MySQL索引背后的数据结构及算法原理](http://www.cnblogs.com/leoo2sk/archive/2011/07/10/mysql-index.html)
+* [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
 
 ### 项目相关
 
@@ -146,6 +156,7 @@
 ### 设计模式
 
 * [图说设计模式](https://github.com/me115/design_patterns)
+* [史上最全设计模式导学目录](http://blog.csdn.net/lovelion/article/details/17517213)
 
 ### Web
 
@@ -155,6 +166,7 @@
 * [Chrome 开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
 * [Grunt中文文档](http://www.gruntjs.org/)
+* [Yeoman中文文档](http://yeomanjs.org/)
 * [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
 * [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
 * [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
@@ -172,6 +184,8 @@
 ### 大数据
 
 * [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
+* [面向程序员的数据挖掘指南](https://github.com/jizhang/guidetodatamining)
+* [大型集群上的快速和通用数据处理架构](https://code.csdn.net/CODE_Translation/spark_matei_phd)
 
 ## 编程艺术
 
@@ -184,6 +198,7 @@
 
 * [OpenWrt智能、自动、透明翻墙路由器教程](http://softwaredownload.gitbooks.io/openwrt-fanqiang/)
 * [SAN 管理入门系列](https://community.emc.com/docs/DOC-16067)
+* [Sketch 中文手册](http://sketchcn.com/sketch-chinese-user-manual.html#introduce)
 
 ## 语言相关类
 
@@ -218,6 +233,7 @@
 * [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
 * [前端代码规范](http://alloyteam.github.io/code-guide/) (腾讯alloyteam团队)
 * [HTML和CSS编码规范](http://codeguide.bootcss.com/)
+* [Sass Guidelines 中文](http://sass-guidelin.es/zh/)
 
 ### Dart
 
@@ -235,6 +251,8 @@
 * [MyBatis中文文档](http://mybatis.github.io/mybatis-3/zh/index.html)
 * [用jersey构建REST服务](https://github.com/waylau/RestDemo)
 * [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
+* [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
+* [Netty 4.x 用户指南](https://github.com/waylau/netty-4-user-guide)
 
 ### JavaScript
 
@@ -334,6 +352,7 @@
 * [小白的Python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 * [简明Python教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
 * [零基础学Python](http://looly.gitbooks.io/python-basic)
+* [可爱的 Python ](http://lovelypython.readthedocs.org/en/latest/)
 * [Python 2.7 官方教程中文版](http://www.pythondoc.com/pythontutorial27/index.html)
 * [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
 * [深入 Python 3](http://sebug.net/paper/books/dive-into-python3/)
@@ -342,7 +361,8 @@
 * [Python入门教程](http://liam0205.me/2013/11/02/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
 * [Python的神奇方法指南](http://article.yeeyan.org/view/311527/287706)
 * [笨办法学 Python](http://sebug.net/paper/books/LearnPythonTheHardWay/) （[PDF](http://liam0205.me/attachment/Python/PyHardWay/Learn_Python_The_Hard_Way_zh-cn.pdf)版下载）
-* [Django 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/) 正在翻译中
+* [Django 1.5 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/) 正在翻译中
+* [Diango 1.7 文档中文版](http://django-1-7-doc.coding.io/)  正在翻译中，目前只翻译了目录
 * [Django 最佳实践](https://github.com/brantyoung/zh-django-best-practices)
 * [Django搭建简易博客教程](http://andrew-liu.gitbooks.io/django-blog/)
 * [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
@@ -363,6 +383,9 @@
 * [Python 正则表达式操作指南](http://wiki.ubuntu.org.cn/Python正则表达式操作指南)
 * [python初级教程：入门详解](http://www.crifan.com/files/doc/docbook/python_beginner_tutorial/release/html/python_beginner_tutorial.html)
 * [Python Cookbook 第3版 中文版](http://python3-cookbook.readthedocs.org/zh_CN/latest/)
+* [Twisted 与异步编程入门](http://likebeta.gitbooks.io/twisted-intro-cn/)
+* [TextGrocery 中文 API](http://textgrocery.readthedocs.org/zh/latest/index.html) ( 基于svm算法的一个短文本分类 Python 库 )
+* [Requests: HTTP for Humans](http://requests-docs-cn.readthedocs.org/zh_CN/latest/)
 
 ### Ruby
 
@@ -378,6 +401,7 @@
 ### Shell
 
 * [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
+* [Bash脚本15分钟进阶教程](http://blog.sae.sina.com.cn/archives/3606)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
 ### Go
 
@@ -427,6 +451,7 @@
 
 * [The Swift Programming Language 中文版](http://numbbbbb.github.io/the-swift-programming-language-in-chinese/)
 * [Swift 语言指南](http://dev.swiftguide.cn)
+* [Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译文件](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)
 
 ### Perl
 
@@ -436,11 +461,6 @@
 ### Prolog
 
 * [笨办法学Prolog](http://fengdidi.github.io/blog/2011/11/15/qian-yan/)
-
-### Vimscript
-
-* [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com/)
-* [Vim中文文档](https://github.com/vimcn/vimcdoc)
 
 ### Scheme
 * [Yet Another Scheme Tutorial Scheme入门教程](http://deathking.github.io/yast-cn/)
@@ -460,6 +480,8 @@
 * [精彩博客集合](https://github.com/hacke2/hacke2.github.io/issues/2)
 * [正则表达式简明参考](http://www.xiaoleilu.com/regex-guide/)
 * [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+* [Standard C 语言标准函数库速查 (Cheat Sheet)](http://ganquan.info/standard-c/)
+* [Git Cheatsheet Chs](http://gh.amio.us/git-cheatsheet-chs/)
 
 ### 测试相关
 
