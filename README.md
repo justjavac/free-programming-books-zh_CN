@@ -464,6 +464,7 @@
 
 ### Scheme
 * [Yet Another Scheme Tutorial Scheme入门教程](http://deathking.github.io/yast-cn/)
+* [Scheme语言简明教程](http://songjinghe.github.io/TYS-zh-translation/)
 
 ### 读书笔记及其它
 
