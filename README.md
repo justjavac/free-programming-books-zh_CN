@@ -151,6 +151,7 @@
 * [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81)
 * [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
 * [编码规范](https://github.com/ecomfe/spec)
+* [开源软件架构](http://www.ituring.com.cn/book/1143)
 
 ### 设计模式
 
@@ -252,6 +253,7 @@
 * [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
 * [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
 * [Netty 4.x 用户指南](https://github.com/waylau/netty-4-user-guide)
+* [REST 实战](https://github.com/waylau/rest-in-action)
 
 ### JavaScript
 
@@ -463,6 +465,7 @@
 
 ### Scheme
 * [Yet Another Scheme Tutorial Scheme入门教程](http://deathking.github.io/yast-cn/)
+* [Scheme语言简明教程](http://songjinghe.github.io/TYS-zh-translation/)
 
 ### 读书笔记及其它
 
