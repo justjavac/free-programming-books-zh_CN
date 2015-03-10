@@ -299,7 +299,7 @@
     * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
     * [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/)
 * Zepto.js
-    * [Zepto.js 中文文檔](http://mweb.baidu.com/zeptoapi/)
+    * [Zepto.js 中文文档](http://mweb.baidu.com/zeptoapi/)
 * Sea.js
     * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
 * CoffeeScript
@@ -308,6 +308,8 @@
     * [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
 * ExtJS
     * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
+* Meteor
+    * [Discover Meteor](http://zh.discovermeteor.com/)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
 ### PHP
