@@ -69,7 +69,7 @@
 ### 操作系统
 
 * [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
-* [鸟哥的Linux私房菜](http://vbird.dic.ksu.edu.tw/) (简体)
+* [鸟哥的Linux私房菜](http://linux.vbird.org/)
 * [Linux 系统高级编程](http://sourceforge.net/apps/trac/elpi/wiki/ALP)
 * [The Linux Command Line](http://billie66.github.io/TLCL/index.html) (中英文版)
 * [Linux 设备驱动](http://oss.org.cn/kernel-book/ldd3/index.html) (第三版)
@@ -84,6 +84,7 @@
 * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
 * [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)
+* [Linux From Scratch systemd 中文翻译](https://github.com/ryanzz/LFS-systemd-zh_CN)
 
 #### 智能系统
 * [一步步搭建物联网系统](https://github.com/gmszone/designiot)
@@ -94,6 +95,7 @@
 * [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) (淘宝团队出品)
 * [Nginx教程从入门到精通](http://www.ttlsa.com/nginx/nginx-stu-pdf/)(PDF版本，运维生存时间出品)
 * [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/index.html)
+* [Elasticsearch权威指南](http://looly.gitbooks.io/elasticsearch-the-definitive-guide-cn/)
 
 ### 版本控制
 
@@ -248,11 +250,13 @@
 * [Apache Shiro 用户指南](https://github.com/waylau/apache-shiro-1.2.x-reference)
 * [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
 * [Spring Framework 4.x参考文档](https://github.com/waylau/spring-framework-4-reference)
+* [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) (翻译中)
 * [MyBatis中文文档](http://mybatis.github.io/mybatis-3/zh/index.html)
 * [用jersey构建REST服务](https://github.com/waylau/RestDemo)
 * [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
 * [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
 * [Netty 4.x 用户指南](https://github.com/waylau/netty-4-user-guide)
+* [Netty 实战(精髓)](https://github.com/waylau/essential-netty-in-action)
 * [REST 实战](https://github.com/waylau/rest-in-action)
 
 ### JavaScript
@@ -299,7 +303,7 @@
     * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
     * [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/)
 * Zepto.js
-    * [Zepto.js 中文文檔](http://mweb.baidu.com/zeptoapi/)
+    * [Zepto.js 中文文档](http://mweb.baidu.com/zeptoapi/)
 * Sea.js
     * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
 * CoffeeScript
@@ -308,6 +312,8 @@
     * [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
 * ExtJS
     * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
+* Meteor
+    * [Discover Meteor](http://zh.discovermeteor.com/)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
 ### PHP
@@ -316,6 +322,7 @@
 * [XDebug 2中文手册(译)](http://www.blogkun.com/project.html) (CHM)
 * [PHP之道](http://wulijun.github.io/php-the-right-way/)
 * [PHP 最佳实践](https://github.com/justjavac/PHP-Best-Practices-zh_CN)
+* [PHP 开发者实践](http://ryancao.gitbooks.io/php-developer-prepares/content/)
 * [深入理解PHP内核](https://github.com/reeze/tipi)
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/)
 * [CodeIgniter 用户指南](http://codeigniter.org.cn/user_guide/index.html)
@@ -484,6 +491,7 @@
 * [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 * [Standard C 语言标准函数库速查 (Cheat Sheet)](http://ganquan.info/standard-c/)
 * [Git Cheatsheet Chs](http://gh.amio.us/git-cheatsheet-chs/)
+* [JavaScript语言精粹](https://github.com/qibaoguang/Study-Step-by-Step/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/javascript_the_good_parts.md)
 
 ### 测试相关
 
