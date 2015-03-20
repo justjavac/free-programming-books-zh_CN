@@ -256,6 +256,7 @@
 * [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
 * [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
 * [Netty 4.x 用户指南](https://github.com/waylau/netty-4-user-guide)
+* [Netty 实战(精髓)](https://github.com/waylau/essential-netty-in-action)
 * [REST 实战](https://github.com/waylau/rest-in-action)
 
 ### JavaScript
