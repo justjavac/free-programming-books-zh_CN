@@ -188,6 +188,7 @@
 * [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
 * [面向程序员的数据挖掘指南](https://github.com/jizhang/guidetodatamining)
 * [大型集群上的快速和通用数据处理架构](https://code.csdn.net/CODE_Translation/spark_matei_phd)
+* [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
 
 ## 编程艺术
 
@@ -394,7 +395,6 @@
 * [Twisted 与异步编程入门](http://likebeta.gitbooks.io/twisted-intro-cn/)
 * [TextGrocery 中文 API](http://textgrocery.readthedocs.org/zh/latest/index.html) ( 基于svm算法的一个短文本分类 Python 库 )
 * [Requests: HTTP for Humans](http://requests-docs-cn.readthedocs.org/zh_CN/latest/)
-* [Python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000) (廖雪峰讲解Python2.7)
 
 ### Ruby
 
@@ -493,7 +493,6 @@
 * [Standard C 语言标准函数库速查 (Cheat Sheet)](http://ganquan.info/standard-c/)
 * [Git Cheatsheet Chs](http://gh.amio.us/git-cheatsheet-chs/)
 * [JavaScript语言精粹](https://github.com/qibaoguang/Study-Step-by-Step/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/javascript_the_good_parts.md)
-* [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
 
 ### 测试相关
 
