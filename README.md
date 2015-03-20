@@ -442,7 +442,7 @@
 ### Haskell
 
 * [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
-* [Haskell趣学指南](http://learnyouahaskell-zh-tw.csie.org/zh-cn/chapters.html)
+* [Haskell趣学指南](http://fleurer-lee.com/lyah/)
 
 ### R
 
