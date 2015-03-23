@@ -492,6 +492,7 @@
 * [Standard C 语言标准函数库速查 (Cheat Sheet)](http://ganquan.info/standard-c/)
 * [Git Cheatsheet Chs](http://gh.amio.us/git-cheatsheet-chs/)
 * [JavaScript语言精粹](https://github.com/qibaoguang/Study-Step-by-Step/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/javascript_the_good_parts.md)
+* [制造开源软件](http://producingoss.com/zh/)
 
 ### 测试相关
 
