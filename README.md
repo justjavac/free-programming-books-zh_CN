@@ -188,6 +188,7 @@
 * [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
 * [面向程序员的数据挖掘指南](https://github.com/jizhang/guidetodatamining)
 * [大型集群上的快速和通用数据处理架构](https://code.csdn.net/CODE_Translation/spark_matei_phd)
+* [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
 
 ## 编程艺术
 
@@ -443,7 +444,7 @@
 ### Haskell
 
 * [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
-* [Haskell趣学指南](http://learnyouahaskell-zh-tw.csie.org/zh-cn/chapters.html)
+* [Haskell趣学指南](http://fleurer-lee.com/lyah/)
 
 ### R
 
@@ -492,6 +493,7 @@
 * [Standard C 语言标准函数库速查 (Cheat Sheet)](http://ganquan.info/standard-c/)
 * [Git Cheatsheet Chs](http://gh.amio.us/git-cheatsheet-chs/)
 * [JavaScript语言精粹](https://github.com/qibaoguang/Study-Step-by-Step/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/javascript_the_good_parts.md)
+* [制造开源软件](http://producingoss.com/zh/)
 
 ### 测试相关
 
