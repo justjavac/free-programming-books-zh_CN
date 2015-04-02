@@ -259,6 +259,7 @@
 * [Netty 4.x 用户指南](https://github.com/waylau/netty-4-user-guide)
 * [Netty 实战(精髓)](https://github.com/waylau/essential-netty-in-action)
 * [REST 实战](https://github.com/waylau/rest-in-action)
+* [Java 编码规范](https://github.com/waylau/java-code-conventions)
 
 ### JavaScript
 
