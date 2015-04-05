@@ -387,6 +387,7 @@
 * [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
 * [shell十三问](https://github.com/wzb56/13_questions_of_shell)
+
 ### Go
 
 * [Go编程基础](https://github.com/Unknwon/go-fundamental-programming)
