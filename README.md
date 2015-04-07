@@ -308,6 +308,8 @@
     * [Zepto.js 中文文档](http://mweb.baidu.com/zeptoapi/)
 * Sea.js
     * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
+* React.js
+    * [React.js 中文文档](http://reactjs.cn/)
 * CoffeeScript
     * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
     * [The Little Book on CoffeeScript中文版](http://island205.github.io/tlboc/)
