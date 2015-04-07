@@ -1,6 +1,7 @@
 免费的编程中文书籍索引
 ============================
 
+
 免费的编程中文书籍索引，欢迎投稿。
 
 - 国外程序员在 [stackoverflow](http://stackoverflow.com/a/1713/343194) 推荐的程序员必读书籍，[中文版](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html "一个合格的程序员应该读过哪些书")。
@@ -18,7 +19,11 @@
 贡献者名单: https://github.com/justjavac/free-programming-books-zh_CN/graphs/contributors
 
 ## 目录
-
+* [优质博客]()
+	* [PyTab在线手册中心](http://docs.pythontab.com/)
+	* [ImportNew](http://www.importnew.com/)
+	* [廖雪峰的官方网站](http://www.liaoxuefeng.com/)
+	* [程序员博客墙](http://blogwall.us/zh)
 * [语言无关类](#语言无关类)
   * [操作系统](#操作系统)
   * [智能系统](#智能系统)
@@ -242,6 +247,10 @@
 
 * [Dart 语言导览](http://dart.lidian.info/wiki/Language_Tour)
 
+### Erlang
+
+* [21天学通Erlang](http://xn--21erlang-p00o82pmp3o.github.io/)
+
 ### Fortran
 
 * [Fortran77和90/95编程入门](http://micro.ustc.edu.cn/Fortran/ZJDing/)
@@ -260,6 +269,7 @@
 * [Netty 实战(精髓)](https://github.com/waylau/essential-netty-in-action)
 * [REST 实战](https://github.com/waylau/rest-in-action)
 * [Java 编码规范](https://github.com/waylau/java-code-conventions)
+* [Apache MINA 2 用户指南](https://github.com/waylau/apache-mina-2.x-user-guide)
 
 ### JavaScript
 
@@ -308,6 +318,8 @@
     * [Zepto.js 中文文档](http://mweb.baidu.com/zeptoapi/)
 * Sea.js
     * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
+* React.js
+    * [React.js 中文文档](http://reactjs.cn/)
 * CoffeeScript
     * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
     * [The Little Book on CoffeeScript中文版](http://island205.github.io/tlboc/)
@@ -396,6 +408,7 @@
 * [Twisted 与异步编程入门](http://likebeta.gitbooks.io/twisted-intro-cn/)
 * [TextGrocery 中文 API](http://textgrocery.readthedocs.org/zh/latest/index.html) ( 基于svm算法的一个短文本分类 Python 库 )
 * [Requests: HTTP for Humans](http://requests-docs-cn.readthedocs.org/zh_CN/latest/)
+* [Pillow 中文文档](http://pillow-cn.readthedocs.org/en/latest/#)
 
 ### Ruby
 
@@ -413,6 +426,8 @@
 * [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
 * [Bash脚本15分钟进阶教程](http://blog.sae.sina.com.cn/archives/3606)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
+* [shell十三问](https://github.com/wzb56/13_questions_of_shell)
+
 ### Go
 
 * [Go编程基础](https://github.com/Unknwon/go-fundamental-programming)
@@ -495,6 +510,8 @@
 * [Git Cheatsheet Chs](http://gh.amio.us/git-cheatsheet-chs/)
 * [JavaScript语言精粹](https://github.com/qibaoguang/Study-Step-by-Step/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/javascript_the_good_parts.md)
 * [制造开源软件](http://producingoss.com/zh/)
+* [提问的智慧](http://www.beiww.com/doc/oss/smart-questions.html)
+* [Markdown 入门参考](https://github.com/LearnShare/Learning-Markdown)
 
 ### 测试相关
 
