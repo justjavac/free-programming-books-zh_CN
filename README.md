@@ -242,6 +242,10 @@
 
 * [Dart 语言导览](http://dart.lidian.info/wiki/Language_Tour)
 
+### Erlang
+
+* [21天学通Erlang](http://xn--21erlang-p00o82pmp3o.github.io/)
+
 ### Fortran
 
 * [Fortran77和90/95编程入门](http://micro.ustc.edu.cn/Fortran/ZJDing/)
