@@ -1,6 +1,7 @@
 免费的编程中文书籍索引
 ============================
 
+
 免费的编程中文书籍索引，欢迎投稿。
 
 - 国外程序员在 [stackoverflow](http://stackoverflow.com/a/1713/343194) 推荐的程序员必读书籍，[中文版](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html "一个合格的程序员应该读过哪些书")。
@@ -18,7 +19,11 @@
 贡献者名单: https://github.com/justjavac/free-programming-books-zh_CN/graphs/contributors
 
 ## 目录
-
+* [优质博客]()
+	* [PyTab在线手册中心](http://docs.pythontab.com/)
+	* [ImportNew](http://www.importnew.com/)
+	* [廖雪峰的官方网站](http://www.liaoxuefeng.com/)
+	* [程序员博客墙](http://blogwall.us/zh)
 * [语言无关类](#语言无关类)
   * [操作系统](#操作系统)
   * [智能系统](#智能系统)
@@ -420,6 +425,8 @@
 * [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
 * [Bash脚本15分钟进阶教程](http://blog.sae.sina.com.cn/archives/3606)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
+* [shell十三问](https://github.com/wzb56/13_questions_of_shell)
+
 ### Go
 
 * [Go编程基础](https://github.com/Unknwon/go-fundamental-programming)
