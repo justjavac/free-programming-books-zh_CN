@@ -269,6 +269,7 @@
 * [Netty 实战(精髓)](https://github.com/waylau/essential-netty-in-action)
 * [REST 实战](https://github.com/waylau/rest-in-action)
 * [Java 编码规范](https://github.com/waylau/java-code-conventions)
+* [Apache MINA 2 用户指南](https://github.com/waylau/apache-mina-2.x-user-guide)
 
 ### JavaScript
 
