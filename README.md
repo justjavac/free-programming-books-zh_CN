@@ -402,6 +402,7 @@
 * [Twisted 与异步编程入门](http://likebeta.gitbooks.io/twisted-intro-cn/)
 * [TextGrocery 中文 API](http://textgrocery.readthedocs.org/zh/latest/index.html) ( 基于svm算法的一个短文本分类 Python 库 )
 * [Requests: HTTP for Humans](http://requests-docs-cn.readthedocs.org/zh_CN/latest/)
+* [Pillow 中文文档](http://pillow-cn.readthedocs.org/en/latest/#)
 
 ### Ruby
 
