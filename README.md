@@ -38,30 +38,32 @@
   * [其它](#其它)
 
 * [语言相关类](#语言相关类)
+  * [Android](#android)
   * [AWK](#awk)
   * [C/C++](#cc)
   * [CSS/HTML](#css)
   * [Dart](#dart)
+  * [Erlang](#erlang)
   * [Fortran](#fortran)
-  * [Java](#java)
-  * [JavaScript](#javascript)
-  * [PHP](#php)
-  * [iOS](#ios)
-  * [Android](#android)
-  * [Python](#python)
-  * [Prolog](#prolog)
-  * [Ruby](#ruby)
-  * [Shell](#shell)
   * [Go](#go)
   * [Groovy](#groovy)
+  * [Haskell](#haskell)
+  * [iOS](#ios)
+  * [Java](#java)
+  * [JavaScript](#javascript)
   * [LaTeX](#latex)
   * [LISP](#lisp)
   * [Lua](#lua)
-  * [Haskell](#haskell)
+  * [Perl](#perl)
+  * [PHP](#php)
+  * [Prolog](#prolog)
+  * [Python](#python)
   * [R](#r)
+  * [Ruby](#ruby)
   * [Scala](#scala)
-  * [Swift](#swift)
   * [Scheme](#scheme)
+  * [Shell](#shell)
+  * [Swift](#swift)
 
 * [读书笔记及其它](#读书笔记及其它)
 * [测试相关](#测试相关)
@@ -214,6 +216,13 @@
 
 ## 语言相关类
 
+### Android
+
+* [Android Design(中文版)](http://www.apkbus.com/design/index.html)
+* Google Material Design 正體中文版 ([译本一](http://wcc723.gitbooks.io/google_design_translate/content/style-icons.html) [译本二](https://github.com/1sters/material_design_zh))
+* [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
+* [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)
+
 ### AWK
 
 * [awk程序设计语言](http://awk.readthedocs.org/en/latest/)
@@ -258,6 +267,35 @@
 ### Fortran
 
 * [Fortran77和90/95编程入门](http://micro.ustc.edu.cn/Fortran/ZJDing/)
+
+### Go
+
+* [Go编程基础](https://github.com/Unknwon/go-fundamental-programming)
+* [Go入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN)
+* [学习Go语言](http://mikespook.com/learning-go/) ([PDF](http://xxiyy.qiniudn.com/%E5%AD%A6%E4%B9%A0%20Go%20%E8%AF%AD%E8%A8%80\(Golang\).pdf?download))
+* [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang) (此书已经出版，希望开发者们去购买，支持作者的创作)
+* [Go实战开发](https://github.com/astaxie/Go-in-Action) (当我收录此项目时，作者已经写完第三章，如果读完前面章节觉得有帮助，可以给作者[捐赠](https://me.alipay.com/astaxie)，以鼓励作者的继续创作)
+* [Network programming with Go 中文翻译版本](https://github.com/astaxie/NPWG_zh)
+* [Effective Go](http://www.hellogcc.org/effective_go.html)
+
+### Groovy
+
+* [实战 Groovy 系列](http://www.ibm.com/developerworks/cn/java/j-pg/)
+
+### Haskell
+
+* [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
+* [Haskell趣学指南](http://fleurer-lee.com/lyah/)
+
+### iOS
+
+* [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
+* [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
+* [Google Objective-C Style Guide 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/)
+* [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
+* [Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
+* [马上着手开发 iOS 应用程序](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOSCh/index.html)
+* [网易斯坦福大学公开课：iOS 7应用开发字幕文件](https://github.com/jkyin/Subtitle)
 
 ### Java
 
@@ -334,6 +372,26 @@
     * [Discover Meteor](http://zh.discovermeteor.com/)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
+### LaTeX
+
+* [一份其实很短的 LaTeX 入门文档](http://liam0205.me/2014/09/08/latex-introduction/)
+* [一份不太简短的 LATEX 2ε 介绍](http://www.mohu.org/info/lshort-cn.pdf) （PDF版）
+
+### LISP
+
+* [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
+
+### Lua
+
+* [Lua编程入门](https://github.com/andycai/luaprimer)
+* [Lua 5.1 参考手册 中文翻译](http://www.codingnow.com/2000/download/lua_manual.html)
+* [Lua 5.3 参考手册 中文翻译](http://cloudwu.github.io/lua53doc/)
+
+### Perl
+
+* [Modern Perl 中文版](https://github.com/horus/modern_perl_book)
+* [Perl 程序员应该知道的事](http://perl.linuxtoy.org/)
+
 ### PHP
 
 * [PHP调试技术手册](http://www.laruence.com/2010/06/21/1608.html)(PDF)
@@ -356,22 +414,9 @@
 * [Composer 中文网](http://www.phpcomposer.com)
 * [Slim 中文文档](http://minimee.org/php/slim)
 
-### iOS
+### Prolog
 
-* [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
-* [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
-* [Google Objective-C Style Guide 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/)
-* [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
-* [Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
-* [马上着手开发 iOS 应用程序](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOSCh/index.html)
-* [网易斯坦福大学公开课：iOS 7应用开发字幕文件](https://github.com/jkyin/Subtitle)
-
-### Android
-
-* [Android Design(中文版)](http://www.apkbus.com/design/index.html)
-* Google Material Design 正體中文版 ([译本一](http://wcc723.gitbooks.io/google_design_translate/content/style-icons.html) [译本二](https://github.com/1sters/material_design_zh))
-* [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
-* [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)
+* [笨办法学Prolog](http://fengdidi.github.io/blog/2011/11/15/qian-yan/)
 
 ### Python
 
@@ -414,6 +459,10 @@
 * [Requests: HTTP for Humans](http://requests-docs-cn.readthedocs.org/zh_CN/latest/)
 * [Pillow 中文文档](http://pillow-cn.readthedocs.org/en/latest/#)
 
+### R
+
+* [R语言忍者秘笈](https://github.com/yihui/r-ninja)
+
 ### Ruby
 
 * [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
@@ -425,6 +474,16 @@
 * [编写Ruby的C拓展](http://wusuopu.gitbooks.io/write-ruby-extension-with-c/content/)
 * [Ruby 源码解读](https://ruby-china.org/topics/22386)
 
+### Scala
+
+* [Scala课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
+* [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html)(Twitter的Scala最佳实践的中文翻译)
+* [Scala指南](http://zh.scala-tour.com/)
+
+### Scheme
+* [Yet Another Scheme Tutorial Scheme入门教程](http://deathking.github.io/yast-cn/)
+* [Scheme语言简明教程](http://songjinghe.github.io/TYS-zh-translation/)
+
 ### Shell
 
 * [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
@@ -432,68 +491,11 @@
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
 * [shell十三问](https://github.com/wzb56/13_questions_of_shell)
 
-### Go
-
-* [Go编程基础](https://github.com/Unknwon/go-fundamental-programming)
-* [Go入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN)
-* [学习Go语言](http://mikespook.com/learning-go/) ([PDF](http://xxiyy.qiniudn.com/%E5%AD%A6%E4%B9%A0%20Go%20%E8%AF%AD%E8%A8%80\(Golang\).pdf?download))
-* [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang) (此书已经出版，希望开发者们去购买，支持作者的创作)
-* [Go实战开发](https://github.com/astaxie/Go-in-Action) (当我收录此项目时，作者已经写完第三章，如果读完前面章节觉得有帮助，可以给作者[捐赠](https://me.alipay.com/astaxie)，以鼓励作者的继续创作)
-* [Network programming with Go 中文翻译版本](https://github.com/astaxie/NPWG_zh)
-* [Effective Go](http://www.hellogcc.org/effective_go.html)
-
-### Groovy
-
-* [实战 Groovy 系列](http://www.ibm.com/developerworks/cn/java/j-pg/)
-
-### LaTeX
-
-* [一份其实很短的 LaTeX 入门文档](http://liam0205.me/2014/09/08/latex-introduction/)
-* [一份不太简短的 LATEX 2ε 介绍](http://www.mohu.org/info/lshort-cn.pdf) （PDF版）
-
-### LISP
-
-* [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
-
-### Lua
-
-* [Lua编程入门](https://github.com/andycai/luaprimer)
-* [Lua 5.1 参考手册 中文翻译](http://www.codingnow.com/2000/download/lua_manual.html)
-* [Lua 5.3 参考手册 中文翻译](http://cloudwu.github.io/lua53doc/)
-
-### Haskell
-
-* [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
-* [Haskell趣学指南](http://fleurer-lee.com/lyah/)
-
-### R
-
-* [R语言忍者秘笈](https://github.com/yihui/r-ninja)
-
-### Scala
-
-* [Scala课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
-* [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html)(Twitter的Scala最佳实践的中文翻译)
-* [Scala指南](http://zh.scala-tour.com/)
-
 ### Swift
 
 * [The Swift Programming Language 中文版](http://numbbbbb.github.io/the-swift-programming-language-in-chinese/)
 * [Swift 语言指南](http://dev.swiftguide.cn)
 * [Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译文件](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)
-
-### Perl
-
-* [Modern Perl 中文版](https://github.com/horus/modern_perl_book)
-* [Perl 程序员应该知道的事](http://perl.linuxtoy.org/)
-
-### Prolog
-
-* [笨办法学Prolog](http://fengdidi.github.io/blog/2011/11/15/qian-yan/)
-
-### Scheme
-* [Yet Another Scheme Tutorial Scheme入门教程](http://deathking.github.io/yast-cn/)
-* [Scheme语言简明教程](http://songjinghe.github.io/TYS-zh-translation/)
 
 ### 读书笔记及其它
 
