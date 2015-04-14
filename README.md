@@ -115,6 +115,7 @@
 * [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
 * [Git 参考手册](http://gitref.justjavac.com)
 * [Pro Git](http://git-scm.com/book/zh)
+* [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details) (整理在gitbook上)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 * [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
 * [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
