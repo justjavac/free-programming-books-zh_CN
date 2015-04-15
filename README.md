@@ -88,6 +88,7 @@
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
 * [Docker中文指南](https://github.com/widuu/chinese_docker)
 * [Docker —— 从入门到实践](https://github.com/yeasy/docker_practice)
+* [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
 * [FreeRADIUS新手入门](http://freeradius.akagi201.org)
 * [Mac 开发配置手册](http://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 * [FreeBSD 使用手册](https://www.freebsd.org/doc/zh_CN/books/handbook/index.html)
