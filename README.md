@@ -416,6 +416,7 @@
 * [swoole文档及入门教程](https://github.com/LinkedDestiny/swoole-doc)
 * [Composer 中文网](http://www.phpcomposer.com)
 * [Slim 中文文档](http://minimee.org/php/slim)
+* [Lumen 中文文档](http://lumen.laravel-china.org/)
 
 ### Prolog
 
