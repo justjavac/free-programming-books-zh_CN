@@ -280,6 +280,7 @@
 * [Go实战开发](https://github.com/astaxie/Go-in-Action) (当我收录此项目时，作者已经写完第三章，如果读完前面章节觉得有帮助，可以给作者[捐赠](https://me.alipay.com/astaxie)，以鼓励作者的继续创作)
 * [Network programming with Go 中文翻译版本](https://github.com/astaxie/NPWG_zh)
 * [Effective Go](http://www.hellogcc.org/effective_go.html)
+* [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
 
 ### Groovy
 
