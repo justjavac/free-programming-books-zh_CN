@@ -225,6 +225,7 @@
 * [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 * [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)
 * [Android开发技术前线(android-tech-frontier)](https://github.com/bboyfeiyu/android-tech-frontier)
+* [Point-of-Android](https://github.com/FX-Max/Point-of-Android) Android 一些重要知识点解析整理
 
 ### AWK
 
