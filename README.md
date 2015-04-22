@@ -225,6 +225,7 @@
 * [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 * [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)
 * [Android开发技术前线(android-tech-frontier)](https://github.com/bboyfeiyu/android-tech-frontier)
+* [Point-of-Android](https://github.com/FX-Max/Point-of-Android) Android 一些重要知识点解析整理
 
 ### AWK
 
@@ -280,6 +281,7 @@
 * [Go实战开发](https://github.com/astaxie/Go-in-Action) (当我收录此项目时，作者已经写完第三章，如果读完前面章节觉得有帮助，可以给作者[捐赠](https://me.alipay.com/astaxie)，以鼓励作者的继续创作)
 * [Network programming with Go 中文翻译版本](https://github.com/astaxie/NPWG_zh)
 * [Effective Go](http://www.hellogcc.org/effective_go.html)
+* [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
 
 ### Groovy
 
@@ -416,6 +418,7 @@
 * [swoole文档及入门教程](https://github.com/LinkedDestiny/swoole-doc)
 * [Composer 中文网](http://www.phpcomposer.com)
 * [Slim 中文文档](http://minimee.org/php/slim)
+* [Lumen 中文文档](http://lumen.laravel-china.org/)
 
 ### Prolog
 
