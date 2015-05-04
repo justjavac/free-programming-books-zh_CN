@@ -76,6 +76,7 @@
 * [ImportNew](http://www.importnew.com/)
 * [廖雪峰的官方网站](http://www.liaoxuefeng.com/)
 * [程序员博客墙](http://blogwall.us/zh)
+* [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 
 ### 操作系统
 
