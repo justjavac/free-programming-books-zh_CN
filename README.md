@@ -147,6 +147,7 @@
 * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
 * [Neo4j 简体中文手册 v1.8](http://docs.neo4j.org.cn/)
 * [Neo4j .rb 中文資源](http://neo4j.tw/)
+* [Disque 使用教程](http://disquebook.com)
 
 ### PostgreSQL
 
@@ -433,6 +434,7 @@
 * [可爱的 Python ](http://lovelypython.readthedocs.org/en/latest/)
 * [Python 2.7 官方教程中文版](http://www.pythondoc.com/pythontutorial27/index.html)
 * [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
+* [《Python Cookbook》 3rd Edition 翻译](https://github.com/yidao620c/python3-cookbook)
 * [深入 Python 3](http://sebug.net/paper/books/dive-into-python3/)
 * [PEP8 Python代码风格规范](https://code.google.com/p/zhong-wiki/wiki/PEP8)
 * [Google Python 风格指南 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/)
@@ -480,6 +482,7 @@
 * [Ruby on Rails Tutorial 原书第 3 版](http://railstutorial-china.org/) (本书网页版免费提供，电子版以 PDF、EPub 和 Mobi 格式提供购买，仅售 9.9 美元)
 * [编写Ruby的C拓展](http://wusuopu.gitbooks.io/write-ruby-extension-with-c/content/)
 * [Ruby 源码解读](https://ruby-china.org/topics/22386)
+* [Ruby中的元编程](http://deathking.github.io/metaprogramming-in-ruby/)
 
 ### Scala
 
