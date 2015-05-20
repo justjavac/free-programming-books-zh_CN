@@ -335,6 +335,7 @@
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
 * [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/) (作者：阮一峰)
+* [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
 * jQuery
     * [jQuery 解构](http://www.cn-cuckoo.com/deconstructed/jquery.html)
     * [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
@@ -369,6 +370,8 @@
     * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
 * React.js
     * [React.js 中文文档](http://reactjs.cn/)
+* impress.js
+    * [impress.js的中文教程](https://github.com/kokdemo/impress.js-tutorial-in-Chinese)
 * CoffeeScript
     * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
     * [The Little Book on CoffeeScript中文版](http://island205.github.io/tlboc/)
