@@ -76,6 +76,7 @@
 * [ImportNew](http://www.importnew.com/)
 * [廖雪峰的官方网站](http://www.liaoxuefeng.com/)
 * [程序员博客墙](http://blogwall.us/zh)
+* [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 
 ### 操作系统
 
@@ -146,6 +147,7 @@
 * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
 * [Neo4j 简体中文手册 v1.8](http://docs.neo4j.org.cn/)
 * [Neo4j .rb 中文資源](http://neo4j.tw/)
+* [Disque 使用教程](http://disquebook.com)
 
 ### PostgreSQL
 
@@ -333,6 +335,7 @@
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
 * [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/) (作者：阮一峰)
+* [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
 * jQuery
     * [jQuery 解构](http://www.cn-cuckoo.com/deconstructed/jquery.html)
     * [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
@@ -367,6 +370,8 @@
     * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
 * React.js
     * [React.js 中文文档](http://reactjs.cn/)
+* impress.js
+    * [impress.js的中文教程](https://github.com/kokdemo/impress.js-tutorial-in-Chinese)
 * CoffeeScript
     * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
     * [The Little Book on CoffeeScript中文版](http://island205.github.io/tlboc/)
@@ -432,6 +437,7 @@
 * [可爱的 Python ](http://lovelypython.readthedocs.org/en/latest/)
 * [Python 2.7 官方教程中文版](http://www.pythondoc.com/pythontutorial27/index.html)
 * [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
+* [《Python Cookbook》 3rd Edition 翻译](https://github.com/yidao620c/python3-cookbook)
 * [深入 Python 3](http://sebug.net/paper/books/dive-into-python3/)
 * [PEP8 Python代码风格规范](https://code.google.com/p/zhong-wiki/wiki/PEP8)
 * [Google Python 风格指南 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/)
@@ -479,6 +485,7 @@
 * [Ruby on Rails Tutorial 原书第 3 版](http://railstutorial-china.org/) (本书网页版免费提供，电子版以 PDF、EPub 和 Mobi 格式提供购买，仅售 9.9 美元)
 * [编写Ruby的C拓展](http://wusuopu.gitbooks.io/write-ruby-extension-with-c/content/)
 * [Ruby 源码解读](https://ruby-china.org/topics/22386)
+* [Ruby中的元编程](http://deathking.github.io/metaprogramming-in-ruby/)
 
 ### Scala
 
