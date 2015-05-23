@@ -532,6 +532,7 @@
 * [制造开源软件](http://producingoss.com/zh/)
 * [提问的智慧](http://www.beiww.com/doc/oss/smart-questions.html)
 * [Markdown 入门参考](https://github.com/LearnShare/Learning-Markdown)
+* [背包问题九讲](http://love-oriented.com/pack/)
 
 ### 测试相关
 
