@@ -530,7 +530,7 @@
 * [Git Cheatsheet Chs](http://gh.amio.us/git-cheatsheet-chs/)
 * [JavaScript语言精粹](https://github.com/qibaoguang/Study-Step-by-Step/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/javascript_the_good_parts.md)
 * [制造开源软件](http://producingoss.com/zh/)
-* [提问的智慧](http://www.beiww.com/doc/oss/smart-questions.html)
+* [提问的智慧](http://www.dianbo.org/9238/stone/tiwendezhihui.htm)
 * [Markdown 入门参考](https://github.com/LearnShare/Learning-Markdown)
 
 ### 测试相关
