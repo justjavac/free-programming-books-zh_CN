@@ -21,7 +21,6 @@
 ## 目录
 
 * [语言无关类](#语言无关类)
-  * [优质博客](#优质博客)
   * [操作系统](#操作系统)
   * [智能系统](#智能系统)
   * [WEB服务器](#web服务器)
@@ -69,14 +68,6 @@
 * [测试相关](#测试相关)
 
 ## 语言无关类
-
-### 优质博客
-
-* [PyTab在线手册中心](http://docs.pythontab.com/)
-* [ImportNew](http://www.importnew.com/)
-* [廖雪峰的官方网站](http://www.liaoxuefeng.com/)
-* [程序员博客墙](http://blogwall.us/zh)
-* [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 
 ### 操作系统
 
@@ -207,6 +198,7 @@
 
 ## 编程艺术
 
+* [编程入门指南](http://huyuefeng.me/intro-to-prog/)
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
 * [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
@@ -529,8 +521,9 @@
 * [Git Cheatsheet Chs](http://gh.amio.us/git-cheatsheet-chs/)
 * [JavaScript语言精粹](https://github.com/qibaoguang/Study-Step-by-Step/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/javascript_the_good_parts.md)
 * [制造开源软件](http://producingoss.com/zh/)
-* [提问的智慧](http://www.beiww.com/doc/oss/smart-questions.html)
+* [提问的智慧](http://www.dianbo.org/9238/stone/tiwendezhihui.htm)
 * [Markdown 入门参考](https://github.com/LearnShare/Learning-Markdown)
+* [背包问题九讲](http://love-oriented.com/pack/)
 
 ### 测试相关
 
