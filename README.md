@@ -523,6 +523,7 @@
 * [制造开源软件](http://producingoss.com/zh/)
 * [提问的智慧](http://www.dianbo.org/9238/stone/tiwendezhihui.htm)
 * [Markdown 入门参考](https://github.com/LearnShare/Learning-Markdown)
+* [背包问题九讲](http://love-oriented.com/pack/)
 
 ### 测试相关
 
