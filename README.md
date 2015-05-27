@@ -59,6 +59,7 @@
   * [Python](#python)
   * [R](#r)
   * [Ruby](#ruby)
+  * [Rust](#rust)
   * [Scala](#scala)
   * [Scheme](#scheme)
   * [Shell](#shell)
@@ -143,6 +144,7 @@
 ### PostgreSQL
 
 * [PostgreSQL 8.2.3 中文文档](http://works.jinbuguo.com/postgresql/menu823/index.html)
+* [PostgreSQL 9.3.1 中文文档](http://www.postgres.cn/docs/9.3/index.html)
 
 ### MySQL
 
@@ -478,6 +480,10 @@
 * [编写Ruby的C拓展](http://wusuopu.gitbooks.io/write-ruby-extension-with-c/content/)
 * [Ruby 源码解读](https://ruby-china.org/topics/22386)
 * [Ruby中的元编程](http://deathking.github.io/metaprogramming-in-ruby/)
+
+### Rust
+
+* [rust book 中文翻译](https://www.gitbook.com/book/kaisery/rust-book-chinese/details) 
 
 ### Scala
 
