@@ -245,6 +245,7 @@
 * [Cmake 实践](http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF版)
 * [C++ FAQ LITE(中文版)](http://www.sunistudio.com/cppfaq/)
 * [C++ Primer 5th Answers](https://github.com/Mooophy/Cpp-Primer)
+* [C++ Concurrency In Action](http://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/) (一本“基于C++11新标准的并发和多线程编程深度指南”，完成部分的翻译，希望能有朋友一起翻译)
 
 ### CSS
 
