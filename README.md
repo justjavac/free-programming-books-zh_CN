@@ -21,7 +21,6 @@
 ## 目录
 
 * [语言无关类](#语言无关类)
-  * [优质博客](#优质博客)
   * [操作系统](#操作系统)
   * [智能系统](#智能系统)
   * [WEB服务器](#web服务器)
@@ -60,6 +59,7 @@
   * [Python](#python)
   * [R](#r)
   * [Ruby](#ruby)
+  * [Rust](#rust)
   * [Scala](#scala)
   * [Scheme](#scheme)
   * [Shell](#shell)
@@ -69,14 +69,6 @@
 * [测试相关](#测试相关)
 
 ## 语言无关类
-
-### 优质博客
-
-* [PyTab在线手册中心](http://docs.pythontab.com/)
-* [ImportNew](http://www.importnew.com/)
-* [廖雪峰的官方网站](http://www.liaoxuefeng.com/)
-* [程序员博客墙](http://blogwall.us/zh)
-* [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 
 ### 操作系统
 
@@ -152,6 +144,7 @@
 ### PostgreSQL
 
 * [PostgreSQL 8.2.3 中文文档](http://works.jinbuguo.com/postgresql/menu823/index.html)
+* [PostgreSQL 9.3.1 中文文档](http://www.postgres.cn/docs/9.3/index.html)
 
 ### MySQL
 
@@ -252,6 +245,7 @@
 * [Cmake 实践](http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF版)
 * [C++ FAQ LITE(中文版)](http://www.sunistudio.com/cppfaq/)
 * [C++ Primer 5th Answers](https://github.com/Mooophy/Cpp-Primer)
+* [C++ Concurrency In Action](http://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/) (一本“基于C++11新标准的并发和多线程编程深度指南”，完成部分的翻译，希望能有朋友一起翻译)
 
 ### CSS
 
@@ -489,6 +483,10 @@
 * [Ruby 源码解读](https://ruby-china.org/topics/22386)
 * [Ruby中的元编程](http://deathking.github.io/metaprogramming-in-ruby/)
 
+### Rust
+
+* [rust book 中文翻译](https://www.gitbook.com/book/kaisery/rust-book-chinese/details) 
+
 ### Scala
 
 * [Scala课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
@@ -531,7 +529,7 @@
 * [Git Cheatsheet Chs](http://gh.amio.us/git-cheatsheet-chs/)
 * [JavaScript语言精粹](https://github.com/qibaoguang/Study-Step-by-Step/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/javascript_the_good_parts.md)
 * [制造开源软件](http://producingoss.com/zh/)
-* [提问的智慧](http://www.beiww.com/doc/oss/smart-questions.html)
+* [提问的智慧](http://www.dianbo.org/9238/stone/tiwendezhihui.htm)
 * [Markdown 入门参考](https://github.com/LearnShare/Learning-Markdown)
 * [背包问题九讲](http://love-oriented.com/pack/)
 
