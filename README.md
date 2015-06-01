@@ -331,6 +331,7 @@
 * [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/) (作者：阮一峰)
 * [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
+* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (深入JavaScript语言核心机制的系列图书)
 * jQuery
     * [jQuery 解构](http://www.cn-cuckoo.com/deconstructed/jquery.html)
     * [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
@@ -531,6 +532,10 @@
 * [提问的智慧](http://www.dianbo.org/9238/stone/tiwendezhihui.htm)
 * [Markdown 入门参考](https://github.com/LearnShare/Learning-Markdown)
 * [背包问题九讲](http://love-oriented.com/pack/)
+* [老齐的技术资料](https://github.com/qiwsir/ITArticles)
+* [前端技能汇总](https://github.com/JacksonTian/fks)
+* [借助开源项目，学习软件开发](https://github.com/zhuangbiaowei/learn-with-open-source)
+* [前端工作面试问题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)
 
 ### 测试相关
 
