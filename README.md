@@ -73,7 +73,7 @@
 ### 操作系统
 
 * [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
-* [鸟哥的Linux私房菜](http://linux.vbird.org/)
+* [鸟哥的Linux私房菜](http://vbird.dic.ksu.edu.tw/)
 * [Linux 系统高级编程](http://sourceforge.net/apps/trac/elpi/wiki/ALP)
 * [The Linux Command Line](http://billie66.github.io/TLCL/index.html) (中英文版)
 * [Linux 设备驱动](http://oss.org.cn/kernel-book/ldd3/index.html) (第三版)
