@@ -391,6 +391,7 @@
 ### LISP
 
 * [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
+* [On Lisp 中文翻译版本](http://www.ituring.com.cn/minibook/862)
 
 ### Lua
 
