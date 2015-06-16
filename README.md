@@ -161,6 +161,8 @@
 * [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
 * [编码规范](https://github.com/ecomfe/spec)
 * [开源软件架构](http://www.ituring.com.cn/book/1143)
+* [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
+* [GNU make 中文手册](http://www.yayu.org/book/gnu_make/)
 
 ### 设计模式
 
@@ -389,6 +391,7 @@
 ### LISP
 
 * [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
+* [On Lisp 中文翻译版本](http://www.ituring.com.cn/minibook/862)
 
 ### Lua
 
