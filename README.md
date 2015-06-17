@@ -537,6 +537,7 @@
 * [制造开源软件](http://producingoss.com/zh/)
 * [提问的智慧](http://www.dianbo.org/9238/stone/tiwendezhihui.htm)
 * [Markdown 入门参考](https://github.com/LearnShare/Learning-Markdown)
+* [AsciiDoc简明指南](https://github.com/stanzgy/wiki/blob/master/markup/asciidoc-guide.asciidoc)
 * [背包问题九讲](http://love-oriented.com/pack/)
 * [老齐的技术资料](https://github.com/qiwsir/ITArticles)
 * [前端技能汇总](https://github.com/JacksonTian/fks)
