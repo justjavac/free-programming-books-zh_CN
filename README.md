@@ -287,6 +287,7 @@
 * [Revel 框架手册](http://gorevel.cn/docs/manual/index.html)
 * [Java程序员的Golang入门指南](http://blog.csdn.net/dc_726/article/details/46565241)
 * [Go命令教程](https://github.com/hyper-carrot/go_command_tutorial)
+* [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
 
 ### Groovy
 
