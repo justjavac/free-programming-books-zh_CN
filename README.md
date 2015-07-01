@@ -261,6 +261,7 @@
 * [前端代码规范](http://alloyteam.github.io/code-guide/) (腾讯alloyteam团队)
 * [HTML和CSS编码规范](http://codeguide.bootcss.com/)
 * [Sass Guidelines 中文](http://sass-guidelin.es/zh/)
+* [CSS3 Tutorial 《CSS3 教程》](https://github.com/waylau/css3-tutorial)
 
 ### Dart
 
