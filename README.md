@@ -179,6 +179,7 @@
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
 * [Grunt中文文档](http://www.gruntjs.net/)
 * [gulp中文文档](http://www.gulpjs.com.cn/docs/)
+* [Gulp 入门指南](https://github.com/nimojs/gulp-book)
 * [Yeoman中文文档](http://yeomanjs.org/)
 * [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
 * [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
