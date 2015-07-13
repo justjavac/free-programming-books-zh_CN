@@ -179,6 +179,7 @@
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
 * [Grunt中文文档](http://www.gruntjs.net/)
 * [gulp中文文档](http://www.gulpjs.com.cn/docs/)
+* [Gulp 入门指南](https://github.com/nimojs/gulp-book)
 * [Yeoman中文文档](http://yeomanjs.org/)
 * [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
 * [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
@@ -289,6 +290,7 @@
 * [Java程序员的Golang入门指南](http://blog.csdn.net/dc_726/article/details/46565241)
 * [Go命令教程](https://github.com/hyper-carrot/go_command_tutorial)
 * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
+* [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)
 
 ### Groovy
 
@@ -376,6 +378,7 @@
     * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
 * React.js
     * [React.js 中文文档](http://reactjs.cn/)
+    * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
 * impress.js
     * [impress.js的中文教程](https://github.com/kokdemo/impress.js-tutorial-in-Chinese)
 * CoffeeScript
