@@ -23,6 +23,7 @@
 * [语言无关类](#语言无关类)
   * [操作系统](#操作系统)
   * [智能系统](#智能系统)
+  * [编译原理](#编译原理)
   * [WEB服务器](#web服务器)
   * [版本控制](#版本控制)
   * [编辑器](#编辑器)
@@ -94,6 +95,8 @@
 #### 智能系统
 * [一步步搭建物联网系统](https://github.com/gmszone/designiot)
 
+### 编译原理
+* [《计算机程序的结构和解释》公开课 翻译项目](https://github.com/DeathKing/Learning-SICP)
 
 ### WEB服务器
 
@@ -253,6 +256,7 @@
 * [C++ Primer 5th Answers](https://github.com/Mooophy/Cpp-Primer)
 * [C++ Concurrency In Action](http://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/) (一本“基于C++11新标准的并发和多线程编程深度指南”，完成部分的翻译，希望能有朋友一起翻译)
 * [QT 教程](http://www.kuqin.com/qtdocument/tutorial.html)
+* [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 
 ### CSS
 
