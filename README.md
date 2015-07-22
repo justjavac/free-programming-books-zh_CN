@@ -23,6 +23,7 @@
 * [语言无关类](#语言无关类)
   * [操作系统](#操作系统)
   * [智能系统](#智能系统)
+  * [编译原理](#编译原理)
   * [WEB服务器](#web服务器)
   * [版本控制](#版本控制)
   * [编辑器](#编辑器)
@@ -94,6 +95,8 @@
 #### 智能系统
 * [一步步搭建物联网系统](https://github.com/gmszone/designiot)
 
+### 编译原理
+* [《计算机程序的结构和解释》公开课 翻译项目](https://github.com/DeathKing/Learning-SICP)
 
 ### WEB服务器
 
@@ -235,6 +238,7 @@
 
 ### C/C++
 
+* [C 语言编程透视](http://tinylab.gitbooks.io/cbook)
 * [C++ 并发编程指南](https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial) ([@傅海平ICT](http://weibo.com/1702076100))
 * [Linux C编程一站式学习](http://akaedu.github.io/book/) (宋劲杉, 北京亚嵌教育研究中心)
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
@@ -253,6 +257,7 @@
 * [C++ Primer 5th Answers](https://github.com/Mooophy/Cpp-Primer)
 * [C++ Concurrency In Action](http://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/) (一本“基于C++11新标准的并发和多线程编程深度指南”，完成部分的翻译，希望能有朋友一起翻译)
 * [QT 教程](http://www.kuqin.com/qtdocument/tutorial.html)
+* [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 
 ### CSS
 
@@ -476,7 +481,6 @@
 * [Python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
 * [Python 正则表达式操作指南](http://wiki.ubuntu.org.cn/Python正则表达式操作指南)
 * [python初级教程：入门详解](http://www.crifan.com/files/doc/docbook/python_beginner_tutorial/release/html/python_beginner_tutorial.html)
-* [Python Cookbook 第3版 中文版](http://python3-cookbook.readthedocs.org/zh_CN/latest/)
 * [Twisted 与异步编程入门](http://likebeta.gitbooks.io/twisted-intro-cn/)
 * [TextGrocery 中文 API](http://textgrocery.readthedocs.org/zh/latest/index.html) ( 基于svm算法的一个短文本分类 Python 库 )
 * [Requests: HTTP for Humans](http://requests-docs-cn.readthedocs.org/zh_CN/latest/)
