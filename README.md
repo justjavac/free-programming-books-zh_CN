@@ -130,6 +130,7 @@
 * [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com/)
 * [Vim中文文档](https://github.com/vimcn/vimcdoc)
 * [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
+* [tmux:高效的全键盘开发工具](https://github.com/aqua7regia/tmux-Productive-Mouse-Free-Development_zh)
 
 ### NoSQL
 
@@ -485,6 +486,9 @@
 * [TextGrocery 中文 API](http://textgrocery.readthedocs.org/zh/latest/index.html) ( 基于svm算法的一个短文本分类 Python 库 )
 * [Requests: HTTP for Humans](http://requests-docs-cn.readthedocs.org/zh_CN/latest/)
 * [Pillow 中文文档](http://pillow-cn.readthedocs.org/en/latest/#)
+* [PyMOTW 中文版](http://pymotwcn.readthedocs.org/en/latest/index.html)
+* [Python 官方文档中文版](http://data.digitser.net/zh-CN/python_index.html)
+* [Fabric 中文文档](http://fabric-chs.readthedocs.org)
 
 ### R
 
