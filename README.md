@@ -488,6 +488,7 @@
 * [Pillow 中文文档](http://pillow-cn.readthedocs.org/en/latest/#)
 * [PyMOTW 中文版](http://pymotwcn.readthedocs.org/en/latest/index.html)
 * [Python 官方文档中文版](http://data.digitser.net/zh-CN/python_index.html)
+* [Fabric 中文文档](http://fabric-chs.readthedocs.org)
 
 ### R
 
