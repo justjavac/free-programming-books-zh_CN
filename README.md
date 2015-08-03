@@ -404,9 +404,11 @@
 * [一份不太简短的 LATEX 2ε 介绍](http://www.mohu.org/info/lshort-cn.pdf) （PDF版）
 
 ### LISP
-
-* [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
-* [On Lisp 中文翻译版本](http://www.ituring.com.cn/minibook/862)
+* Common Lisp
+    * [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
+    * [On Lisp 中文翻译版本](http://www.ituring.com.cn/minibook/862)
+* Racket
+    * [Racket book](https://github.com/tyrchen/racket-book)
 
 ### Lua
 
