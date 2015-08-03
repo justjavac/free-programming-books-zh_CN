@@ -62,7 +62,6 @@
   * [Ruby](#ruby)
   * [Rust](#rust)
   * [Scala](#scala)
-  * [Scheme](#scheme)
   * [Shell](#shell)
   * [Swift](#swift)
 
@@ -407,8 +406,11 @@
 * Common Lisp
     * [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
     * [On Lisp 中文翻译版本](http://www.ituring.com.cn/minibook/862)
-* Racket
-    * [Racket book](https://github.com/tyrchen/racket-book)
+* Scheme
+    * [Yet Another Scheme Tutorial Scheme入门教程](http://deathking.github.io/yast-cn/)
+    * [Scheme语言简明教程](http://songjinghe.github.io/TYS-zh-translation/)
+    * Racket
+        * [Racket book](https://github.com/tyrchen/racket-book)
 
 ### Lua
 
@@ -517,10 +519,6 @@
 * [Scala课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
 * [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html)(Twitter的Scala最佳实践的中文翻译)
 * [Scala指南](http://zh.scala-tour.com/)
-
-### Scheme
-* [Yet Another Scheme Tutorial Scheme入门教程](http://deathking.github.io/yast-cn/)
-* [Scheme语言简明教程](http://songjinghe.github.io/TYS-zh-translation/)
 
 ### Shell
 
