@@ -24,6 +24,7 @@
   * [操作系统](#操作系统)
   * [智能系统](#智能系统)
   * [编译原理](#编译原理)
+  * [计算机图形学](#计算机图形学)
   * [WEB服务器](#web服务器)
   * [版本控制](#版本控制)
   * [编辑器](#编辑器)
@@ -96,6 +97,9 @@
 
 ### 编译原理
 * [《计算机程序的结构和解释》公开课 翻译项目](https://github.com/DeathKing/Learning-SICP)
+
+### 计算机图形学
+* [OpenGL 教程](https://github.com/zilongshanren/opengl-tutorials)
 
 ### WEB服务器
 
