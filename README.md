@@ -24,6 +24,7 @@
   * [操作系统](#操作系统)
   * [智能系统](#智能系统)
   * [编译原理](#编译原理)
+  * [计算机图形学](#计算机图形学)
   * [WEB服务器](#web服务器)
   * [版本控制](#版本控制)
   * [编辑器](#编辑器)
@@ -62,7 +63,6 @@
   * [Ruby](#ruby)
   * [Rust](#rust)
   * [Scala](#scala)
-  * [Scheme](#scheme)
   * [Shell](#shell)
   * [Swift](#swift)
 
@@ -97,6 +97,9 @@
 
 ### 编译原理
 * [《计算机程序的结构和解释》公开课 翻译项目](https://github.com/DeathKing/Learning-SICP)
+
+### 计算机图形学
+* [OpenGL 教程](https://github.com/zilongshanren/opengl-tutorials)
 
 ### WEB服务器
 
@@ -404,9 +407,14 @@
 * [一份不太简短的 LATEX 2ε 介绍](http://www.mohu.org/info/lshort-cn.pdf) （PDF版）
 
 ### LISP
-
-* [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
-* [On Lisp 中文翻译版本](http://www.ituring.com.cn/minibook/862)
+* Common Lisp
+    * [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
+    * [On Lisp 中文翻译版本](http://www.ituring.com.cn/minibook/862)
+* Scheme
+    * [Yet Another Scheme Tutorial Scheme入门教程](http://deathking.github.io/yast-cn/)
+    * [Scheme语言简明教程](http://songjinghe.github.io/TYS-zh-translation/)
+    * Racket
+        * [Racket book](https://github.com/tyrchen/racket-book)
 
 ### Lua
 
@@ -516,10 +524,6 @@
 * [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html)(Twitter的Scala最佳实践的中文翻译)
 * [Scala指南](http://zh.scala-tour.com/)
 
-### Scheme
-* [Yet Another Scheme Tutorial Scheme入门教程](http://deathking.github.io/yast-cn/)
-* [Scheme语言简明教程](http://songjinghe.github.io/TYS-zh-translation/)
-
 ### Shell
 
 * [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
@@ -561,6 +565,7 @@
 * [前端技能汇总](https://github.com/JacksonTian/fks)
 * [借助开源项目，学习软件开发](https://github.com/zhuangbiaowei/learn-with-open-source)
 * [前端工作面试问题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)
+* [leetcode/lintcode题解/算法学习笔记](https://www.gitbook.com/book/yuanbin/algorithm/details)
 
 ### 测试相关
 
