@@ -509,6 +509,7 @@
 * [编写Ruby的C拓展](http://wusuopu.gitbooks.io/write-ruby-extension-with-c/content/)
 * [Ruby 源码解读](https://ruby-china.org/topics/22386)
 * [Ruby中的元编程](http://deathking.github.io/metaprogramming-in-ruby/)
+* [Puppet 2.7 Cookbook 中文版](http://bbs.konotes.org/workdoc/puppet-27/)
 
 ### Rust
 
