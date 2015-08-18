@@ -398,6 +398,7 @@
 ### Lua
 
 * [Lua编程入门](https://github.com/andycai/luaprimer)
+* [Lua源码欣赏](http://www.codingnow.com/temp/readinglua.pdf)
 
 ### Haskell
 
