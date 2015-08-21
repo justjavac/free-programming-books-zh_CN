@@ -429,9 +429,11 @@
 
 * [Modern Perl 中文版](https://github.com/horus/modern_perl_book)
 * [Perl 程序员应该知道的事](http://perl.linuxtoy.org/)
+* [Perl 5 教程](http://www.cbi.pku.edu.cn/chinese/documents/perl/index.htm)
 
 ### PHP
 
+* [PHP官方手册](http://php.net/manual/zh/)
 * [PHP调试技术手册](http://www.laruence.com/2010/06/21/1608.html)(PDF)
 * [XDebug 2中文手册(译)](http://www.blogkun.com/project.html) (CHM)
 * PHP之道：php-the-right-way ([@wulijun版](http://wulijun.github.io/php-the-right-way/) [PHPHub版](http://laravel-china.github.io/php-the-right-way/))
