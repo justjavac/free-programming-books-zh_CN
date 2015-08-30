@@ -240,7 +240,7 @@
 
 ### AWK
 
-* [awk程序设计语言](http://awk.readthedocs.org/en/latest/)
+* [awk程序设计语言](https://github.com/wuzhouhui/awk)
 
 ### C/C++
 
