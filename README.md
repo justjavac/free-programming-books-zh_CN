@@ -1,7 +1,6 @@
 免费的编程中文书籍索引
 ============================
 
-
 免费的编程中文书籍索引，欢迎投稿。
 
 - 国外程序员在 [stackoverflow](http://stackoverflow.com/a/1713/343194) 推荐的程序员必读书籍，[中文版](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html "一个合格的程序员应该读过哪些书")。
@@ -89,6 +88,8 @@
 * [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
 * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
+* [Linux Documentation (中文版)](http://tinylab.gitbooks.io/linux-doc)
+* [嵌入式 Linux 知识库 (eLinux.org 中文版)](http://tinylab.gitbooks.io/elinux)
 * [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 
@@ -126,6 +127,7 @@
 * [GitHub秘籍](http://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
 * [Github帮助文档](https://github.com/waylau/github-help)
 * [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
+* [svn 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
 
 ### 编辑器
 
@@ -238,7 +240,7 @@
 
 ### AWK
 
-* [awk程序设计语言](http://awk.readthedocs.org/en/latest/)
+* [awk程序设计语言](https://github.com/wuzhouhui/awk)
 
 ### C/C++
 
@@ -336,6 +338,7 @@
 * [REST 实战](https://github.com/waylau/rest-in-action)
 * [Java 编码规范](https://github.com/waylau/java-code-conventions)
 * [Apache MINA 2 用户指南](https://github.com/waylau/apache-mina-2.x-user-guide)
+* [H2 Database 教程](https://github.com/waylau/h2-database-doc)
 
 ### JavaScript
 
@@ -421,6 +424,8 @@
 * [Lua编程入门](https://github.com/andycai/luaprimer)
 * [Lua 5.1 参考手册 中文翻译](http://www.codingnow.com/2000/download/lua_manual.html)
 * [Lua 5.3 参考手册 中文翻译](http://cloudwu.github.io/lua53doc/)
+* [Lua源码欣赏](http://www.codingnow.com/temp/readinglua.pdf)
+* [lua程序设计](http://book.luaer.cn/)
 
 ### Perl
 
@@ -513,6 +518,7 @@
 * [编写Ruby的C拓展](http://wusuopu.gitbooks.io/write-ruby-extension-with-c/content/)
 * [Ruby 源码解读](https://ruby-china.org/topics/22386)
 * [Ruby中的元编程](http://deathking.github.io/metaprogramming-in-ruby/)
+* [Puppet 2.7 Cookbook 中文版](http://bbs.konotes.org/workdoc/puppet-27/)
 
 ### Rust
 
