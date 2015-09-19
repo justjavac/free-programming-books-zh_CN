@@ -30,6 +30,7 @@
   * [NoSQL](#nosql)
   * [PostgreSQL](#postgresql)
   * [MySQL](#mysql)
+  * [管理和监控](#管理和监控)
   * [项目相关](#项目相关)
   * [设计模式](#设计模式)
   * [Web](#web)
@@ -107,7 +108,6 @@
 * [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) (淘宝团队出品)
 * [Nginx教程从入门到精通](http://www.ttlsa.com/nginx/nginx-stu-pdf/)(PDF版本，运维生存时间出品)
 * [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/index.html)
-* [Elasticsearch权威指南](http://looly.gitbooks.io/elasticsearch-the-definitive-guide-cn/)
 
 ### 版本控制
 
@@ -160,6 +160,15 @@
 * [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 * [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
 
+### 管理和监控
+
+* [ELKstack 中文指南](http://kibana.logstash.es)
+* [Mastering Elasticsearch(中文版)](http://udn.yyuap.com/doc/mastering-elasticsearch/)
+* [ElasticSearch 权威指南](https://www.gitbook.com/book/fuxiaopang/learnelasticsearch/details)
+* [Elasticsearch 权威指南（中文版）](http://es.xiaoleilu.com)
+* [Logstash 最佳实践](http://udn.yyuap.com/doc/mastering-elasticsearch/)
+* [Puppet 2.7 Cookbook 中文版](http://bbs.konotes.org/workdoc/puppet-27/)
+
 ### 项目相关
 
 * [持续集成（第二版）](http://article.yeeyan.org/view/2251/94882) (译言网)
@@ -169,6 +178,7 @@
 * [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_\(Simplified\))
 * [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81)
 * [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
+* [Gradle 中文使用文档](http://yuedu.baidu.com/ebook/f23af265998fcc22bcd10da2)
 * [编码规范](https://github.com/ecomfe/spec)
 * [开源软件架构](http://www.ituring.com.cn/book/1143)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
@@ -204,6 +214,7 @@
 * [一站式学习Wireshark](https://community.emc.com/thread/194901)
 * [HTTP 下午茶](http://happypeter.github.io/tealeaf-http/)
 * [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
+* [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
 * [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
 
 ### 大数据
@@ -261,7 +272,7 @@
 * [Cmake 实践](http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF版)
 * [C++ FAQ LITE(中文版)](http://www.sunistudio.com/cppfaq/)
 * [C++ Primer 5th Answers](https://github.com/Mooophy/Cpp-Primer)
-* [C++ Concurrency In Action](http://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/) (一本“基于C++11新标准的并发和多线程编程深度指南”，完成部分的翻译，希望能有朋友一起翻译)
+* [C++ 并发编程(基于C++11)](http://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/)
 * [QT 教程](http://www.kuqin.com/qtdocument/tutorial.html)
 * [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 
@@ -392,6 +403,7 @@
 * React.js
     * [React.js 中文文档](http://reactjs.cn/)
     * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
+    * [React 入门教程](http://fraserxu.me/intro-to-react/)
 * impress.js
     * [impress.js的中文教程](https://github.com/kokdemo/impress.js-tutorial-in-Chinese)
 * CoffeeScript
@@ -515,10 +527,10 @@
 * [Ruby on Rails 指南](http://guides.ruby-china.org/)
 * [Ruby on Rails 實戰聖經](http://ihower.tw/rails4/index.html)
 * [Ruby on Rails Tutorial 原书第 3 版](http://railstutorial-china.org/) (本书网页版免费提供，电子版以 PDF、EPub 和 Mobi 格式提供购买，仅售 9.9 美元)
+* [Rails 实践](http://rails-practice.com/content/index.html)
 * [编写Ruby的C拓展](http://wusuopu.gitbooks.io/write-ruby-extension-with-c/content/)
 * [Ruby 源码解读](https://ruby-china.org/topics/22386)
 * [Ruby中的元编程](http://deathking.github.io/metaprogramming-in-ruby/)
-* [Puppet 2.7 Cookbook 中文版](http://bbs.konotes.org/workdoc/puppet-27/)
 
 ### Rust
 
