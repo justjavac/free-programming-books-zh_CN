@@ -22,6 +22,7 @@
 * [语言无关类](#语言无关类)
   * [操作系统](#操作系统)
   * [智能系统](#智能系统)
+  * [分布式系统](#分布式系统)
   * [编译原理](#编译原理)
   * [计算机图形学](#计算机图形学)
   * [WEB服务器](#web服务器)
@@ -96,6 +97,9 @@
 
 #### 智能系统
 * [一步步搭建物联网系统](https://github.com/gmszone/designiot)
+
+### 分布式系统
+* [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
 
 ### 编译原理
 * [《计算机程序的结构和解释》公开课 翻译项目](https://github.com/DeathKing/Learning-SICP)
