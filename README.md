@@ -451,6 +451,7 @@
 
 ### PHP
 
+* [PHP 官方手册](http://php.net/manual/zh/)
 * [PHP调试技术手册](http://www.laruence.com/2010/06/21/1608.html)(PDF)
 * [XDebug 2中文手册(译)](http://www.blogkun.com/project.html) (CHM)
 * PHP之道：php-the-right-way ([@wulijun版](http://wulijun.github.io/php-the-right-way/) [PHPHub版](http://laravel-china.github.io/php-the-right-way/))
