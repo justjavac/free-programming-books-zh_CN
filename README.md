@@ -170,7 +170,7 @@
 * [Mastering Elasticsearch(中文版)](http://udn.yyuap.com/doc/mastering-elasticsearch/)
 * [ElasticSearch 权威指南](https://www.gitbook.com/book/fuxiaopang/learnelasticsearch/details)
 * [Elasticsearch 权威指南（中文版）](http://es.xiaoleilu.com)
-* [Logstash 最佳实践](http://udn.yyuap.com/doc/mastering-elasticsearch/)
+* [Logstash 最佳实践](https://github.com/chenryn/logstash-best-practice-cn)
 * [Puppet 2.7 Cookbook 中文版](http://bbs.konotes.org/workdoc/puppet-27/)
 
 ### 项目相关
@@ -227,6 +227,7 @@
 * [面向程序员的数据挖掘指南](https://github.com/jizhang/guidetodatamining)
 * [大型集群上的快速和通用数据处理架构](https://code.csdn.net/CODE_Translation/spark_matei_phd)
 * [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
+* [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
 
 ## 编程艺术
 
@@ -355,6 +356,7 @@
 * [Java 编码规范](https://github.com/waylau/java-code-conventions)
 * [Apache MINA 2 用户指南](https://github.com/waylau/apache-mina-2.x-user-guide)
 * [H2 Database 教程](https://github.com/waylau/h2-database-doc)
+* [Java Servlet 3.1 规范](https://github.com/waylau/servlet-3.1-specification)
 
 ### JavaScript
 
@@ -520,6 +522,8 @@
 * [PyMOTW 中文版](http://pymotwcn.readthedocs.org/en/latest/index.html)
 * [Python 官方文档中文版](http://data.digitser.net/zh-CN/python_index.html)
 * [Fabric 中文文档](http://fabric-chs.readthedocs.org)
+* [The Flask Mega-Tutorial 中文](http://www.oschina.net/translate/the-flask-mega-tutorial-part-i-hello-world)
+* [Tornado源码解析](http://www.nowamagic.net/academy/detail/13321002)
 
 ### R
 
