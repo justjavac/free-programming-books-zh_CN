@@ -133,6 +133,7 @@
 * [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
 * [svn 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
 
+
 ### 编辑器
 
 * [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
@@ -227,6 +228,8 @@
 * [面向程序员的数据挖掘指南](https://github.com/jizhang/guidetodatamining)
 * [大型集群上的快速和通用数据处理架构](https://code.csdn.net/CODE_Translation/spark_matei_phd)
 * [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
+* [Apache Spark 设计与实现](https://github.com/JerryLead/SparkInternals/tree/master/markdown)
+
 
 ## 编程艺术
 
@@ -319,6 +322,7 @@
 * [Go命令教程](https://github.com/hyper-carrot/go_command_tutorial)
 * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
 * [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)
+* [Golang标准库文档](http://godoc.ml/)
 
 ### Groovy
 
@@ -338,6 +342,7 @@
 * [Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
 * [马上着手开发 iOS 应用程序](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOSCh/index.html)
 * [网易斯坦福大学公开课：iOS 7应用开发字幕文件](https://github.com/jkyin/Subtitle)
+* [iOS的函数响应型编程](https://kevinhm.gitbooks.io/functionalreactiveprogrammingonios/)
 
 ### Java
 
@@ -355,6 +360,7 @@
 * [Java 编码规范](https://github.com/waylau/java-code-conventions)
 * [Apache MINA 2 用户指南](https://github.com/waylau/apache-mina-2.x-user-guide)
 * [H2 Database 教程](https://github.com/waylau/h2-database-doc)
+
 
 ### JavaScript
 
@@ -540,7 +546,7 @@
 
 ### Rust
 
-* [rust book 中文翻译](https://www.gitbook.com/book/kaisery/rust-book-chinese/details) 
+* [rust book 中文翻译](https://www.gitbook.com/book/kaisery/rust-book-chinese/details)
 
 ### Scala
 
