@@ -357,6 +357,7 @@
 * [Apache MINA 2 用户指南](https://github.com/waylau/apache-mina-2.x-user-guide)
 * [H2 Database 教程](https://github.com/waylau/h2-database-doc)
 * [Java Servlet 3.1 规范](https://github.com/waylau/servlet-3.1-specification)
+* [JSSE 参考指南](https://github.com/waylau/jsse-reference-guide)
 
 ### JavaScript
 
