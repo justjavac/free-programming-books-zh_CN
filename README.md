@@ -24,6 +24,7 @@
   * [智能系统](#智能系统)
   * [分布式系统](#分布式系统)
   * [编译原理](#编译原理)
+  * [函数式概念](#函数式概念)
   * [计算机图形学](#计算机图形学)
   * [WEB服务器](#web服务器)
   * [版本控制](#版本控制)
@@ -56,6 +57,7 @@
   * [LaTeX](#latex)
   * [LISP](#lisp)
   * [Lua](#lua)
+  * [OCaml](#OCaml)
   * [Perl](#perl)
   * [PHP](#php)
   * [Prolog](#prolog)
@@ -103,6 +105,9 @@
 
 ### 编译原理
 * [《计算机程序的结构和解释》公开课 翻译项目](https://github.com/DeathKing/Learning-SICP)
+
+### 函数式概念
+* [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn)
 
 ### 计算机图形学
 * [OpenGL 教程](https://github.com/zilongshanren/opengl-tutorials)
@@ -254,6 +259,7 @@
 * [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)
 * [Android开发技术前线(android-tech-frontier)](https://github.com/bboyfeiyu/android-tech-frontier)
 * [Point-of-Android](https://github.com/FX-Max/Point-of-Android) Android 一些重要知识点解析整理
+* [Android6.0新特性详解](http://leanote.com/blog/post/561658f938f41126b2000298?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 ### AWK
 
@@ -447,6 +453,10 @@
 * [Lua源码欣赏](http://www.codingnow.com/temp/readinglua.pdf)
 * [lua程序设计](http://book.luaer.cn/)
 
+### OCaml
+
+* [Real World OCaml](https://github.com/zforget/translation/tree/master/real_world_ocaml)
+
 ### Perl
 
 * [Modern Perl 中文版](https://github.com/horus/modern_perl_book)
@@ -545,7 +555,7 @@
 
 ### Rust
 
-* [rust book 中文翻译](https://www.gitbook.com/book/kaisery/rust-book-chinese/details) 
+* [rust book 中文翻译](https://www.gitbook.com/book/kaisery/rust-book-chinese/details)
 
 ### Scala
 
