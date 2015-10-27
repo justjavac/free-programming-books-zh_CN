@@ -401,6 +401,7 @@
 * underscore.js
     * [Underscore.js中文文档](http://learningcn.com/underscore/)
 * backbone.js
+    * [backbone.js中文文档](http://www.css88.com/doc/backbone/)
     * [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
     * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
     * [Developing Backbone.js Applications(中文版)](http://feliving.github.io/developing-backbone-applications)
