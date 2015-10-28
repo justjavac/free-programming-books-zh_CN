@@ -38,6 +38,7 @@
   * [Web](#web)
   * [大数据](#大数据)
   * [编程艺术](#编程艺术)
+  * [前端工具](#前端工具)
   * [其它](#其它)
 
 * [语言相关类](#语言相关类)
@@ -241,6 +242,12 @@
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
 * [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
 * [编程技巧总汇](http://xiaobeicn.gitbooks.io/programming-skills-summary/)
+
+## 前端工具
+
+* [SurviveJS - Webpack and React (中文版)](http://www.kancloud.cn/mproxy/webpack_and_react/61627)
+* [RequireJS 中文](http://www.requirejs.cn/)
+* [Grunt 中文文档](http://www.gruntjs.net/getting-started)
 
 ## 其它
 
