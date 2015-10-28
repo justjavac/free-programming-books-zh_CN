@@ -401,6 +401,7 @@
 * underscore.js
     * [Underscore.js中文文档](http://learningcn.com/underscore/)
 * backbone.js
+    * [backbone.js中文文档](http://www.css88.com/doc/backbone/)
     * [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
     * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
     * [Developing Backbone.js Applications(中文版)](http://feliving.github.io/developing-backbone-applications)
@@ -418,6 +419,7 @@
     * [React.js 中文文档](http://reactjs.cn/)
     * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
     * [React 入门教程](http://fraserxu.me/intro-to-react/)
+    * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
 * impress.js
     * [impress.js的中文教程](https://github.com/kokdemo/impress.js-tutorial-in-Chinese)
 * CoffeeScript
