@@ -1,15 +1,8 @@
 var gulp = require('gulp');
-var uglify = require('gulp-uglify');
-var rename = require('gulp-rename');
+var markdown = require('gulp-markdown');
 
-
-gulp.task('uglify', function() {
-	gulp.src('src.js')
-		.pipe(uglify())
-		.pipe(rename(function (path) {
-			path.extname = ".min.js"
-		}))
-		.pipe(gulp.dest('dist'))
+gulp.task('default', function () {
+    return gulp.src('README.md')
+        .pipe(markdown())
+        .pipe(gulp.dest('html'));
 });
-
-gulp.task('default', ['uglify']);
