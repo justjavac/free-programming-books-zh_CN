@@ -264,6 +264,7 @@
 ### AWK
 
 * [awk程序设计语言](https://github.com/wuzhouhui/awk)
+* [awk中文指南](http://awk.readthedocs.org/en/latest/index.html)
 
 ### C/C++
 
