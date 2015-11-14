@@ -610,6 +610,7 @@
 * [借助开源项目，学习软件开发](https://github.com/zhuangbiaowei/learn-with-open-source)
 * [前端工作面试问题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)
 * [leetcode/lintcode题解/算法学习笔记](https://www.gitbook.com/book/yuanbin/algorithm/details)
+* [前端开发笔记本](https://github.com/li-xinyang/FEND_Note)
 
 ### 测试相关
 
