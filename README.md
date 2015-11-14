@@ -227,6 +227,7 @@
 * [面向程序员的数据挖掘指南](https://github.com/jizhang/guidetodatamining)
 * [大型集群上的快速和通用数据处理架构](https://code.csdn.net/CODE_Translation/spark_matei_phd)
 * [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
+* [Apache Spark 设计与实现](https://github.com/JerryLead/SparkInternals/tree/master/markdown)
 
 ## 编程艺术
 
@@ -319,6 +320,7 @@
 * [Go命令教程](https://github.com/hyper-carrot/go_command_tutorial)
 * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
 * [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)
+* [Golang标准库文档](http://godoc.ml/)
 
 ### Groovy
 
@@ -540,7 +542,7 @@
 
 ### Rust
 
-* [rust book 中文翻译](https://www.gitbook.com/book/kaisery/rust-book-chinese/details) 
+* [rust book 中文翻译](https://www.gitbook.com/book/kaisery/rust-book-chinese/details)
 
 ### Scala
 
