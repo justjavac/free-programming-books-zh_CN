@@ -98,7 +98,7 @@
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 
 #### 智能系统
-* [一步步搭建物联网系统](https://github.com/gmszone/designiot)
+* [一步步搭建物联网系统](https://github.com/phodal/designiot)
 
 ### 分布式系统
 * [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
@@ -129,7 +129,7 @@
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 * [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
 * [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
-* [Mercurial 使用教程](http://mercurial.selenic.com/wiki/ChineseTutorial)
+* [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial)
 * [HgInit (中文版)](http://bucunzai.net/hginit/)
 * [沉浸式学 Git](http://igit.linuxtoy.org/)
 * [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) （感谢 @flyhigher139 翻译了中文版）
@@ -150,7 +150,7 @@
 
 * [NoSQL数据库笔谈](http://www.yankay.com/wp-content/NoSql_Database_Note.html) ([PDF](http://yankaycom-wordpress.stor.sinaapp.com/uploads/2012/12/NoSQL%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AC%94%E8%B0%88v2.pdf))
 * [Redis 设计与实现](http://redisbook.com/)
-* [Redis 命令参考](http://www.redisdoc.com/)
+* [Redis 命令参考](http://redisdoc.com/)
 * [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
 * [带有详细注释的 Redis 2.6 代码](https://github.com/huangz1990/annotated_redis_source)
 * [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
@@ -184,7 +184,7 @@
 * [让开发自动化系列专栏](http://www.ibm.com/developerworks/cn/java/j-ap/)
 * [追求代码质量](http://www.ibm.com/developerworks/cn/java/j-cq/)
 * [selenium 中文文档](https://github.com/fool2fish/selenium-doc)
-* [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_\(Simplified\))
+* [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese\(Simplified\))
 * [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81)
 * [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
 * [Gradle 中文使用文档](http://yuedu.baidu.com/ebook/f23af265998fcc22bcd10da2)
@@ -269,7 +269,7 @@
 ### C/C++
 
 * [C 语言编程透视](http://tinylab.gitbooks.io/cbook)
-* [C++ 并发编程指南](https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial) ([@傅海平ICT](http://weibo.com/1702076100))
+* [C++ 并发编程指南](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice) ([@傅海平ICT](http://weibo.com/1702076100))
 * [Linux C编程一站式学习](http://akaedu.github.io/book/) (宋劲杉, 北京亚嵌教育研究中心)
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
 * [100个gdb小技巧](https://github.com/hellogcc/100-gdb-tips/blob/master/src/index.md)
@@ -392,11 +392,11 @@
     * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
     * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
     * [express.js 中文文档](http://expressjs.jser.us/)
-    * [koa 中文文档](https://github.com/turingou/koa-guide)
+    * [koa 中文文档](https://github.com/guo-yu/koa-guide)
     * [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
     * [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
     * [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
-    * [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.org/package/learnyounode-zh-cn)
+    * [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.com/package/learnyounode-zh-cn)
     * [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
     * [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
 * underscore.js
@@ -512,7 +512,7 @@
 * [Diango 1.7 文档中文版](http://django-1-7-doc.coding.io/)  正在翻译中，目前只翻译了目录
 * [Django 1.8.2 文档中文版](http://python.usyiyi.cn/django/index.html)
  正在翻译中
-* [Django 最佳实践](https://github.com/brantyoung/zh-django-best-practices)
+* [Django 最佳实践](https://github.com/yangyubo/zh-django-best-practices)
 * [Django搭建简易博客教程](http://andrew-liu.gitbooks.io/django-blog/)
 * [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
 * [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn)
@@ -551,7 +551,7 @@
 * [Rails 风格指南](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
 * [笨方法學 Ruby](http://lrthw.github.io/)
 * [Ruby on Rails 指南](http://guides.ruby-china.org/)
-* [Ruby on Rails 實戰聖經](http://ihower.tw/rails4/index.html)
+* [Ruby on Rails 實戰聖經](https://ihower.tw/rails4/index.html)
 * [Ruby on Rails Tutorial 原书第 3 版](http://railstutorial-china.org/) (本书网页版免费提供，电子版以 PDF、EPub 和 Mobi 格式提供购买，仅售 9.9 美元)
 * [Rails 实践](http://rails-practice.com/content/index.html)
 * [编写Ruby的C拓展](http://wusuopu.gitbooks.io/write-ruby-extension-with-c/content/)
@@ -585,7 +585,7 @@
 ### 读书笔记及其它
 
 * [编译原理（紫龙书）中文第2版习题答案](https://github.com/fool2fish/dragon-book-exercise-answers)
-* [把《编程珠玑》读薄](http://hawstein.com/posts/make-thiner-programming-pearls.html)
+* [把《编程珠玑》读薄](http://www.hawstein.com/posts/make-thiner-programming-pearls.html)
 * [Effective C++读书笔记](https://github.com/XiaolongJason/ReadingNote/blob/master/Effective%20C%2B%2B/Effective%20C%2B%2B.md)
 * [Golang 学习笔记、Python 学习笔记、C 学习笔记](https://github.com/qyuhen/book) (PDF)
 * [Jsoup 学习笔记](https://github.com/code4craft/jsoup-learning)
