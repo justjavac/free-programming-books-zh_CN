@@ -208,7 +208,6 @@
 * [Grunt中文文档](http://www.gruntjs.net/)
 * [gulp中文文档](http://www.gulpjs.com.cn/docs/)
 * [Gulp 入门指南](https://github.com/nimojs/gulp-book)
-* [Yeoman中文文档](http://yeomanjs.org/)
 * [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
 * [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
 * [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
@@ -236,7 +235,6 @@
 
 ## 编程艺术
 
-* [编程入门指南](http://huyuefeng.me/intro-to-prog/)
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
 * [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
@@ -454,7 +452,6 @@
 * [Lua 5.1 参考手册 中文翻译](http://www.codingnow.com/2000/download/lua_manual.html)
 * [Lua 5.3 参考手册 中文翻译](http://cloudwu.github.io/lua53doc/)
 * [Lua源码欣赏](http://www.codingnow.com/temp/readinglua.pdf)
-* [lua程序设计](http://book.luaer.cn/)
 
 ### OCaml
 
@@ -469,7 +466,6 @@
 
 * [PHP 官方手册](http://php.net/manual/zh/)
 * [PHP调试技术手册](http://www.laruence.com/2010/06/21/1608.html)(PDF)
-* [XDebug 2中文手册(译)](http://www.blogkun.com/project.html) (CHM)
 * PHP之道：php-the-right-way ([@wulijun版](http://wulijun.github.io/php-the-right-way/) [PHPHub版](http://laravel-china.github.io/php-the-right-way/))
 * [PHP 最佳实践](https://github.com/justjavac/PHP-Best-Practices-zh_CN)
 * [PHP 开发者实践](https://ryancao.gitbooks.io/php-developer-prepares/content/)
@@ -479,7 +475,6 @@
 * [Laravel5 中文文档](http://www.golaravel.com/laravel/docs/5.0/)
 * [Laravel 入门](https://github.com/huanghua581/laravel-getting-started)
 * [Symfony2中文文档](http://symfony-docs-chs.readthedocs.org/en/latest/) (未译完)
-* [Phalcon中文文档](http://phalcon.5iunix.net/)（翻译进行中）
 * [YiiBook几本Yii框架的在线教程](http://yiibook.com//doc)
 * [深入理解 Yii 2.0](http://www.digpage.com/)
 * [Yii 框架中文文檔](http://www.yiichina.com/)
@@ -592,7 +587,6 @@
 * [学习笔记: Vim、Python、memcached](https://github.com/lzjun567/note)
 * [图灵开放书翻译计划--C++、Python、Java等](http://www.ituring.com.cn/activity/details/2004)
 * [蒂姆·奥莱利随笔](http://g.yeeyan.org/books/2095) （由译言网翻译，电子版免费）
-* [Octave 入门](http://coer.zju.edu.cn/liu/octave-tutorial-cn.pdf) （PDF版）
 * [SICP 解题集](http://sicp.readthedocs.org/en/latest/)
 * [精彩博客集合](https://github.com/hacke2/hacke2.github.io/issues/2)
 * [正则表达式简明参考](http://www.xiaoleilu.com/regex-guide/)
