@@ -471,7 +471,6 @@
 * [PHP 开发者实践](https://ryancao.gitbooks.io/php-developer-prepares/content/)
 * [深入理解PHP内核](https://github.com/reeze/tipi)
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/)
-* [CodeIgniter 用户指南](http://codeigniter.org.cn/user_guide/index.html)
 * [Laravel5 中文文档](http://www.golaravel.com/laravel/docs/5.0/)
 * [Laravel 入门](https://github.com/huanghua581/laravel-getting-started)
 * [Symfony2中文文档](http://symfony-docs-chs.readthedocs.org/en/latest/) (未译完)
@@ -513,7 +512,6 @@
 * [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn)
 * [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
 * [Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/)
-* [Bottle 文档中文版](https://associates.amazon.cn/gp/associates/network/main.html) (需翻墙)
 * [Flask 文档中文版](http://docs.jinkan.org/docs/flask/)
 * [Jinja2 文档中文版](http://docs.jinkan.org/docs/jinja2/)
 * [Werkzeug 文档中文版](http://werkzeug-docs-cn.readthedocs.org/zh_CN/latest/)
@@ -569,7 +567,7 @@
 * [Bash脚本15分钟进阶教程](http://blog.sae.sina.com.cn/archives/3606)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
 * [shell十三问](https://github.com/wzb56/13_questions_of_shell)
-* [Shell编程范例](http://tinylab.gitbooks.io/shellbook)
+* [Shell编程范例](https://www.gitbook.com/book/tinylab/shellbook/details)
 
 ### Swift
 
