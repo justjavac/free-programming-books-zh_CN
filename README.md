@@ -253,7 +253,7 @@
 ### Android
 
 * [Android Design(中文版)](http://www.apkbus.com/design/index.html)
-* Google Material Design 正體中文版 ([译本一](http://wcc723.gitbooks.io/google_design_translate/content/style-icons.html) [译本二](https://github.com/1sters/material_design_zh))
+* Google Material Design 正體中文版 ([译本一](https://wcc723.gitbooks.io/google_design_translate/content/style-icons.html) [译本二](https://github.com/1sters/material_design_zh))
 * [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 * [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 * [Android学习之路](http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
@@ -424,8 +424,8 @@
 * impress.js
     * [impress.js的中文教程](https://github.com/kokdemo/impress.js-tutorial-in-Chinese)
 * CoffeeScript
-    * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
-    * [The Little Book on CoffeeScript中文版](http://island205.github.io/tlboc/)
+    * [CoffeeScript Cookbook](http://island205.com/coffeescript-cookbook.github.com/)
+    * [The Little Book on CoffeeScript中文版](http://island205.com/tlboc/)
     * [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
 * ExtJS
     * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
@@ -497,7 +497,7 @@
 
 * [小白的Python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 * [简明Python教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
-* [零基础学Python](http://looly.gitbooks.io/python-basic)
+* [零基础学Python](https://www.gitbook.com/book/looly/python-basic/details)
 * [可爱的 Python ](http://lovelypython.readthedocs.org/en/latest/)
 * [Python 2.7 官方教程中文版](http://www.pythondoc.com/pythontutorial27/index.html)
 * [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
@@ -531,7 +531,7 @@
 * [Python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
 * [Python 正则表达式操作指南](http://wiki.ubuntu.org.cn/Python正则表达式操作指南)
 * [python初级教程：入门详解](http://www.crifan.com/files/doc/docbook/python_beginner_tutorial/release/html/python_beginner_tutorial.html)
-* [Twisted 与异步编程入门](https://likebeta.gitbooks.io/twisted-intro-cn/)
+* [Twisted 与异步编程入门](https://www.gitbook.com/book/likebeta/twisted-intro-cn/details)
 * [TextGrocery 中文 API](http://textgrocery.readthedocs.org/zh/latest/index.html) ( 基于svm算法的一个短文本分类 Python 库 )
 * [Requests: HTTP for Humans](http://requests-docs-cn.readthedocs.org/zh_CN/latest/)
 * [Pillow 中文文档](http://pillow-cn.readthedocs.org/en/latest/#)
