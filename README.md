@@ -117,6 +117,7 @@
 
 * [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) (淘宝团队出品)
 * [Nginx教程从入门到精通](http://www.ttlsa.com/nginx/nginx-stu-pdf/)(PDF版本，运维生存时间出品)
+* [OpenResty最佳实践](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details)
 * [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/index.html)
 
 ### 版本控制
