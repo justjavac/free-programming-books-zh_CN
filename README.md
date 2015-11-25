@@ -474,6 +474,7 @@
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/)
 * [Laravel5 中文文档](http://www.golaravel.com/laravel/docs/5.0/)
 * [Laravel 入门](https://github.com/huanghua581/laravel-getting-started)
+* [Symfony2 Cookbook 中文版](http://wiki.jikexueyuan.com/project/symfony-cookbook/)(版本 2.7.0 LTS)
 * [Symfony2中文文档](http://symfony-docs-chs.readthedocs.org/en/latest/) (未译完)
 * [YiiBook几本Yii框架的在线教程](http://yiibook.com//doc)
 * [深入理解 Yii 2.0](http://www.digpage.com/)
