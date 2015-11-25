@@ -43,6 +43,7 @@
   * [Android](#android)
   * [AWK](#awk)
   * [C/C++](#cc)
+  * [Clojure](#clojure)
   * [CSS/HTML](#css)
   * [Dart](#dart)
   * [Erlang](#erlang)
@@ -282,6 +283,10 @@
 * [C++ 并发编程(基于C++11)](http://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/)
 * [QT 教程](http://www.kuqin.com/qtdocument/tutorial.html)
 * [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
+
+### Clojure
+
+* [Clojure入门教程](http://xumingming.sinaapp.com/302/clojure-functional-programming-for-the-jvm-clojure-tutorial/)
 
 ### CSS
 
@@ -600,3 +605,5 @@
 ### 测试相关
 
 * [移动APP自动化测试优秀框架Appium API Reference V1.2.0 CN](http://appium.io/slate/cn/v1.2.0/)
+
+
