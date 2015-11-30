@@ -219,6 +219,7 @@
 * [前端资源分享（一）](https://github.com/hacke2/hacke2.github.io/issues/1)
 * [前端资源分享（二）](https://github.com/hacke2/hacke2.github.io/issues/3)
 * [前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
+* [前端开发者手册](https://www.gitbook.com/book/dwqs/frontenddevhandbook/details)
 * [w3school教程整理](http://www.flygon.net/archives/427)
 * [Wireshark用户手册](http://man.lupaworld.com/content/network/wireshark/index.html)
 * [一站式学习Wireshark](https://community.emc.com/thread/194901)
