@@ -44,6 +44,7 @@
 
 * [语言相关类](#语言相关类)
   * [Android](#android)
+  * [APP](#app)
   * [AWK](#awk)
   * [C/C++](#cc)
   * [Clojure](#clojure)
@@ -261,6 +262,10 @@
 * [Android开发技术前线(android-tech-frontier)](https://github.com/bboyfeiyu/android-tech-frontier)
 * [Point-of-Android](https://github.com/FX-Max/Point-of-Android) Android 一些重要知识点解析整理
 * [Android6.0新特性详解](http://leanote.com/blog/post/561658f938f41126b2000298?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+### APP
+
+* [Apache Cordova 开发指南](https://github.com/waylau/cordova-dev-guide)
 
 ### AWK
 
