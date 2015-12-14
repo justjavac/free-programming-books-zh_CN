@@ -549,6 +549,7 @@
 * [Fabric 中文文档](http://fabric-chs.readthedocs.org)
 * [The Flask Mega-Tutorial 中文](http://www.oschina.net/translate/the-flask-mega-tutorial-part-i-hello-world)
 * [Tornado源码解析](http://www.nowamagic.net/academy/detail/13321002)
+* [Tornado 4.3 文档中文版](https://tornado-zh.readthedocs.org/zh/latest/)
 
 ### R
 
