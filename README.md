@@ -293,6 +293,7 @@
 * [C++ Primer 5th Answers](https://github.com/Mooophy/Cpp-Primer)
 * [C++ 并发编程(基于C++11)](https://www.gitbook.com/book/chenxiaowei/cpp_concurrency_in_action/details)
 * [QT 教程](http://www.kuqin.com/qtdocument/tutorial.html)
+* [DevBean的《Qt学习之路2》(Qt5)](http://www.devbean.net/category/qt-study-road-2/)
 * [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 
 ### Clojure
