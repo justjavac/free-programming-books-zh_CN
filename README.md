@@ -44,8 +44,10 @@
 
 * [语言相关类](#语言相关类)
   * [Android](#android)
+  * [APP](#app)
   * [AWK](#awk)
   * [C/C++](#cc)
+  * [Clojure](#clojure)
   * [CSS/HTML](#css)
   * [Dart](#dart)
   * [Erlang](#erlang)
@@ -218,6 +220,7 @@
 * [前端资源分享（一）](https://github.com/hacke2/hacke2.github.io/issues/1)
 * [前端资源分享（二）](https://github.com/hacke2/hacke2.github.io/issues/3)
 * [前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
+* [前端开发者手册](https://www.gitbook.com/book/dwqs/frontenddevhandbook/details)
 * [w3school教程整理](http://www.flygon.net/archives/427)
 * [Wireshark用户手册](http://man.lupaworld.com/content/network/wireshark/index.html)
 * [一站式学习Wireshark](https://community.emc.com/thread/194901)
@@ -260,6 +263,10 @@
 * [Point-of-Android](https://github.com/FX-Max/Point-of-Android) Android 一些重要知识点解析整理
 * [Android6.0新特性详解](http://leanote.com/blog/post/561658f938f41126b2000298?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+### APP
+
+* [Apache Cordova 开发指南](https://github.com/waylau/cordova-dev-guide)
+
 ### AWK
 
 * [awk程序设计语言](https://github.com/wuzhouhui/awk)
@@ -286,7 +293,12 @@
 * [C++ Primer 5th Answers](https://github.com/Mooophy/Cpp-Primer)
 * [C++ 并发编程(基于C++11)](https://www.gitbook.com/book/chenxiaowei/cpp_concurrency_in_action/details)
 * [QT 教程](http://www.kuqin.com/qtdocument/tutorial.html)
+* [DevBean的《Qt学习之路2》(Qt5)](http://www.devbean.net/category/qt-study-road-2/)
 * [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
+
+### Clojure
+
+* [Clojure入门教程](http://xumingming.sinaapp.com/302/clojure-functional-programming-for-the-jvm-clojure-tutorial/)
 
 ### CSS
 
@@ -364,6 +376,7 @@
 * [H2 Database 教程](https://github.com/waylau/h2-database-doc)
 * [Java Servlet 3.1 规范](https://github.com/waylau/servlet-3.1-specification)
 * [JSSE 参考指南](https://github.com/waylau/jsse-reference-guide)
+* [Java开源实现及最佳实践](https://github.com/biezhi/jb)
 
 ### JavaScript
 
@@ -386,12 +399,14 @@
     * [jQuery 解构](http://www.cn-cuckoo.com/deconstructed/jquery.html)
     * [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
     * [How to write jQuery plugin](http://i5ting.github.io/How-to-write-jQuery-plugin/build/jquery.plugin.html)
+    * [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
 * Node.js
     * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
     * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
     * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
     * [express.js 中文文档](http://expressjs.jser.us/)
     * [koa 中文文档](https://github.com/guo-yu/koa-guide)
+    * [一起学koa](http://base-n.github.io/koa-generator-examples/)
     * [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
     * [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
     * [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
@@ -474,6 +489,7 @@
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/)
 * [Laravel5 中文文档](http://www.golaravel.com/laravel/docs/5.0/)
 * [Laravel 入门](https://github.com/huanghua581/laravel-getting-started)
+* [Symfony2 Cookbook 中文版](http://wiki.jikexueyuan.com/project/symfony-cookbook/)(版本 2.7.0 LTS)
 * [Symfony2中文文档](http://symfony-docs-chs.readthedocs.org/en/latest/) (未译完)
 * [YiiBook几本Yii框架的在线教程](http://yiibook.com//doc)
 * [深入理解 Yii 2.0](http://www.digpage.com/)
@@ -512,7 +528,6 @@
 * [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
 * [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn)
 * [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
-* [Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/)
 * [Flask 文档中文版](http://docs.jinkan.org/docs/flask/)
 * [Jinja2 文档中文版](http://docs.jinkan.org/docs/jinja2/)
 * [Werkzeug 文档中文版](http://werkzeug-docs-cn.readthedocs.org/zh_CN/latest/)
@@ -534,6 +549,7 @@
 * [Fabric 中文文档](http://fabric-chs.readthedocs.org)
 * [The Flask Mega-Tutorial 中文](http://www.oschina.net/translate/the-flask-mega-tutorial-part-i-hello-world)
 * [Tornado源码解析](http://www.nowamagic.net/academy/detail/13321002)
+* [Tornado 4.3 文档中文版](https://tornado-zh.readthedocs.org/zh/latest/)
 
 ### R
 
@@ -608,3 +624,5 @@
 ### 测试相关
 
 * [移动APP自动化测试优秀框架Appium API Reference V1.2.0 CN](http://appium.io/slate/cn/v1.2.0/)
+
+
