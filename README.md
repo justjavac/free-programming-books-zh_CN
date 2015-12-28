@@ -378,6 +378,7 @@
 * [Java Servlet 3.1 规范](https://github.com/waylau/servlet-3.1-specification)
 * [JSSE 参考指南](https://github.com/waylau/jsse-reference-guide)
 * [Java开源实现及最佳实践](https://github.com/biezhi/jb)
+* [Java 编程要点](https://github.com/waylau/essential-java)
 
 ### JavaScript
 
