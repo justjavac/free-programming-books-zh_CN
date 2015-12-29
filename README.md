@@ -514,6 +514,7 @@
 * [可爱的 Python ](http://lovelypython.readthedocs.org/en/latest/)
 * [Python 2.7 官方教程中文版](http://www.pythondoc.com/pythontutorial27/index.html)
 * [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
+* [Python 3 中文教程] (http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) 廖雪峰
 * [《Python Cookbook》 3rd Edition 翻译](https://github.com/yidao620c/python3-cookbook)
 * [深入 Python 3](http://old.sebug.net/paper/books/dive-into-python3/)
 * [PEP8 Python代码风格规范](https://code.google.com/p/zhong-wiki/wiki/PEP8)
