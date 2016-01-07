@@ -1,0 +1,1233 @@
+                                      Ⅰ：HIbernate内容
+【1】.Session实例的创建，大致需要以下3个步骤:
+
+  1.初始化Hibernate配置文件(hibernate.properties或者hibernate.cfg.xml)来创建并初始化一个Configuration类的实例。
+        Configuration config = new Configuration().configure();
+  2.通过Configuration类实例创建Session的工厂类SessionFactory。(SessionFactory中保存了对应当前数据库配置的所有映射关系，同时也负责维护当前的二级数据缓存和Statement Pool，SessionFactory采用了线程安全策略，可以由多个线程并发调用。)
+        SessionFactory sessionFactory = config.buildSessionFactory();
+  3.通过SessionFactory得到Session实例。(Session是Hibernate持久化的基础。Hibernate Session与Web层的HttpSession没有关系。Hibernate Session与Hibernate相当与JDBC Connection 和JDBC的关系。Session是贯穿Hibernate的持久化管理器核心，提供了众多持久化的方法如：sava、delete、update、find等通过这些方法可以透明的完成对象的增删改查(CRUD)Hibernate3 Session接口中已经取消了find方法的定义。Hibernate Session是非线程安全的，所以一个Session只能一个线程使用)
+        session=sessionFactory.openSession();
+  4.如果要操作数据库需要加事物
+        Transaction tran = null;
+        tran = session.beginTransaction();
+  5.执行保存操作。
+        Tuser user= new Tuser();
+          user.setName("lin");
+        session.save(user);
+        session.flush();
+
+  6.提交事物。
+        tran.commit();
+  7.关闭session。
+         session.close();
+
+注意：如果加载hibernate.properties需要这样配置。
+       Configuration config = new Configuration()
+       .addFile("Tuser.hbm.xml");
+       .addClass("bao.lei.class");
+___________________________________________________________________________________________________________
+
+【2】.用session执行增删改查操作。
+
+ 1.保存： 
+     Tuser user= new Tuser();
+            user.setName()
+          session.save(user);
+
+2.get()查询:获得表中id=1的记录。
+  Tuser user = (Tuser)session.get(Tuser.class,new Integer(1));
+
+3.用Query接口查询(面向HQL和Native SQL)：
+   String hql = "from Tuser user where user.name like ?";
+   Query query = session.createQuery(hql);
+   query.setParameter(0,"Cartier");
+   List list = query.list();
+   
+   Iterator it = list.iterator();
+    while(it.hasNext()){
+      Tuser user = (Tuser)it.next();
+      System.out.println(user.getName());
+    }
+3. 通过Criteria接口进行查询(面向对象查询模式):
+    Criteria criteria = session.createCriteria(Tuser.class);
+    criteria.add(Expression.eq("name","Cartier"));
+    List list = criteria.list();
+
+4.删除有两种
+1.通过delete方法。
+	session.delete(id);
+2.通过HQL语句
+        String hql = "delete Tuser where id=1"
+        Query query = session.createQuery(hql);
+        query.executeUpdate();
+____________________________________________________________________________________________
+
+【3】.各种数据库连接池的配置。用JDBC连接数据库目前有4种连接池配置。
+
+1.Hibernate提供的默认数据库连接池配置，一般仅用于开发调试。
+	hibernate.connection.pool_size 2
+2.C3P0
+	hibernate.c3p0.max_size 2
+	hibernate.c3p0.min_size 2
+	hibernate.c3p0.timeout 5000
+	hibernate.c3p0.max_statement 100
+	hibernate.c3p0.max_idle_text_period 3000
+	hibernate.c3p0.acquire_increment 2
+	hibernate.c3p0.validate false
+	hibernate.connection.provider_class
+	net.sf.hibernate.connetion.C3P0ConnetionProvider
+3.dbcp
+	#
+	hibernate.dbcp.maxActive 100
+	#当连接池中的连接已经被耗尽的时候，DBCP将怎样处理(0=失败，1=等待，2=增长)
+	hibernate.dbcp.whenExhaustedAction 1
+	#最大等待时间
+	hibernate.dbcp.maxWait 120000
+	#没人用连接的时候，最大闲置的连接个数。
+	hibernate.dbcp.maxIdle 10
+	hibernate.dbcp.ps.maxActive 100
+	hibernate.dbcp.ps.WhenExhaustedAction 1
+	hibernate.dbcp.ps.maxWait 120000
+	hibernate.dbcp.ps.maxIdle 10
+	## optional query to validate pooled connections:
+	#给出一条简单的sql语句进行验证。
+	hibernate.dbcp.validationQuery select 1 from dual
+	#在取出连接时进行有效验证
+	hibernate.dbcp.testOnBorrow true
+	#在放回连接时进行有效验证
+	hibernate.dbcp.testOnReturn false
+	hibernate.connection.provider_class
+	net.sf.hibernate.connection.DBCPConnectionProvider
+4. Proxool
+	## Properties for external configuration of proxool
+	hibernate.proxool.pool_alias pool1
+	## Only need one of the following
+	#hibernate.proxool.existing_pool true
+	#hibernate.proxool.xml.proxool.xml
+	#hibernate.proxool.properties proxool.properties
+	hibernate.connection.provider_class
+	 net.sf.hibernate.connection.ProxoolConnectionProvider
+在以上所述的这4种缓存策略中，C3P0、dbcp以及Proxool需要指定hibernate.connection.provider_class。
+功能差不多在实际开发中一般推荐使用Apache组织的dbcp。
+_____________________________________________________________________________________________
+
+【4】.hibernate事物管理
+1.为了使用Hibernate的Transaction API 我们必须通过hibernate.transaction.factory_class属性指定一个Transaction实例工厂。
+2.#使用JDBC的事物处理机制(.properties配置)
+	hibernate.transaction.factory_class
+	  net.sf.hibernate.transaction.JDBCTransactionFactory
+3.#使用JTA(.properties配置)
+	hibernate.transation.factory_class
+	  net.sf.hibernate.transation.JTATransactionFactory
+	jta.UserTransation jta/usertransaction
+4.数据库适配器用于对于特定的数据库提供支持。（俗称方言）
+	hibernate.dialect
+5.在生成的SQL中，schema/tablespace的全限定名。
+	hebernate.default_schema
+6.把SessionFactory绑定到JNDI中的名称。
+	hibernate.session_factory_name
+7.对单根联合(一对一，多对一)，设置外连接的最大深度。如果是0将关闭默认的外连接抓取。
+	hibernate.max_fetch_depth
+8.非0值，用来设置JDBC获取的记录条数。
+	hibernate.jdbc.fetch_size
+9.非0值，指定了Hibernate进行每次批量提交的数值。
+	hibernate.jdbc.batch_size
+10.设置是否允许Hibernate使用JDBC2提供的可滚动结果集。只有在使用用户自行提供JDBC连接时，这个参数才是必需的。否则Hibernate会根据连接的元数据(metadata)自行判定。
+	hibernate.jdbc.user_scrollable_resultset
+11.是否在从JDBC读写binary（二进制）或者serializable(可序列化)类型时，使用stream(流)。
+	hibernate.jdbc.use_streams_for_binary
+12.是否允许使用JDBC3的PreparedSrarement.getGeneratedKeys()在插入后获取数据库自身生成的key。需要3.0以上版本的JDBC驱动和1.4或以上版本的JDK。默认情况下,Hibernate会根据JDBC Connection元数据进行自动判定。
+	hibernate.jdbc.use_get_generated_keys
+13.是否使用CGLIB来代替运行反射操作(系统级别属性，默认为在可能时都使用CGLIB).
+	hibernate.cglib.user_reflection_optimizer
+14.把propertyName这个属性传递给JNDIInitialContextFactory去(可选).
+	hibernate.jndi.<propertyName>
+15.事物隔离级别(可选)。
+	hibernate.connection.isolation
+16.把propertyName这个JDBC属性传递给DriverManager.getConnection().
+	hibernate.connection.<propertyName>
+17.指定一个自定义的ConnectionProvider类名。
+	hibernate.connection.provider_class
+18.指定一个自定义的CacheProvider缓存提供者的类名。
+	hibernate.cache.provider_class
+19.是否优化第二级缓存操作，最小化缓存写入操作（适用于集群缓存）。
+	hibernate.cache.use_minimal_puts
+20.是否打开查询缓存（依然需要针对每个查询设置cacheable属性）。
+	hibernate.cache.use_query_cache
+21.指定一个自定义的TransactionFactory类名，Hibernate Transaction API 将会使用(默认是JDBCTransationFactory)。
+	hibernate.cache.region_prefix
+22.JTATransactionFactory用来从应用服务器获取JTA UserTransaction的JNDI名。
+	jta.UserTransaction
+23.TransactionManagerLookup的类名--当在JTA环境中启用JVM级缓存时使用。	
+	hibernate.transation.manager_lookup_class
+24.把Hibernate查询中的一些短语替换为SQL短语(短语可能为函数或者字符)。
+	hibernate.query.substitutions
+25.是否把执行的SQL语句输出控制台。
+	hibernate.show_sql
+26.在SessionFactory创建后，自动输出schema创建语句到数据库。和create-drop同时使用的话，数据库schema毁在SessionFactory显示关闭后被drop掉。
+	hibernate.hbm2ddl.auto
+____________________________________________________________________________________________
+
+【5】.Hibernate O/R映射基础
+
+1.Hibernate基本数据类型。（其中，boolean,yes_no和 true_false对应Java中的java.lang.Boolean）。
+	映射类型			Java类型			标准SQL字段类型
+	integer			int or java.lang.Integer		INTEGER
+	long			long or java.lang.Long			BIGINT
+	short			short or java.lang.Short		SMALLINT
+	float			float or java.lang.Float		FLOAT
+	double			double or java.lang.Double		DOUBLE
+	big_decimal		java.math.BigDecimal			NUMERIC
+	character		java.lang.String			CHAR(1)
+	string			java.lang.String			VARCHAR
+	byte			byte or java.lang.Byte			TINYINT
+	boolean			boolean or java.lang.Boolean            BIT
+	yes_no			boolean or java.lang.Boolean		CHAR(1)('Y'or'N')
+	true_false		boolean or java.lang.Boolean		CHAR(1)('Y'or'N')
+	date			java.util.Date or java.sql.Date		DATE
+	time			java.util.Date or java.sql.Time		TIME
+        timestamp		java.util.Date or java.sql.Timestamp	TIMESTAMP
+	calendar		java.util.Calendar			TIMESTAMP
+	calendar_date		java.util.Calendar			DATE
+			大数据类型	
+        binary			byte[]					VARBINARY(or BLOB)
+	text			java.lang.String			CLOB
+	serializable		java.io.Serializable的任何实例		VARBINARY(or BLOB)
+	clob			java.sql.Clob				CLOB
+	blob			java.sql.Blob				BLOB
+	               其它数据类型
+	class			java.lang.Class				VARCHAR	
+	locale			java.util.Locale			VARCHAR
+	timezone		java.util.TimeZone			VARCHAR
+	currency		java.util.Currency			VARCHAR
+大数据类型的存取方式往往难以通用。
+#################################################################
+2.实体映射基础(介绍Hibernate中类/表映射、属性/字段映射的基本技术)。
+	Hibernate中,类表映射包括3部分内容
+	a) 表明—类名映射
+	b) 主键映射
+	c) 字段映射
+如果需要让表和类有对应关系需要借助媒介hbm.xml配置文件。
+
+			<?xml version="1.0" encoding="utf-8"?>
+	<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+	"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+	<!-- 
+	    Mapping file autogenerated by MyEclipse Persistence Tools
+	-->
+	<hibernate-mapping>
+   	 <class name="entity.TUser" table="t_user" catalog="demo">
+    	    <id name="id" type="integer">
+        	    <column name="id" />
+       	     <generator class="identity" />
+       	 </id>
+       	 <property name="userName" type="string">
+       	     <column name="userName" length="100" not-null="true" />
+       	 </property>
+   	 </class>
+	</hibernate-mapping>
+
+主键生成策略 包括 ：  
+	a) native(让Hibernate自己决定采用什么方式如：对于SQLServer和Mysql自动采用自增字段，Oracle采用Sequence)
+        b) Assigned(主键由应用逻辑产生，数据交由Hibernate保存时，主键已经设置完毕，无需HIbernate干预，程序员手工添加。)
+        c) hilo(通过hi/lo算法实现的主键生成机制，需要额外的数据表保存主键生成历史状态。)
+	d) seqhilo(与hilo类似，通过hi/lo算法实现的主键生成机制，只是主键历史状态保存在Sequence中，适用于支持Sequence的数据库，如Oracle)。
+        e) increment(主键按数值顺序递增。此方式的实现机制为在当前应用实例中维持一个变量，以保存着当前的最大值，之后每次需要生成主键的时候将此值加1作为主键。这种方式可能产生的问题是：如果当前有多个实例访问同一个数据库，那么由于各个实例各自维护主键状态，不同实例可能生成同样的主键，从而造成主键重复异常。因此，如果同一数据库有多个实例访问，此方式必须避免使用。)
+        f) identity(采用数据库提供的主键生成机制，如SQL Server、MySQL中的自增主键生成机制。)
+	g) sequence(采用数据库提供的sequence机制生成主键。如Oracle Sequence。)
+	h) uuid.hex(由Hibernate基于128位唯一值产生算法，根据当前设备IP，时间，JVM启动时间，内部自增量等4个参数生成十六进制数值（编码后以长度为32位的字符串表示）作为主键。这种算法在最大程度上保证了产生ID的唯一性，即使是在多实例并发运行的情况下。当然，重复的概率在理论上依然存在，只是实在过于渺茫（可能数万才出现一次）。一般而言，利用uuid.hex方式生成主键将提供最好的数据插入性能和数据库平台适应性。)
+	i) uuid.string(与uuid.hex类似，只是生成的主键未进行编码（长度16位）。在某些数据库中可能出现问题（如PostgreSQL）)
+	j) foreign(使用外部表的字段作为主键，此类主键生成机制我们将在数据关联部分结合实例进行讲解。)
+	k) select(Hibernate3 中新引入的主键获取机制，主要针对遗留系统的改造工程。在一些早期系统中，主键可能依赖触发器生成，即当数据库发生insert操作时，通过触发器捕获这一操作，并为主键赋值。此时，我们就必须在插入数据之后，再次通过某一识别字段读取已插入的数据，获取其主键数据。某些类型的主键生成器需要提供配套的参数设定，如select类型的生成器需要指定一个唯一标识字段用于二次读取，以获得触发器生成的主键值。此时我们可以通过追加param子节点加以定义:
+	   <generator class="select">
+		<param name="key">key_field</param>
+	   </generator>
+	)
+常用的数据库都提供易用的主键生成机制（Auto-Increase 字段）如SQLServer、MySql等。
+数据库提供的主键生成机制，往往是通过在一个内部表中保存当前主键状态（如对于自增型主键而言，此内部表中就维护着当前的最大值和递增量），之后每次插入数据会读取这个最大值，然后加上递增量作为新记录的主键值，之后再把这个新的最大值更新回内部表中，这样，一次Insert操作可能导致数据库内部多次表读写操作，同时伴随的还有数据的加锁解锁操作，这对性能产生了较大影响。另外，对于借用Sequence作为主键产生机制的数据库而言，如Oracle，如果采用<generator class="sequence">设定，那么插入一条新的数据之前，HIbernate必须首先向数据库发起一条Select Sequence操作以获取主键值。这样，一次保存操作实际上包含了两个过程，首先Select Sequence获得主键，其次执行Insert插入记录，无疑操作效率相对较低。大多数情况下，如果逻辑允许，可以考虑采用uuid.hex主键生成方式。
+
+##与实体类型无关的映射方式动态模型（开发中应避免使用这种映射只做了解即可）
+Hibernate3同时还提供了另一种与实体类型无关的映射方式：动态模型（Dynamic Model）。所谓“动态模型”，即通过通用数据容器（如Map）对库表记录进行表达。最简单的例子：
+以一个HashMap实例表达某条库表记录，HashMap实例中以“键值对”的形式保存了库表记录中的“字段名/字段值”信息。对于上面的实例，动态模型方式的映射文件如下：
+				<?xml version="1.0" encoding="utf-8"?>
+	<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+	"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+	<!-- 
+	    Mapping file autogenerated by MyEclipse Persistence Tools
+	-->
+	<hibernate-mapping>
+   	 <class entity-name="DynamicUserMap" table="t_user" catalog="demo">
+    	    <id name="id" type="integer">
+        	    <column name="id" />
+       	     <generator class="identity" />
+       	 </id>
+       	 <property name="userName" type="string">
+       	     <column name="userName" length="100" not-null="true" />
+       	 </property>
+   	 </class>
+	</hibernate-mapping>
+
+与普通的映射不同的是，class节点的配置发生了变化由于动态模型中不存在特定的实体类，这里我们引入了一个新的属性：entity-name。entity-name用以指定实体名。之后我们即可借助此实体名指定Map的持久化目标。此类对应的操作代码示例如下（以数据保存为例）：
+	session=sessionFactory.openSession().getSession(EntityMode.MAP);
+	Map userMap=new HashMap();
+ 	userMap.put("name","ken");
+	Transaction tx=session.beginTransaction();
+	session.save("DynamicUserMap",userMap);
+	tx.commit();
+注意这里的session操作的差异，首先，我们以EntityMode.MAP模式获取Session实例，以表明Session操作的对象并非普通的实体类，而是Map类型数据。
+其次，在执行实体操作时（如session.save），须指明操作的实体名，如：
+	session.save("DynamicUserMap",userMap);
+
+________________________________________________________________________________________
+
+【6】.	Hibernate高级映射技术
+			
+1.自定义数据类型
+ UserType和CompositeUserType是Hibernate中提供的类型定义接口。根据这个接口，我们可以实现自定义的数据类型。
+
+public class EMaiList implements UserType{
+
+private List emails;
+
+private static final char SPLITIER=';';
+
+private static final int[] TYPES = new int[] {Types.VARCHAR};//不同的数据库，这里有不同 oracle.xdb.XNLType._SQL_TYPECODE
+public boolean isMutable(){
+	return false;
+}	
+
+/**
+*返回UserType所映射字段的SQL类型（java.sql.Types）
+*返回类型为int[],其中包含了映射各字段的SQL类型代码
+*（UserType可以映射到一个或者多个字段）
+**/
+public int[] sqlTypes(){//映射的字段类型
+	return TYPES;
+}
+
+public Class returnedClass(){//返回的自定义数据类型
+	return List.class;	
+}
+
+/**
+*创建一个新的List实例，包含原有List实例中的所有元素
+*/
+/**提供自定义类型的完全复制方法*
+*本方法将用作构造返回对象
+*当nullSafeGet方法调用之后，我们获得了自定义数据对象。在向用户返回
+*自定义数据之前，deepCopy方法将被调用，它将根据自定义数据对象构造一个
+*完全拷贝，并将此拷贝返回给用户使用。
+*此时，我们就得到了自定义数据对象的两个版本，第一个是从数据库读出的原始版本，其二
+*是我们通过deepCopy构造的复制版本，原始版本将由Hibernate负责维护，复制版本将由用户使用，原始版本用作稍后的脏数据检查依据；Hibernate将在
+*脏数据检查过程中将这两个版本的数据进行比对（通过调用equals方法），如果数据发生了变化（equals返回false）
+*则执行对应的持久化操作。
+*/
+public Object deepCopy(Object value) throws HibernateException{//数据拷贝，用于创建副本时调用
+	List sourcelist = (List)value;
+	List targetlist = new ArrayList();
+	targetlist.addAll(sourcelist);
+	return targetlist;
+}
+
+/**
+*判断email list是否发生改变
+*/
+/**
+*自定义数据类型的比对方法
+*此方法将用作脏数据检查，参数x,y分别为数据的两个副本
+*如果equals方法返回false，则Hibernate将认为数据发生变化，并将变化更新到库表之中
+**/
+public boolean equals(Object x,Object y) throws HibernateException{//脏数据检查时的方法
+	if(x==y)return true;
+	if(x!=null && y!=null){
+	 List xList = (List)x;
+	 List yList = (List)y;
+	
+	if(xList.size()!=yList.size())return false;
+	
+	for(int i=0;i<xList.size();i++){
+	   String str1 =(String)xList.get(i);
+	   String str2 =(String)yList.get(i);
+	    if(!str2.equals(str2))return false;
+	}
+	 return true;
+	}
+	return false;	
+}	
+
+/**
+*从resultset中取出email字段，并将其解析为List类型后返回
+*/
+/**
+*从JDBC ResultSet读取数据，将其转换为自定义类型后返回
+*（此方法要求对可能出现的null值进行处理）
+*names中包含了当前自定义类型的映射字段名称。
+*@param rs a JDBC result set
+*@param names the column names
+*@param owner the containing entity
+*@return Object
+*@throw HibernateException
+@throws SQLException
+**/
+
+public Object nullSafeGet(ResultSet rs, String[] names, Object owner) throws HibernateException,SQLException{//获得数据类型
+	String value =(String) Hibernate.STRING.nullSafeGet(rs,names[0]);//是获取id列的值其实这个东西可以这样来看：JDBC代码rs.getString("id");
+	if(value!=null){
+         return parse(value);
+	}else{
+	return null;
+	}	
+}
+
+/**
+*将List型的email信息组装成字符串之后保存到email字段
+*/
+/**
+*本方法将在Hibernate进行数据保存时被调用
+*我们可以通过PreparedStatement将自定义数据写入对应的库表字段
+*@param st a JDBC prepared statement
+*@param value the object to write
+*@param index statement parameter index
+*@throws HibernateException
+*@throws SQLException
+*/
+
+public void nullSafeSet(PreparedStatement st,Object value,int index) throws HibernateException,SQLException {//设置数据
+	System.out.println("Set method executed");
+	if(value !=null){
+	 String str = assemble((List) value);
+	Hibernate.STRING.nullSafeSet(st,str,index);
+	}else{
+	 Hibernate.STRING.nullSafeSet(st,value,index);
+	}
+} 
+
+/**
+*将String拼装为一个字符串，以";"分隔
+*/
+private String assemble(List emailList){
+	StringBuffer strBuf = new StringBuffer();
+	for(int i=0;i<emailList.size()-1;i++){
+          strBuf.append(emailList.get(i)).append(SPLITTER);
+	}
+	strBuf.append(emailList.get(emailList.size()-1));
+	return strBuf.toString();
+}
+
+/**
+*将以";"分隔的字符串解析为一个字符串数组
+*/
+private List parse(String value) {
+	String[] strs = org.apache.commons.lang.StringUtils.split(value,SPLITTER);
+	List emailList = new ArrayList();
+	for(int i=0;i<strs.length;i++){
+	 emailList.add(strs[i]);
+	}
+        return emailList;
+}
+
+}
+
+#######Tuser.java################################
+
+public class Tuser implements Serializable{
+	private  Integer id;
+	private String name;
+	private List email;
+      getter...settter...
+	
+}
+
+##########配置文件############
+
+				<?xml version="1.0" encoding="utf-8"?>
+	<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+	"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+	<!-- 
+	    Mapping file autogenerated by MyEclipse Persistence Tools
+	-->
+	<hibernate-mapping>
+   	 <class name="com.Tuser" table="t_user" catalog="demo">
+    	    <id name="id" type="integer">
+        	    <column name="id" />
+       	     <generator class="identity" />
+       	 </id>
+       	 <property name="Name" type="string">
+       	     <column name="Name" length="100" not-null="true" />
+       	 </property>
+
+         <property name="email" type="com.EMailList">
+       	     <column name="email" />
+       	 </property>
+   	 </class>
+	</hibernate-mapping>
+____________________________________________________________________________________________
+
+【7】复合主键
+1.Hibernate中，通过composite-id节点对复合主键进行定义。对于复合主键而言，我们可以通过两种方式确定主键：
+ 	a)基于实体类属性的复合主键
+
+	<hibernate-mapping>
+   	 <class name="com.Tuser2" table="t_user2" catalog="demo">
+    	 <composite-id>
+	   <key-property
+          name="lastname"
+	  column="lastname"
+	 type="string"
+	/>	
+        	    
+       	   <key-property
+          name="firstname"
+	  column="firstname"
+	 type="string"
+	/>
+       	 </composite-id>
+
+       	 <property name="age" type="integer">
+       	     <column name="age"  />
+       	 </property>
+
+        
+   	 </class>
+	</hibernate-mapping>
+
+Hibernate要求复合主键类实现queals和hashcode方法，以作为不同数据之间识别的标志。主键类要求实现Serializable接口。
+
+public class Tuser2 implements Serializable{
+	private Integer age;
+	private String  firstname;
+	private String  lastname;
+	...//getter and setter
+	
+	public boolean equals(Object object){
+	if(!(object instanceof Tuser2)){return false;}
+	Tuser2 rhs = (Tuser2)object;
+	return new EqualsBuilder().appendSuper(super.equals(object))
+		.append(this.lastname,rhs.lastname)
+		.append(this.firstname,rhs.firstname)
+		.isEquals();
+	}
+
+	public int hashCode(){
+	return new HashCodeBuilder(-528253723,-475504089).appendSuper(super.hashCode())
+		.append(this.lastname)
+		.append(this.firstname)
+		.toHashCode();
+	}
+
+}
+
+EqualsBuilder和HashCodeBuilder均为apache commons lang 组件包中的工具类。
+
+	b)基于主键类的复合主键
+对于上面的Tuser2.firstname和Tuser2.lastname我们将其单独提取到一个独立的主键类TuserPK中:
+
+public class TuserPK implements Serializable{
+	private String firstname;
+	private String lastname;
+	
+	//getter and setter
+	//equals and hashCode
+}
+之后我们即可在映射文件中通过composite-id节点的name和class属性加以配置：
+
+	
+	<hibernate-mapping package="com">
+   	 <class name="Tuser2" table="t_user2" catalog="demo">
+    	 <composite-id name="userpk" class="TuserPK">
+	   <key-property
+          name="lastname"
+	  column="lastname"
+	 type="string"
+	/>	
+        	    
+       	   <key-property
+          name="firstname"
+	  column="firstname"
+	 type="string"
+	/>
+       	 </composite-id>
+
+       	 <property name="age" type="integer">
+       	     <column name="age"  />
+       	 </property>
+        
+   	 </class>
+	</hibernate-mapping>
+
+相应的，Tuser2.java修改如下：
+public class Tuser2 implements Serializable{
+	private Integer age;
+	private TuserPK userpk;	
+	//getter and setter	
+}
+
+之后，我们即可通过主键类TuserPK进行数据查询：
+	TuserPK userpk = new TuserPK();
+	userpk.setFirstname("kevin");
+	userpk.setLastname("Shark");
+	Tuser2 user = (Tuser2)session.load(Tuser2.class,userpk);
+	System.out.println("User age is"+user.getAge());
+
+完整的composite-id节点包含如下内容:
+	<composite-id
+	  name="propertyName"
+	  class="ClassName"
+	  unsaved-value="any|none">
+	
+	 <key-property
+	 name="propertyName"
+	 type="typename"
+	 column="column_name"/>
+	
+	  <key-many-to-one
+	    name="propertyName"
+	 class="ClassName"
+	 column="column_name"/>
+	</composite-id>
+key-many-to-one节点用于实现多对一关联。
+
+在映射文件的class标签上加入polymorphism="explicit"声明一个显式多态关系返回此类实例。
+polymorphism="implicit"隐式多态模式。
+discriminator节点声明了用做子类辨别标识的字段名。
+______________________________________________________________________________________________________________
+
+【8】.数据关联(是ORM的一个重要特征但往往也是导致系统性能底下的诱因。不良的关联设计会对系统的性能表现产生致命的影响。)难点！！！
+
+1.一对一关联(类型包括：1.主键关联 2.唯一外键关联) 
+#####主键关联###########
+一对一的主键关联形式，即两张关联表通过主键形成一对一映射关系。
+ 例子：一个公民只能只有一张身份证。（<one-to-one>）
+级联关系设置（cascade）是指当主控方执行操作时，关联对象(被动方)是否同步执行同一操作。如对主控对象调用sava-update或delete方法时，是否同时对关联对象(被动方)进行save-update或delete。设定为all,则代表主控方执行任何操作(insert/update/delete..)都对其关联类进行同样的操作。
+outer-join="true" 控制台输出的sql语句是以left outer join 式的语句。          constrained="true"约束    inverse="true"控制反转
+
+2.一对多关联
+
+<set name="add"
+    table="t_add"
+    lazy="true"
+    inverse="true"
+    cascade="all">
+<key column="userid">
+</key>
+<one-to-many class="add类地址" />
+</set>
+一般控制反转都交给多的一方控制。
+
+3.多对多关联
+
+需要借助中间表完成映射信息的保存。
+
+4.多对一
+
+<many-to-one/>
+
+_____________________________________________________________________________________________________________________
+
+【9】.Hibernate数据检索之Criteria
+1.Criteria Query
+Criteria Query通过面向对象化的设计，将数据查询条件封装为一个对象。
+############################
+2.Criteria 查询表达式
+Criteria本身只是一个查询容器，具体的查询条件需要通过Criteria.add方法添加到Criteria实例中。
+
+	方法					描述
+ 	Expression.eq	     			对应SQL“field=value”表达式 如Expression.eq("name","Erica")
+	Expression.allEq			参数为一个Map对象，其中包含了多个属性-值对应关系。相当于多个Expression.eq关系的叠加
+	Expression.gt				对应SQL“field>value”表达式
+	Expression.ge				对应SQL“field>=value”表达式
+	Expression.lt				对应SQL“field<value”表达式
+	Expression.le				对应SQL“field<=value”表达式
+	Expression.between			对应SQL“between”表达式 如下面的表达式表示年龄(age)位于13到50区间。Expression.between("age",new Integer(13),new Integer(50));
+	Expression.like				对应SQL“field like value”表达式
+	Expression.in				对应SQL“field in value”表达式
+	Expression.eqProperty			用于比较两个属性之间的值，对应SQL中的“field =field”。 如：Expression.eqProperty("TUser.groupID","TGroup.id");
+	Expression.gtProperty			用于比较两个属性之间的值，对应SQL“field>field”
+	Expression.geProperty			用于比较两个属性之间的值，对应SQL“field>=field”
+	Expression.ltProperty			用于比较两个属性之间的值，对应SQL“field<field”
+	Expression.leProperty			用于比较两个属性之间的值，对应SQL“field<=field”
+	Expression.and				and关系组合 如：Expression.and(Expression.eq("name","Erica"),Expression.eq("sex",new Integer(1)));
+	Expression.or				or 关系组合 如：Expression.or(Expression.eq("name","Erica"),Expression.eq("name","Emma"));
+	Expression.sql				作为补充，本方法提供了原生SQL语法的支持。我们可以通过这个方法直接通过SQL语句限定查询条件 下面的代码返回所有名称以"Erica" 起始的记录：Expression.sql("lower({alias}.name) like lower(?)","Erica%",Hibernate.STRING);其中的"{alias}"将由Hibernate在运行期使用当前关联的POJO别名替换
+	
+注意Expression各方法中的属性名参数，都是类中的属性名而非数据库表字段的属性名。
+Hibernate 3中，引入了Restrictions类作为Expression的替代(Expression类被设定为半废弃状态[semi-deprecated]),Restrictions的使用方法与Expression一致(Hibernate3中，Expressions实际上为Restrictions类的一个子类实现)
+
+################################
+3.示例查询
+Example类实现了Criterion接口，同样他也可以用作Criteria的查询条件。Example的作用是：根据已有对象，查找属性与之相符的其他对象。看一个简单的例子：
+Criteria criteria = session.createCriteria(TUser.class);
+TUser exampleUser = new TUser();
+exampleUser.setName("Erica");
+criteria.add(Example.create(exampleUser));
+List list = criteria.list();
+for(int i=0;i<list.size();i++){
+TUser user = (TUser)list.get(i);
+System.out.println("User["+i+"]\t"+user.getName());
+}
+效果等同于：criteria.add(Expression.eq("name","Erica"));
+
+###############################
+4.复合查询(查找所有属于上海的用户)
+	Criteria criteria = session.createCriteria(TUser.class);
+	Criteria addrCriteria = criteria.createCriteria("addresses");
+	addrCriteria.add(Expression.like("address","%Shanghai%"));
+	List list;
+	list = criteria.list();
+	for(int i=0;i<list.size();i++){
+	System.out.println("User["+i+"]");
+	TUser user = (TUser) list.get(i);
+	System.out.println("\t"+user.getName());
+	
+	Set addrset =user.getAddresses();
+	Iterator it = addrSet.iterator();
+	while(it.hasNext()){
+	  TAddress addr = (TAdderss) it.next();
+	   System.out.println("\t\t"+addr.getAddress());
+	}
+	}
+
+################################
+5. DetachedCriteria
+Criteria是由某个Session创建的实例一旦Session销毁，那么Criteria实例就失效了。所以很大程度上限制了Criteria的重用对于相同的Criteria查询条件，每次我们都必须由当前Session构造其查询实例，未免太繁琐。于是Hibernate 3中，提供了一个新的Criteria实现：DetachedCriteria。
+DetachedCriteria可以脱离Session实例独立存在，这样，我们就可以将某些通用的Criteria查询条件进行抽离，每次使用时再与当前Session实例绑定，为了实现Criteria的重用，我们可以将其修改为：
+	DetachedCriteria deCriteria = DetachedCriteria.forClass(TUser.class);
+	deCriteria.add(Expression.eq("name","Erica"));
+	deCriteria.add(Expression.eq("sex",new Integer(1)));
+	
+	Criteria criteria = deCriteria.getExecutableCriteria(session); //与session相绑定，获得运行期Criteria实例。
+	Iterator it =criteria.list().iterator();
+	
+	while(it.hasNext()){
+	TUser user=(TUser) it.next();
+	System.out.println(user.getName());
+	}
+
+##DetachedCriteria也可以用于子查询表达。例如下例返回了所有年龄超出平均值的用户记录：
+	DetachedCriteria avgAge = DetachedCriteria.forClass(TUser.class);
+	avgAge.setProjiction(Projections.avg("age"));
+	
+	Criteria criteria = session.createCriteria(TUser.class);
+	criteria.add(Subqueries.propertyGt("age",avgAge));
+	List list = criteria.list();
+通过Subqueries我们可以将DetachedCriteria纳入查询表达式，反映在SQL上则是一个典型的子查询语句上例生成的ＳＱＬ语句大致如下：
+	select ... from T_User where age>(select avg(age) from T_User)
+其中子查询语句"select avg(age) from T_User" 由DetachedCriteria avgAge描述.
+
+###########################
+6.Criteria高级特性
+ a)限定返回的记录范围
+通过criteria.setFirstResult/setMaxResults方法可以限制一次查询返回的记录范围:
+	Criteria criteria = session.createCriteria(TUser.class);
+	//限定查询返回检索结果中，从100条结果开始的20跳记录
+	criteria.setFirstResult(100);
+	criteria.setMaxResults(20);
+
+ b)记录排序：
+	//查询所有groupId=2的记录并分别按照姓名(顺序)和groupId(逆序)排序
+	Criteria criteria =session.createCriteria(TUser.class);
+	criteria.add(Expression.eq("groupId",new Integer(2)));
+	
+	criteria.addOrder(Order.asc("name"));
+	criteria.addOrder(Order.desc(groupId));
+
+c)分组和统计
+在Hibernate 3中，我们还可以通过Criteria完成分组和统计。分组、统计表达式由Hibernate3新引入的Projections Class进行封装。一个简单的例子：
+	Criteria criteria = session.createCriteria(TUser.class);
+	criteria.setProjection(Projections.groupProperty("age"));
+	List list = criteria.list();
+	Iterator it =list.iterator();
+	while(it.hasNext()){
+	System.out.println(it.next());
+	}
+可以看到，Projections.groupProperty()方法实际上是对SQL group by子句的封装。同样也可以通过Projections.avg()、rowCount()、count()、max()、min()、countDistinct()等方法实现查询统计功能。一下示例对用户的平均年龄进行了统计:
+	
+	Criteria criteria =session.createCriteria(TUser.class);
+	criteria.setProjection(Projections.avg("age"));
+	List list = criteria.list();
+	iterator it =list.iterator();
+	while(it.hasNext()){
+	System.out.println(it.next());
+	}	
+另外，对于多条件组合的统计、分组功能，我们可以借助ProjectionList完成，下面例子中，我们统计了各个年龄层次中的用户数量：
+	ProjectionList projectionLIst = Projections.projectionList();
+	ProjectionList.add(Projections.groupProperty("age"));
+	projectionList.add(projections.rowCount());
+	
+	Criteria criteria = session.createCriteria(TUser.class);
+	criteria.setProjection(projectionList);
+	List list =criteria.list();	
+___________________________________________________________________________________________
+
+【10】.Hibernate Query Language(HQL)比Criteria查询功能更强大
+
+1.完整的HQL语法结构如下：
+	【select/update/delete ...】【from ...】 【where ...】 【group by ...】【having ...】【order by ...】	其中update/delete子句为Hibernate3引入的新特性。
+
+###############################################
+2.实体查询
+	String hql="from TUser";
+	Query query =session.createQuery(hql);
+	List userList = query.list();
+可以在HQL中采用全路径类名，特别是在应用中存在同名类（包名不同）的情况下。如：
+	“from com.bao.entity.TUser”
+提示：HQL子句本身大小写无关，但是其中出现的类名和属性名必须注意大小写区分。
+需要注意的是，Hibernate中，查询的目标实体存在着继承关系的判定，如“from TUser” 将返回所有TUser以及TUser子类的记录，假设系统中存在TUser的两个子类：TSysAdmin和TSysOperator,那么"from TUser"返回的记录将包含这两个子类的所有数据，即使TSysAdmin和TSysOperator分别对应了不同的库表。
+
+Where 子句：（as可忽略）
+	String hql="from TUser as user where user.name='Erica'";
+	Query query = session.createQuery(hql);
+	List userList = query.List();
+where 子句中，我们可以通过比较操作符指定甄选条件，如：
+	=, <>, <, >, >=, <=, between, not between, in, not in, is, like等。
+ 我们也可以在where子句中使用算术表达式，如：
+	from TUser user where (user.age % 2=1)返回所有年龄为奇数的用户记录。
+
+#########################################
+3.属性查询
+	String hql="select user.name from TUser user";
+	Query query =session.createQuery(hql);
+	List userList = query.list();
+	Iterator it =list.iterator();
+	while(it.hasNext()){
+	 Object[] results = (Object[])it.next();
+	 System.out.println(results[0]);
+	}
+如果觉得返回数组的方式不够符合面向对象的风格，我们也可以通过在HQL中动态构造对象实例的方法对这些平面化的数据进行封装。
+	List list=this.session.createQuery("select new TUser(user.name,user.age) from TUser as user").list();
+	Iterator it = list.iterator();
+	while(it.hasNext()){
+	TUser user =(TUser)it.next();
+	System.out.println(user.getName());
+	}
+可以使用distinct关键字，剔除返回集中的重复记录：
+	select distinct user.name from TUser as user
+
+#######################################
+4.实体更新与删除(Hibernate3特性)
+a).更新
+	Transaction tx= session.beginTransaction();
+	String hql = "update TUser set age=18 where id=1";
+	Query query =session.createQuery(hql);
+	int count =query.executeUpdate();返回更新条数
+	tx.commit();
+	
+b)删除
+	Transaction tx=session.beginTransaction();
+	String hql ="delete TUser where age >18";
+	Query query =session.createQuery(hql);
+	int ret =query.executeUpdate();
+	System.out.println(ret);
+	tx.commit();
+    在使用HQL delete/update子句的时候需要注意它们对缓存策略的影响。
+
+#####################################
+5.分组与排序
+a) Order by 子句
+	from TUser user order by user.name desc默认按顺序排序.
+   order by 子句可指定多个排序条件：
+	from TUser user order by user.name,user.age desc
+
+b).Group by子句
+	String hql="select count(user),user.age from TUser user group by user.age";
+	List list = session.createQuery(hql).list();
+	Iterator it = list.iterator();
+	while(it.hasNext()){
+	Object[] results = (Object[])it.next();
+	System.out.println("There are "+results[0]+"users's age is"+results[1]);
+	}
+where 可以对记录数据进行甄选那么Group by 子句获得的结果集而言，如何从中挑选我们感兴趣的数据？
+	String hql="select count(user) ,user.age from TUser user group by user.age having count(user)>10";
+ Having 子句是针对Group By返回结果集的甄选语句，等同于Where子句之于库表。
+
+###################################
+6.参数动态绑定(占位符)
+参数绑定机制可以使得查询语法与具体参数数值相互独立。这样，对于参数不同，查询语法相同的查询操作，数据库即可实施性能优化策略。同时，参数绑定机制也杜绝了参数值对查询语法本身的影响，这也避免了SQL Injection 的可能。
+在Session.find方法(hibernate2)中填充参数：
+	session.find(
+	"from TUser user where user.name=?",
+	"Erica",
+	Hibernate.STRING);
+多参数的情况：
+	Object[] args =new Object[]{"Erica",new Integer(20)};
+	Tyoe[] types = new Type[]{Hibernate.String,Hibernate.INTEGER};
+	session.find("from TUser user where user.name=? and user.age>?",args,types);
+或者通过Query接口进行参数填充：(顺序占位符)
+	Query query = session.createQuery("from TUser user where user.name=? and user,age>?");
+	query.setString(0,"Erica");
+	query.setInteger(1,20);
+引用占位符：
+	String hql="from TUser where name=:name";
+	Query query = session.createQuery(hql);
+	query.setParameter("name","Erica");
+	Iterator it = query.iterate();
+	while(it.hasNext()){
+	TUser user=(TUser)it.next();
+	System.out.println(user.getName());
+	}
+以上HQL中，:name即所谓的引用占位符，它标识一个名为"name"的查询参数。
+可以用一个JavaBean封装查询参数，如:
+	class UserQuery{
+	private String name;
+	private Integer age;
+	//getter and setter
+	}
+查询代码：
+	String hql = "from TUser where name=:name and age=:age";
+	Query query = session.createQuery(hql);
+	
+	UserQuery uq = new UserQuery();
+	uq.setName("Erica");
+	uq.setAge(new Integer(20));
+	query.setProperties(uq);
+	
+	Iterator it = query.iterate();
+	while(it.hasNext()){
+	TUser user= (TUser)it.next();	
+	System.out.println(user.getName());
+	}
+
+################################
+7.引用查询
+把SQL保存在配置文件中，需要调用的时候再进行读取。
+Hibernate 提供了HQL可配置化的内置支持。
+我们可以在实体映射文件中，通过query节点定义查询语句（与class节点同级）:
+	<hibernate-mapping>
+	  <class 
+	    name="entity"
+		table="Table">
+		....
+	 </class>
+	<query name="queryByName">
+	<![CDATA[ from TUser user where user.name=:name]]>
+	</query>
+之后通过Session.getNamedQuery方法从配置文件中调用对应的HQL，如:
+	Query query = session.getNamedQuery("queryByName");
+	UserQuery uq = new UserQuery();
+	uq.setName("Erica");
+	uq.setAge(new Integer(20));
+	query.setProperties(uq);
+	
+	Iterator it = query.iterate();
+	while(it.hasNext()){
+	TUser user= (TUser)it.next();
+	System.out.println(user.getName());
+	}	
+
+#################################
+8.联合查询
+SQL中通过join子句实现多表之间的联合查询。HQL提供了一下几种联合查询机制：
+	a) inner join
+	b) left outer join
+	c) right outer join
+	d) full join(not usually useful)
+这几种联合查询分别与ANSI SQL中同名术语一一对应。
+	a).对于inner join (返回所有满足关联条件的记录组合)
+	from TUser user	inner join fetch user.addresses	    “fetch”关键字表明TAddress对象读出后立即填充到对应的TUser对象（addresses 集合属性）中如果忽略fetch关键字，我们得到的结果集中，每条都是一个Object数组，其中包括了一个TUser对象及其对应的TAddress对象。
+	对应的SQL如：select ... from T_USER user inner join T_Address addr on user.id=addr.user_id
+代码示例：
+	String hql = "from TUser user join user.addresses";
+	List list = session.createQuery(hql).list();
+	iterator it= list.iterator();
+	while(it.hasNext()){
+	Object[] results=(Object[])it.next();
+	System.out.println("Record Data");
+	for(int i=0;i<results.length;i++){
+	System.out.println(results[i]);
+	}
+	}
+在SQL中 on user.id=addr.user_id子句所对应的关系在Hibernate中已经由映射文件指定，HQL并没有对应表现。
+
+	b).对于left outer join:
+	from TUser user left join fetch user.addresses
+返回左边的所有记录及其对应的右侧记录没对应的字段则以NULL代替。
+	
+	c) Right outer join
+与Left outer join 相反，返回的是右侧所有记录如果左侧没有对应的记录则以NUll代替。
+	from TUser user right join user.addresses
+注意： fetch关键字只对 inner join 和left join有效。对于right join而言，由于作为关联对象容器的T_User对象可能为null，所以也就无法通过fetch关键字强制Hibernate进行集合填充操作。这就意味着我们只能通过对返回集合中的各个对象数组进行处理，从中获取我们所需的数据：
+	String hql = "from TUser user right join user.addresses";
+	List list = session.createQuery(hql).list();
+	Iterator it = list.iterator();
+	while(it.hasNext()){
+	Object[] results =(Object[])it.next();
+	TUser user;
+	TAddress addr;
+	
+	if((results[0])!=null){
+	user=(TUser)results[0];
+	System.out.println(user.getName());
+	}else{
+	System.out.println("No corresponding user");
+	}
+	addr=(TAddress)results[1];
+	System.out.println(addr.getAddress());
+	}
+	
+	d) full join 或 full outer join
+full join 并不常用，如下HQL：它是left outer join 和right outer join 的并集
+	from TUser user full join user.addresses
+
+	e)其它表间查询
+需要对两张表之间数据进行排列组合我们可以通过如下ＨＱＬ实现：
+	from TUser,TAddress
+
+###################################
+9.子查询
+	from TUser user where (select count(*) from user.addresses)>1对应的ＳＱＬ语句如下：
+	select ... from T_USER user where ((select count(*) from T_Address addr where user.id=addr.user_id)>1)
+HQL中，子查询必须出现在where子句中，且必须以一对圆括号包围。  
+#######################################
+
+10.数据加载方式
+Hibernate支持一下几种数据加载方式：
+a) 即时加载（Immediate Loading）
+当实体加载完成后，立即加载其关联数据。
+
+b) 延时加载（Lazy Loading）
+实体加载时，其关联数据并非即刻获取，而是当关联数据第一次被访问时再进行读取。
+
+c) 预先加载（Eager Loading）
+预先加载时，实体及其关联对象同时读取，这与即时加载类似，不过实体及其关联数据是通过一条ＳＱＬ语句(基于外连接【outer join】)同时读取。
+
+d)批量加载（Batch Loading）
+对于即时加载和延时加载，可以采用批量加载方式进行性能上的优化。
+
+######a即时加载####
+lazy="false"
+######延时加载#####
+lazy="true"
+HIbernate 3中 默认是启动延时加载的。
+######预先加载######
+通过outer-join完成关联数据的加载通过一条SQL语句即可完成实体及其关联数据的读取,相对即时读取的两条SQL语句而言，性能更好。不过在集合类型（也就是说在一对多，多对一，或者多对多关系中），我们不推荐使用预先加载方式，理由与即时加载一样，对于集合，只要条件允许，我们应该尽量采用延迟加载模式，以避免性能上可能的无谓开销。
+调整全局变量（Hibernate.max_fetch_depth）限定outer-join的层次一般设5层。
+#########批量加载######
+我们在实体配置的class节点中通过batch-seze参数打开批量加载机制，并限定每次批量加载的数量:
+	<class name="TUser" table="T_USER" batch-size="5">
+一般来说，batch-size应该设定为一个合理的小型数值（<10）。
+
+____________________________________________________________________________________________
+
+【11】.SQL查询
+	String sql="select {usr.*} from T_User usr";
+	List list = session.createSQLQuery(sql,"usr",TUser.class).list();
+	Iterator it = list.iterator();
+	while(it.hasNext()){
+	TUser user= (TUser)it.next();
+	System.out.println("User Name"+user.getName());
+	}
+我们也可以指定获取的字段
+SQL= select u.id as {usr.id},u.name as {usr.name} ,u.age as {usr.age} from T_User u;
+大括号中的内容指定了字段的别名，select u.id as{usr.id} 其中u是ＳＱＬ中T_User表的别名，而usr是我们指定的实体对象别名。
+在session.createSQLQuery(sql,"usr",TUser.class)方法中，我们将执行的SQL传入，并指定其实体对象别名usr，实体对象类型为TUser.class，这样,Hibernate就会根据我们在ＳＱＬ中的别名配置，将返回的ResultSet映射到对应的实体对象实例返回。
+我们也可以在一次SQL执行过程中，对多个实体对象同时进行操作：
+	String sql = "select{usr.*},{addr.*} from T_User usr inner join T_Address addr on usr.id=addr.user_id";
+	List list=session.createSQLQuery(sql,new String[]{"usr","addr"},new Class[]{TUser.class,TAddress.class}).list();
+	Iterator it =list.iterator();
+	while(it.hasNext()){
+	Object[] result=(Object[])it.next();
+	TUser user=(TUser)result[0];
+	TAddress addr= (TAddress)result[1];
+	System.out.println(user.getName());
+	System.out.println(addr.getAddress());
+	}
+与HQL相同,Native SQL 也可以在实体映射文件中进行配置，之后通过名称引用查询:
+	<hibernate-mapping>
+	    <class
+		name="com.TUser"
+		table="表"
+		batch-size="5"
+		>
+		....
+	    </class>
+	<sql-query name="queryUser">
+	 <![CDATA[
+	   select {usr.*} from T_User usr where name=:name
+	]]>
+	<return alias="usr"
+	class="com.TUser"
+	</sql-query>
+	</hibernate-mapping>
+实例代码如下：
+
+	Query query session.getNamedQuery("queryUser");
+	query.setParameter("name","Erica");
+	Iterator it = list.iterator();
+	while(it.hasNext()){
+	TUser user= (TUser)it.next();
+	System.out.println("User Name"+user.getName());
+	}
+
+Hibernate3对sql-query节点进行了扩充。可以基于存储过程的查询功能。
+
+先创建ORacle存储过程
+	CREATE OR REPLACE FUNCTION getUsersByAge(userAge in NUMBER)
+	RETURN
+	SYS_REFCURSOR AS c_user SYS_REFCURSOR;
+	BEGIN
+	 OPEN c_user FOR	
+		SELECT ID,NAME,AGE FROM TUSER WHERE AGE=userAge;
+	RETURN c_user;
+	END;
+上面格局输入的年龄参数，返回所有符合条件的记录。对应的sql-query定义如下:
+	<sql-query name="getUsersByAge" callable="true">
+	<return alias="user"
+	class="com.TUser"
+		<return-property name="id" column="ID"/>
+		<return-property name="name" column="NAME"/>
+		<return-property name="age" column="AGE"/>
+	</retun>
+	{? =call getUsersByAge(?)}
+	</sql-query>
+sql-query节点的callable属性设定为true,指明当前查询基于存储过程定义。
+
+测试例子：
+	Query query=session.getNamedQuery("getUsersByAge");
+	query.setInteger(0,18);
+	List list=query.list();
+	Iterator it = list.iterator();
+	while(it.hasNext()){
+	TUser user= (TUser)it.next();
+	System.out.println("User Name"+user.getName());
+	}
+
+如果要执行某些的特殊的存储过程，我们可以通过session,connection()获取JDBC Connection实例进行调用。
+____________________________________________________________________________________________
+【12】.自定义持久化实现	(hibernate3)
+对应自定义持久化机制，配置文件中一如了sql-insert、sql-update和sql-delete 3个新节点。通过这3个节点我们可以指定用于实体insert、update、delete操作的SQL语句。
+	<hibernate-mapping>
+	<class
+	....>
+	<id>
+	...
+	</id>
+	<property .../>
+	<sql-insert>
+	INSERT INTO T_USER(ID,NAME,AGE) VALUES (?,?,?)
+	</sql-insert>
+	<sql-update>
+	UPDATE T_USER SET NAME=?,AGE=? WHERE ID=?
+	</sql-update>
+	<sql-delete>
+	DELETE FROM T_USER WHRER ID=?
+	</sql-delete>
+	</class>
+	</hibernate-mapping>
+执行测试代码：
+	Transaction tx=session.beginTransaction();
+	TUser user=(TUser)session.get(TUser.class,new Integer(1));
+	user.setName(user.getName().toLowerCase());
+	user.setAge(new Integer(18));
+	tx.commit();
+	session.close();
+___________________________________________________________________________________________
+【13】Hibernate 高级特性
+1.Hibernate持久化实现
+ ########实体对象生命中的3种状态。########
+a) Transient(自由状态或者瞬时状态)
+所谓Transient,即实体对象在内存中的自由存在，它与数据库中的记录无关。如：
+	TUser user = new TUser();
+	user.setName("Emma");
+b) Persistent(持久状态)
+所谓Persistent,即实体对象处于由Hibernate框架所管理的状态。这种状态下，实体对象的引用被纳入Hibernate实体容器中加以管理。处于Persistent状态的对象，其变更将由Hibernate固化到数据库。
+	TUser user=new TUser();
+	TUser anotherUser= new TUser();
+	user.setName("Emma");
+	anotherUser.setName("Kevin");
+	//此时user和anotherUser都处于Transient状态
+	Transaction tx= session.beginTransaction();
+	session.save(user);
+	此时的user对象已经由Hibernate纳入实体管理容器，处于Persistent状态
+	//而anotherUser仍处于Transient状态
+	tx.commit();
+	//事务提交之后，库表中已经插入一条用户"Emma"的记录
+	//对于anotherUser则无任何操作
+	Transaction tx2= session.beginTransaction();
+	user.setName("Emma_1");//Persistent
+	anotherUser.setName("Kevin_1");//Transient
+	tx2.commit();
+	//虽然这个事务中我们没有显示调用Session.save方法保存user对象
+	//但是由于处于Persistent状态的对象将自动被固化到数据库中，因此user对象的变化也将被同步到数据库中
+	//也就是说数据库中"Emma"的用户记录已经被更新为"Emma_1"
+	//此时anotherUser仍然是个普通Java对象，处于Transient状态，它不受Hibernate框架管理，因此其属性的更改也不会对数据库产生任何影响。
+简而言之，如果一个实体对象与Session实例发生关联，并处于对应Session的有效期内，那么它就处于Persistent状态。
+
+c) Detached(游离状态或者脱管状态)
+处于Persistent状态的对象，其对应的Session实例关闭之后，那么，此对象就处于"Detached"状态。
+Session实例可以看作是Persistent对象的宿主，一旦此宿主失效，那么其从属的Persistent对象即进入Detached状态。例子如下：
+	TUser user =new TUser();
+	user.setName("Emma");
+	//此时user处于Transient状态	
+	
+	Transaction tx = session.beginTransaction();
+	session.save(user);
+	//此时的user对象已经由Hibernate纳入管理容器，处于Persistent状态
+	tx.commit();
+	session.close();
+	//user对象此时状态为Detached,因为与其关联的session已经关闭
+
+####Detached状态与Transient状态的区别 ########
+区别在于Detached对象可以再次与某个Session实例相关联而成为Persistent对象:
+	TUser user = new TUser();
+	user.setName("Emma");
+	//此时user处于Transient状态	
+	Transaction tx = session.beginTransaction();
+	session.save(user);
+	//此时的user对象已经由Hibernate纳入管理容器，处于Persistent状态
+	tx.commit();
+	session.close();
+	//user对象此时状态为Detached,因为与其相关联的session已经关闭
+	Transaction tx2 = session2.beginTransaction();
+	session2.update(user);
+	//此时处于Detached状态的user对象再次借助session2由Hibernate纳入管理容器，恢复Persistent状态
+	user.setName("Emma_1");
+	//由于user对象再次处于Persistent状态，因此属性变更将自动由Hibernate固化到数据库中
+	tx2.commit();
+可以看到，这里我们通过Session.update方法将Detached对象再次与Hibernate持久层容器相关联，因而user对象又转变为Persistent状态。
+
+Detached与Hibernate容器无关。
+####判断一个对象处于Transient状态的条件:
+1. 首先，对象的id属性是否为空
+2. 如果指定了id属性的unsaved-value,那么id属性是否等于unsaved-value。
+3. 如果配备了Version属性,version属性是否为null。
+4. 如果配备了Version属性，且为version指定了unsaved-value,version属性值是否等于unsave-value。
+5. 如果存在Interceptor,那么Interceptor.isUnsaved方法是否返回true。
+如果实体对象从Persistent状态转变为Transient状态，一般由session.delete方法完成.
+我们将处于Transient和Detached状态的对象统称为值对象(VO即Value Object),将处于Persistent状态的对象称为持久对象(PO即 Persistence Object)。
+
+##### VO和PO只要区别######
+1.VO是相对独立的实体对象，处于非管理状态。
+2.PO是由Hibernate纳入其实体管理容器(Entity Map)的对象，它代表了与数据库中某条记录对应的Hibernate实体，PO的变化在事物提交时将反映到实际数据库中。
+3.如果一个PO与其对应的Session实例分离，那么此时，它又会变成一个VO。
+equals与hashcode方法自动生成插件下载地址：http://commonclipse.sf.net
+
+#######################数据缓存策略######################
+ORM的数据缓存包含一下几层： 
+1.事务级缓存(Transaction Layer cache)
+ 在当前事务范围内的数据缓存策略。在这里的事务可能是一个数据库事务，也可能是某个应用级事务。对于Hibernate而言事务级缓存是基于Session生命周期实现的，每个Session会在内部维持一个数据缓存，此缓存随着Session的创建(销毁)而存在（消亡）,因此也称Session Level Cache(也称内部缓存)。
+
+2.应用级/进程级缓存(Application/Process Layer Cache)
+在某个应用中，或者应用中某个独立数据访问子集中的共享缓存。此缓存可由多个事务(数据库事务或者应用级事务)共享。在Hibernate中，应用级缓存在SessionFactory层实现，所以由此SessionFactory创建的Session实例共享此缓存，因此额称为SessionFactory Level Cache。在多实例并发的情况我们不能用应用级缓存。
+
+3.分布式缓存
+在多个应用实例，多个JVM之间共享的缓存模式。分布式缓存有多个应用级缓存实例组成集群，通过某种远程机制(如RMI或JMS)实现各个缓存实例间的数据同步，任何一个实例的数据修改操作，将导致整个集群间的数据状态同步。分布式缓存解决了多实例并发运行过程中的同步问题。
+
+############Hibernate数据缓存#####################
+Hibernate数据缓存（Cache）分为两个层次可分为:
+1.内部缓存(Session Level,也称为一级缓存) 属于应用事务级缓存。
+2.二级缓存(SessionFactory Level,也称二级缓存) 包括应用级缓存和分布式缓存
+
+Hibernate中，缓存将在一下情况中发挥作用：
+1.通过id【主键】加载数据时
+这包括了根据id查询数据的Session.load方法，以及Session.iterate等批量查询方法(Session.iterate进行查询时，也是根据id在缓存中查找数据，类似一个Session.load循环)
+2.延时加载
+
+内部缓存
+如果要手动干预内部缓存可以通过一下方法完成：
+1.Session.evict
+将某个特定对象从内部缓存中清除。
+2.Session.clear
+清空内部缓存。
+
+###二级缓存
+Session在查询数据的时候先在一级缓存查找如果没有在去二级缓存。
