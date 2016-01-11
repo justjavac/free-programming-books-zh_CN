@@ -149,6 +149,7 @@
 * [Vim中文文档](https://github.com/vimcn/vimcdoc)
 * [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
 * [tmux:高效的全键盘开发工具](https://github.com/aqua7regia/tmux-Productive-Mouse-Free-Development_zh)
+* [Atom飞行手册中文版](https://github.com/wizardforcel/atom-flight-manual-zh-cn)
 
 ### NoSQL
 
@@ -221,7 +222,7 @@
 * [前端资源分享（二）](https://github.com/hacke2/hacke2.github.io/issues/3)
 * [前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
 * [前端开发者手册](https://www.gitbook.com/book/dwqs/frontenddevhandbook/details)
-* [w3school教程整理](http://www.flygon.net/archives/427)
+* [w3school教程整理](https://github.com/wizardforcel/w3school)
 * [Wireshark用户手册](http://man.lupaworld.com/content/network/wireshark/index.html)
 * [一站式学习Wireshark](https://community.emc.com/thread/194901)
 * [HTTP 下午茶](http://happypeter.github.io/tealeaf-http/)
