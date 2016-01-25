@@ -381,6 +381,7 @@
 * [JSSE 参考指南](https://github.com/waylau/jsse-reference-guide)
 * [Java开源实现及最佳实践](https://github.com/biezhi/jb)
 * [Java 编程要点](https://github.com/waylau/essential-java)
+* [Java 编程系列书籍](https://github.com/WANGRuonan/Java_Books)
 
 ### JavaScript
 
