@@ -114,6 +114,7 @@
 
 ### 计算机图形学
 * [OpenGL 教程](https://github.com/zilongshanren/opengl-tutorials)
+* [WebGL自学网](http://html5.iii.org.tw/course/webgl/)
 
 ### WEB服务器
 
@@ -223,6 +224,7 @@
 * [前端资源分享（二）](https://github.com/hacke2/hacke2.github.io/issues/3)
 * [前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
 * [前端开发者手册](https://www.gitbook.com/book/dwqs/frontenddevhandbook/details)
+* [前端工程师手册](https://www.gitbook.com/book/leohxj/front-end-database/details)
 * [w3school教程整理](https://github.com/wizardforcel/w3school)
 * [Wireshark用户手册](http://man.lupaworld.com/content/network/wireshark/index.html)
 * [一站式学习Wireshark](https://community.emc.com/thread/194901)
