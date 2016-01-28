@@ -333,7 +333,7 @@
 
 * [Go编程基础](https://github.com/Unknwon/go-fundamental-programming)
 * [Go入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN)
-* [学习Go语言](http://mikespook.com/learning-go/) ([PDF](http://xxiyy.qiniudn.com/%E5%AD%A6%E4%B9%A0%20Go%20%E8%AF%AD%E8%A8%80\(Golang\).pdf?download))
+* [学习Go语言](http://mikespook.com/learning-go/) 
 * [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang) (此书已经出版，希望开发者们去购买，支持作者的创作)
 * [Go实战开发](https://github.com/astaxie/Go-in-Action) (当我收录此项目时，作者已经写完第三章，如果读完前面章节觉得有帮助，可以给作者[捐赠](https://me.alipay.com/astaxie)，以鼓励作者的继续创作)
 * [Network programming with Go 中文翻译版本](https://github.com/astaxie/NPWG_zh)
@@ -343,7 +343,9 @@
 * [Java程序员的Golang入门指南](http://blog.csdn.net/dc_726/article/details/46565241)
 * [Go命令教程](https://github.com/hyper-carrot/go_command_tutorial)
 * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
-* [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)
+* [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)   
+* [深入解析Go](https://github.com/tiancaiamao/go-internals)
+* [Go语言圣经(中文版)](http://golang-china.github.io/gopl-zh/) ([GitHub](https://github.com/golang-china/gopl-zh))
 
 ### Groovy
 
