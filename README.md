@@ -50,6 +50,7 @@
   * [Clojure](#clojure)
   * [CSS/HTML](#css)
   * [Dart](#dart)
+  * [Elixir](#elixir)
   * [Erlang](#erlang)
   * [Fortran](#fortran)
   * [Go](#go)
@@ -320,6 +321,10 @@
 ### Dart
 
 * [Dart 语言导览](http://dart.lidian.info/wiki/Language_Tour)
+
+### Elixir
+
+* [Elixir编程入门](https://github.com/straightdave/programming_elixir)
 
 ### Erlang
 
