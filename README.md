@@ -255,6 +255,7 @@
 * [SAN 管理入门系列](https://community.emc.com/docs/DOC-16067)
 * [Sketch 中文手册](http://sketchcn.com/sketch-chinese-user-manual.html#introduce)
 * [深入理解并行编程](http://ifeve.com/perfbook/)
+* [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
 
 ## 语言相关类
 
