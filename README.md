@@ -295,6 +295,7 @@
 * [QT 教程](http://www.kuqin.com/qtdocument/tutorial.html)
 * [DevBean的《Qt学习之路2》(Qt5)](http://www.devbean.net/category/qt-study-road-2/)
 * [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
+* [Boost 库中文教程](http://zh.highscore.de/cpp/boost/)
 
 ### Clojure
 
