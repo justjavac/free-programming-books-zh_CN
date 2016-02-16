@@ -282,6 +282,7 @@
 
 ### C/C++
 
+* [C/C++ 中文参考手册](http://zh.cppreference.com/) (欢迎大家参与在线翻译和校对)
 * [C 语言编程透视](https://www.gitbook.com/book/tinylab/cbook/details)
 * [C++ 并发编程指南](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)
 * [Linux C编程一站式学习](http://akaedu.github.io/book/) (宋劲杉, 北京亚嵌教育研究中心)
