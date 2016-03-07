@@ -250,7 +250,7 @@
 
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
-* [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
+* [取悦的工序：如何理解游戏](https://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
 
 ## 其它
 
@@ -383,7 +383,7 @@
 * [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
 * [Spring Framework 4.x参考文档](https://github.com/waylau/spring-framework-4-reference)
 * [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) (翻译中)
-* [MyBatis中文文档](http://mybatis.org/mybatis-3/zh/index.html)
+* [MyBatis中文文档](http://www.mybatis.org/mybatis-3/zh/index.html)
 * [用jersey构建REST服务](https://github.com/waylau/RestDemo)
 * [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
 * [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
@@ -395,7 +395,7 @@
 * [H2 Database 教程](https://github.com/waylau/h2-database-doc)
 * [Java Servlet 3.1 规范](https://github.com/waylau/servlet-3.1-specification)
 * [JSSE 参考指南](https://github.com/waylau/jsse-reference-guide)
-* [Java开源实现及最佳实践](https://github.com/biezhi/jb)
+* [Java开源实现及最佳实践](https://github.com/biezhi/java-bible)
 * [Java 编程要点](https://github.com/waylau/essential-java)
 
 ### JavaScript
@@ -447,7 +447,7 @@
     * [AngularJS中译本](https://github.com/peiransun/angularjs-cn)
     * [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn)
     * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
-    * [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/)
+    * [在Windows环境下用Yeoman构建AngularJS项目](http://waylau.com/build-angularjs-app-with-yeoman-in-windows/)
 * Zepto.js
     * [Zepto.js 中文文档](http://mweb.baidu.com/zeptoapi/)
 * Sea.js
@@ -537,7 +537,7 @@
 * [Python 3 中文教程] (http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) 廖雪峰
 * [《Python Cookbook》 3rd Edition 翻译](https://github.com/yidao620c/python3-cookbook)
 * [深入 Python 3](http://old.sebug.net/paper/books/dive-into-python3/)
-* [PEP8 Python代码风格规范](https://code.google.com/p/zhong-wiki/wiki/PEP8)
+* [PEP8 Python代码风格规范](https://code.google.com/archive/p/zhong-wiki/wikis/PEP8.wiki)
 * [Google Python 风格指南 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/)
 * [Python入门教程](http://liam0205.me/2013/11/02/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
 * [Python的神奇方法指南](http://article.yeeyan.org/view/311527/287706)
