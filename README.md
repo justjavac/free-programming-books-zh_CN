@@ -142,9 +142,10 @@
 * [沉浸式学 Git](http://igit.linuxtoy.org)
 * [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) （感谢 @flyhigher139 翻译了中文版）
 * [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
-* [Github帮助文档](https://github.com/waylau/github-help)
+* [GitHub帮助文档](https://github.com/waylau/github-help)
 * [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
 * [svn 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
+* [GitHub漫游指南](https://github.com/phodal/github-roam)
 
 ### 编辑器
 
