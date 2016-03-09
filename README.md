@@ -323,6 +323,8 @@
 * [HTML和CSS编码规范](http://codeguide.bootcss.com/)
 * [Sass Guidelines 中文](http://sass-guidelin.es/zh/)
 * [CSS3 Tutorial 《CSS3 教程》](https://github.com/waylau/css3-tutorial)
+* [MDN HTML 中文文档](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
+* [MDN CSS 中文文档](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
 
 ### Dart
 
@@ -416,6 +418,7 @@
 * [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (深入JavaScript语言核心机制的系列图书)
 * [JavaScript 教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000) 廖雪峰
+* [MDN JavaScript 中文文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 * jQuery
     * [jQuery 解构](http://www.cn-cuckoo.com/deconstructed/jquery.html)
     * [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
