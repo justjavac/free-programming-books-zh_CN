@@ -308,6 +308,7 @@
 * [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 * [libuv中文教程](https://github.com/luohaha/Chinese-uvbook)
 * [Boost 库中文教程](http://zh.highscore.de/cpp/boost/)
+* [Think C++](http://www.ituring.com.cn/book/1203)
 
 ### Clojure
 
@@ -399,6 +400,7 @@
 * [JSSE 参考指南](https://github.com/waylau/jsse-reference-guide)
 * [Java开源实现及最佳实践](https://github.com/biezhi/jb)
 * [Java 编程要点](https://github.com/waylau/essential-java)
+* [Think Java](http://www.ituring.com.cn/minibook/69)
 
 ### JavaScript
 
@@ -466,6 +468,8 @@
     * [CoffeeScript Cookbook](http://island205.com/coffeescript-cookbook.github.com/)
     * [The Little Book on CoffeeScript中文版](http://island205.com/tlboc/)
     * [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
+* TypeScipt
+    * [TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/content/)
 * ExtJS
     * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
 * Meteor
