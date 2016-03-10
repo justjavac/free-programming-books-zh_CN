@@ -142,9 +142,10 @@
 * [沉浸式学 Git](http://igit.linuxtoy.org)
 * [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) （感谢 @flyhigher139 翻译了中文版）
 * [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
-* [Github帮助文档](https://github.com/waylau/github-help)
+* [GitHub帮助文档](https://github.com/waylau/github-help)
 * [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
 * [svn 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
+* [GitHub漫游指南](https://github.com/phodal/github-roam)
 
 ### 编辑器
 
@@ -307,6 +308,7 @@
 * [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 * [libuv中文教程](https://github.com/luohaha/Chinese-uvbook)
 * [Boost 库中文教程](http://zh.highscore.de/cpp/boost/)
+* [Think C++](http://www.ituring.com.cn/book/1203)
 
 ### Clojure
 
@@ -322,6 +324,8 @@
 * [HTML和CSS编码规范](http://codeguide.bootcss.com/)
 * [Sass Guidelines 中文](http://sass-guidelin.es/zh/)
 * [CSS3 Tutorial 《CSS3 教程》](https://github.com/waylau/css3-tutorial)
+* [MDN HTML 中文文档](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
+* [MDN CSS 中文文档](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
 
 ### Dart
 
@@ -396,6 +400,7 @@
 * [JSSE 参考指南](https://github.com/waylau/jsse-reference-guide)
 * [Java开源实现及最佳实践](https://github.com/biezhi/jb)
 * [Java 编程要点](https://github.com/waylau/essential-java)
+* [Think Java](http://www.ituring.com.cn/minibook/69)
 
 ### JavaScript
 
@@ -415,6 +420,7 @@
 * [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (深入JavaScript语言核心机制的系列图书)
 * [JavaScript 教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000) 廖雪峰
+* [MDN JavaScript 中文文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 * jQuery
     * [jQuery 解构](http://www.cn-cuckoo.com/deconstructed/jquery.html)
     * [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
@@ -462,6 +468,8 @@
     * [CoffeeScript Cookbook](http://island205.com/coffeescript-cookbook.github.com/)
     * [The Little Book on CoffeeScript中文版](http://island205.com/tlboc/)
     * [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
+* TypeScipt
+    * [TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/content/)
 * ExtJS
     * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
 * Meteor
@@ -559,6 +567,7 @@
 * [Python 绘图库 matplotlib 官方指南中文翻译](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
 * [Scrapy 0.25 文档](http://scrapy-chs.readthedocs.org/zh_CN/latest/)
 * [ThinkPython](https://github.com/carfly/thinkpython-cn)
+* [ThinkPython 2ed](https://github.com/bingjin/ThinkPython2-CN)
 * [Python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
 * [Python 正则表达式操作指南](http://wiki.ubuntu.org.cn/Python正则表达式操作指南)
 * [python初级教程：入门详解](http://www.crifan.com/files/doc/docbook/python_beginner_tutorial/release/html/python_beginner_tutorial.html)
