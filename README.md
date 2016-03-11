@@ -308,6 +308,8 @@
 * [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 * [libuv中文教程](https://github.com/luohaha/Chinese-uvbook)
 * [Boost 库中文教程](http://zh.highscore.de/cpp/boost/)
+* [CPP1x-STUDY-RESOURCE](https://github.com/sib9/cpp1x-study-resource)
+* [中文的C++ Template的教学指南](https://github.com/wuye9036/CppTemplateTutorial)
 
 ### Clojure
 
