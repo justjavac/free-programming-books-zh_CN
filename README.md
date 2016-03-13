@@ -597,8 +597,10 @@
 * [程序设计思想与方法](https://www.gitbook.com/book/wizardforcel/sjtu-cs902-courseware/details)
 * [知乎周刊·编程小白学Python](https://read.douban.com/ebook/16691849/)
 * [Django Girls 學習指南](https://www.gitbook.com/book/djangogirlstaipei/django-girls-taipei-tutorial/details)
-* [Django之歌：简易博客搭建教程](https://www.gitbook.com/book/andrew-liu/django-blog)
 * [Scipy 讲义](https://github.com/cloga/scipy-lecture-notes_cn)
+* [Python 学习笔记 基础篇](http://www.kuqin.com/docs/pythonbasic.html)
+* [Python 学习笔记 模块篇](http://www.kuqin.com/docs/pythonmodule.html)
+* [Python 标准库 中文版](http://old.sebug.net/paper/books/python/%E3%80%8APython%E6%A0%87%E5%87%86%E5%BA%93%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
 ### R
 
