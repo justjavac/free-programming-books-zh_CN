@@ -430,6 +430,7 @@
     * [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
     * [How to write jQuery plugin](http://i5ting.github.io/How-to-write-jQuery-plugin/build/jquery.plugin.html)
     * [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
+    * [如何实现一个类jQuery？](https://github.com/MeCKodo/forchange)
 * Node.js
     * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
     * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
