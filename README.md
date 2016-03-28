@@ -479,6 +479,8 @@
     * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
 * Meteor
     * [Discover Meteor](http://zh.discovermeteor.com/)
+    * [Meteor 中文文档](http://docs.meteorhub.org/#/basic/)
+    * [Angular-Meteor 中文教程](http://angular.meteorhub.org/)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
 ### LaTeX
