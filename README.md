@@ -51,6 +51,7 @@
   * [APP](#app)
   * [AWK](#awk)
   * [C/C++](#cc)
+  * [C#](#c)
   * [Clojure](#clojure)
   * [CSS/HTML](#css)
   * [Dart](#dart)
@@ -313,6 +314,14 @@
 * [libuv中文教程](https://github.com/luohaha/Chinese-uvbook)
 * [Boost 库中文教程](http://zh.highscore.de/cpp/boost/)
 * [Think C++](http://www.ituring.com.cn/book/1203)
+
+### C&#35;
+
+* [MSDN C# 中文文档](https://msdn.microsoft.com/zh-cn/library/kx37x362.aspx)
+* [.NET 类库参考](https://msdn.microsoft.com/zh-cn/library/gg145045.aspx)
+* [ASP.NET MVC 5 入门指南](http://www.cnblogs.com/powertoolsteam/p/aspnetmvc5-tutorials-grapecity.html)
+* [超全面的 .NET GDI+ 图形图像编程教程](http://www.cnblogs.com/LonelyShadow/p/4162318.html)
+* [.NET控件开发基础](https://github.com/JackWangCUMT/customcontrol)
 
 ### Clojure
 
