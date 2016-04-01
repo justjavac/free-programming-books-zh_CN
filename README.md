@@ -246,7 +246,7 @@
 ### 大数据
 
 * [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
-* [面向程序员的数据挖掘指南](https://github.com/jizhang/guidetodatamining)
+* [面向程序员的数据挖掘指南](https://github.com/egrcc/guidetodatamining)
 * [大型集群上的快速和通用数据处理架构](https://code.csdn.net/CODE_Translation/spark_matei_phd)
 * [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
 * [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
@@ -313,7 +313,6 @@
 * [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 * [libuv中文教程](https://github.com/luohaha/Chinese-uvbook)
 * [Boost 库中文教程](http://zh.highscore.de/cpp/boost/)
-* [Think C++](http://www.ituring.com.cn/book/1203)
 
 ### C&#35;
 
@@ -372,7 +371,7 @@
 * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
 * [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)
 * [深入解析Go](https://github.com/tiancaiamao/go-internals)
-* [Go语言圣经(中文版)](http://golang-china.github.io/gopl-zh/) ([GitHub](https://github.com/golang-china/gopl-zh))
+* [Go语言圣经(中文版)](https://bitbucket.org/golang-china/gopl-zh/wiki/Home) ([GitBook](https://www.gitbook.com/book/wizardforcel/gopl-zh/details))
 
 ### Groovy
 
@@ -552,34 +551,23 @@
 
 ### Python
 
-* [小白的Python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
-* [简明Python教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
-* [零基础学Python](https://www.gitbook.com/book/looly/python-basic/details)
-* [可爱的 Python ](http://lovelypython.readthedocs.org/en/latest/)
+* [廖雪峰 Python 2.7 中文教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
+* [廖雪峰 Python 3 中文教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+* [简明Python教程](http://www.kuqin.com/abyteofpython_cn/)
+* [零基础学 Python 第一版](http://www.kancloud.cn/kancloud/python-basic)
+* [零基础学 Python 第二版](http://www.kancloud.cn/kancloud/starter-learning-python)
+* [可爱的 Python](http://lovelypython.readthedocs.org/en/latest/)
 * [Python 2.7 官方教程中文版](http://www.pythondoc.com/pythontutorial27/index.html)
 * [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
-* [Python 3 中文教程] (http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) 廖雪峰
-* [《Python Cookbook》 3rd Edition 翻译](https://github.com/yidao620c/python3-cookbook)
+* [Python Cookbook 中文版](http://www.kancloud.cn/thinkphp/python-cookbook)
+* [Python3 Cookbook 中文版](https://github.com/yidao620c/python3-cookbook)
+* [深入 Python](http://www.kuqin.com/docs/diveintopythonzh-cn-5.4b/html/toc/)
 * [深入 Python 3](http://old.sebug.net/paper/books/dive-into-python3/)
 * [PEP8 Python代码风格规范](https://code.google.com/p/zhong-wiki/wiki/PEP8)
 * [Google Python 风格指南 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/)
 * [Python入门教程](http://liam0205.me/2013/11/02/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
 * [Python的神奇方法指南](http://article.yeeyan.org/view/311527/287706)
-* [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/) （[PDF](http://liam0205.me/attachment/Python/PyHardWay/Learn_Python_The_Hard_Way_zh-cn.pdf)版下载）
-* [Django 1.5 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/) 正在翻译中
-* [Diango 1.7 文档中文版](http://django-1-7-doc.coding.io/)  正在翻译中，目前只翻译了目录
-* [Django 1.8.2 文档中文版](http://python.usyiyi.cn/django/index.html)
- 正在翻译中
-* [Django 最佳实践](https://github.com/yangyubo/zh-django-best-practices)
-* [Django搭建简易博客教程](https://www.gitbook.com/book/andrew-liu/django-blog/details)
-* [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
-* [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn)
-* [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
-* [Flask 文档中文版](http://docs.jinkan.org/docs/flask/)
-* [Jinja2 文档中文版](http://docs.jinkan.org/docs/jinja2/)
-* [Werkzeug 文档中文版](http://werkzeug-docs-cn.readthedocs.org/zh_CN/latest/)
-* [Flask之旅](http://spacewander.github.io/explore-flask-zh/)
-* [Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html)
+* [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/) ([PDF](http://liam0205.me/attachment/Python/PyHardWay/Learn_Python_The_Hard_Way_zh-cn.pdf) [EPUB](https://www.gitbook.com/download/epub/book/wizardforcel/lpthw))
 * [Python自然语言处理中文版](http://pan.baidu.com/s/1qW4pvnY) （感谢陈涛同学的翻译，也谢谢 [@shwley](https://github.com/shwley) 联系了作者）
 * [Python 绘图库 matplotlib 官方指南中文翻译](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
 * [Scrapy 0.25 文档](http://scrapy-chs.readthedocs.org/zh_CN/latest/)
@@ -595,26 +583,45 @@
 * [PyMOTW 中文版](http://pymotwcn.readthedocs.org/en/latest/index.html)
 * [Python 官方文档中文版](http://data.digitser.net/zh-CN/python_index.html)
 * [Fabric 中文文档](http://fabric-chs.readthedocs.org)
-* [Flask 大型教程](http://www.pythondoc.com/flask-mega-tutorial/index.html)
-* [Tornado源码解析](http://www.nowamagic.net/academy/detail/13321002)
-* [Tornado 4.3 文档中文版](https://tornado-zh.readthedocs.org/zh/latest/)
 * [Beautiful Soup 4.2.0 中文文档](http://beautifulsoup.readthedocs.org/zh_CN/latest/)
 * [用Python做科学计算](http://old.sebug.net/paper/books/scipydoc)
-* [SQLAlchemy 中文文档](https://github.com/sixu05202004/sqlalchemy-docs-cn)
 * [Sphinx 中文文档](http://www.pythondoc.com/sphinx/index.html)
-* [Flask 扩展文档汇总](https://www.gitbook.com/book/wizardforcel/flask-extension-docs/details)
 * [精通 Python 设计模式](https://github.com/cundi/Mastering.Python.Design.Patterns)
-* [Django 设计模式与最佳实践](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
-* [Django 网站开发 Cookbook](https://github.com/cundi/Web.Development.with.Django.Cookbook)
 * [python 安全编程教程](https://github.com/smartFlash/pySecurity)
 * [程序设计思想与方法](https://www.gitbook.com/book/wizardforcel/sjtu-cs902-courseware/details)
 * [知乎周刊·编程小白学Python](https://read.douban.com/ebook/16691849/)
-* [Django Girls 學習指南](https://www.gitbook.com/book/djangogirlstaipei/django-girls-taipei-tutorial/details)
 * [Scipy 讲义](https://github.com/cloga/scipy-lecture-notes_cn)
 * [Python 学习笔记 基础篇](http://www.kuqin.com/docs/pythonbasic.html)
 * [Python 学习笔记 模块篇](http://www.kuqin.com/docs/pythonmodule.html)
 * [Python 标准库 中文版](http://old.sebug.net/paper/books/python/%E3%80%8APython%E6%A0%87%E5%87%86%E5%BA%93%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 * [Python进阶](https://www.gitbook.com/book/eastlakeside/interpy-zh/details)
+* [Python 核心编程 第二版](http://openbookproject.googlecode.com/svn/trunk/CorePython_zh/) CPyUG译
+* Django
+    * [Django 1.5 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/) 正在翻译中
+    * [Diango 1.7 文档中文版](http://django-1-7-doc.coding.io/)  正在翻译中，目前只翻译了目录
+    * [Django 1.8.2 文档中文版](http://python.usyiyi.cn/django/index.html)
+     正在翻译中
+    * [Django 最佳实践](https://github.com/yangyubo/zh-django-best-practices)
+    * [Django搭建简易博客教程](https://www.gitbook.com/book/andrew-liu/django-blog/details)
+    * [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
+    * [Django 设计模式与最佳实践](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
+    * [Django 网站开发 Cookbook](https://github.com/cundi/Web.Development.with.Django.Cookbook)
+    * [Django Girls 學習指南](https://www.gitbook.com/book/djangogirlstaipei/django-girls-taipei-tutorial/details)
+* Flask
+    * [Flask 文档中文版](http://docs.jinkan.org/docs/flask/)
+    * [Jinja2 文档中文版](http://docs.jinkan.org/docs/jinja2/)
+    * [Werkzeug 文档中文版](http://werkzeug-docs-cn.readthedocs.org/zh_CN/latest/)
+    * [Flask之旅](http://spacewander.github.io/explore-flask-zh/)
+    * [Flask 扩展文档汇总](https://www.gitbook.com/book/wizardforcel/flask-extension-docs/details)
+    * [Flask 大型教程](http://www.pythondoc.com/flask-mega-tutorial/index.html)
+    * [SQLAlchemy 中文文档](https://github.com/sixu05202004/sqlalchemy-docs-cn)
+* web.py
+    * [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn)
+    * [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
+* Tornado
+    * [Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html)
+    * [Tornado源码解析](http://www.nowamagic.net/academy/detail/13321002)
+    * [Tornado 4.3 文档中文版](https://tornado-zh.readthedocs.org/zh/latest/)
 
 ### R
 
