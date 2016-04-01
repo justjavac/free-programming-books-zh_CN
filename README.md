@@ -371,7 +371,7 @@
 * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
 * [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)
 * [深入解析Go](https://github.com/tiancaiamao/go-internals)
-* Go语言圣经(中文版) [Gitbook](https://www.gitbook.com/book/wizardforcel/gopl-zh/details) [BitBucket](https://bitbucket.org/golang-china/gopl-zh/wiki/Home)
+* [Go语言圣经(中文版)](https://bitbucket.org/golang-china/gopl-zh/wiki/Home) ([GitBook](https://www.gitbook.com/book/wizardforcel/gopl-zh/details))
 
 ### Groovy
 
@@ -552,7 +552,7 @@
 ### Python
 
 * [廖雪峰 Python 2.7 中文教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
-* [廖雪峰 Python 3 中文教程] (http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+* [廖雪峰 Python 3 中文教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 * [简明Python教程](http://www.kuqin.com/abyteofpython_cn/)
 * [零基础学 Python 第一版](http://www.kancloud.cn/kancloud/python-basic)
 * [零基础学 Python 第二版](http://www.kancloud.cn/kancloud/starter-learning-python)
