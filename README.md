@@ -646,6 +646,7 @@
 ### Rust
 
 * [rust book 中文翻译](https://www.gitbook.com/book/kaisery/rust-book-chinese/details)
+* [rust primer](https://github.com/rustcc/RustPrimer)
 
 ### Scala
 
