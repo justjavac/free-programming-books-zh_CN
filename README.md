@@ -400,6 +400,7 @@
 * [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) (翻译中)
 * [MyBatis中文文档](http://mybatis.org/mybatis-3/zh/index.html)
 * [MyBatis Generator 中文文档](http://mbg.cndocs.tk/)
+* [JFinal 中文官网](http://www.jfinal.com/) 
 * [用jersey构建REST服务](https://github.com/waylau/RestDemo)
 * [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
 * [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
