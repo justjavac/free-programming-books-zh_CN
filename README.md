@@ -264,6 +264,7 @@
 * [Sketch 中文手册](http://sketchcn.com/sketch-chinese-user-manual.html#introduce)
 * [深入理解并行编程](http://ifeve.com/perfbook/)
 * [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
+* [Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)
 
 ## 语言相关类
 
