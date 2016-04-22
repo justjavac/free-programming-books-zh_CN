@@ -53,7 +53,7 @@
   * [C/C++](#cc)
   * [C#](#c)
   * [Clojure](#clojure)
-  * [CSS/HTML](#css)
+  * [CSS/HTML](#csshtml)
   * [Dart](#dart)
   * [Elixir](#elixir)
   * [Erlang](#erlang)
@@ -328,7 +328,7 @@
 
 * [Clojure入门教程](http://xumingming.sinaapp.com/302/clojure-functional-programming-for-the-jvm-clojure-tutorial/)
 
-### CSS
+<h3 id="csshtml">CSS/HTML</h3>
 
 * [学习CSS布局](http://zh.learnlayout.com/)
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
