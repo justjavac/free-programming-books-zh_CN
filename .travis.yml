@@ -1,11 +1,5 @@
 language: ruby
 rvm:
   - 2.2
-before_script:
-  - wget https://codeload.github.com/dkhamsing/frankenstein/tar.gz/1.0-wip -O /tmp/frankenstein.tar.gz
-  - tar -xvf /tmp/frankenstein.tar.gz
-  - export PATH=$PATH:$PWD/frankenstein-1.0-wip/bin/
-  - cd frankenstein-1.0-wip
-  - bundle install
-script:  
-  - frankenstein ../README.md no-prompt
+before_script: gem install awesome_bot
+script: awesome_bot README.md --allow-redirect --allow-dupe --white-list phpcomposer
