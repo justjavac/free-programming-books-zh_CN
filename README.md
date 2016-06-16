@@ -318,6 +318,7 @@
 * [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 * [libuv中文教程](https://github.com/luohaha/Chinese-uvbook)
 * [Boost 库中文教程](http://zh.highscore.de/cpp/boost/)
+* [笨办法学C](https://github.com/wizardforcel/lcthw-zh)
 
 ### C&#35;
 
@@ -603,6 +604,7 @@
 * [Python 标准库 中文版](http://old.sebug.net/paper/books/python/%E3%80%8APython%E6%A0%87%E5%87%86%E5%BA%93%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 * [Python进阶](https://www.gitbook.com/book/eastlakeside/interpy-zh/details)
 * [Python 核心编程 第二版](http://openbookproject.googlecode.com/svn/trunk/CorePython_zh/) CPyUG译
+* [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)
 * Django
     * [Django 1.5 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/) 正在翻译中
     * [Diango 1.7 文档中文版](http://django-1-7-doc.coding.io/)  正在翻译中，目前只翻译了目录
