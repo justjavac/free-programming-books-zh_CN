@@ -161,6 +161,8 @@
 * [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
 * [Atom飞行手册中文版](https://github.com/wizardforcel/atom-flight-manual-zh-cn)
 * [Markdown·简单的世界](https://github.com/wizardforcel/markdown-simple-world)
+* [一年成为 Emacs 高手](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)
+* [Emacs 生存指南](http://lifegoo.pluskid.org/upload/blog/152/Survive.in.Emacs.pdf)
 
 ### NoSQL
 
