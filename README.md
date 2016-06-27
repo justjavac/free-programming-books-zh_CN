@@ -329,6 +329,7 @@
 * [ASP.NET MVC 5 入门指南](http://www.cnblogs.com/powertoolsteam/p/aspnetmvc5-tutorials-grapecity.html)
 * [超全面的 .NET GDI+ 图形图像编程教程](http://www.cnblogs.com/LonelyShadow/p/4162318.html)
 * [.NET控件开发基础](https://github.com/JackWangCUMT/customcontrol)
+* [.NET开发要点精讲（初稿）](https://github.com/sherlockchou86/-free-ebook-.NET-)
 
 ### Clojure
 
@@ -607,6 +608,7 @@
 * [Python进阶](https://www.gitbook.com/book/eastlakeside/interpy-zh/details)
 * [Python 核心编程 第二版](http://openbookproject.googlecode.com/svn/trunk/CorePython_zh/) CPyUG译
 * [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)
+* [Python 精要教程](https://www.gitbook.com/book/wizardforcel/python-essential-tutorial/details)
 * Django
     * [Django 1.5 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/) 正在翻译中
     * [Diango 1.7 文档中文版](http://django-1-7-doc.coding.io/)  正在翻译中，目前只翻译了目录
