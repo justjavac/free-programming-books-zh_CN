@@ -280,7 +280,7 @@
 * Zepto.js
     * [Zepto.js 中文文檔](http://mweb.baidu.com/zeptoapi/)
 * Sea.js
-    * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
+    * [Sea.js 官网](http://seajs.org/)
 * CoffeeScript
     * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
     * [The Little Book on CoffeeScript中文版](http://island205.github.io/tlboc/)
