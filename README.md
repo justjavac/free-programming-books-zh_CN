@@ -107,6 +107,7 @@
 * [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 * [SystemTap新手指南](https://spacewander.gitbooks.io/systemtapbeginnersguide_zh/content/index.html)
+* [操作系统思考](https://github.com/wizardforcel/think-os-zh)
 
 #### 智能系统
 * [一步步搭建物联网系统](https://github.com/phodal/designiot)
@@ -248,6 +249,7 @@
 * [RFC 7540 - HTTP/2 中文翻译版](https://github.com/abbshr/rfc7540-translation-zh_cn)
 * [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
 * [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
+* [站点可靠性工程](https://github.com/hellorocky/Site-Reliability-Engineering)
 
 ### 大数据
 
