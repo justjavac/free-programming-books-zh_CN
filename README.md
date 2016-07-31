@@ -508,6 +508,9 @@
     * [Meteor 中文文档](http://docs.meteorhub.org/#/basic/)
     * [Angular-Meteor 中文教程](http://angular.meteorhub.org/)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
+* Vue.js
+	* [ Vue.js官方教程](http://cn.vuejs.org/guide/)
+	* [Vue.js 源码学习笔记](http://jiongks.name/blog/vue-code-review/)
 
 ### LaTeX
 
