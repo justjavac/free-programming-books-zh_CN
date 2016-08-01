@@ -215,6 +215,7 @@
 * [开源软件架构](http://www.ituring.com.cn/book/1143)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 * [GNU make 中文手册](http://www.yayu.org/book/gnu_make/)
+* [The Twelve-Factor App](http://12factor.net/zh_cn/)
 
 ### 设计模式
 
