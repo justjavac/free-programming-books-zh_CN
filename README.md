@@ -124,6 +124,7 @@
 ### 计算机图形学
 * [OpenGL 教程](https://github.com/zilongshanren/opengl-tutorials)
 * [WebGL自学网](http://html5.iii.org.tw/course/webgl/)
+* [LearnOpenGL中文版](https://learnopengl-cn.github.io/)
 
 ### WEB服务器
 
