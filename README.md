@@ -483,6 +483,10 @@
     * [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn)
     * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
     * [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/)
+* Ember.js
+    * [Ember.js英文文档](https://guides.emberjs.com/v2.7.0/)
+    * [Ember.js中文文档](http://blog.ddlisting.com/2016/05/25/ember-article-summer/)
+    * [如何构建一个复杂的Ember.js项目](http://blog.ddlisting.com/2016/03/31/ru-he-gou-jian-ge-fu-za-de-ember-jsxiang-mu/)
 * Zepto.js
     * [Zepto.js 中文文档](http://mweb.baidu.com/zeptoapi/)
 * Sea.js
