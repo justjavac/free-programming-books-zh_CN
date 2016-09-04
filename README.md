@@ -616,7 +616,11 @@
 * [Python 核心编程 第二版](https://wizardforcel.gitbooks.io/core-python-2e/content/) CPyUG译
 * [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)
 * [Python 精要教程](https://www.gitbook.com/book/wizardforcel/python-essential-tutorial/details)
-* [Python 量化交易教程](https://www.gitbook.com/book/wizardforcel/python-quant-uqer/details)
+* [Python 量化交易教程](https://www.gitbook.com/book/wizardforcel/python-quant-uqer/details)  
+* [Python Web 开发、测试驱动方法](http://pan.baidu.com/s/1jInq8Ma)   
+* [Python 计算机视觉](http://pan.baidu.com/s/1eR4d2UI)  
+* [Python 源码剖析（完整版）](http://pan.baidu.com/s/1geF6I0V)
+* [Requests 2.10.0文档](http://docs.python-requests.org/zh_CN/latest/user/quickstart.html)
 * Django
     * [Django 1.5 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/) 正在翻译中
     * [Diango 1.7 文档中文版](http://django-1-7-doc.coding.io/)  正在翻译中，目前只翻译了目录
