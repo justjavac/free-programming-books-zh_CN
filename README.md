@@ -43,6 +43,7 @@
   * [设计模式](#设计模式)
   * [Web](#web)
   * [大数据](#大数据)
+  * [区块链](#区块链)
   * [编程艺术](#编程艺术)
   * [其它](#其它)
 
@@ -262,6 +263,10 @@
 * [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
 * [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
 
+### 区块链
+
+* [Nodejs开发加密货币](https://github.com/imfly/bitcoin-on-nodejs)
+
 ## 编程艺术
 
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
@@ -471,6 +476,7 @@
     * [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
     * [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
     * [orm2 中文文档](https://github.com/wizardforcel/orm2-doc-zh-cn)
+    * [区块链产品Ebookcoin开发源码解析](https://github.com/imfly/bitcoin-on-nodejs)
 * underscore.js
     * [Underscore.js中文文档](http://learningcn.com/underscore/)
 * backbone.js
@@ -721,5 +727,3 @@
 ### 测试相关
 
 * [移动APP自动化测试优秀框架Appium API Reference V1.2.0 CN](http://appium.io/slate/cn/v1.2.0/)
-
-
