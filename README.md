@@ -165,6 +165,7 @@
 * [一年成为 Emacs 高手](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)
 * [Emacs 生存指南](http://lifegoo.pluskid.org/upload/blog/152/Survive.in.Emacs.pdf)
 * [Atom官方手册](https://atom-china.org/t/atom/62)
+* [VSCode指南](https://github.com/i5ting/vsc)
 
 ### NoSQL
 
