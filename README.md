@@ -108,6 +108,7 @@
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 * [SystemTap新手指南](https://spacewander.gitbooks.io/systemtapbeginnersguide_zh/content/index.html)
 * [操作系统思考](https://github.com/wizardforcel/think-os-zh)
+* [Kali Linux 秘籍 中文版](https://github.com/wizardforcel/kali-linux-cookbook-zh)
 
 #### 智能系统
 * [一步步搭建物联网系统](https://github.com/phodal/designiot)
@@ -117,6 +118,7 @@
 
 ### 编译原理
 * [《计算机程序的结构和解释》公开课 翻译项目](https://github.com/DeathKing/Learning-SICP)
+* [UCB CS61a 讲义 计算机程序的构造和解释 Python 描述 中文版](https://github.com/wizardforcel/sicp-py-zh)
 
 ### 函数式概念
 * [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn)
