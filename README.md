@@ -471,6 +471,7 @@
     * [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
     * [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
     * [orm2 中文文档](https://github.com/wizardforcel/orm2-doc-zh-cn)
+    * [深入理解Node.js：核心思想与源码分析](https://github.com/yjhjstz/deep-into-node)
 * underscore.js
     * [Underscore.js中文文档](http://learningcn.com/underscore/)
 * backbone.js
