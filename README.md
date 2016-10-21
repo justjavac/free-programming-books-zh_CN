@@ -508,6 +508,8 @@
     * [Discover Meteor](http://zh.discovermeteor.com/)
     * [Meteor 中文文档](http://docs.meteorhub.org/#/basic/)
     * [Angular-Meteor 中文教程](http://angular.meteorhub.org/)
+* layui.js
+    * [Layui 中文文档](http://www.layui.com/doc/)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
 ### LaTeX
