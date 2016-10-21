@@ -109,6 +109,9 @@
 * [SystemTap新手指南](https://spacewander.gitbooks.io/systemtapbeginnersguide_zh/content/index.html)
 * [操作系统思考](https://github.com/wizardforcel/think-os-zh)
 * [Kali Linux 秘籍 中文版](https://github.com/wizardforcel/kali-linux-cookbook-zh)
+* [Kali Linux Web 渗透测试秘籍 中文版](https://github.com/wizardforcel/kali-linux-web-pentest-cookbook-zh)
+* [Kali Linux 无线渗透测试入门指南 中文版](http://git.oschina.net/wizardforcel/kali-linux-wireless-pentest)
+
 
 #### 智能系统
 * [一步步搭建物联网系统](https://github.com/phodal/designiot)
