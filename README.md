@@ -326,6 +326,10 @@
 * [libuv中文教程](https://github.com/luohaha/Chinese-uvbook)
 * [Boost 库中文教程](http://zh.highscore.de/cpp/boost/)
 * [笨办法学C](https://github.com/wizardforcel/lcthw-zh)
+* [新概念 C 语言教程](https://github.com/limingth/NCCL)
+* [C/C++ 学习教程](http://doc.lellansin.com)
+* [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
+* [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
 
 ### C&#35;
 
@@ -573,6 +577,7 @@
 * [廖雪峰 Python 2.7 中文教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 * [廖雪峰 Python 3 中文教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 * [简明Python教程](http://www.kuqin.com/abyteofpython_cn/)
+* [跟老齐学Python](http://www.itdiffer.com/)
 * [零基础学 Python 第一版](http://www.kancloud.cn/kancloud/python-basic)
 * [零基础学 Python 第二版](http://www.kancloud.cn/kancloud/starter-learning-python)
 * [可爱的 Python](http://lovelypython.readthedocs.org/en/latest/)
@@ -585,6 +590,8 @@
 * [PEP8 Python代码风格规范](https://code.google.com/p/zhong-wiki/wiki/PEP8)
 * [Google Python 风格指南 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/)
 * [Python入门教程](http://liam0205.me/2013/11/02/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
+* [Python 面试题](https://github.com/taizilongxu/interview_python)
+* [python 模拟登陆](https://github.com/xchaoinfo/fuck-login)
 * [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/) ([PDF](http://liam0205.me/attachment/Python/PyHardWay/Learn_Python_The_Hard_Way_zh-cn.pdf) [EPUB](https://www.gitbook.com/download/epub/book/wizardforcel/lpthw))
 * [Python自然语言处理中文版](http://pan.baidu.com/s/1qW4pvnY) （感谢陈涛同学的翻译，也谢谢 [@shwley](https://github.com/shwley) 联系了作者）
 * [Python 绘图库 matplotlib 官方指南中文翻译](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
