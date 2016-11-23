@@ -344,6 +344,7 @@
 * [Go命令教程](https://github.com/hyper-carrot/go_command_tutorial)
 * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
 * [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)
+* [Go 简易教程](https://github.com/songleo/the-little-go-book_ZH_CN) (《[The Little Go Book](https://github.com/karlseguin/the-little-go-book)》中文版)
 
 ### Groovy
 
