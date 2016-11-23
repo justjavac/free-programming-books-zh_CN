@@ -293,6 +293,7 @@
 ### APP
 
 * [Apache Cordova 开发指南](https://github.com/waylau/cordova-dev-guide)
+* [Learning Ionic－Ionic学习手册](https://www.gitbook.com/book/adobeattheworld/learning_ionic_cn_zh/details)翻译中
 
 ### AWK
 
