@@ -108,6 +108,7 @@
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 * [SystemTap新手指南](https://spacewander.gitbooks.io/systemtapbeginnersguide_zh/content/index.html)
 * [操作系统思考](https://github.com/wizardforcel/think-os-zh)
+* [Linux就该这么学](http://www.linuxprobe.com/chapter-00.html)
 
 #### 智能系统
 * [一步步搭建物联网系统](https://github.com/phodal/designiot)
