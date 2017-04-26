@@ -429,7 +429,8 @@
 * [Java开源实现及最佳实践](https://github.com/biezhi/jb)
 * [Java 编程要点](https://github.com/waylau/essential-java)
 * [Think Java](http://www.ituring.com.cn/minibook/69)
-* [Java 8 简明教程](https://github.com/wizardforcel/modern-java-zh)
+* [Java 8 简明教程](https://github.com/wizardforcel/modern-java-zh)    
+* [Kotlin 官方参考文档 中文版](https://www.gitbook.com/book/hltj/kotlin-reference-chinese/details)   
 
 ### JavaScript
 
