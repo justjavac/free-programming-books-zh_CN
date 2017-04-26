@@ -429,7 +429,8 @@
 * [Java开源实现及最佳实践](https://github.com/biezhi/jb)
 * [Java 编程要点](https://github.com/waylau/essential-java)
 * [Think Java](http://www.ituring.com.cn/minibook/69)
-* [Java 8 简明教程](https://github.com/wizardforcel/modern-java-zh)
+* [Java 8 简明教程](https://github.com/wizardforcel/modern-java-zh)    
+* [Kotlin 官方参考文档 中文版](https://www.gitbook.com/book/hltj/kotlin-reference-chinese/details)   
 
 ### JavaScript
 
@@ -492,6 +493,7 @@
     * [React.js 中文文档](http://reactjs.cn/)
     * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
     * [React 入门教程](http://fraserxu.me/intro-to-react/)
+	* [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/) 作者：hulufei
     * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
     * [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
 * impress.js
