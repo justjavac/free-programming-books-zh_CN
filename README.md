@@ -64,6 +64,7 @@
   * [iOS](#ios)
   * [Java](#java)
   * [JavaScript](#javascript)
+  * [Kotlin](#kotlin)
   * [LaTeX](#latex)
   * [LISP](#lisp)
   * [Lua](#lua)
@@ -429,8 +430,7 @@
 * [Java开源实现及最佳实践](https://github.com/biezhi/jb)
 * [Java 编程要点](https://github.com/waylau/essential-java)
 * [Think Java](http://www.ituring.com.cn/minibook/69)
-* [Java 8 简明教程](https://github.com/wizardforcel/modern-java-zh)    
-* [Kotlin 官方参考文档 中文版](https://www.gitbook.com/book/hltj/kotlin-reference-chinese/details)   
+* [Java 8 简明教程](https://github.com/wizardforcel/modern-java-zh)      
 
 ### JavaScript
 
@@ -511,6 +511,11 @@
     * [Meteor 中文文档](http://docs.meteorhub.org/#/basic/)
     * [Angular-Meteor 中文教程](http://angular.meteorhub.org/)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
+
+### Kotlin
+* [Kotlin 官方参考文档 中文版](https://www.gitbook.com/book/hltj/kotlin-reference-chinese/details) 
+* [Kotlin 中文文档](https://huanglizhuo.gitbooks.io/kotlin-in-chinese/) [GitHub](https://github.com/huanglizhuo/kotlin-in-chinese)   
+* [Kotlin 参考文档](http://www.liying-cn.net/kotlin/docs/reference/)
 
 ### LaTeX
 
