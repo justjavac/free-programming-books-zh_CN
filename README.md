@@ -13,8 +13,6 @@
 
 ![justjavac微信公众帐号](http://justjavac.com/assets/images/weixin-justjavac.jpg)
 
-感谢 [@siberiawolf](https://github.com/siberiawolf) 使用 Bootstrap 开发了网页版，地址：http://siberiawolf.com/free_programming/index.html
-
 ## 参与交流
 
 欢迎大家将珍藏已久的经典免费书籍共享出来，您可以：
