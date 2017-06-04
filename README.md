@@ -112,6 +112,7 @@
 
 ### 分布式系统
 * [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
+* [高性能计算之并行编程技术——MPI并行程序设计](http://hpclab.cs.tsinghua.edu.cn/~duzh/book/mpi.pdf)
 
 ### 编译原理
 * [《计算机程序的结构和解释》公开课 翻译项目](https://github.com/DeathKing/Learning-SICP)
