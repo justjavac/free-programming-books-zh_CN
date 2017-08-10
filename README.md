@@ -487,7 +487,7 @@
 * Sea.js
     * [Hello Sea.js](http://island205.com/HelloSea.js/)
 * React.js
-    * [React.js 中文文档](http://reactjs.cn/)
+    * [React.js 中文文档](https://discountry.github.io/react/)
     * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
     * [React 入门教程](http://fraserxu.me/intro-to-react/)
     * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
