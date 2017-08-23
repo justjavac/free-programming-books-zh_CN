@@ -442,10 +442,11 @@
 * [《JavaScript 模式》](https://github.com/jayli/javascript-patterns) “JavaScript patterns”中译本
 * [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html)  (注:原文由[为之漫笔](http://www.cn-cuckoo.com)翻译，原始地址无法打开，所以此处地址为我博客上的备份)
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
-* [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)   
-* [ECMAScript 5.1 中文版](http://yanhaijing.com/es5)   
+* [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
+* [ECMAScript 5.1 中文版](http://yanhaijing.com/es5)
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/) (作者：阮一峰)
 * [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
+* [JavaScript 异步开发全攻略](https://meathill.gitbooks.io/javascript-async-tutorial/content/)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (深入JavaScript语言核心机制的系列图书)
 * [JavaScript 教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000) 廖雪峰
 * [MDN JavaScript 中文文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
@@ -684,8 +685,8 @@
 
 * [The Swift Programming Language 中文版](http://numbbbbb.github.io/the-swift-programming-language-in-chinese/)
 * [Swift 语言指南](http://dev.swiftguide.cn)
-* [Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译文件](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)   
-* [C4iOS - COSMOS](http://c4ios.swift.gg)   
+* [Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译文件](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)
+* [C4iOS - COSMOS](http://c4ios.swift.gg)
 
 ### 读书笔记及其它
 
