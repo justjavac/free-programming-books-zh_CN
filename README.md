@@ -626,6 +626,8 @@
     * [Django 设计模式与最佳实践](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
     * [Django 网站开发 Cookbook](https://github.com/cundi/Web.Development.with.Django.Cookbook)
     * [Django Girls 學習指南](https://www.gitbook.com/book/djangogirlstaipei/django-girls-taipei-tutorial/details)
+    * [Django博客开发入门教程](http://www.zmrenwu.com/category/django-blog-tutorial/)  基于 Django1.1x 和 Python3.5
+    * [Django用户认证系统](http://www.zmrenwu.com/category/django-auth-example/)
 * Flask
     * [Flask 文档中文版](http://docs.jinkan.org/docs/flask/)
     * [Jinja2 文档中文版](http://docs.jinkan.org/docs/jinja2/)
