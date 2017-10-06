@@ -594,6 +594,7 @@
 * [python初级教程：入门详解](http://www.crifan.com/files/doc/docbook/python_beginner_tutorial/release/html/python_beginner_tutorial.html)
 * [Twisted 与异步编程入门](https://www.gitbook.com/book/likebeta/twisted-intro-cn/details)
 * [TextGrocery 中文 API](http://textgrocery.readthedocs.org/zh/latest/index.html) ( 基于svm算法的一个短文本分类 Python 库 )
+* [Tensorflow 官方文档中文版](https://github.com/jikexueyuanwiki/tensorflow-zh)
 * [Requests: HTTP for Humans](http://requests-docs-cn.readthedocs.org/zh_CN/latest/)
 * [Pillow 中文文档](http://pillow-cn.readthedocs.org/en/latest/#)
 * [PyMOTW 中文版](http://pymotwcn.readthedocs.org/en/latest/index.html)
