@@ -274,6 +274,7 @@
 * [深入理解并行编程](http://ifeve.com/perfbook/)
 * [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
 * [Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)
+* [MagicaVoxel: 快速创建3D模型](http://fighting300.com/2017/09/30/tools-MagicaVoxel-model/#more)
 
 ## 语言相关类
 
