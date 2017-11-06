@@ -62,6 +62,7 @@
   * [iOS](#ios)
   * [Java](#java)
   * [JavaScript](#javascript)
+ *[Kotlin](#kotlin)
   * [LaTeX](#latex)
   * [LISP](#lisp)
   * [Lua](#lua)
@@ -509,6 +510,12 @@
     * [Meteor 中文文档](http://docs.meteorhub.org/#/basic/)
     * [Angular-Meteor 中文教程](http://angular.meteorhub.org/)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
+
+### Kotlin
+* [Kotlin 官方参考文档 中文版](https://www.gitbook.com/book/hltj/kotlin-reference-chinese/details) 
+* [Kotlin 中文文档](https://huanglizhuo.gitbooks.io/kotlin-in-chinese/) [GitHub](https://github.com/huanglizhuo/kotlin-in-chinese)   
+* [Kotlin 参考文档](http://www.liying-cn.net/kotlin/docs/reference/)    
+* [《Kotlin for android developers》中文版](https://github.com/wangjiegulu/kotlin-for-android-developers-zh)  
 
 ### LaTeX
 
