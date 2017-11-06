@@ -13,8 +13,6 @@
 
 ![justjavac微信公众帐号](http://justjavac.com/assets/images/weixin-justjavac.jpg)
 
-感谢 [@siberiawolf](https://github.com/siberiawolf) 使用 Bootstrap 开发了网页版，地址：http://siberiawolf.com/free_programming/index.html
-
 ## 参与交流
 
 欢迎大家将珍藏已久的经典免费书籍共享出来，您可以：
@@ -64,7 +62,6 @@
   * [iOS](#ios)
   * [Java](#java)
   * [JavaScript](#javascript)
-  * [Kotlin](#kotlin)
   * [LaTeX](#latex)
   * [LISP](#lisp)
   * [Lua](#lua)
@@ -430,7 +427,7 @@
 * [Java开源实现及最佳实践](https://github.com/biezhi/jb)
 * [Java 编程要点](https://github.com/waylau/essential-java)
 * [Think Java](http://www.ituring.com.cn/minibook/69)
-* [Java 8 简明教程](https://github.com/wizardforcel/modern-java-zh)      
+* [Java 8 简明教程](https://github.com/wizardforcel/modern-java-zh)
 
 ### JavaScript
 
@@ -493,7 +490,6 @@
     * [React.js 中文文档](http://reactjs.cn/)
     * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
     * [React 入门教程](http://fraserxu.me/intro-to-react/)
-	* [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/) 作者：hulufei
     * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
     * [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
 * impress.js
@@ -511,12 +507,6 @@
     * [Meteor 中文文档](http://docs.meteorhub.org/#/basic/)
     * [Angular-Meteor 中文教程](http://angular.meteorhub.org/)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
-
-### Kotlin
-* [Kotlin 官方参考文档 中文版](https://www.gitbook.com/book/hltj/kotlin-reference-chinese/details) 
-* [Kotlin 中文文档](https://huanglizhuo.gitbooks.io/kotlin-in-chinese/) [GitHub](https://github.com/huanglizhuo/kotlin-in-chinese)   
-* [Kotlin 参考文档](http://www.liying-cn.net/kotlin/docs/reference/)    
-* [《Kotlin for android developers》中文版](https://github.com/wangjiegulu/kotlin-for-android-developers-zh)    
 
 ### LaTeX
 
@@ -562,8 +552,9 @@
 * [Laravel 5.1 LTS 速查表](https://cs.phphub.org/)
 * [Symfony2 Cookbook 中文版](http://wiki.jikexueyuan.com/project/symfony-cookbook/)(版本 2.7.0 LTS)
 * [Symfony2中文文档](http://symfony-docs-chs.readthedocs.org/en/latest/) (未译完)
+* [YiiBook几本Yii框架的在线教程](http://yiibook.com//doc)
 * [深入理解 Yii 2.0](http://www.digpage.com/)
-* [Yii 框架中文官网](http://www.yiichina.com/)
+* [Yii 框架中文文檔](http://www.yiichina.com/)
 * [简单易懂的PHP魔法](http://www.nowamagic.net/librarys/books/contents/php)
 * [swoole文档及入门教程](https://github.com/LinkedDestiny/swoole-doc)
 * [Composer 中文网](http://www.phpcomposer.com)
@@ -728,5 +719,3 @@
 ### 测试相关
 
 * [移动APP自动化测试优秀框架Appium API Reference V1.2.0 CN](http://appium.io/slate/cn/v1.2.0/)
-
-
