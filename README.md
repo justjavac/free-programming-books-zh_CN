@@ -487,7 +487,7 @@
 * Sea.js
     * [Hello Sea.js](http://island205.com/HelloSea.js/)
 * React.js
-    * [React.js 中文文档](http://reactjs.cn/)
+    * [React.js 中文文档](https://doc.react-china.org/)
     * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
     * [React 入门教程](http://fraserxu.me/intro-to-react/)
     * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
@@ -619,7 +619,7 @@
     * [Django 1.5 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/) 正在翻译中
     * [Diango 1.7 文档中文版](http://django-1-7-doc.coding.io/)  正在翻译中，目前只翻译了目录
     * [Django 1.8.2 文档中文版](http://python.usyiyi.cn/django/index.html)
-     正在翻译中
+       正在翻译中
     * [Django 最佳实践](https://github.com/yangyubo/zh-django-best-practices)
     * [Django搭建简易博客教程](https://www.gitbook.com/book/andrew-liu/django-blog/details)
     * [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
