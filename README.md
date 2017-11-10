@@ -42,6 +42,7 @@
   * [Web](#web)
   * [大数据](#大数据)
   * [编程艺术](#编程艺术)
+  * [人工智能/深度学习/机器学习](#人工智能/深度学习/机器学习)
   * [其它](#其它)
 
 * [语言相关类](#语言相关类)
@@ -265,6 +266,12 @@
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
 * [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
+
+## 人工智能/深度学习/机器学习
+
+* [Deep Learning 中文翻译](https://github.com/exacity/deeplearningbook-chinese)
+* [Tensorflow 官方文档中文版](https://github.com/jikexueyuanwiki/tensorflow-zh)
+* [周沫凡的机器学习相关教程](https://github.com/MorvanZhou/tutorials)
 
 ## 其它
 
