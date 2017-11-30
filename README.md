@@ -461,7 +461,7 @@
     * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
     * [express.js 中文文档](http://expressjs.jser.us/)
     * [koa 中文文档](https://github.com/guo-yu/koa-guide)
-    * [一起学koa](http://base-n.github.io/koa-generator-examples/)
+    * [一起学koa](http://17koa.com/koa-generator-examples/)
     * [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
     * [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
     * [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
