@@ -488,6 +488,7 @@
     * [Hello Sea.js](http://island205.com/HelloSea.js/)
 * React.js
     * [React.js 中文文档](https://doc.react-china.org/)
+    * [从零学习 React 技术栈](https://discountry.gitbooks.io/learn-react-from-scratch/)
     * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
     * [React 入门教程](http://fraserxu.me/intro-to-react/)
     * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
