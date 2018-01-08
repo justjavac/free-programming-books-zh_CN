@@ -560,6 +560,7 @@
 * [简单易懂的PHP魔法](http://www.nowamagic.net/librarys/books/contents/php)
 * [swoole文档及入门教程](https://github.com/LinkedDestiny/swoole-doc)
 * [Composer 中文网](http://www.phpcomposer.com)
+* [Guzzle中文文档](https://guzzle-cn.readthedocs.io/zh_CN/latest/index.html)
 * [Slim 中文文档](http://ww1.minimee.org/php/slim)
 * [Lumen 中文文档](http://lumen.laravel-china.org/)
 * [PHPUnit 中文文档](https://phpunit.de/manual/current/zh_cn/installation.html)
