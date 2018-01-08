@@ -550,7 +550,7 @@
 * [深入理解PHP内核](https://github.com/reeze/tipi)
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/)
 * [Phalcon7 中文文档](http://www.myleftstudio.com)
-* [Laravel5.4 中文文档](http://d.laravel-china.org/docs/5.4)
+* [Laravel5.5 中文文档](http://d.laravel-china.org/docs/5.5)
 * [Laravel 5.1 LTS 速查表](https://cs.phphub.org/)
 * [Symfony2 Cookbook 中文版](http://wiki.jikexueyuan.com/project/symfony-cookbook/)(版本 2.7.0 LTS)
 * [Symfony2中文文档](http://symfony-docs-chs.readthedocs.org/en/latest/) (未译完)
