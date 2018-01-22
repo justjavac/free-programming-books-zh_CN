@@ -13,8 +13,6 @@
 
 ![justjavac微信公众帐号](http://justjavac.com/assets/images/weixin-justjavac.jpg)
 
-感谢 [@siberiawolf](https://github.com/siberiawolf) 使用 Bootstrap 开发了网页版，地址：http://siberiawolf.com/free_programming/index.html
-
 ## 参与交流
 
 欢迎大家将珍藏已久的经典免费书籍共享出来，您可以：
@@ -490,7 +488,7 @@
 * Sea.js
     * [Hello Sea.js](http://island205.com/HelloSea.js/)
 * React.js
-    * [React.js 中文文档](http://reactjs.cn/)
+    * [React.js 中文文档](https://doc.react-china.org/)
     * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
     * [React 入门教程](http://fraserxu.me/intro-to-react/)
     * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
