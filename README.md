@@ -680,7 +680,8 @@
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
 * [shell十三问](https://github.com/wzb56/13_questions_of_shell)
 * [Shell编程范例](https://www.gitbook.com/book/tinylab/shellbook/details)
-
+* [Zsh 开发指南](https://github.com/goreliu/zshguide)
+ 
 ### Swift
 
 * [The Swift Programming Language 中文版](http://numbbbbb.github.io/the-swift-programming-language-in-chinese/)
