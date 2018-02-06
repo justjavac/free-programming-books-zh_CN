@@ -189,6 +189,8 @@
 
 * [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 * [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
+* [MySQL 超新手入门](http://www.kancloud.cn/thinkphp/mysql-tutorial)
+
 
 ### 管理和监控
 
@@ -200,7 +202,7 @@
 * [Puppet 2.7 Cookbook 中文版](http://bbs.konotes.org/workdoc/puppet-27/)
 
 ### 项目相关
-
+Create a new branch for this commit and start a pull request.
 * [持续集成（第二版）](http://article.yeeyan.org/view/2251/94882) (译言网)
 * [让开发自动化系列专栏](http://www.ibm.com/developerworks/cn/java/j-ap/)
 * [追求代码质量](http://www.ibm.com/developerworks/cn/java/j-cq/)
