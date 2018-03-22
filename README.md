@@ -82,6 +82,7 @@
 
 ## 置顶
 
+- [[笔记]前端工程师的入门与进阶](https://shenbao.github.io/2017/04/22/justjavac-live/) :100:
 - [[全文]如何正确的学习 Node.js](https://github.com/i5ting/How-to-learn-node-correctly) :100:
 
 ## 语言无关类
