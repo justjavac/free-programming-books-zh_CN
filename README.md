@@ -80,6 +80,10 @@
 * [读书笔记及其它](#读书笔记及其它)
 * [测试相关](#测试相关)
 
+## 置顶
+
+- [[全文]如何正确的学习 Node.js](https://github.com/i5ting/How-to-learn-node-correctly) :100:
+
 ## 语言无关类
 
 ### 操作系统
