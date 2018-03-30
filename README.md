@@ -125,6 +125,7 @@
 * [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn)
 
 ### 计算机图形学
+* [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/zh-CN/)
 * [OpenGL 教程](https://github.com/zilongshanren/opengl-tutorials)
 * [WebGL自学网](http://html5.iii.org.tw/course/webgl/)
 
@@ -455,6 +456,8 @@
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (深入JavaScript语言核心机制的系列图书)
 * [JavaScript 教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000) 廖雪峰
 * [MDN JavaScript 中文文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+* [轻量函数式 JavaScript](https://github.com/JoeHetfield/Functional-Light-JS)
+* [Promise 手册](https://github.com/mattdesl/promise-cookbook/blob/master/README.zh.md)
 * jQuery
     * [jQuery 解构](http://www.cn-cuckoo.com/deconstructed/jquery.html)
     * [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
@@ -721,6 +724,7 @@
 * [前端工作面试问题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)
 * [leetcode/lintcode题解/算法学习笔记](https://www.gitbook.com/book/yuanbin/algorithm/details)
 * [前端开发笔记本](https://github.com/li-xinyang/FEND_Note)
+* [中文 Python 笔记](https://github.com/lijin-THU/notes-python)
 
 ### 测试相关
 
