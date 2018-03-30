@@ -457,6 +457,7 @@
 * [JavaScript 教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000) 廖雪峰
 * [MDN JavaScript 中文文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 * [轻量函数式 JavaScript](https://github.com/JoeHetfield/Functional-Light-JS)
+* [Promise 手册](https://github.com/mattdesl/promise-cookbook/blob/master/README.zh.md)
 * jQuery
     * [jQuery 解构](http://www.cn-cuckoo.com/deconstructed/jquery.html)
     * [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
