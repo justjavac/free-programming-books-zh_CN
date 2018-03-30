@@ -125,6 +125,7 @@
 * [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn)
 
 ### 计算机图形学
+* [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/zh-CN/)
 * [OpenGL 教程](https://github.com/zilongshanren/opengl-tutorials)
 * [WebGL自学网](http://html5.iii.org.tw/course/webgl/)
 
