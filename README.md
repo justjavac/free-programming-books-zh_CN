@@ -80,6 +80,11 @@
 * [读书笔记及其它](#读书笔记及其它)
 * [测试相关](#测试相关)
 
+## 置顶
+
+- [[笔记]前端工程师的入门与进阶](https://shenbao.github.io/2017/04/22/justjavac-live/) :100:
+- [[全文]如何正确的学习 Node.js](https://github.com/i5ting/How-to-learn-node-correctly) :100:
+
 ## 语言无关类
 
 ### 操作系统
@@ -158,6 +163,7 @@
 * [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com/)
 * [Vim中文文档](https://github.com/vimcn/vimcdoc)
 * [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
+* [vim 实操教程](https://github.com/dofy/learn-vim)
 * [Atom飞行手册中文版](https://github.com/wizardforcel/atom-flight-manual-zh-cn)
 * [Markdown·简单的世界](https://github.com/wizardforcel/markdown-simple-world)
 * [一年成为 Emacs 高手](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)
@@ -245,7 +251,7 @@
 * [w3school教程整理](https://github.com/wizardforcel/w3school)
 * [Wireshark用户手册](http://man.lupaworld.com/content/network/wireshark/index.html)
 * [一站式学习Wireshark](https://community.emc.com/thread/194901)
-* [HTTP 下午茶](http://happypeter.github.io/tealeaf-http/)
+* [HTTP 下午茶](https://ccbikai.gitbooks.io/http-book/content/)
 * [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
 * [RFC 7540 - HTTP/2 中文翻译版](https://github.com/abbshr/rfc7540-translation-zh_cn)
 * [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
@@ -717,7 +723,4 @@
 * [前端开发笔记本](https://github.com/li-xinyang/FEND_Note)
 
 ### 测试相关
-
-* [移动APP自动化测试优秀框架Appium API Reference V1.2.0 CN](http://appium.io/slate/cn/v1.2.0/)
-
 
