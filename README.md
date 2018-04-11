@@ -331,6 +331,7 @@
 * [libuv中文教程](https://github.com/luohaha/Chinese-uvbook)
 * [Boost 库中文教程](http://zh.highscore.de/cpp/boost/)
 * [笨办法学C](https://github.com/wizardforcel/lcthw-zh)
+* [高速上手 C++11/14/17](https://github.com/changkun/modern-cpp-tutorial)
 
 ### C&#35;
 
