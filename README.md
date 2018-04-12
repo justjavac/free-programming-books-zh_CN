@@ -13,6 +13,7 @@
 
 ![justjavac微信公众帐号](http://justjavac.com/assets/images/weixin-justjavac.jpg)
 
+## java编程思想
 ## 参与交流
 
 欢迎大家将珍藏已久的经典免费书籍共享出来，您可以：
