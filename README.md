@@ -724,3 +724,6 @@
 
 ### 测试相关
 
+## 許可證
+
+[GPL-3.0](https://github.com/justjavac/free-programming-books-zh_CN/blob/master/LICENSE)
