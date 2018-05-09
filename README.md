@@ -623,9 +623,7 @@
 * [Python 量化交易教程](https://www.gitbook.com/book/wizardforcel/python-quant-uqer/details)
 * Django
     * [Django 1.5 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/) 正在翻译中
-    * [Diango 1.7 文档中文版](http://django-1-7-doc.coding.io/)  正在翻译中，目前只翻译了目录
-    * [Django 1.8.2 文档中文版](http://python.usyiyi.cn/django/index.html)
-     正在翻译中
+    * [Django 2.0 文档中文版](https://docs.djangoproject.com/zh-hans/2.0/)
     * [Django 最佳实践](https://github.com/yangyubo/zh-django-best-practices)
     * [Django搭建简易博客教程](https://www.gitbook.com/book/andrew-liu/django-blog/details)
     * [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
