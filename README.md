@@ -399,7 +399,7 @@
 ### Haskell
 
 * [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
-* [Haskell趣学指南](http://fleurer-lee.com/lyah/)
+* [Haskell趣学指南](https://learnyoua.haskell.sg/content/zh-cn/)
 
 ### iOS
 
