@@ -493,6 +493,8 @@
 * Sea.js
     * [Hello Sea.js](http://island205.com/HelloSea.js/)
 * React.js
+    * [React 学习之道](https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese)
+    * [React.js 小书](https://github.com/huzidaha/react-naive-book)
     * [React.js 中文文档](https://doc.react-china.org/)
     * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
     * [React 入门教程](http://fraserxu.me/intro-to-react/)
