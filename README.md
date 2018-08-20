@@ -721,6 +721,7 @@
 * [前端工作面试问题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)
 * [leetcode/lintcode题解/算法学习笔记](https://www.gitbook.com/book/yuanbin/algorithm/details)
 * [前端开发笔记本](https://github.com/li-xinyang/FEND_Note)
+* [不周山之读薄CSAPP](https://wdxtub.com/2016/04/16/thin-csapp-0)
 
 ### 测试相关
 
