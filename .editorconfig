@@ -20,4 +20,8 @@ trim_trailing_whitespace = false
 indent_size = 2
 
 [{package.json,bower.json}]
+
+
 indent_size = 2
+
+// how json is used here
