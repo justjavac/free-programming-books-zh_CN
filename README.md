@@ -448,8 +448,8 @@
 * [《JavaScript 模式》](https://github.com/jayli/javascript-patterns) “JavaScript patterns”中译本
 * [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html)  (注:原文由[为之漫笔](http://www.cn-cuckoo.com)翻译，原始地址无法打开，所以此处地址为我博客上的备份)
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
-* [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)   
-* [ECMAScript 5.1 中文版](http://yanhaijing.com/es5)   
+* [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
+* [ECMAScript 5.1 中文版](http://yanhaijing.com/es5)
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/) (作者：阮一峰)
 * [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (深入JavaScript语言核心机制的系列图书)
@@ -606,6 +606,7 @@
 * [Python 官方文档中文版](http://data.digitser.net/zh-CN/python_index.html)
 * [Fabric 中文文档](http://fabric-chs.readthedocs.org)
 * [Beautiful Soup 4.2.0 中文文档](http://beautifulsoup.readthedocs.org/zh_CN/latest/)
+* [Python 中的 Socket 编程](https://legacy.gitbook.com/book/keelii/socket-programming-in-python-cn/details)
 * [用Python做科学计算](http://old.sebug.net/paper/books/scipydoc)
 * [Sphinx 中文文档](http://www.pythondoc.com/sphinx/index.html)
 * [精通 Python 设计模式](https://github.com/cundi/Mastering.Python.Design.Patterns)
@@ -690,8 +691,8 @@
 
 * [The Swift Programming Language 中文版](http://numbbbbb.github.io/the-swift-programming-language-in-chinese/)
 * [Swift 语言指南](http://dev.swiftguide.cn)
-* [Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译文件](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)   
-* [C4iOS - COSMOS](http://c4ios.swift.gg)   
+* [Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译文件](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)
+* [C4iOS - COSMOS](http://c4ios.swift.gg)
 
 ### 读书笔记及其它
 
@@ -723,4 +724,3 @@
 * [前端开发笔记本](https://github.com/li-xinyang/FEND_Note)
 
 ### 测试相关
-
