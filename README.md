@@ -391,6 +391,7 @@
 * [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)
 * [深入解析Go](https://github.com/tiancaiamao/go-internals)
 * [Go语言圣经(中文版)](https://bitbucket.org/golang-china/gopl-zh/wiki/Home) ([GitBook](https://www.gitbook.com/book/wizardforcel/gopl-zh/details))
+* [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
 
 ### Groovy
 
