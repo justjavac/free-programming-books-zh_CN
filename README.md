@@ -112,21 +112,33 @@
 * [SystemTap新手指南](https://spacewander.gitbooks.io/systemtapbeginnersguide_zh/content/index.html)
 * [操作系统思考](https://github.com/wizardforcel/think-os-zh)
 
+**[:arrow_up: 返回目录](#目录)**
+
 #### 智能系统
 * [一步步搭建物联网系统](https://github.com/phodal/designiot)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### 分布式系统
 * [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
 
+**[:arrow_up: 返回目录](#目录)**
+
 ### 编译原理
 * [《计算机程序的结构和解释》公开课 翻译项目](https://github.com/DeathKing/Learning-SICP)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### 函数式概念
 * [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn)
 
+**[:arrow_up: 返回目录](#目录)**
+
 ### 计算机图形学
 * [OpenGL 教程](https://github.com/zilongshanren/opengl-tutorials)
 * [WebGL自学网](http://html5.iii.org.tw/course/webgl/)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### WEB服务器
 
@@ -134,6 +146,8 @@
 * [Nginx教程从入门到精通](http://www.ttlsa.com/nginx/nginx-stu-pdf/)(PDF版本，运维生存时间出品)
 * [OpenResty最佳实践](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details)
 * [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/index.html)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### 版本控制
 
@@ -157,6 +171,8 @@
 * [svn 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
 * [GitHub漫游指南](https://github.com/phodal/github-roam)
 
+**[:arrow_up: 返回目录](#目录)**
+
 ### 编辑器
 
 * [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
@@ -169,6 +185,8 @@
 * [一年成为 Emacs 高手](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)
 * [Emacs 生存指南](http://lifegoo.pluskid.org/upload/blog/152/Survive.in.Emacs.pdf)
 * [Atom官方手册](https://atom-china.org/t/atom/62)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### NoSQL
 
@@ -184,16 +202,22 @@
 * [Disque 使用教程](http://disquebook.com)
 * [Apache Spark 设计与实现](https://github.com/JerryLead/SparkInternals/tree/master/markdown)
 
+**[:arrow_up: 返回目录](#目录)**
+
 ### PostgreSQL
 
 * [PostgreSQL 8.2.3 中文文档](http://works.jinbuguo.com/postgresql/menu823/index.html)
 * [PostgreSQL 9.3.1 中文文档](http://www.postgres.cn/docs/9.3/index.html)
 * [PostgreSQL 9.5.3 中文文档](http://www.postgres.cn/docs/9.5/index.html)
 
+**[:arrow_up: 返回目录](#目录)**
+
 ### MySQL
 
 * [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 * [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### 管理和监控
 
@@ -203,6 +227,8 @@
 * [Elasticsearch 权威指南（中文版）](http://es.xiaoleilu.com)
 * [Logstash 最佳实践](https://github.com/chenryn/logstash-best-practice-cn)
 * [Puppet 2.7 Cookbook 中文版](http://bbs.konotes.org/workdoc/puppet-27/)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### 项目相关
 
@@ -221,12 +247,16 @@
 * [GNU make 中文手册](http://www.yayu.org/book/gnu_make/)
 * [The Twelve-Factor App](http://12factor.net/zh_cn/)
 
+**[:arrow_up: 返回目录](#目录)**
+
 ### 设计模式
 
 * [图说设计模式](https://github.com/me115/design_patterns)
 * [史上最全设计模式导学目录](http://blog.csdn.net/lovelion/article/details/17517213)
 * [design pattern 包教不包会](https://github.com/AlfredTheBest/Design-Pattern)
 * [设计模式 Java 版](https://quanke.gitbooks.io/design-pattern-java/content/)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### Web
 
@@ -258,6 +288,8 @@
 * [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
 * [站点可靠性工程](https://github.com/hellorocky/Site-Reliability-Engineering)
 
+**[:arrow_up: 返回目录](#目录)**
+
 ### 大数据
 
 * [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
@@ -266,11 +298,15 @@
 * [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
 * [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
 
+**[:arrow_up: 返回目录](#目录)**
+
 ## 编程艺术
 
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
 * [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ## 其它
 
@@ -280,6 +316,8 @@
 * [深入理解并行编程](http://ifeve.com/perfbook/)
 * [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
 * [Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ## 语言相关类
 
@@ -294,14 +332,20 @@
 * [Point-of-Android](https://github.com/FX-Max/Point-of-Android) Android 一些重要知识点解析整理
 * [Android6.0新特性详解](http://leanote.com/blog/post/561658f938f41126b2000298?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+**[:arrow_up: 返回目录](#目录)**
+
 ### APP
 
 * [Apache Cordova 开发指南](https://github.com/waylau/cordova-dev-guide)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### AWK
 
 * [awk程序设计语言](https://github.com/wuzhouhui/awk)
 * [awk中文指南](http://awk.readthedocs.org/en/latest/index.html)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### C/C++
 
@@ -331,6 +375,8 @@
 * [Boost 库中文教程](http://zh.highscore.de/cpp/boost/)
 * [笨办法学C](https://github.com/wizardforcel/lcthw-zh)
 
+**[:arrow_up: 返回目录](#目录)**
+
 ### C&#35;
 
 * [MSDN C# 中文文档](https://msdn.microsoft.com/zh-cn/library/kx37x362.aspx)
@@ -340,9 +386,13 @@
 * [.NET控件开发基础](https://github.com/JackWangCUMT/customcontrol)
 * [.NET开发要点精讲（初稿）](https://github.com/sherlockchou86/-free-ebook-.NET-)
 
+**[:arrow_up: 返回目录](#目录)**
+
 ### Clojure
 
 * [Clojure入门教程](http://xumingming.sinaapp.com/302/clojure-functional-programming-for-the-jvm-clojure-tutorial/)
+
+**[:arrow_up: 返回目录](#目录)**
 
 <h3 id="csshtml">CSS/HTML</h3>
 
@@ -357,21 +407,31 @@
 * [MDN HTML 中文文档](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
 * [MDN CSS 中文文档](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
 
+**[:arrow_up: 返回目录](#目录)**
+
 ### Dart
 
 * [Dart 语言导览](http://dart.lidian.info/wiki/Language_Tour)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### Elixir
 
 * [Elixir编程入门](https://github.com/straightdave/programming_elixir)
 
+**[:arrow_up: 返回目录](#目录)**
+
 ### Erlang
 
 * [21天学通Erlang](http://xn--21erlang-p00o82pmp3o.github.io/)
 
+**[:arrow_up: 返回目录](#目录)**
+
 ### Fortran
 
 * [Fortran77和90/95编程入门](http://micro.ustc.edu.cn/Fortran/ZJDing/)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### Go
 
@@ -392,14 +452,20 @@
 * [深入解析Go](https://github.com/tiancaiamao/go-internals)
 * [Go语言圣经(中文版)](https://bitbucket.org/golang-china/gopl-zh/wiki/Home) ([GitBook](https://www.gitbook.com/book/wizardforcel/gopl-zh/details))
 
+**[:arrow_up: 返回目录](#目录)**
+
 ### Groovy
 
 * [实战 Groovy 系列](http://www.ibm.com/developerworks/cn/java/j-pg/)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### Haskell
 
 * [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
 * [Haskell趣学指南](http://fleurer-lee.com/lyah/)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### iOS
 
@@ -410,6 +476,8 @@
 * [Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
 * [马上着手开发 iOS 应用程序](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOSCh/index.html)
 * [网易斯坦福大学公开课：iOS 7应用开发字幕文件](https://github.com/jkyin/Subtitle)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### Java
 
@@ -434,6 +502,8 @@
 * [Java 编程要点](https://github.com/waylau/essential-java)
 * [Think Java](http://www.ituring.com.cn/minibook/69)
 * [Java 8 简明教程](https://github.com/wizardforcel/modern-java-zh)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### JavaScript
 
@@ -514,6 +584,8 @@
     * [Angular-Meteor 中文教程](http://angular.meteorhub.org/)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
+**[:arrow_up: 返回目录](#目录)**
+
 ### LaTeX
 
 * [一份其实很短的 LaTeX 入门文档](http://liam0205.me/2014/09/08/latex-introduction/)
@@ -528,6 +600,8 @@
     * [Scheme语言简明教程](http://songjinghe.github.io/TYS-zh-translation/)
     * Racket
         * [Racket book](https://github.com/tyrchen/racket-book)
+        
+**[:arrow_up: 返回目录](#目录)**
 
 ### Lua
 
@@ -536,14 +610,20 @@
 * [Lua 5.3 参考手册 中文翻译](http://cloudwu.github.io/lua53doc/)
 * [Lua源码欣赏](http://www.codingnow.com/temp/readinglua.pdf)
 
+**[:arrow_up: 返回目录](#目录)**
+
 ### OCaml
 
 * [Real World OCaml](https://github.com/zforget/translation/tree/master/real_world_ocaml)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### Perl
 
 * [Modern Perl 中文版](https://github.com/horus/modern_perl_book)
 * [Perl 程序员应该知道的事](http://perl.linuxtoy.org/)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### PHP
 
@@ -568,9 +648,13 @@
 * [Lumen 中文文档](http://lumen.laravel-china.org/)
 * [PHPUnit 中文文档](https://phpunit.de/manual/current/zh_cn/installation.html)
 
+**[:arrow_up: 返回目录](#目录)**
+
 ### Prolog
 
 * [笨办法学Prolog](http://fengdidi.github.io/blog/2011/11/15/qian-yan/)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### Python
 
@@ -649,9 +733,13 @@
     * [Tornado源码解析](http://www.nowamagic.net/academy/detail/13321002)
     * [Tornado 4.3 文档中文版](https://tornado-zh.readthedocs.org/zh/latest/)
 
+**[:arrow_up: 返回目录](#目录)**
+
 ### R
 
 * [R语言忍者秘笈](https://github.com/yihui/r-ninja)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### Ruby
 
@@ -668,16 +756,22 @@
 * [Ruby 源码解读](https://ruby-china.org/topics/22386)
 * [Ruby中的元编程](http://deathking.github.io/metaprogramming-in-ruby/)
 
+**[:arrow_up: 返回目录](#目录)**
+
 ### Rust
 
 * [rust book 中文翻译](https://www.gitbook.com/book/kaisery/rust-book-chinese/details)
 * [rust primer](https://github.com/rustcc/RustPrimer)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### Scala
 
 * [Scala课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
 * [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html)(Twitter的Scala最佳实践的中文翻译)
 * [Scala指南](http://zh.scala-tour.com/)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### Shell
 
@@ -687,12 +781,16 @@
 * [shell十三问](https://github.com/wzb56/13_questions_of_shell)
 * [Shell编程范例](https://www.gitbook.com/book/tinylab/shellbook/details)
 
+**[:arrow_up: 返回目录](#目录)**
+
 ### Swift
 
 * [The Swift Programming Language 中文版](http://numbbbbb.github.io/the-swift-programming-language-in-chinese/)
 * [Swift 语言指南](http://dev.swiftguide.cn)
 * [Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译文件](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)
 * [C4iOS - COSMOS](http://c4ios.swift.gg)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### 读书笔记及其它
 
@@ -722,5 +820,7 @@
 * [前端工作面试问题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)
 * [leetcode/lintcode题解/算法学习笔记](https://www.gitbook.com/book/yuanbin/algorithm/details)
 * [前端开发笔记本](https://github.com/li-xinyang/FEND_Note)
+
+**[:arrow_up: 返回目录](#目录)**
 
 ### 测试相关
