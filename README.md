@@ -369,6 +369,7 @@
 * [libuv中文教程](https://github.com/luohaha/Chinese-uvbook)
 * [Boost 库中文教程](http://zh.highscore.de/cpp/boost/)
 * [笨办法学C](https://github.com/wizardforcel/lcthw-zh)
+* [高速上手 C++11/14/17](https://github.com/changkun/modern-cpp-tutorial)
 
 [返回目录](#目录)
 
@@ -458,7 +459,7 @@
 ## Haskell
 
 * [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
-* [Haskell趣学指南](http://fleurer-lee.com/lyah/)
+* [Haskell趣学指南](https://learnyoua.haskell.sg/content/zh-cn/)
 
 [返回目录](#目录)
 
@@ -817,6 +818,7 @@
 * [前端工作面试问题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)
 * [leetcode/lintcode题解/算法学习笔记](https://www.gitbook.com/book/yuanbin/algorithm/details)
 * [前端开发笔记本](https://github.com/li-xinyang/FEND_Note)
+* [LeetCode题解](https://siddontang.gitbooks.io/leetcode-solution/content/)
 
 [返回目录](#目录)
 
