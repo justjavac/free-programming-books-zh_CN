@@ -135,6 +135,7 @@
 ## 计算机图形学
 * [OpenGL 教程](https://github.com/zilongshanren/opengl-tutorials)
 * [WebGL自学网](http://html5.iii.org.tw/course/webgl/)
+* [《Real-Time Rendering 3rd》提炼总结](https://github.com/QianMo/Real-Time-Rendering-3rd-Summary-Ebook)
 
 [返回目录](#目录)
 
