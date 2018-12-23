@@ -716,6 +716,7 @@
     * [Django 最佳实践](https://github.com/yangyubo/zh-django-best-practices)
     * [Django搭建简易博客教程](https://www.gitbook.com/book/andrew-liu/django-blog/details)
     * [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
+	* [The Django Book[英文版· 最新]](https://083950260099-attachments.s3.us-east-2.amazonaws.com/33211/bbb96849-df88-4cd4-849e-8daafcf58e04/MFDW1E2I-231118.pdf)
     * [Django 设计模式与最佳实践](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
     * [Django 网站开发 Cookbook](https://github.com/cundi/Web.Development.with.Django.Cookbook)
     * [Django Girls 學習指南](https://www.gitbook.com/book/djangogirlstaipei/django-girls-taipei-tutorial/details)
