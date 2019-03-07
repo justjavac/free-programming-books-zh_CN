@@ -387,6 +387,7 @@
 * [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)
 * [深入解析Go](https://github.com/tiancaiamao/go-internals)
 * [Go语言圣经(中文版)](https://bitbucket.org/golang-china/gopl-zh/wiki/Home) ([GitBook](https://www.gitbook.com/book/wizardforcel/gopl-zh/details))
+* [golang runtime源码分析](https://github.com/sheepbao/golang_runtime_reading)
 
 ### Groovy
 
