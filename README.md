@@ -267,6 +267,7 @@
 * [gulp中文文档](http://www.gulpjs.com.cn/docs/)
 * [Gulp 入门指南](https://github.com/nimojs/gulp-book)
 * [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
+* [Web性能实践日志（中文版 PDF）](https://laugh12321-1258080753.cos.ap-chengdu.myqcloud.com/ebook/Web-Performance-Daybook-Volume-2.pdf)
 * [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
 * [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
 * [移动前端开发收藏夹](https://github.com/hoosin/mobile-web-favorites)
@@ -602,6 +603,7 @@
     * Racket
         * [Racket book](https://github.com/tyrchen/racket-book)
         
+
 [返回目录](#目录)
 
 ## Lua
