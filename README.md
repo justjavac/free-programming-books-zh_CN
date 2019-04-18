@@ -821,6 +821,7 @@
 * [leetcode/lintcode题解/算法学习笔记](https://www.gitbook.com/book/yuanbin/algorithm/details)
 * [前端开发笔记本](https://github.com/li-xinyang/FEND_Note)
 * [LeetCode题解](https://siddontang.gitbooks.io/leetcode-solution/content/)
+* [《不可替代的团队领袖培养计划》](https://leader.js.cool/#/)
 
 [返回目录](#目录)
 
