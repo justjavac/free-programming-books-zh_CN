@@ -287,6 +287,7 @@
 * [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
 * [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
 * [站点可靠性工程](https://github.com/hellorocky/Site-Reliability-Engineering)
+* [Web安全学习笔记](https://websec.readthedocs.io)
 
 [返回目录](#目录)
 
@@ -792,6 +793,7 @@
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
 * [shell十三问](https://github.com/wzb56/13_questions_of_shell)
 * [Shell编程范例](https://www.gitbook.com/book/tinylab/shellbook/details)
+* [Linux命令搜索引擎](https://wangchujiang.com/linux-command/)
 
 [返回目录](#目录)
 
