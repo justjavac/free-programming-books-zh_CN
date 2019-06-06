@@ -62,6 +62,7 @@
   * [iOS](#ios)
   * [Java](#java)
   * [JavaScript](#javascript)
+  * [Kotlin](#Kotlin)
   * [LaTeX](#latex)
   * [LISP](#lisp)
   * [Lua](#lua)
@@ -584,6 +585,13 @@
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
 [返回目录](#目录)
+
+## Kotlin
+
+* [developing-android-apps-with-kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
+
+[返回目录](#目录)
+
 
 ## LaTeX
 
