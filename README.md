@@ -760,8 +760,8 @@
 
 ## Rust
 
-* [rust book 中文翻译](https://www.gitbook.com/book/kaisery/rust-book-chinese/details)
-* [rust primer](https://github.com/rustcc/RustPrimer)
+* [Rust编程语言 中文翻译](https://kaisery.github.io/trpl-zh-cn/)
+* [Rust Primer](https://github.com/rustcc/RustPrimer)
 
 [返回目录](#目录)
 
