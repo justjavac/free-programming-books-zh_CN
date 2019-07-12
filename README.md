@@ -342,6 +342,7 @@
 
 * [awk程序设计语言](https://github.com/wuzhouhui/awk)
 * [awk中文指南](http://awk.readthedocs.org/en/latest/index.html)
+* [awk实战指南](https://book.saubcy.com/AwkInAction/)
 
 [返回目录](#目录)
 
