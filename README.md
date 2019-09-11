@@ -510,11 +510,13 @@
 * [Java 编程要点](https://github.com/waylau/essential-java)
 * [Think Java](http://www.ituring.com.cn/minibook/69)
 * [Java 8 简明教程](https://github.com/wizardforcel/modern-java-zh)
+* [On Java 8 中文版](https://github.com/LingCoder/OnJava8) (翻译中)
 
 [返回目录](#目录)
 
 ## JavaScript
 
+* [现代 Javascript 教程](https://zh.javascript.info/)
 * [Google JavaScript 代码风格指南](http://bq69.com/blog/articles/script/868/google-javascript-style-guide.html)
 * [Google JSON 风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
 * [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide)
@@ -553,6 +555,7 @@
     * [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
     * [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
     * [orm2 中文文档](https://github.com/wizardforcel/orm2-doc-zh-cn)
+    * [一起学 Node.js](https://github.com/nswbmw/N-blog)
 * underscore.js
     * [Underscore.js中文文档](http://learningcn.com/underscore/)
 * backbone.js
@@ -595,13 +598,14 @@
     * [Angular-Meteor 中文教程](http://angular.meteorhub.org/)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
-### Kotlin
-* [Kotlin 官方参考文档 中文版](https://www.gitbook.com/book/hltj/kotlin-reference-chinese/details) 
+## Kotlin
+* [Kotlin 官方参考文档 中文版](https://hltj.gitbooks.io/kotlin-reference-chinese/content/) 
 * [Kotlin 中文文档](https://huanglizhuo.gitbooks.io/kotlin-in-chinese/) [GitHub](https://github.com/huanglizhuo/kotlin-in-chinese)   
 * [Kotlin 参考文档](http://www.liying-cn.net/kotlin/docs/reference/)    
-* [《Kotlin for android developers》中文版](https://github.com/wangjiegulu/kotlin-for-android-developers-zh)  
+* [《Kotlin for android developers》中文版](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/)  
 
 [返回目录](#目录)
+
 
 ## LaTeX
 
@@ -620,6 +624,7 @@
     * Racket
         * [Racket book](https://github.com/tyrchen/racket-book)
         
+
 [返回目录](#目录)
 
 ## Lua
@@ -730,6 +735,7 @@
     * [Django 1.5 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/) 正在翻译中
     * [Django 2.0 文档中文版](https://docs.djangoproject.com/zh-hans/2.0/)
     * [Django 最佳实践](https://github.com/yangyubo/zh-django-best-practices)
+    * [Django 2.1 搭建个人博客教程](https://www.dusaiphoto.com/article/detail/2/) ( 编写中 )
     * [Django搭建简易博客教程](https://www.gitbook.com/book/andrew-liu/django-blog/details)
     * [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
     * [Django 设计模式与最佳实践](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
@@ -778,8 +784,8 @@
 
 ## Rust
 
-* [rust book 中文翻译](https://www.gitbook.com/book/kaisery/rust-book-chinese/details)
-* [rust primer](https://github.com/rustcc/RustPrimer)
+* [Rust编程语言 中文翻译](https://kaisery.github.io/trpl-zh-cn/)
+* [Rust Primer](https://github.com/rustcc/RustPrimer)
 
 [返回目录](#目录)
 
@@ -840,6 +846,7 @@
 * [leetcode/lintcode题解/算法学习笔记](https://www.gitbook.com/book/yuanbin/algorithm/details)
 * [前端开发笔记本](https://github.com/li-xinyang/FEND_Note)
 * [LeetCode题解](https://siddontang.gitbooks.io/leetcode-solution/content/)
+* [《不可替代的团队领袖培养计划》](https://leader.js.cool/#/)
 
 [返回目录](#目录)
 
