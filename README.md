@@ -455,6 +455,10 @@
 * [Go语言实战: 编写可维护Go语言代码建议](https://github.com/llitfkitfk/go-best-practice)
 * [Golang 系列教程(译)](https://github.com/Tinywan/golang-tutorial)   
 * [Go RPC 开发指南](https://github.com/smallnest/go-rpc-programming-guide)[GitBook](https://smallnest.gitbooks.io/go-rpc-programming-guide/)
+* [Go语言高级编程](https://books.studygolang.com/advanced-go-programming-book/)   
+* [Go2编程指南](https://chai2010.cn/go2-book/)   
+* [Go语言设计模式](https://github.com/senghoo/golang-design-pattern)   
+* [Go语言四十二章经](https://github.com/ffhelicopter/Go42)   
 
 [返回目录](#目录)
 
