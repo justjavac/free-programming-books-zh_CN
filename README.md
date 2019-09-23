@@ -121,7 +121,7 @@
 
 ## 分布式系统
 * [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
-* [分布式内存数据库voltdb-管理手册]https://github.com/Will20150909/VoltDB-docs/
+* [分布式内存数据库voltdb-管理手册](https://github.com/Will20150909/VoltDB-docs/blob/master/VOLTDB%E7%AE%A1%E7%90%86%E5%91%98%E6%89%8B%E5%86%8C.pdf)
 
 [返回目录](#目录)
 
