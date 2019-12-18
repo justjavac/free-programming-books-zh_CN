@@ -562,7 +562,7 @@
 * Zepto.js
     * [Zepto.js 中文文档](http://mweb.baidu.com/zeptoapi/)
 * Sea.js
-    * [Hello Sea.js](http://island205.com/HelloSea.js/)
+    * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
 * React.js
     * [React 学习之道](https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese)
     * [React.js 小书](https://github.com/huzidaha/react-naive-book)
