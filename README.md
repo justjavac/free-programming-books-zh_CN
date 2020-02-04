@@ -62,7 +62,7 @@
   * [iOS](#ios)
   * [Java](#java)
   * [JavaScript](#javascript)
-  * [Kotlin](#Kotlin)
+  * [Kotlin](#kotlin)
   * [LaTeX](#latex)
   * [LISP](#lisp)
   * [Lua](#lua)
@@ -287,6 +287,7 @@
 * [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
 * [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
 * [站点可靠性工程](https://github.com/hellorocky/Site-Reliability-Engineering)
+* [Web安全学习笔记](https://websec.readthedocs.io)
 
 [返回目录](#目录)
 
@@ -367,6 +368,7 @@
 * [C++ 并发编程(基于C++11)](https://www.gitbook.com/book/chenxiaowei/cpp_concurrency_in_action/details)
 * [QT 教程](http://www.kuqin.com/qtdocument/tutorial.html)
 * [DevBean的《Qt学习之路2》(Qt5)](http://www.devbean.net/category/qt-study-road-2/)
+* [中文版《QmlBook》](https://github.com/cwc1987/QmlBook-In-Chinese)
 * [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 * [libuv中文教程](https://github.com/luohaha/Chinese-uvbook)
 * [Boost 库中文教程](http://zh.highscore.de/cpp/boost/)
@@ -449,6 +451,14 @@
 * [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)
 * [深入解析Go](https://github.com/tiancaiamao/go-internals)
 * [Go语言圣经(中文版)](https://bitbucket.org/golang-china/gopl-zh/wiki/Home) ([GitBook](https://www.gitbook.com/book/wizardforcel/gopl-zh/details))
+* [golang runtime源码分析](https://github.com/sheepbao/golang_runtime_reading)
+* [Go语言实战: 编写可维护Go语言代码建议](https://github.com/llitfkitfk/go-best-practice)
+* [Golang 系列教程(译)](https://github.com/Tinywan/golang-tutorial)   
+* [Go RPC 开发指南](https://github.com/smallnest/go-rpc-programming-guide)[GitBook](https://smallnest.gitbooks.io/go-rpc-programming-guide/)
+* [Go语言高级编程](https://books.studygolang.com/advanced-go-programming-book/)   
+* [Go2编程指南](https://chai2010.cn/go2-book/)   
+* [Go语言设计模式](https://github.com/senghoo/golang-design-pattern)   
+* [Go语言四十二章经](https://github.com/ffhelicopter/Go42)   
 
 [返回目录](#目录)
 
@@ -569,6 +579,7 @@
     * [React.js 中文文档](https://doc.react-china.org/)
     * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
     * [React 入门教程](http://fraserxu.me/intro-to-react/)
+    * [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/) (作者：hulufei, 与上行不同作者)
     * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
     * [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
 * impress.js
@@ -585,13 +596,15 @@
     * [Discover Meteor](http://zh.discovermeteor.com/)
     * [Meteor 中文文档](http://docs.meteorhub.org/#/basic/)
     * [Angular-Meteor 中文教程](http://angular.meteorhub.org/)
+* VueJS
+    * [逐行剖析 Vue.js 源码](https://nlrx-wjc.github.io/Learn-Vue-Source-Code/)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
-[返回目录](#目录)
-
 ## Kotlin
-
-* [developing-android-apps-with-kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
+* [Kotlin 官方参考文档 中文版](https://hltj.gitbooks.io/kotlin-reference-chinese/content/) 
+* [Kotlin 中文文档](https://huanglizhuo.gitbooks.io/kotlin-in-chinese/) [GitHub](https://github.com/huanglizhuo/kotlin-in-chinese)   
+* [Kotlin 参考文档](http://www.liying-cn.net/kotlin/docs/reference/)    
+* [《Kotlin for android developers》中文版](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/)  
 
 [返回目录](#目录)
 
@@ -653,7 +666,7 @@
 * [Symfony2中文文档](http://symfony-docs-chs.readthedocs.org/en/latest/) (未译完)
 * [YiiBook几本Yii框架的在线教程](http://yiibook.com//doc)
 * [深入理解 Yii 2.0](http://www.digpage.com/)
-* [Yii 框架中文文檔](http://www.yiichina.com/)
+* [Yii 框架中文官网](http://www.yiichina.com/)
 * [简单易懂的PHP魔法](http://www.nowamagic.net/librarys/books/contents/php)
 * [swoole文档及入门教程](https://github.com/LinkedDestiny/swoole-doc)
 * [Composer 中文网](http://www.phpcomposer.com)
@@ -794,6 +807,7 @@
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
 * [shell十三问](https://github.com/wzb56/13_questions_of_shell)
 * [Shell编程范例](https://www.gitbook.com/book/tinylab/shellbook/details)
+* [Linux命令搜索引擎](https://wangchujiang.com/linux-command/)
 
 [返回目录](#目录)
 
