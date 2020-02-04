@@ -343,6 +343,7 @@
 
 * [awk程序设计语言](https://github.com/wuzhouhui/awk)
 * [awk中文指南](http://awk.readthedocs.org/en/latest/index.html)
+* [awk实战指南](https://book.saubcy.com/AwkInAction/)
 
 [返回目录](#目录)
 
@@ -824,7 +825,7 @@
 ## 读书笔记及其它
 
 * [编译原理（紫龙书）中文第2版习题答案](https://github.com/fool2fish/dragon-book-exercise-answers)
-* [把《编程珠玑》读薄](http://www.hawstein.com/posts/make-thiner-programming-pearls.html)
+* [把《编程珠玑》读薄](http://hawstein.com/2013/08/11/make-thiner-programming-pearls/)
 * [Effective C++读书笔记](https://github.com/XiaolongJason/ReadingNote/blob/master/Effective%20C%2B%2B/Effective%20C%2B%2B.md)
 * [Golang 学习笔记、Python 学习笔记、C 学习笔记](https://github.com/qyuhen/book) (PDF)
 * [Jsoup 学习笔记](https://github.com/code4craft/jsoup-learning)
