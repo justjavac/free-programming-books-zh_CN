@@ -738,6 +738,7 @@
     * [Flask 扩展文档汇总](https://www.gitbook.com/book/wizardforcel/flask-extension-docs/details)
     * [Flask 大型教程](http://www.pythondoc.com/flask-mega-tutorial/index.html)
     * [SQLAlchemy 中文文档](http://docs.jinkan.org/docs/flask-sqlalchemy/)
+    * [Flask 入门教程](https://read.helloflask.com)
 * web.py
     * [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn)
     * [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
