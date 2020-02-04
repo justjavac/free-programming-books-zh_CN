@@ -389,7 +389,7 @@
 
 ## Clojure
 
-* [Clojure入门教程](http://xumingming.sinaapp.com/302/clojure-functional-programming-for-the-jvm-clojure-tutorial/)
+* [Clojure入门教程](https://wizardforcel.gitbooks.io/clojure-fpftj/)
 
 [返回目录](#目录)
 
