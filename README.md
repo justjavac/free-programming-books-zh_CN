@@ -675,6 +675,7 @@
 * [Slim 中文文档](http://ww1.minimee.org/php/slim)
 * [Lumen 中文文档](http://lumen.laravel-china.org/)
 * [PHPUnit 中文文档](https://phpunit.de/manual/current/zh_cn/installation.html)
+* [PHP-LeetCode](https://github.com/wuqinqiang/leetcode-php)
 
 [返回目录](#目录)
 
