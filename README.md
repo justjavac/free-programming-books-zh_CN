@@ -359,7 +359,7 @@
 * [ZMQ 指南](https://github.com/anjuke/zguide-cn)
 * [How to Think Like a Computer Scientist](http://www.ituring.com.cn/book/1203) (中英文版)
 * [跟我一起写 Makefile](https://github.com/seisman/how-to-write-makefile)
-* [GNU make中文手册](http://www.yayu.org/book/gnu_make/)
+* [GNU make中文手册](https://free-online-ebooks.appspot.com/tools/gnu-make-cn/) (需科学上网) ([PDF](https://hacker-yhj.github.io/resources/gun_make.pdf))
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 * [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
 * [C/C++ Primer](https://github.com/andycai/cprimer) (by @andycai)
