@@ -17,7 +17,7 @@
 
 欢迎大家将珍藏已久的经典免费书籍共享出来，您可以：
 
-* 使用 [Issues](https://github.com/justjavac/free-programming-books-zh_CN/issues) 以及 Pull Request
+* 使用 [Pull Request](https://github.com/justjavac/free-programming-books-zh_CN/pulls) 提交
 
 贡献者名单: https://github.com/justjavac/free-programming-books-zh_CN/graphs/contributors
 
