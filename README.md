@@ -723,7 +723,7 @@
 * [Fabric 中文文档](http://fabric-chs.readthedocs.org)
 * [Beautiful Soup 4.2.0 中文文档](http://beautifulsoup.readthedocs.org/zh_CN/latest/)
 * [Python 中的 Socket 编程](https://legacy.gitbook.com/book/keelii/socket-programming-in-python-cn/details)
-* [用Python做科学计算](http://old.sebug.net/paper/books/scipydoc)
+* [用Python做科学计算](http://old.sebug.net/paper/books/scipydoc):worried:
 * [Sphinx 中文文档](http://www.pythondoc.com/sphinx/index.html)
 * [精通 Python 设计模式](https://github.com/cundi/Mastering.Python.Design.Patterns)
 * [python 安全编程教程](https://github.com/smartFlash/pySecurity)
