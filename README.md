@@ -180,6 +180,7 @@
 * [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
 * [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com/) :worried:
 * [Vim中文文档](https://github.com/vimcn/vimcdoc)
+* [21天学会Emacs](http://book.emacs-china.org/)
 * [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
 * [vim 实操教程](https://github.com/dofy/learn-vim)
 * [Atom飞行手册中文版](https://github.com/wizardforcel/atom-flight-manual-zh-cn)
