@@ -680,6 +680,7 @@
 * [PHPUnit 中文文档](https://phpunit.de/manual/current/zh_cn/installation.html)
 * [PHP-LeetCode](https://github.com/wuqinqiang/leetcode-php)
 * [ThinkPHP5.1完全开发手册](https://www.kancloud.cn/manual/thinkphp5_1)
+* [ThinkPHP3.2.3完全开发手册](https://www.kancloud.cn/manual/thinkphp)
 
 [返回目录](#目录)
 
