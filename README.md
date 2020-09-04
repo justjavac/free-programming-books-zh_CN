@@ -850,6 +850,7 @@
 * [前端技能汇总](https://github.com/JacksonTian/fks)
 * [借助开源项目，学习软件开发](https://github.com/zhuangbiaowei/learn-with-open-source)
 * [前端工作面试问题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)
+* [LeetCode Cookbook](https://github.com/halfrost/LeetCode-Go) (本书网页版和 PDF 都免费)
 * [leetcode/lintcode题解/算法学习笔记](https://www.gitbook.com/book/yuanbin/algorithm/details)
 * [前端开发笔记本](https://github.com/li-xinyang/FEND_Note)
 * [LeetCode题解](https://siddontang.gitbooks.io/leetcode-solution/content/)
