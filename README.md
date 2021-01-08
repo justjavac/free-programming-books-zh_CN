@@ -290,6 +290,7 @@
 * [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
 * [站点可靠性工程](https://github.com/hellorocky/Site-Reliability-Engineering)
 * [Web安全学习笔记](https://websec.readthedocs.io)
+* [Serverless 架构应用开发指南](https://github.com/phodal/serverless)
 
 [返回目录](#目录)
 
@@ -319,6 +320,7 @@
 * [深入理解并行编程](http://ifeve.com/perfbook/)
 * [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
 * [Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)
+* [系统重构与迁移指南](https://github.com/phodal/migration)
 
 [返回目录](#目录)
 
