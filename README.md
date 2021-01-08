@@ -153,6 +153,8 @@
 
 ## 版本控制
 
+* [Learn Git - complete book in Chinese](https://www.git-tower.com/learn/git/ebook/cn/command-line/)
+* [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet-cn)
 * [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) （本文由 [廖雪峰](http://www.liaoxuefeng.com) 创作，如果觉得本教程对您有帮助，可以去 [iTunes](https://itunes.apple.com/cn/app/git-jiao-cheng/id876420437) 购买）
 * [git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 * [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
