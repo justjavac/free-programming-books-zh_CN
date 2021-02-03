@@ -735,9 +735,9 @@
 * [Python 学习笔记 基础篇](http://www.kuqin.com/docs/pythonbasic.html)
 * [Python 学习笔记 模块篇](http://www.kuqin.com/docs/pythonmodule.html)
 * [Python 标准库 中文版](http://old.sebug.net/paper/books/python/%E3%80%8APython%E6%A0%87%E5%87%86%E5%BA%93%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf):worried:
+* [Python 标准库 中文版](https://docs.python.org/zh-cn/3/library/index.html)
 * [Python进阶](https://www.gitbook.com/book/eastlakeside/interpy-zh/details)
 * [Python 核心编程 第二版](https://wizardforcel.gitbooks.io/core-python-2e/content/) CPyUG译
-* [Python 核心编程 第二版](https://docs.python.org/zh-cn/3/library/index.html)
 * [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)
 * [Python 精要教程](https://www.gitbook.com/book/wizardforcel/python-essential-tutorial/details)
 * [Python 量化交易教程](https://www.gitbook.com/book/wizardforcel/python-quant-uqer/details)
