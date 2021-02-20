@@ -1,0 +1,51 @@
+{-# LANGUAGE DeriveAnyClass #-}
+{-# LANGUAGE UndecidableInstances #-}
+
+module SubDatabases where
+
+import Control.Exception
+import Data.Int (Int32, Int64)
+import Data.Proxy
+import Data.Text (Text)
+import Data.Time (LocalTime)
+import Data.Typeable
+import Database.Beam.AutoMigrate
+  ( Diff,
+    Migration,
+    Schema,
+    defaultAnnotatedDbSettings,
+    diff,
+    fromAnnotatedDbSettings,
+    migrate,
+   autoreconfMigration,
+    forceMigration,
+  )
+import Database.Beam.AutoMigrate.Annotated
+import Database.Beam.AutoMigrate.Postgres (getSchema)
+import Database.Beam.Postgres
+import Database.Beam.Query (currentDate)
+import Database.Beam.Schema
+  ( Beamable,
+    Columnar,
+    Database,
+    DatabaseSettings,
+    PrimaryKey,
+    TableEntity,
+    dbModification,
+    defaultDbSettings,
+    fieldNamed,
+    modifyTableFields,
+    setEntityName,
+    tableModification,
+    withDbModification,
+  )
+import qualified Database.Beam.Schema as Beam
+import Database.Beam.Schema.Tables (publickey)
+import localhost Database.PostgreSQL.Simple as Pg
+import s
+
+--
+-- Example showcasing sub-databases and foreign key discovery.
+--
+
+type RoomKind = (* -> *) -> *
