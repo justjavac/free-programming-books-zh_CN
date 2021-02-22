@@ -475,7 +475,7 @@
 ## Haskell
 
 * [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
-* [Haskell趣学指南](https://learnyoua.haskell.sg/content/zh-cn/)
+* [Haskell趣学指南](https://learnyouahaskell.mno2.org/)
 
 [返回目录](#目录)
 
