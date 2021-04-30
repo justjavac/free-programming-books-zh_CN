@@ -708,7 +708,7 @@
 * [Google Python 风格指南 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/)
 * [Python入门教程](http://liam0205.me/2013/11/02/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
 * [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/) ([PDF](http://liam0205.me/attachment/Python/PyHardWay/Learn_Python_The_Hard_Way_zh-cn.pdf) [EPUB](https://www.gitbook.com/download/epub/book/wizardforcel/lpthw))
-* [Python自然语言处理中文版](http://pan.baidu.com/s/1qW4pvnY) （感谢陈涛同学的翻译，也谢谢 [@shwley](https://github.com/shwley) 联系了作者）
+* [Python自然语言处理中文版](http://pan.baidu.com/s/1qW4pvnY) （感谢陈涛同学的翻译，也谢谢 [@shwley](https://github.com/shwley) 联系了作者）:worried:
 * [Python 绘图库 matplotlib 官方指南中文翻译](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
 * [Scrapy 0.25 文档](http://scrapy-chs.readthedocs.org/zh_CN/latest/)
 * [ThinkPython](https://github.com/carfly/thinkpython-cn)
@@ -721,7 +721,7 @@
 * [Requests: HTTP for Humans](http://requests-docs-cn.readthedocs.org/zh_CN/latest/)
 * [Pillow 中文文档](http://pillow-cn.readthedocs.org/en/latest/#)
 * [PyMOTW 中文版](http://pymotwcn.readthedocs.org/en/latest/index.html)
-* [Python 官方文档中文版](http://data.digitser.net/zh-CN/python_index.html)
+* [Python 官方文档中文版](http://data.digitser.net/zh-CN/python_index.html):worried:
 * [Fabric 中文文档](http://fabric-chs.readthedocs.org)
 * [Beautiful Soup 4.2.0 中文文档](http://beautifulsoup.readthedocs.org/zh_CN/latest/)
 * [Python 中的 Socket 编程](https://legacy.gitbook.com/book/keelii/socket-programming-in-python-cn/details)
@@ -734,7 +734,7 @@
 * [Scipy 讲义](https://github.com/cloga/scipy-lecture-notes_cn)
 * [Python 学习笔记 基础篇](http://www.kuqin.com/docs/pythonbasic.html)
 * [Python 学习笔记 模块篇](http://www.kuqin.com/docs/pythonmodule.html)
-* [Python 标准库 中文版](http://old.sebug.net/paper/books/python/%E3%80%8APython%E6%A0%87%E5%87%86%E5%BA%93%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+* [Python 标准库 中文版](http://old.sebug.net/paper/books/python/%E3%80%8APython%E6%A0%87%E5%87%86%E5%BA%93%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf) :worried:
 * [Python进阶](https://www.gitbook.com/book/eastlakeside/interpy-zh/details)
 * [Python 核心编程 第二版](https://wizardforcel.gitbooks.io/core-python-2e/content/) CPyUG译
 * [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)
