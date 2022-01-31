@@ -619,6 +619,7 @@
 
 * [一份其实很短的 LaTeX 入门文档](http://liam0205.me/2014/09/08/latex-introduction/)
 * [一份不太简短的 LATEX 2ε 介绍](http://www.mohu.org/info/lshort-cn.pdf) （PDF版）
+* [Latex学习笔记](https://github.com/Eksi123/Share)
 
 [返回目录](#目录)
 
