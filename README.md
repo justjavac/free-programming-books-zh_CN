@@ -740,6 +740,7 @@
 * [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)
 * [Python 精要教程](https://www.gitbook.com/book/wizardforcel/python-essential-tutorial/details)
 * [Python 量化交易教程](https://www.gitbook.com/book/wizardforcel/python-quant-uqer/details)
+* [Python 编程基础与机器学习基础](https://pan.baidu.com/s/19Oxog4ykWQSZEBeZZOCwCg?pwd=44p4)
 * Django
     * [Django 1.5 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/) 正在翻译中
     * [Django 2.0 文档中文版](https://docs.djangoproject.com/zh-hans/2.0/)
