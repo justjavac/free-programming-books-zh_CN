@@ -562,6 +562,8 @@
     * [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
     * [orm2 中文文档](https://github.com/wizardforcel/orm2-doc-zh-cn)
     * [一起学 Node.js](https://github.com/nswbmw/N-blog)
+    * [Node入门：一本全面的Node.js教程](https://www.nodebeginner.org/index-zh-cn.html)
+    * [从零开始的Nodejs系列文章](http://blog.fens.me/series-nodejs/)
 * underscore.js
     * [Underscore.js中文文档](http://learningcn.com/underscore/)
 * backbone.js
