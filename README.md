@@ -795,6 +795,7 @@
 ## Rust
 
 * [Rust编程语言 中文翻译](https://kaisery.github.io/trpl-zh-cn/)
+* [通过例子学 Rust 中文版](https://rustwiki.org/zh-CN/rust-by-example/)
 * [Rust Primer](https://github.com/rustcc/RustPrimer)
 
 [返回目录](#目录)
