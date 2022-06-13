@@ -3,15 +3,15 @@
 
 亚马逊提供免费的　Kindle　版读本：[孙子兵法](http://www.amazon.cn/gp/product/B00AA7KMKG/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B00AA7KMKG&linkCode=as2&tag=favbook-23)
 
-> Much of the text is about how to fight wars without actually having to do battle: 
-> it gives tips on how to outsmart one's opponent so that physical battle is not necessary. 
+> Much of the text is about how to fight wars without actually having to do battle:
+> it gives tips on how to outsmart one's opponent so that physical battle is not necessary.
 > As such, it has found application as a training guide for many competitive endeavors that do not involve actual combat.
 
-> This knowledge would surely be useful in the everyday "battles" we have to fight in and out of the office. 
+> This knowledge would surely be useful in the everyday "battles" we have to fight in and out of the office.
 > It's also filled with quotes you can impress your fellow programmers with... :)
 
 
-## 《哥德尔、艾舍尔、巴赫——集异璧之大成》Gödel, Escher, Bach: an Eternal Golden Braid, 
+## 《哥德尔、艾舍尔、巴赫——集异璧之大成》Gödel, Escher, Bach: an Eternal Golden Braid,
 
 这本书通常被称为[《GEB》](http://www.amazon.cn/gp/product/B0049MPCAS/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B0049MPCAS&linkCode=as2&tag=favbook-23)，
 它绝对是一本神书，一本奇书，一本神奇的书。在豆瓣读书的科普类排名中稳居第一。我在博客中，和即将出版的书中，也一而再，再而三的提及此书。
@@ -39,7 +39,7 @@
 
 但伴之而来的不是演奏会，不是音乐，没有开场号曲，而仅仅是一条简短的信息。
 
-“地球人，请注意了。” 
+“地球人，请注意了。”
 一个声音说，这声音堪称完美，仿佛来自四声道系统，完美得无懈可击，失真度低得能让勇敢的男人洒下眼泪。
 
 “这里是银河超空间规划委员会。诸位无疑已经知道，银河系边远地区的开发规划要求建造一条穿过贵恒星系的超空间快速通道，令人遗憾的是，贵行星属于计划中预定毁灭的星球之一。毁灭过程将在略少于贵地球时间两分钟后开始。谢谢合作。”
@@ -53,7 +53,7 @@
 《人性的弱点》讲述的许多普通人通过奋斗获得成功的真实故事，激励了无数陷和迷茫和困境的人，帮助他们重新找到了自己的人生。
 
 接受卡耐基教育的有社会各界人士，其中不乏军政要员，甚至包括几位美国总统。
-千千万万的人从卡耐基的教育中获益匪浅。 
+千千万万的人从卡耐基的教育中获益匪浅。
 
 《人性的弱点》汇集了卡耐基的思想精华和最激动人心的内容，是作者最成功的励志经典，出版后立即获得了广大读者的欢迎，成为西方世界最持久的人文畅销书。
 无数读者通过阅读和实践书中介绍的各种方法，不仅走出困境，有的还成为世人仰慕的杰出人士。
