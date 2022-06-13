@@ -753,6 +753,7 @@
 * [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)
 * [Python 精要教程](https://www.gitbook.com/book/wizardforcel/python-essential-tutorial/details)
 * [Python 量化交易教程](https://www.gitbook.com/book/wizardforcel/python-quant-uqer/details)
+* [Python黑魔法手册](https://magic.iswbm.com/preface.html)
 * Django
     * [Django 1.5 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/) 正在翻译中
     * [Django 2.0 文档中文版](https://docs.djangoproject.com/zh-hans/2.0/)
@@ -785,6 +786,7 @@
 ## R
 
 * [R语言忍者秘笈](https://github.com/yihui/r-ninja)
+* [R语言教程](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)
 
 [返回目录](#目录)
 
