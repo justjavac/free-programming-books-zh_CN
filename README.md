@@ -475,12 +475,12 @@
 * [Go语言圣经(中文版)](https://bitbucket.org/golang-china/gopl-zh/wiki/Home) ([GitBook](https://www.gitbook.com/book/wizardforcel/gopl-zh/details))
 * [golang runtime源码分析](https://github.com/sheepbao/golang_runtime_reading)
 * [Go语言实战: 编写可维护Go语言代码建议](https://github.com/llitfkitfk/go-best-practice)
-* [Golang 系列教程(译)](https://github.com/Tinywan/golang-tutorial)   
+* [Golang 系列教程(译)](https://github.com/Tinywan/golang-tutorial)
 * [Go RPC 开发指南](https://github.com/smallnest/go-rpc-programming-guide)[GitBook](https://smallnest.gitbooks.io/go-rpc-programming-guide/)
-* [Go语言高级编程](https://books.studygolang.com/advanced-go-programming-book/)   
-* [Go2编程指南](https://chai2010.cn/go2-book/)   
-* [Go语言设计模式](https://github.com/senghoo/golang-design-pattern)   
-* [Go语言四十二章经](https://github.com/ffhelicopter/Go42)   
+* [Go语言高级编程](https://books.studygolang.com/advanced-go-programming-book/)
+* [Go2编程指南](https://chai2010.cn/go2-book/)
+* [Go语言设计模式](https://github.com/senghoo/golang-design-pattern)
+* [Go语言四十二章经](https://github.com/ffhelicopter/Go42)
 
 [返回目录](#目录)
 
@@ -533,7 +533,7 @@
 * [Think Java](http://www.ituring.com.cn/minibook/69)
 * [Java 8 简明教程](https://github.com/wizardforcel/modern-java-zh)
 * [On Java 8 中文版](https://github.com/LingCoder/OnJava8) (翻译中)
-* [Effective Java 第3版中文版](https://github.com/sjsdfg/effective-java-3rd-chinese) 
+* [Effective Java 第3版中文版](https://github.com/sjsdfg/effective-java-3rd-chinese)
 
 [返回目录](#目录)
 
@@ -602,7 +602,7 @@
 * React.js
     * [React 学习之道](https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese)
     * [React.js 小书](https://github.com/huzidaha/react-naive-book)
-    * [React.js 中文文档](https://doc.react-china.org/)
+    * [React.js 中文文档](https://doc.react-china.org/):worried:
     * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
     * [React 入门教程](http://fraserxu.me/intro-to-react/)
     * [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/) (作者：hulufei, 与上行不同作者)
@@ -627,10 +627,10 @@
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
 ## Kotlin
-* [Kotlin 官方参考文档 中文版](https://hltj.gitbooks.io/kotlin-reference-chinese/content/) 
-* [Kotlin 中文文档](https://huanglizhuo.gitbooks.io/kotlin-in-chinese/) [GitHub](https://github.com/huanglizhuo/kotlin-in-chinese)   
-* [Kotlin 参考文档](http://www.liying-cn.net/kotlin/docs/reference/)    
-* [《Kotlin for android developers》中文版](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/)  
+* [Kotlin 官方参考文档 中文版](https://hltj.gitbooks.io/kotlin-reference-chinese/content/)
+* [Kotlin 中文文档](https://huanglizhuo.gitbooks.io/kotlin-in-chinese/) [GitHub](https://github.com/huanglizhuo/kotlin-in-chinese)
+* [Kotlin 参考文档](http://www.liying-cn.net/kotlin/docs/reference/)
+* [《Kotlin for android developers》中文版](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/)
 
 [返回目录](#目录)
 
@@ -651,7 +651,7 @@
     * [Scheme语言简明教程](http://songjinghe.github.io/TYS-zh-translation/)
     * Racket
         * [Racket book](https://github.com/tyrchen/racket-book)
-        
+
 
 [返回目录](#目录)
 
