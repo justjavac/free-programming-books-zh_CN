@@ -11,7 +11,7 @@
 
 如果这个仓库对你有帮助，欢迎 star。如果这个仓库帮你提升了技能找到了工作，可以请我喝杯咖啡：
 
-<p align="center"><img src="https://cdn.devtips.cn/buy-me-a-coffee-wechat.png?imageView2/2/w/640/interlace/1" width="320" height="320" alt="" /></p>
+<p align="center"><img src="https://dl.deno.js.cn/buy-me-a-coffee-wechat.png" width="320" height="320" alt="" /></p>
 
 ## 参与交流
 
@@ -45,6 +45,7 @@
   * [大数据](#大数据)
   * [编程艺术](#编程艺术)
   * [游戏引擎](#游戏引擎)
+  * [算法](#算法)
   * [其它](#其它)
 
 * 语言相关类
@@ -94,7 +95,7 @@
 * [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
 * [鸟哥的Linux私房菜](http://linux.vbird.org/)
 * [The Linux Command Line](http://billie66.github.io/TLCL/index.html) (中英文版)
-* [Linux 设备驱动](http://oss.org.cn/kernel-book/ldd3/index.html) (第三版)
+* [Linux 设备驱动](http://oss.org.cn/kernel-book/ldd3/index.html) (第三版):worried:
 * [深入分析Linux内核源码](http://www.kerneltravel.net/kernel-book/%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90Linux%E5%86%85%E6%A0%B8%E6%BA%90%E7%A0%81.html) :worried:
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
 * [Docker中文指南](https://github.com/widuu/chinese_docker)
@@ -154,6 +155,8 @@
 
 ## 版本控制
 
+* [Learn Git - complete book in Chinese](https://www.git-tower.com/learn/git/ebook/cn/command-line/)
+* [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet-cn)
 * [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) （本文由 [廖雪峰](http://www.liaoxuefeng.com) 创作，如果觉得本教程对您有帮助，可以去 [iTunes](https://itunes.apple.com/cn/app/git-jiao-cheng/id876420437) 购买）
 * [git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 * [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
@@ -181,6 +184,8 @@
 * [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
 * [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com/) :worried:
 * [Vim中文文档](https://github.com/vimcn/vimcdoc)
+* [21天学会Emacs](http://book.emacs-china.org/)
+* [一年成为Emacs高手 (像神一样使用编辑器)](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)
 * [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
 * [vim 实操教程](https://github.com/dofy/learn-vim)
 * [Atom飞行手册中文版](https://github.com/wizardforcel/atom-flight-manual-zh-cn)
@@ -316,6 +321,12 @@
 ## 游戏引擎
 
 * [游戏引擎 浅入浅出](https://github.com/ThisisGame/cpp-game-engine-book)
+
+[返回目录](#目录)
+
+## 算法
+
+* [labuladong 的算法小抄](https://github.com/labuladong/fucking-algorithm)
 
 [返回目录](#目录)
 
@@ -508,7 +519,7 @@
 * [MyBatis Generator 中文文档](http://mbg.cndocs.tk/)
 * [用jersey构建REST服务](https://github.com/waylau/RestDemo)
 * [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
-* [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
+* [Google Java编程风格指南](https://hawstein.com/2014/01/20/google-java-style/)
 * [Netty 4.x 用户指南](https://github.com/waylau/netty-4-user-guide)
 * [Netty 实战(精髓)](https://github.com/waylau/essential-netty-in-action)
 * [REST 实战](https://github.com/waylau/rest-in-action)
@@ -569,6 +580,8 @@
     * [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
     * [orm2 中文文档](https://github.com/wizardforcel/orm2-doc-zh-cn)
     * [一起学 Node.js](https://github.com/nswbmw/N-blog)
+    * [Node入门：一本全面的Node.js教程](https://www.nodebeginner.org/index-zh-cn.html)
+    * [从零开始的Nodejs系列文章](http://blog.fens.me/series-nodejs/)
 * underscore.js
     * [Underscore.js中文文档](http://learningcn.com/underscore/)
 * backbone.js
@@ -687,6 +700,8 @@
 * [Lumen 中文文档](http://lumen.laravel-china.org/)
 * [PHPUnit 中文文档](https://phpunit.de/manual/current/zh_cn/installation.html)
 * [PHP-LeetCode](https://github.com/wuqinqiang/leetcode-php)
+* [ThinkPHP5.1完全开发手册](https://www.kancloud.cn/manual/thinkphp5_1)
+* [ThinkPHP3.2.3完全开发手册](https://www.kancloud.cn/manual/thinkphp)
 
 [返回目录](#目录)
 
@@ -732,7 +747,7 @@
 * [Fabric 中文文档](http://fabric-chs.readthedocs.org)
 * [Beautiful Soup 4.2.0 中文文档](http://beautifulsoup.readthedocs.org/zh_CN/latest/)
 * [Python 中的 Socket 编程](https://legacy.gitbook.com/book/keelii/socket-programming-in-python-cn/details)
-* [用Python做科学计算](http://old.sebug.net/paper/books/scipydoc)
+* [用Python做科学计算](https://docs.huihoo.com/scipy/scipy-zh-cn/index.html)
 * [Sphinx 中文文档](http://www.pythondoc.com/sphinx/index.html)
 * [精通 Python 设计模式](https://github.com/cundi/Mastering.Python.Design.Patterns)
 * [python 安全编程教程](https://github.com/smartFlash/pySecurity)
@@ -747,6 +762,7 @@
 * [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)
 * [Python 精要教程](https://www.gitbook.com/book/wizardforcel/python-essential-tutorial/details)
 * [Python 量化交易教程](https://www.gitbook.com/book/wizardforcel/python-quant-uqer/details)
+* [Python黑魔法手册](https://magic.iswbm.com/preface.html)
 * Django
     * [Django 1.5 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/) 正在翻译中
     * [Django 2.0 文档中文版](https://docs.djangoproject.com/zh-hans/2.0/)
@@ -779,6 +795,7 @@
 ## R
 
 * [R语言忍者秘笈](https://github.com/yihui/r-ninja)
+* [R语言教程](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)
 
 [返回目录](#目录)
 
@@ -802,6 +819,7 @@
 ## Rust
 
 * [Rust编程语言 中文翻译](https://kaisery.github.io/trpl-zh-cn/)
+* [通过例子学 Rust 中文版](https://rustwiki.org/zh-CN/rust-by-example/)
 * [Rust Primer](https://github.com/rustcc/RustPrimer)
 
 [返回目录](#目录)
