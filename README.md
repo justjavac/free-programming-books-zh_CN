@@ -254,6 +254,7 @@
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 * [GNU make 中文手册](http://www.yayu.org/book/gnu_make/)
 * [The Twelve-Factor App](http://12factor.net/zh_cn/)
+* [Software Engineering at Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
 
 [返回目录](#目录)
 
