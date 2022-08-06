@@ -515,6 +515,7 @@
 * [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
 * [Spring Framework 4.x参考文档](https://github.com/waylau/spring-framework-4-reference)
 * [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) (翻译中)
+* [Spring 系列中文参考指南](https://github.com/jcohy/jcohy-docs.git)
 * [MyBatis中文文档](http://mybatis.org/mybatis-3/zh/index.html)
 * [MyBatis Generator 中文文档](http://mbg.cndocs.tk/)
 * [用jersey构建REST服务](https://github.com/waylau/RestDemo)
