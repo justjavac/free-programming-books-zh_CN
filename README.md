@@ -540,7 +540,7 @@
 ## JavaScript
 
 * [现代 Javascript 教程](https://zh.javascript.info/)
-* [Google JavaScript 代码风格指南](http://bq69.com/blog/articles/script/868/google-javascript-style-guide.html)
+* [Google JavaScript 代码风格指南](http://bq69.com/blog/articles/script/868/google-javascript-style-guide.html) :worried:
 * [Google JSON 风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
 * [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide)
 * [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
