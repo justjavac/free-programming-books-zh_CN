@@ -480,7 +480,8 @@
 * [Go语言高级编程](https://books.studygolang.com/advanced-go-programming-book/)   
 * [Go2编程指南](https://chai2010.cn/go2-book/)   
 * [Go语言设计模式](https://github.com/senghoo/golang-design-pattern)   
-* [Go语言四十二章经](https://github.com/ffhelicopter/Go42)   
+* [Go语言四十二章经](https://github.com/ffhelicopter/Go42)
+* [Go语言设计与实现](https://draveness.me/golang/)   
 
 [返回目录](#目录)
 
