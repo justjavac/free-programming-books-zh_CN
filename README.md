@@ -97,7 +97,7 @@
 * [The Linux Command Line](http://billie66.github.io/TLCL/index.html) (中英文版)
 * [Linux 设备驱动](http://oss.org.cn/kernel-book/ldd3/index.html) (第三版):worried:
 * [深入分析Linux内核源码](http://www.kerneltravel.net/kernel-book/%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90Linux%E5%86%85%E6%A0%B8%E6%BA%90%E7%A0%81.html) :worried:
-* [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
+* [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml) :worried:
 * [Docker中文指南](https://github.com/widuu/chinese_docker)
 * [Docker —— 从入门到实践](https://github.com/yeasy/docker_practice)
 * [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
@@ -246,7 +246,7 @@
 * [selenium 中文文档](https://github.com/fool2fish/selenium-doc)
 * [Selenium Webdriver 简易教程](http://it-ebooks.flygon.net/selenium-simple-tutorial/)
 * [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_\(Simplified\))
-* [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81)
+* [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81) :worried:
 * [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
 * [Gradle 中文使用文档](http://yuedu.baidu.com/ebook/f23af265998fcc22bcd10da2)
 * [编码规范](https://github.com/ecomfe/spec)
@@ -269,7 +269,7 @@
 ## Web
 
 * [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home)
-* [浏览器开发工具的秘密](http://jinlong.github.io/2013/08/29/devtoolsecrets/)
+* [浏览器开发工具的秘密](http://jinlong.github.io/2013/08/29/devtoolsecrets/)F
 * [Chrome 开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
 * [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
 * [Grunt中文文档](http://www.gruntjs.net/)
