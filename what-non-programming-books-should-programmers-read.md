@@ -1,7 +1,7 @@
 在 stackoverflow 上有人提问 [程序员应该阅读的非编程类书籍有哪些？](http://stackoverflow.com/q/38210/343194) 本来只想整理编程类书籍，
 不过突然眼前一亮，发现了《The Art of War - Sun Tzu》回答者的推荐说明引用 Wikipedia 上的：
 
-亚马逊提供免费的　Kindle　版读本：[孙子兵法](http://www.amazon.cn/gp/product/B00AA7KMKG/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B00AA7KMKG&linkCode=as2&tag=favbook-23)
+亚马逊提供免费的　Kindle　版读本：[孙子兵法](http://www.amazon.cn/gp/product/B00AA7KMKG/)
 
 > Much of the text is about how to fight wars without actually having to do battle: 
 > it gives tips on how to outsmart one's opponent so that physical battle is not necessary. 
@@ -13,7 +13,7 @@
 
 ## 《哥德尔、艾舍尔、巴赫——集异璧之大成》Gödel, Escher, Bach: an Eternal Golden Braid, 
 
-这本书通常被称为[《GEB》](http://www.amazon.cn/gp/product/B0049MPCAS/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B0049MPCAS&linkCode=as2&tag=favbook-23)，
+这本书通常被称为[《GEB》](http://www.amazon.cn/gp/product/B0049MPCAS/)，
 它绝对是一本神书，一本奇书，一本神奇的书。在豆瓣读书的科普类排名中稳居第一。我在博客中，和即将出版的书中，也一而再，再而三的提及此书。
 
 书有点儿厚，而且价格不菲，大概五六十吧。我也曾经不止一次的向朋友们推荐此书，并赠书此书。
@@ -24,7 +24,7 @@
 
 ## 《银河系漫游指南》The Hitchhiker's Guide to the Galaxy
 
-亚马逊翻译为[《银河系搭车客指南》](http://www.amazon.cn/gp/product/B00590XCO2/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B00590XCO2&linkCode=as2&tag=favbook-23)，
+亚马逊翻译为[《银河系搭车客指南》](http://www.amazon.cn/gp/product/B00590XCO2/)，
 略带喜感。
 
 突如其来的寂静笼罩了地球。
@@ -46,9 +46,9 @@
 
 ## 《人性的弱点》How to Win Friends and Influence People
 
-[《人性的弱点 Kindle版》](http://www.amazon.cn/gp/product/B008F5WMEE/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B008F5WMEE&linkCode=as2&tag=favbook-23)只售 2.9 元。
+[《人性的弱点 Kindle版》](http://www.amazon.cn/gp/product/B008F5WMEE/)只售 2.9 元。
 
-[《人性的弱点》](http://www.amazon.cn/gp/product/B00119B1AM/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B00119B1AM&linkCode=as2&tag=favbook-23)的作者戴尔·卡耐基，美国“成人教育之父”。
+[《人性的弱点》](http://www.amazon.cn/gp/product/B00119B1AM/)的作者戴尔·卡耐基，美国“成人教育之父”。
 20世纪早期，美国经济陷入萧条，战争和贫困导致人们失去了对美好生活的愿望，而卡耐基独辟蹊径地开创了一套融演讲、推销、为人处世、智能开发于一体的教育方式，他运用社会学和心理学知识，对人性进行了深刻的探讨和分析。
 《人性的弱点》讲述的许多普通人通过奋斗获得成功的真实故事，激励了无数陷和迷茫和困境的人，帮助他们重新找到了自己的人生。
 
@@ -61,7 +61,7 @@
 
 ## 《别逗了,费曼先生!》Surely You're Joking, Mr. Feynman!
 
-[《别逗了,费曼先生》](http://www.amazon.cn/gp/product/B009QVEA8M/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B009QVEA8M&linkCode=as2&tag=favbook-23)是一本很棒的读物：挥霍无忌、惊世骇俗，却仍然温馨，很有人情味儿。
+[《别逗了,费曼先生》](http://www.amazon.cn/gp/product/B009QVEA8M/)是一本很棒的读物：挥霍无忌、惊世骇俗，却仍然温馨，很有人情味儿。
 
 R·P·费曼，他因盘子电动力学方面的研究荣获诺贝尔物理学奖。
 除了作为一个物理学家外，费曼在不同时期还曾是故事大王、艺术家、鼓手和密码破泽专家。
@@ -96,7 +96,7 @@ R·P·费曼，他因盘子电动力学方面的研究荣获诺贝尔物理学�
 
 先推荐一篇知乎上的文章：[Chrome 浏览器的哪些设计符合「Don't make me think」原则？](http://www.zhihu.com/question/20564451)
 
-在豆瓣和亚马逊搜索了很久中文版，居然没找到，不得已求助 Google，原来被翻译成了[《点石成金:访客至上的网页设计秘笈》](http://www.amazon.cn/gp/product/B0011BTJV8/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B0011BTJV8&linkCode=as2&tag=favbook-23)。
+在豆瓣和亚马逊搜索了很久中文版，居然没找到，不得已求助 Google，原来被翻译成了[《点石成金:访客至上的网页设计秘笈》](http://www.amazon.cn/gp/product/B0011BTJV8/)。
 
 如果你在进行网站设计，为网站编程，或者管理网站，那么一定要读一读此书。
 
@@ -112,7 +112,7 @@ R·P·费曼，他因盘子电动力学方面的研究荣获诺贝尔物理学�
 
 这是什么书？
 
-[《禅与摩托车维修艺术》](http://www.amazon.cn/gp/product/B005O4PUFC/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B005O4PUFC&linkCode=as2&tag=favbook-23)：累积销量超过一千万册，美国大学“禅与现代美国文学”课程的必读参考书。
+[《禅与摩托车维修艺术》](http://www.amazon.cn/gp/product/B005O4PUFC/)：累积销量超过一千万册，美国大学“禅与现代美国文学”课程的必读参考书。
 
 70年代的梭罗——罗伯特•M. 波西格，《时代》周刊评选20世纪70年代十本最有影响力的书之一。
 
