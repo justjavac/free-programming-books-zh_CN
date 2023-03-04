@@ -5,7 +5,7 @@
 
 免费的编程中文书籍索引，欢迎投稿。
 
-- 国外程序员在 [stackoverflow](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read/1713%231713) 推荐的程序员必读书籍，[中文版](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html "一个合格的程序员应该读过哪些书")。
+- 国外程序员在 [stackoverflow](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read/1713#1713) 推荐的程序员必读书籍，[中文版](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html "一个合格的程序员应该读过哪些书")。
 - [stackoverflow](http://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read) 上的程序员应该阅读的非编程类书籍有哪些？ [中文版](what-non-programming-books-should-programmers-read.md)
 - [github](https://github.com/vhf/free-programming-books) 上的一个流行的编程书籍索引  [中文版](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
 
@@ -215,8 +215,8 @@
 ## PostgreSQL
 
 * [PostgreSQL 8.2.3 中文文档](http://works.jinbuguo.com/postgresql/menu823/)
-* [PostgreSQL 9.3.1 中文文档](http://www.postgres.cn/docs/9.3/)
-* [PostgreSQL 9.5.3 中文文档](http://www.postgres.cn/docs/9.5/)
+* [PostgreSQL 9.3 中文文档](http://www.postgres.cn/docs/9.3/)
+* [PostgreSQL 9.5 中文文档](http://www.postgres.cn/docs/9.5/)
 
 [返回目录](#目录)
 
@@ -246,7 +246,7 @@
 * [selenium 中文文档](https://github.com/fool2fish/selenium-doc)
 * [Selenium Webdriver 简易教程](http://it-ebooks.flygon.net/selenium-simple-tutorial/)
 * [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_\(Simplified\))
-* [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81)
+* [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/首頁) :worried:
 * [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
 * [Gradle 中文使用文档](http://yuedu.baidu.com/ebook/f23af265998fcc22bcd10da2)
 * [编码规范](https://github.com/ecomfe/spec)
@@ -400,7 +400,7 @@
 
 [返回目录](#目录)
 
-## C&#35;
+## C#
 
 * [Microsoft Docs C# 官方文档](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
 * [ASP.NET MVC 5 入门指南](http://www.cnblogs.com/powertoolsteam/p/aspnetmvc5-tutorials-grapecity.html)
@@ -416,7 +416,7 @@
 
 [返回目录](#目录)
 
-<h2 id="csshtml">CSS/HTML</h2>
+## CSS/HTML
 
 * [学习CSS布局](http://zh.learnlayout.com/)
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
@@ -549,7 +549,7 @@
 * [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF) (此书已由人民邮电出版社出版发行，但作者依然免费提供PDF版本，希望开发者们去购买，支持作者)
 * [《JavaScript 模式》](https://github.com/jayli/javascript-patterns) “JavaScript patterns”中译本
-* [JavaScript语言精粹](https://github.com/qibaoguang/Study-Step-by-Step/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/javascript_the_good_parts.md)
+* [JavaScript语言精粹](https://github.com/qibaoguang/Study-Step-by-Step/blob/master/读书笔记/javascript_the_good_parts.md)
 * [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html)  (注:原文由[为之漫笔](http://www.cn-cuckoo.com)翻译，原始地址无法打开，所以此处地址为我博客上的备份)
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
 * [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
@@ -756,7 +756,7 @@
 * [Scipy 讲义](https://github.com/cloga/scipy-lecture-notes_cn)
 * [Python 学习笔记 基础篇](http://www.kuqin.com/docs/pythonbasic.html)
 * [Python 学习笔记 模块篇](http://www.kuqin.com/docs/pythonmodule.html)
-* [Python 标准库 中文版](http://old.sebug.net/paper/books/python/%E3%80%8APython%E6%A0%87%E5%87%86%E5%BA%93%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+* [Python 标准库 中文版](http://old.sebug.net/paper/books/python/《Python标准库》中文版.pdf) :worried:
 * [Python进阶](https://www.gitbook.com/book/eastlakeside/interpy-zh/details) :worried:
 * [Python 核心编程 第二版](https://wizardforcel.gitbooks.io/core-python-2e/) CPyUG译
 * [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)
