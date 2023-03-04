@@ -92,27 +92,27 @@
 
 ## 操作系统
 
-* [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
-* [鸟哥的Linux私房菜](http://linux.vbird.org/)
-* [The Linux Command Line](http://billie66.github.io/TLCL/index.html) (中英文版)
-* [Linux 设备驱动](http://oss.org.cn/kernel-book/ldd3/index.html) (第三版):worried:
-* [深入分析Linux内核源码](http://www.kerneltravel.net/kernel-book/%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90Linux%E5%86%85%E6%A0%B8%E6%BA%90%E7%A0%81.html) :worried:
+* [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/)
+* [鳥哥的Linux私房菜](http://linux.vbird.org/)
+* [The Linux Command Line](http://billie66.github.io/TLCL/) (中英文版)
+* [Linux 设备驱动](http://oss.org.cn/kernel-book/ldd3/) (第三版):worried:
+* [深入分析Linux内核源码](www.kerneltravel.net/kernel-book/深入分析Linux内核源码.html) :worried:
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
 * [Docker中文指南](https://github.com/widuu/chinese_docker)
 * [Docker —— 从入门到实践](https://github.com/yeasy/docker_practice)
 * [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet/tree/master/zh-cn#docker-cheat-sheet)
 * [FreeRADIUS新手入门](http://freeradius.akagi201.org) :worried:
-* [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
-* [FreeBSD 使用手册](https://www.freebsd.org/doc/zh_CN/books/handbook/index.html)
+* [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/)
+* [FreeBSD 使用手册](https://www.freebsd.org/doc/zh_CN/books/handbook/)
 * [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
-* [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
+* [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
-* [Linux Documentation (中文版)](https://www.gitbook.com/book/tinylab/linux-doc/details)
+* [Linux Documentation (中文版)](https://www.gitbook.com/book/tinylab/linux-doc/details) :worried:
 * [嵌入式 Linux 知识库 (eLinux.org 中文版)](https://www.gitbook.com/book/tinylab/elinux/details)
 * [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
-* [SystemTap新手指南](https://spacewander.gitbooks.io/systemtapbeginnersguide_zh/content/index.html)
+* [SystemTap新手指南](https://spacewander.gitbooks.io/systemtapbeginnersguide_zh/)
 * [操作系统思考](https://github.com/wizardforcel/think-os-zh)
 
 [返回目录](#目录)
@@ -146,10 +146,10 @@
 
 ## WEB服务器
 
-* [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) (淘宝团队出品)
+* [Nginx开发从入门到精通](http://tengine.taobao.org/book/) (淘宝团队出品)
 * [Nginx教程从入门到精通](http://www.ttlsa.com/nginx/nginx-stu-pdf/)(PDF版本，运维生存时间出品)
 * [OpenResty最佳实践](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details)
-* [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/index.html)
+* [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/)
 
 [返回目录](#目录)
 
@@ -164,17 +164,17 @@
 * [Pro Git](http://git-scm.com/book/zh/v2)
 * [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details) (整理在gitbook上)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
-* [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
+* [GotGitHub](http://www.worldhello.net/gotgithub/)
 * [Git权威指南](http://www.worldhello.net/gotgit/)
-* [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
+* [Git Community Book 中文版](http://gitbook.liuhui998.com/)
 * [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial)
 * [HgInit (中文版)](http://bucunzai.net/hginit/)
 * [沉浸式学 Git](http://igit.linuxtoy.org)
 * [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) （感谢 @flyhigher139 翻译了中文版）
-* [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
+* [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/zh/)
 * [GitHub帮助文档](https://github.com/waylau/github-help)
 * [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
-* [svn 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
+* [svn 手册](http://svnbook.red-bean.com/nightly/zh/)
 * [GitHub漫游指南](https://github.com/phodal/github-roam)
 
 [返回目录](#目录)
@@ -214,15 +214,15 @@
 
 ## PostgreSQL
 
-* [PostgreSQL 8.2.3 中文文档](http://works.jinbuguo.com/postgresql/menu823/index.html)
-* [PostgreSQL 9.3.1 中文文档](http://www.postgres.cn/docs/9.3/index.html)
-* [PostgreSQL 9.5.3 中文文档](http://www.postgres.cn/docs/9.5/index.html)
+* [PostgreSQL 8.2.3 中文文档](http://works.jinbuguo.com/postgresql/menu823/)
+* [PostgreSQL 9.3.1 中文文档](http://www.postgres.cn/docs/9.3/)
+* [PostgreSQL 9.5.3 中文文档](http://www.postgres.cn/docs/9.5/)
 
 [返回目录](#目录)
 
 ## MySQL
 
-* [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
+* [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-)
 * [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
 
 [返回目录](#目录)
@@ -262,7 +262,7 @@
 * [图说设计模式](https://github.com/me115/design_patterns)
 * [史上最全设计模式导学目录](http://blog.csdn.net/lovelion/article/details/17517213)
 * [design pattern 包教不包会](https://github.com/AlfredTheBest/Design-Pattern)
-* [设计模式 Java 版](https://quanke.gitbooks.io/design-pattern-java/content/)
+* [设计模式 Java 版](https://quanke.gitbooks.io/design-pattern-java/)
 
 [返回目录](#目录)
 
@@ -287,9 +287,9 @@
 * [前端开发者手册](https://www.gitbook.com/book/dwqs/frontenddevhandbook/details)
 * [前端工程师手册](https://www.gitbook.com/book/leohxj/front-end-database/details)
 * [w3school教程整理](https://github.com/wizardforcel/w3school)
-* [Wireshark用户手册](http://man.lupaworld.com/content/network/wireshark/index.html)
+* [Wireshark用户手册](http://man.lupaworld.com/network/wireshark/)
 * [一站式学习Wireshark](https://community.emc.com/thread/194901)
-* [HTTP 下午茶](https://ccbikai.gitbooks.io/http-book/content/)
+* [HTTP 下午茶](https://ccbikai.gitbooks.io/http-book/)
 * [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
 * [RFC 7540 - HTTP/2 中文翻译版](https://github.com/abbshr/rfc7540-translation-zh_cn)
 * [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
@@ -306,7 +306,7 @@
 * [面向程序员的数据挖掘指南](https://github.com/egrcc/guidetodatamining)
 * [大型集群上的快速和通用数据处理架构](https://code.csdn.net/CODE_Translation/spark_matei_phd)
 * [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
-* [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
+* [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/)
 
 [返回目录](#目录)
 
@@ -344,10 +344,10 @@
 
 ## Android
 
-* [Android Design(中文版)](http://www.apkbus.com/design/index.html)
-* Google Material Design 正體中文版 ([译本一](https://wcc723.gitbooks.io/google_design_translate/content/style-icons.html) [译本二](https://github.com/1sters/material_design_zh))
+* [Android Design(中文版)](http://www.apkbus.com/design/)
+* Google Material Design 正體中文版 ([译本一](https://wcc723.gitbooks.io/google_design_translate/style-icons.html) [译本二](https://github.com/1sters/material_design_zh))
 * [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
-* [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
+* [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/)
 * [Android学习之路](http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
 * [Android开发技术前线(android-tech-frontier)](https://github.com/bboyfeiyu/android-tech-frontier)
 * [Point-of-Android](https://github.com/FX-Max/Point-of-Android) Android 一些重要知识点解析整理
@@ -364,7 +364,7 @@
 ## AWK
 
 * [awk程序设计语言](https://github.com/wuzhouhui/awk)
-* [awk中文指南](http://awk.readthedocs.org/en/latest/index.html)
+* [awk中文指南](http://awk.readthedocs.org/en/latest/)
 * [awk实战指南](https://book.saubcy.com/AwkInAction/)
 
 [返回目录](#目录)
@@ -466,7 +466,7 @@
 * [Effective Go](http://www.hellogcc.org/effective_go.html)
 * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
 * [Golang标准库文档](http://godoc.ml/)
-* [Revel 框架手册](http://gorevel.cn/docs/manual/index.html)
+* [Revel 框架手册](http://gorevel.cn/docs/manual/)
 * [Java程序员的Golang入门指南](http://blog.csdn.net/dc_726/article/details/46565241)
 * [Go命令教程](https://github.com/hyper-carrot/go_command_tutorial)
 * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
@@ -493,7 +493,7 @@
 ## Haskell
 
 * [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
-* [Haskell趣学指南](https://learnyoua.haskell.sg/content/zh-cn/)
+* [Haskell趣学指南](https://learnyoua.haskell.sg/zh-cn/)
 
 [返回目录](#目录)
 
@@ -504,7 +504,7 @@
 * [Google Objective-C Style Guide 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/)
 * [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
 * [Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
-* [马上着手开发 iOS 应用程序](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOSCh/index.html)
+* [马上着手开发 iOS 应用程序](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOSCh/)
 * [网易斯坦福大学公开课：iOS 7应用开发字幕文件](https://github.com/jkyin/Subtitle)
 
 [返回目录](#目录)
@@ -515,7 +515,7 @@
 * [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
 * [Spring Framework 4.x参考文档](https://github.com/waylau/spring-framework-4-reference)
 * [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) (翻译中)
-* [MyBatis中文文档](http://mybatis.org/mybatis-3/zh/index.html)
+* [MyBatis中文文档](http://mybatis.org/mybatis-3/zh/)
 * [MyBatis Generator 中文文档](http://mbg.cndocs.tk/)
 * [用jersey构建REST服务](https://github.com/waylau/RestDemo)
 * [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
@@ -605,7 +605,7 @@
     * [React.js 中文文档](https://doc.react-china.org/)
     * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
     * [React 入门教程](http://fraserxu.me/intro-to-react/)
-    * [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/) (作者：hulufei, 与上行不同作者)
+    * [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/) (作者：hulufei, 与上行不同作者)
     * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
     * [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
 * impress.js
@@ -615,7 +615,7 @@
     * [The Little Book on CoffeeScript中文版](http://island205.com/tlboc/)
     * [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
 * TypeScipt
-    * [TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/content/)
+    * [TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/)
 * ExtJS
     * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
 * Meteor
@@ -627,10 +627,10 @@
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
 ## Kotlin
-* [Kotlin 官方参考文档 中文版](https://hltj.gitbooks.io/kotlin-reference-chinese/content/) 
+* [Kotlin 官方参考文档 中文版](https://hltj.gitbooks.io/kotlin-reference-chinese/) 
 * [Kotlin 中文文档](https://huanglizhuo.gitbooks.io/kotlin-in-chinese/) [GitHub](https://github.com/huanglizhuo/kotlin-in-chinese)   
 * [Kotlin 参考文档](http://www.liying-cn.net/kotlin/docs/reference/)    
-* [《Kotlin for android developers》中文版](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/)  
+* [《Kotlin for android developers》中文版](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/)  
 
 [返回目录](#目录)
 
@@ -683,7 +683,7 @@
 * [PHP调试技术手册](http://www.laruence.com/2010/06/21/1608.html)(PDF)
 * PHP之道：php-the-right-way ([@wulijun版](http://wulijun.github.io/php-the-right-way/) [PHPHub版](http://laravel-china.github.io/php-the-right-way/))
 * [PHP 最佳实践](https://github.com/justjavac/PHP-Best-Practices-zh_CN)
-* [PHP 开发者实践](https://ryancao.gitbooks.io/php-developer-prepares/content/)
+* [PHP 开发者实践](https://ryancao.gitbooks.io/php-developer-prepares/)
 * [深入理解PHP内核](https://github.com/reeze/tipi)
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/)
 * [Laravel5.1 中文文档](http://laravel-china.org/docs/5.1)
@@ -720,8 +720,8 @@
 * [零基础学 Python 第一版](http://www.kancloud.cn/kancloud/python-basic)
 * [零基础学 Python 第二版](http://www.kancloud.cn/kancloud/starter-learning-python)
 * [可爱的 Python](http://lovelypython.readthedocs.org/en/latest/)
-* [Python 2.7 官方教程中文版](http://www.pythondoc.com/pythontutorial27/index.html)
-* [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
+* [Python 2.7 官方教程中文版](http://www.pythondoc.com/pythontutorial27/)
+* [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/)
 * [Python Cookbook 中文版](http://www.kancloud.cn/thinkphp/python-cookbook)
 * [Python3 Cookbook 中文版](https://github.com/yidao620c/python3-cookbook)
 * [深入 Python](http://www.kuqin.com/docs/diveintopythonzh-cn-5.4b/html/toc/)
@@ -739,16 +739,16 @@
 * [Python 正则表达式操作指南](http://wiki.ubuntu.org.cn/Python正则表达式操作指南)
 * [python初级教程：入门详解](http://www.crifan.com/files/doc/docbook/python_beginner_tutorial/release/html/python_beginner_tutorial.html)
 * [Twisted 与异步编程入门](https://www.gitbook.com/book/likebeta/twisted-intro-cn/details)
-* [TextGrocery 中文 API](http://textgrocery.readthedocs.org/zh/latest/index.html) ( 基于svm算法的一个短文本分类 Python 库 )
+* [TextGrocery 中文 API](http://textgrocery.readthedocs.org/zh/latest/) ( 基于svm算法的一个短文本分类 Python 库 )
 * [Requests: HTTP for Humans](http://requests-docs-cn.readthedocs.org/zh_CN/latest/)
 * [Pillow 中文文档](http://pillow-cn.readthedocs.org/en/latest/#)
-* [PyMOTW 中文版](http://pymotwcn.readthedocs.org/en/latest/index.html)
-* [Python 官方文档中文版](http://data.digitser.net/zh-CN/python_index.html)
+* [PyMOTW 中文版](http://pymotwcn.readthedocs.org/en/latest/)
+* [Python 官方文档中文版](http://data.digitser.net/zh-CN/python_)
 * [Fabric 中文文档](http://fabric-chs.readthedocs.org)
 * [Beautiful Soup 4.2.0 中文文档](http://beautifulsoup.readthedocs.org/zh_CN/latest/)
 * [Python 中的 Socket 编程](https://legacy.gitbook.com/book/keelii/socket-programming-in-python-cn/details)
-* [用Python做科学计算](https://docs.huihoo.com/scipy/scipy-zh-cn/index.html)
-* [Sphinx 中文文档](http://www.pythondoc.com/sphinx/index.html)
+* [用Python做科学计算](https://docs.huihoo.com/scipy/scipy-zh-cn/)
+* [Sphinx 中文文档](http://www.pythondoc.com/sphinx/)
 * [精通 Python 设计模式](https://github.com/cundi/Mastering.Python.Design.Patterns)
 * [python 安全编程教程](https://github.com/smartFlash/pySecurity)
 * [程序设计思想与方法](https://www.gitbook.com/book/wizardforcel/sjtu-cs902-courseware/details)
@@ -758,7 +758,7 @@
 * [Python 学习笔记 模块篇](http://www.kuqin.com/docs/pythonmodule.html)
 * [Python 标准库 中文版](http://old.sebug.net/paper/books/python/%E3%80%8APython%E6%A0%87%E5%87%86%E5%BA%93%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 * [Python进阶](https://www.gitbook.com/book/eastlakeside/interpy-zh/details)
-* [Python 核心编程 第二版](https://wizardforcel.gitbooks.io/core-python-2e/content/) CPyUG译
+* [Python 核心编程 第二版](https://wizardforcel.gitbooks.io/core-python-2e/) CPyUG译
 * [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)
 * [Python 精要教程](https://www.gitbook.com/book/wizardforcel/python-essential-tutorial/details)
 * [Python 量化交易教程](https://www.gitbook.com/book/wizardforcel/python-quant-uqer/details)
@@ -779,14 +779,14 @@
     * [Werkzeug 文档中文版](http://werkzeug-docs-cn.readthedocs.org/zh_CN/latest/)
     * [Flask之旅](http://spacewander.github.io/explore-flask-zh/)
     * [Flask 扩展文档汇总](https://www.gitbook.com/book/wizardforcel/flask-extension-docs/details)
-    * [Flask 大型教程](http://www.pythondoc.com/flask-mega-tutorial/index.html)
+    * [Flask 大型教程](http://www.pythondoc.com/flask-mega-tutorial/)
     * [SQLAlchemy 中文文档](http://docs.jinkan.org/docs/flask-sqlalchemy/)
     * [Flask 入门教程](https://read.helloflask.com)
 * web.py
     * [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn)
     * [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
 * Tornado
-    * [Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html)
+    * [Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/)
     * [Tornado源码解析](http://www.nowamagic.net/academy/detail/13321002)
     * [Tornado 4.3 文档中文版](https://tornado-zh.readthedocs.org/zh/latest/)
 
@@ -795,7 +795,7 @@
 ## R
 
 * [R语言忍者秘笈](https://github.com/yihui/r-ninja)
-* [R语言教程](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)
+* [R语言教程](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/)
 
 [返回目录](#目录)
 
@@ -805,12 +805,12 @@
 * [Rails 风格指南](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
 * [笨方法學 Ruby](http://lrthw.github.io/)
 * [Ruby on Rails 指南](http://guides.ruby-china.org/)
-* [Ruby on Rails 實戰聖經](https://ihower.tw/rails4/index.html)
+* [Ruby on Rails 實戰聖經](https://ihower.tw/rails4/)
 * [Ruby on Rails Tutorial 原书第 3 版](http://railstutorial-china.org/) (本书网页版免费提供，电子版以 PDF、EPub 和 Mobi 格式提供购买，仅售 9.9 美元)
-* [Rails 实践](http://rails-practice.com/content/index.html)
+* [Rails 实践](http://rails-practice.com/)
 * [Rails 5 开发进阶(Beta)](https://www.gitbook.com/book/kelby/rails-beginner-s-guide/details)
 * [Rails 102](https://www.gitbook.com/book/rocodev/rails-102/details)
-* [编写Ruby的C拓展](https://wusuopu.gitbooks.io/write-ruby-extension-with-c/content/)
+* [编写Ruby的C拓展](https://wusuopu.gitbooks.io/write-ruby-extension-with-c/)
 * [Ruby 源码解读](https://ruby-china.org/topics/22386)
 * [Ruby中的元编程](http://deathking.github.io/metaprogramming-in-ruby/)
 
@@ -826,7 +826,7 @@
 
 ## Scala
 
-* [Scala课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
+* [Scala课堂](http://twitter.github.io/scala_school/zh_cn/) (Twitter的Scala中文教程)
 * [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html)(Twitter的Scala最佳实践的中文翻译)
 * [Scala指南](http://zh.scala-tour.com/)
 
@@ -867,7 +867,7 @@
 * [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 * [Standard C 语言标准函数库速查 (Cheat Sheet)](http://ganquan.info/standard-c/)
 * [Git Cheatsheet Chs](http://gh.amio.us/git-cheatsheet-chs/)
-* [GitBook简明教程](http://www.chengweiyang.cn/gitbook/index.html)
+* [GitBook简明教程](http://www.chengweiyang.cn/gitbook/)
 * [制造开源软件](http://producingoss.com/zh/)
 * [提问的智慧](http://www.dianbo.org/9238/stone/tiwendezhihui.htm)
 * [Markdown 入门参考](https://github.com/LearnShare/Learning-Markdown)
@@ -879,7 +879,7 @@
 * [前端工作面试问题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)
 * [leetcode/lintcode题解/算法学习笔记](https://www.gitbook.com/book/yuanbin/algorithm/details)
 * [前端开发笔记本](https://github.com/li-xinyang/FEND_Note)
-* [LeetCode题解](https://siddontang.gitbooks.io/leetcode-solution/content/)
+* [LeetCode题解](https://siddontang.gitbooks.io/leetcode-solution/)
 * [《不可替代的团队领袖培养计划》](https://leader.js.cool/#/)
 
 [返回目录](#目录)
