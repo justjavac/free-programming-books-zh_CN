@@ -1,7 +1,7 @@
 免费的编程中文书籍索引
 ============================
 
-[![](https://img.shields.io/github/issues/justjavac/free-programming-books-zh_CN.svg)](https://github.com/justjavac/free-programming-books-zh_CN/issues)  [![](https://img.shields.io/github/forks/justjavac/free-programming-books-zh_CN.svg)](https://github.com/justjavac/free-programming-books-zh_CN/network) [![](https://img.shields.io/github/stars/justjavac/free-programming-books-zh_CN.svg)](https://github.com/justjavac/free-programming-books-zh_CN/stargazers) [![](https://travis-ci.org/justjavac/free-programming-books-zh_CN.svg?branch=master)](https://travis-ci.org/justjavac/free-programming-books-zh_CN) [![](https://img.shields.io/github/release/justjavac/free-programming-books-zh_CN.svg)](https://github.com/justjavac/free-programming-books-zh_CN/releases)
+[![](https://img.shields.io/github/issues/justjavac/free-programming-books-zh_CN.svg)](./issues)  [![](https://img.shields.io/github/forks/justjavac/free-programming-books-zh_CN.svg)](./network) [![](https://img.shields.io/github/stars/justjavac/free-programming-books-zh_CN.svg)](./stargazers) [![](https://travis-ci.org/justjavac/free-programming-books-zh_CN.svg?branch=master)](https://travis-ci.org/justjavac/free-programming-books-zh_CN) [![](https://img.shields.io/github/release/justjavac/free-programming-books-zh_CN.svg)](./releases)
 
 免费的编程中文书籍索引，欢迎投稿。
 
@@ -17,11 +17,11 @@
 
 欢迎大家将珍藏已久的经典免费书籍共享出来，您可以：
 
-* 使用 [Pull Request](https://github.com/justjavac/free-programming-books-zh_CN/pulls) 提交
+* 使用 [Pull Request](./pulls) 提交
 
 如果你发现了不能访问的链接，也可以提 PR，在无法访问链接的后面增加 `:worried:`。
 
-贡献者名单: https://github.com/justjavac/free-programming-books-zh_CN/graphs/contributors
+贡献者名单: ./graphs/contributors
 
 ## 目录
 
