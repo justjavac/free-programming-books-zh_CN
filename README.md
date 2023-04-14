@@ -457,6 +457,10 @@
 
 ## Go
 
+* [Go语言圣经](https://gopl-zh.github.io/)
+* [Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)
+* [Go语言定制指南](https://chai2010.cn/go-ast-book/)（原名：Go语法树入门）
+* [Go语言设计与实现](https://draveness.me/golang/)
 * [Go编程基础](https://github.com/Unknwon/go-fundamental-programming)
 * [Go入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN)
 * [学习Go语言](http://mikespook.com/learning-go/)
@@ -472,7 +476,6 @@
 * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
 * [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)
 * [深入解析Go](https://github.com/tiancaiamao/go-internals)
-* [Go语言圣经(中文版)](https://bitbucket.org/golang-china/gopl-zh/wiki/Home) ([GitBook](https://www.gitbook.com/book/wizardforcel/gopl-zh/details))
 * [golang runtime源码分析](https://github.com/sheepbao/golang_runtime_reading)
 * [Go语言实战: 编写可维护Go语言代码建议](https://github.com/llitfkitfk/go-best-practice)
 * [Golang 系列教程(译)](https://github.com/Tinywan/golang-tutorial)   
