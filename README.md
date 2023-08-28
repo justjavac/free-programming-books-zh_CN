@@ -157,7 +157,7 @@
 
 * [Learn Git - complete book in Chinese](https://www.git-tower.com/learn/git/ebook/cn/command-line/)
 * [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet-cn)
-* [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) （本文由 [廖雪峰](http://www.liaoxuefeng.com) 创作，如果觉得本教程对您有帮助，可以去 [iTunes](https://itunes.apple.com/cn/app/git-jiao-cheng/id876420437) 购买）
+* [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) （[廖雪峰](https://www.liaoxuefeng.com)）
 * [git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 * [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
 * [Git 参考手册](http://gitref.justjavac.com)
@@ -533,7 +533,9 @@
 * [Think Java](http://www.ituring.com.cn/minibook/69)
 * [Java 8 简明教程](https://github.com/wizardforcel/modern-java-zh)
 * [On Java 8 中文版](https://github.com/LingCoder/OnJava8) (翻译中)
-* [Effective Java 第3版中文版](https://github.com/sjsdfg/effective-java-3rd-chinese) 
+* [Effective Java 第3版中文版](https://github.com/sjsdfg/effective-java-3rd-chinese)
+* [Java教程](https://www.liaoxuefeng.com/wiki/1252599548343744) （[廖雪峰](https://www.liaoxuefeng.com)）
+* [Spring 2.0核心技术与最佳实践](https://michaelliao.github.io/download/pdf/Spring%202.0%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.pdf) （[廖雪峰](https://www.liaoxuefeng.com)）
 
 [返回目录](#目录)
 
@@ -557,7 +559,7 @@
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/) (作者：阮一峰)
 * [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (深入JavaScript语言核心机制的系列图书)
-* [JavaScript 教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000) 廖雪峰
+* [JavaScript 教程](https://www.liaoxuefeng.com/wiki/1022910821149312) 廖雪峰
 * [MDN JavaScript 中文文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 * jQuery
     * [jQuery 解构](http://www.cn-cuckoo.com/deconstructed/jquery.html)
@@ -713,8 +715,7 @@
 
 ## Python
 
-* [廖雪峰 Python 2.7 中文教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
-* [廖雪峰 Python 3 中文教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+* [廖雪峰 Python 3 中文教程](https://www.liaoxuefeng.com/wiki/1016959663602400)
 * [简明Python教程](http://www.kuqin.com/abyteofpython_cn/)
 * [简明 Python 教程(Python 3)](https://legacy.gitbook.com/book/lenkimo/byte-of-python-chinese-edition/details)
 * [零基础学 Python 第一版](http://www.kancloud.cn/kancloud/python-basic)
