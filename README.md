@@ -487,6 +487,7 @@
 * [Go2编程指南](https://chai2010.cn/go2-book/) :worried:
 * [Go语言设计模式](https://github.com/senghoo/golang-design-pattern)   
 * [Go语言四十二章经](https://github.com/ffhelicopter/Go42)   
+* [通过测试驱动开发学习 Go 语言](https://github.com/studygolang/learn-go-with-tests)   
 
 [返回目录](#目录)
 
