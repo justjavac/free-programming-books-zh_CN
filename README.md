@@ -540,6 +540,7 @@
 * [Java 8 简明教程](https://github.com/wizardforcel/modern-java-zh)
 * [On Java 8 中文版](https://github.com/LingCoder/OnJava8) (翻译中)
 * [Effective Java 第3版中文版](https://github.com/sjsdfg/effective-java-3rd-chinese) 
+* [Java电子书整合（阿里云盘，密码：a2j1）](https://www.aliyundrive.com/s/tdfH4js69Lo)
 
 [返回目录](#目录)
 
