@@ -230,6 +230,8 @@
 
 * [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 * [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
+* [mysql官方文档](https://dev.mysql.com/doc/refman/8.0/en/)
+* [深入浅出MySQL](https://www.linuxidc.com/Linux/2016-05/130922.htm)
 
 [返回目录](#目录)
 
