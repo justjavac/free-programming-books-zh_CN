@@ -878,7 +878,7 @@
 * [提问的智慧](http://www.dianbo.org/9238/stone/tiwendezhihui.htm) :worried:
 * [Markdown 入门参考](https://github.com/LearnShare/Learning-Markdown)
 * [AsciiDoc简明指南](https://github.com/stanzgy/wiki/blob/master/markup/asciidoc-guide.asciidoc)
-* [背包问题九讲](http://love-oriented.com/pack/)
+* [背包问题九讲](http://love-oriented.com/pack/) :worried:
 * [老齐的技术资料](https://github.com/qiwsir/ITArticles)
 * [前端技能汇总](https://github.com/JacksonTian/fks)
 * [借助开源项目，学习软件开发](https://github.com/zhuangbiaowei/learn-with-open-source)
