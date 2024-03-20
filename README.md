@@ -321,7 +321,8 @@
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
 * [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍) :worried:
-
+* [重构 改善既有代码的设计](https://refactoringguru.cn/refactoring)
+  
 [返回目录](#目录)
 
 ## 游戏引擎
