@@ -345,6 +345,7 @@
 * [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
 * [Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)
 * [系统重构与迁移指南](https://github.com/phodal/migration)
+* [动手学深度学习](https://zh.d2l.ai/index.html)
 
 [返回目录](#目录)
 
