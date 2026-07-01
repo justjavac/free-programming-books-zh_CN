@@ -370,7 +370,7 @@
 ## AWK
 
 * [awk程序设计语言](https://github.com/wuzhouhui/awk)
-* [awk中文指南](http://awk.readthedocs.org/en/latest/index.html)
+* [awk中文指南](https://awk.readthedocs.io/en/latest/index.html)
 * [awk实战指南](https://book.saubcy.com/AwkInAction/)
 
 [返回目录](#目录)
@@ -389,7 +389,7 @@
 * [跟我一起写 Makefile](https://github.com/seisman/how-to-write-makefile)
 * [GNU make中文手册](https://free-online-ebooks.appspot.com/tools/gnu-make-cn/) (需科学上网) ([PDF](https://hacker-yhj.github.io/resources/gun_make.pdf))
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
-* [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
+* [Google C++ 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents.html)
 * [C/C++ Primer](https://github.com/andycai/cprimer) (by @andycai)
 * [简单易懂的C魔法](http://www.nowamagic.net/librarys/books/contents/c) :worried:
 * [C++ FAQ LITE(中文版)](http://www.sunistudio.com/cppfaq/)
@@ -498,7 +498,7 @@
 
 ## Haskell
 
-* [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
+* [Real World Haskell 中文版](https://rwh.readthedocs.io/en/latest/)
 * [Haskell趣学指南](https://learnyoua.haskell.sg/content/zh-cn/) :worried:
 
 [返回目录](#目录)
@@ -507,7 +507,7 @@
 
 * [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 * [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html) :worried:
-* [Google Objective-C Style Guide 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/)
+* [Google Objective-C Style Guide 中文版](https://zh-google-styleguide.readthedocs.io/en/latest/google-objc-styleguide/)
 * [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
 * [Apple Watch开发初探](http://nilsun.github.io/apple-watch/) :worried:
 * [马上着手开发 iOS 应用程序](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOSCh/index.html)
@@ -650,7 +650,7 @@
 
 ## LISP
 * Common Lisp
-    * [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
+    * [ANSI Common Lisp 中文翻譯版](https://acl.readthedocs.io/en/latest/)
     * [On Lisp 中文翻译版本](http://www.ituring.com.cn/minibook/862) :worried:
 * Scheme
     * [Yet Another Scheme Tutorial Scheme入门教程](http://deathking.github.io/yast-cn/)
@@ -695,7 +695,7 @@
 * [Laravel5.1 中文文档](http://laravel-china.org/docs/5.1) :worried:
 * [Laravel 5.1 LTS 速查表](https://cs.phphub.org/)
 * [Symfony2 Cookbook 中文版](http://wiki.jikexueyuan.com/project/symfony-cookbook/)(版本 2.7.0 LTS)
-* [Symfony2中文文档](http://symfony-docs-chs.readthedocs.org/en/latest/) (未译完)
+* [Symfony2中文文档](https://symfony-docs-chs.readthedocs.io/en/latest/) (未译完)
 * [YiiBook几本Yii框架的在线教程](http://yiibook.com//doc) :worried:
 * [深入理解 Yii 2.0](http://www.digpage.com/) :worried:
 * [Yii 框架中文官网](http://www.yiichina.com/)
@@ -725,7 +725,7 @@
 * [简明 Python 教程(Python 3)](https://legacy.gitbook.com/book/lenkimo/byte-of-python-chinese-edition/details) :worried:
 * [零基础学 Python 第一版](http://www.kancloud.cn/kancloud/python-basic)
 * [零基础学 Python 第二版](http://www.kancloud.cn/kancloud/starter-learning-python)
-* [可爱的 Python](http://lovelypython.readthedocs.org/en/latest/)
+* [可爱的 Python](https://lovelypython.readthedocs.io/en/latest/)
 * [Python 2.7 官方教程中文版](http://www.pythondoc.com/pythontutorial27/index.html)
 * [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
 * [Python Cookbook 中文版](http://www.kancloud.cn/thinkphp/python-cookbook)
@@ -733,25 +733,25 @@
 * [深入 Python](http://www.kuqin.com/docs/diveintopythonzh-cn-5.4b/html/toc/) :worried:
 * [深入 Python 3](http://old.sebug.net/paper/books/dive-into-python3/) :worried:
 * [PEP8 Python代码风格规范](https://code.google.com/p/zhong-wiki/wiki/PEP8)
-* [Google Python 风格指南 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/)
+* [Google Python 风格指南 中文版](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/)
 * [Python入门教程](http://liam0205.me/2013/11/02/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
 * [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/) ([PDF](http://liam0205.me/attachment/Python/PyHardWay/Learn_Python_The_Hard_Way_zh-cn.pdf) [EPUB](https://www.gitbook.com/download/epub/book/wizardforcel/lpthw))
 * [Python自然语言处理中文版](http://pan.baidu.com/s/1qW4pvnY) （感谢陈涛同学的翻译，也谢谢 [@shwley](https://github.com/shwley) 联系了作者） :worried:
 * [Python 绘图库 matplotlib 官方指南中文翻译](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
-* [Scrapy 0.25 文档](http://scrapy-chs.readthedocs.org/zh_CN/latest/)
+* [Scrapy 0.25 文档](https://scrapy-chs.readthedocs.io/zh_CN/latest/)
 * [ThinkPython](https://github.com/carfly/thinkpython-cn)
 * [ThinkPython 2ed](https://github.com/bingjin/ThinkPython2-CN)
 * [Python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
 * [Python 正则表达式操作指南](http://wiki.ubuntu.org.cn/Python正则表达式操作指南)
 * [python初级教程：入门详解](http://www.crifan.com/files/doc/docbook/python_beginner_tutorial/release/html/python_beginner_tutorial.html)
 * [Twisted 与异步编程入门](https://www.gitbook.com/book/likebeta/twisted-intro-cn/details) :worried:
-* [TextGrocery 中文 API](http://textgrocery.readthedocs.org/zh/latest/index.html) ( 基于svm算法的一个短文本分类 Python 库 )
-* [Requests: HTTP for Humans](http://requests-docs-cn.readthedocs.org/zh_CN/latest/)
-* [Pillow 中文文档](http://pillow-cn.readthedocs.org/en/latest/#) :worried:
-* [PyMOTW 中文版](http://pymotwcn.readthedocs.org/en/latest/index.html)
+* [TextGrocery 中文 API](https://textgrocery.readthedocs.io/zh/latest/index.html) ( 基于svm算法的一个短文本分类 Python 库 )
+* [Requests: HTTP for Humans](https://requests-docs-cn.readthedocs.io/zh_CN/latest/)
+* [Pillow 中文文档](https://pillow-docs-cn.readthedocs.io/zh_CN/latest/index.html) :worried:
+* [PyMOTW 中文版](https://pymotwcn.readthedocs.io/en/latest/index.html)
 * [Python 官方文档中文版](http://data.digitser.net/zh-CN/python_index.html) :worried:
-* [Fabric 中文文档](http://fabric-chs.readthedocs.org)
-* [Beautiful Soup 4.2.0 中文文档](http://beautifulsoup.readthedocs.org/zh_CN/latest/)
+* [Fabric 中文文档](https://fabric-chs.readthedocs.io)
+* [Beautiful Soup 4.2.0 中文文档](https://beautifulsoup.readthedocs.io/zh_CN/latest/)
 * [Python 中的 Socket 编程](https://legacy.gitbook.com/book/keelii/socket-programming-in-python-cn/details) :worried:
 * [用Python做科学计算](https://docs.huihoo.com/scipy/scipy-zh-cn/index.html)
 * [Sphinx 中文文档](http://www.pythondoc.com/sphinx/index.html)
@@ -770,7 +770,7 @@
 * [Python 量化交易教程](https://www.gitbook.com/book/wizardforcel/python-quant-uqer/details) :worried:
 * [Python黑魔法手册](https://magic.iswbm.com/preface.html)
 * Django
-    * [Django 1.5 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/) 正在翻译中
+    * [Django 1.5 文档中文版](https://django-chinese-docs.readthedocs.io/en/latest/) 正在翻译中
     * [Django 2.0 文档中文版](https://docs.djangoproject.com/zh-hans/2.0/)
     * [Django 最佳实践](https://github.com/yangyubo/zh-django-best-practices)
     * [Django 2.1 搭建个人博客教程](https://www.dusaiphoto.com/article/detail/2/) ( 编写中 )
@@ -782,7 +782,7 @@
 * Flask
     * [Flask 文档中文版](http://docs.jinkan.org/docs/flask/)
     * [Jinja2 文档中文版](http://docs.jinkan.org/docs/jinja2/)
-    * [Werkzeug 文档中文版](http://werkzeug-docs-cn.readthedocs.org/zh_CN/latest/)
+    * [Werkzeug 文档中文版](https://werkzeug-docs-cn.readthedocs.io/zh_CN/latest/)
     * [Flask之旅](http://spacewander.github.io/explore-flask-zh/)
     * [Flask 扩展文档汇总](https://www.gitbook.com/book/wizardforcel/flask-extension-docs/details) :worried:
     * [Flask 大型教程](http://www.pythondoc.com/flask-mega-tutorial/index.html)
@@ -794,7 +794,7 @@
 * Tornado
     * [Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html)
     * [Tornado源码解析](http://www.nowamagic.net/academy/detail/13321002) :worried:
-    * [Tornado 4.3 文档中文版](https://tornado-zh.readthedocs.org/zh/latest/)
+    * [Tornado 4.3 文档中文版](https://tornado-zh.readthedocs.io/zh/latest/)
 
 [返回目录](#目录)
 
@@ -868,7 +868,7 @@
 * [学习笔记: Vim、Python、memcached](https://github.com/lzjun567/note)
 * [图灵开放书翻译计划--C++、Python、Java等](http://www.ituring.com.cn/activity/details/2004) :worried:
 * [蒂姆·奥莱利随笔](http://g.yeeyan.org/books/2095) （由译言网翻译，电子版免费） :worried:
-* [SICP 解题集](http://sicp.readthedocs.org/en/latest/)
+* [SICP 解题集](https://sicp.readthedocs.io/en/latest/)
 * [精彩博客集合](https://github.com/hacke2/hacke2.github.io/issues/2)
 * [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 * [Standard C 语言标准函数库速查 (Cheat Sheet)](http://ganquan.info/standard-c/) :worried:
