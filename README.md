@@ -726,8 +726,6 @@
 * [零基础学 Python 第一版](http://www.kancloud.cn/kancloud/python-basic)
 * [零基础学 Python 第二版](http://www.kancloud.cn/kancloud/starter-learning-python)
 * [可爱的 Python](http://lovelypython.readthedocs.org/en/latest/)
-* [Python 2.7 官方教程中文版](http://www.pythondoc.com/pythontutorial27/index.html)
-* [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
 * [Python Cookbook 中文版](http://www.kancloud.cn/thinkphp/python-cookbook)
 * [Python3 Cookbook 中文版](https://github.com/yidao620c/python3-cookbook)
 * [深入 Python](http://www.kuqin.com/docs/diveintopythonzh-cn-5.4b/html/toc/) :worried:
