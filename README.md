@@ -722,8 +722,6 @@
 * [零基础学 Python 第一版](http://www.kancloud.cn/kancloud/python-basic)
 * [零基础学 Python 第二版](http://www.kancloud.cn/kancloud/starter-learning-python)
 * [可爱的 Python](https://lovelypython.readthedocs.io/en/latest/)
-* [Python 2.7 官方教程中文版](http://www.pythondoc.com/pythontutorial27/index.html)
-* [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
 * [Python Cookbook 中文版](http://www.kancloud.cn/thinkphp/python-cookbook)
 * [Python3 Cookbook 中文版](https://github.com/yidao620c/python3-cookbook)
 * [深入 Python](http://www.kuqin.com/docs/diveintopythonzh-cn-5.4b/html/toc/) :worried:
@@ -750,7 +748,6 @@
 * [Beautiful Soup 4.2.0 中文文档](https://beautifulsoup.readthedocs.io/zh_CN/latest/)
 * [Python 中的 Socket 编程](https://legacy.gitbook.com/book/keelii/socket-programming-in-python-cn/details) :worried:
 * [用Python做科学计算](https://docs.huihoo.com/scipy/scipy-zh-cn/index.html)
-* [Sphinx 中文文档](http://www.pythondoc.com/sphinx/index.html)
 * [精通 Python 设计模式](https://github.com/cundi/Mastering.Python.Design.Patterns)
 * [python 安全编程教程](https://github.com/smartFlash/pySecurity)
 * [程序设计思想与方法](https://www.gitbook.com/book/wizardforcel/sjtu-cs902-courseware/details) :worried:
@@ -781,7 +778,6 @@
     * [Werkzeug 文档中文版](https://werkzeug-docs-cn.readthedocs.io/zh_CN/latest/)
     * [Flask之旅](http://spacewander.github.io/explore-flask-zh/)
     * [Flask 扩展文档汇总](https://www.gitbook.com/book/wizardforcel/flask-extension-docs/details) :worried:
-    * [Flask 大型教程](http://www.pythondoc.com/flask-mega-tutorial/index.html)
     * [SQLAlchemy 中文文档](http://docs.jinkan.org/docs/flask-sqlalchemy/)
     * [Flask 入门教程](https://read.helloflask.com)
 * web.py
