@@ -764,6 +764,8 @@
 * [Python 精要教程](https://www.gitbook.com/book/wizardforcel/python-essential-tutorial/details) :worried:
 * [Python 量化交易教程](https://www.gitbook.com/book/wizardforcel/python-quant-uqer/details) :worried:
 * [Python黑魔法手册](https://magic.iswbm.com/preface.html)
+* [不基础的Python基础](https://space.bilibili.com/245645656/channel/collectiondetail?sid=346060)
+* [Python 魔术方法大全](https://space.bilibili.com/245645656/channel/collectiondetail?sid=1023741)
 * Django
     * [Django 1.5 文档中文版](https://django-chinese-docs.readthedocs.io/en/latest/) 正在翻译中
     * [Django 2.0 文档中文版](https://docs.djangoproject.com/zh-hans/2.0/)
