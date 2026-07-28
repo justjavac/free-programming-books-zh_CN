@@ -752,7 +752,6 @@
 * [Beautiful Soup 4.2.0 中文文档](http://beautifulsoup.readthedocs.org/zh_CN/latest/)
 * [Python 中的 Socket 编程](https://legacy.gitbook.com/book/keelii/socket-programming-in-python-cn/details) :worried:
 * [用Python做科学计算](https://docs.huihoo.com/scipy/scipy-zh-cn/index.html)
-* [Sphinx 中文文档](http://www.pythondoc.com/sphinx/index.html)
 * [精通 Python 设计模式](https://github.com/cundi/Mastering.Python.Design.Patterns)
 * [python 安全编程教程](https://github.com/smartFlash/pySecurity)
 * [程序设计思想与方法](https://www.gitbook.com/book/wizardforcel/sjtu-cs902-courseware/details) :worried:
@@ -783,7 +782,6 @@
     * [Werkzeug 文档中文版](http://werkzeug-docs-cn.readthedocs.org/zh_CN/latest/)
     * [Flask之旅](http://spacewander.github.io/explore-flask-zh/)
     * [Flask 扩展文档汇总](https://www.gitbook.com/book/wizardforcel/flask-extension-docs/details) :worried:
-    * [Flask 大型教程](http://www.pythondoc.com/flask-mega-tutorial/index.html)
     * [SQLAlchemy 中文文档](http://docs.jinkan.org/docs/flask-sqlalchemy/)
     * [Flask 入门教程](https://read.helloflask.com)
 * web.py
