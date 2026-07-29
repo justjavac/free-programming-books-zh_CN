@@ -148,7 +148,7 @@
 ## WEB服务器
 
 * [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) (淘宝团队出品)
-* [Nginx教程从入门到精通](http://www.ttlsa.com/nginx/nginx-stu-pdf/)(PDF版本，运维生存时间出品) :worried:
+* [Nginx教程从入门到精通](https://github.com/parieses/source/blob/master/Nginx%E6%95%99%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A(%E8%BF%90%E7%BB%B4%E7%94%9F%E5%AD%98%E6%97%B6%E9%97%B4TTLSA%E5%87%BA%E5%93%81).pdf)(PDF版本，运维生存时间出品)
 * [OpenResty最佳实践](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details) :worried:
 * [Apache 中文手册](https://www.jinbuguo.com/apache/manual/index.html)
 
@@ -245,7 +245,7 @@
 * [让开发自动化系列专栏](http://www.ibm.com/developerworks/cn/java/j-ap/) :worried:
 * [追求代码质量](http://www.ibm.com/developerworks/cn/java/j-cq/) :worried:
 * [selenium 中文文档](https://github.com/fool2fish/selenium-doc) :worried:
-* [Selenium Webdriver 简易教程](http://it-ebooks.flygon.net/selenium-simple-tutorial/) :worried:
+* [Selenium Webdriver 简易教程](https://github.com/it-ebooks-0/it-ebooks-2016-allinone/blob/master/Selenium%20Webdriver%20%E7%AE%80%E6%98%93%E6%95%99%E7%A8%8B.epub) (EPUB)
 * [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_\(Simplified\)) :worried:
 * [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81) :worried:
 * [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
@@ -263,7 +263,7 @@
 
 * [图说设计模式](https://github.com/me115/design_patterns)
 * [史上最全设计模式导学目录](http://blog.csdn.net/lovelion/article/details/17517213)
-* [design pattern 包教不包会](https://github.com/AlfredTheBest/Design-Pattern) :worried:
+* [design pattern 包教不包会](https://github.com/MiaoJoy/Design-Pattern)
 * [设计模式 Java 版](https://quanke.gitbooks.io/design-pattern-java/content/) :worried:
 * [设计模式目录](https://refactoringguru.cn/design-patterns/catalog)
 
@@ -384,7 +384,7 @@
 * [ZMQ 指南](https://github.com/anjuke/zguide-cn)
 * [How to Think Like a Computer Scientist](http://www.ituring.com.cn/book/1203) (中英文版)
 * [跟我一起写 Makefile](https://github.com/seisman/how-to-write-makefile)
-* [GNU make中文手册](https://free-online-ebooks.appspot.com/tools/gnu-make-cn/) (需科学上网) ([PDF](https://hacker-yhj.github.io/resources/gun_make.pdf)) :worried:
+* [GNU make中文手册](https://github.com/Jing--Li/book/blob/master/PL%20GNU%20make%20%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.pdf) (PDF)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 * [Google C++ 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents.html)
 * [C/C++ Primer](https://github.com/andycai/cprimer) (by @andycai)
@@ -693,7 +693,7 @@
 * [深入理解PHP内核](https://github.com/reeze/tipi)
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/) :worried:
 * [Laravel5.1 中文文档](http://laravel-china.org/docs/5.1) :worried:
-* [Laravel 5.1 LTS 速查表](https://cs.phphub.org/) :worried:
+* [Laravel 5.1 LTS 速查表](https://learninglaravel.net/cheatsheet-chinese)
 * [Symfony2 Cookbook 中文版](http://wiki.jikexueyuan.com/project/symfony-cookbook/)(版本 2.7.0 LTS)
 * [Symfony2中文文档](https://symfony-docs-chs.readthedocs.io/en/latest/) (未译完)
 * [YiiBook几本Yii框架的在线教程](http://yiibook.com//doc) :worried:
@@ -704,7 +704,7 @@
 * [Composer 中文网](http://www.phpcomposer.com)
 * [Slim 中文文档](http://ww1.minimee.org/php/slim) :worried:
 * [Lumen 中文文档](https://learnku.com/docs/lumen/5.7/)
-* [PHPUnit 中文文档](https://phpunit.de/manual/current/zh_cn/installation.html) :worried:
+* [PHPUnit 中文文档](https://www.w3cschool.cn/phpunit5/)
 * [PHP-LeetCode](https://github.com/wuqinqiang/leetcode-php)
 * [ThinkPHP5.1完全开发手册](https://www.kancloud.cn/manual/thinkphp5_1)
 * [ThinkPHP3.2.3完全开发手册](https://www.kancloud.cn/manual/thinkphp)
@@ -733,7 +733,7 @@
 * [PEP8 Python代码风格规范](https://code.google.com/p/zhong-wiki/wiki/PEP8)
 * [Google Python 风格指南 中文版](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/)
 * [Python入门教程](http://liam0205.me/2013/11/02/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
-* [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/) ([PDF](http://liam0205.me/attachment/Python/PyHardWay/Learn_Python_The_Hard_Way_zh-cn.pdf) [EPUB](https://www.gitbook.com/download/epub/book/wizardforcel/lpthw)) :worried:
+* [笨办法学 Python](http://liam0205.me/attachment/Python/PyHardWay/Learn_Python_The_Hard_Way_zh-cn.pdf) ([EPUB](https://www.gitbook.com/download/epub/book/wizardforcel/lpthw))
 * [Python自然语言处理中文版](http://pan.baidu.com/s/1qW4pvnY) （感谢陈涛同学的翻译，也谢谢 [@shwley](https://github.com/shwley) 联系了作者） :worried:
 * [Python 绘图库 matplotlib 官方指南中文翻译](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
 * [Scrapy 0.25 文档](https://scrapy-chs.readthedocs.io/zh_CN/latest/)
