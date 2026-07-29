@@ -509,7 +509,7 @@
 * [Google Objective-C Style Guide 中文版](https://zh-google-styleguide.readthedocs.io/en/latest/google-objc-styleguide/)
 * [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
 * [Apple Watch开发初探](http://nilsun.github.io/apple-watch/) :worried:
-* [马上着手开发 iOS 应用程序](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOSCh/index.html) :worried:
+* [马上着手开发 iOS 应用程序](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/RoadMapiOSCh-Legacy/index.html)
 * [网易斯坦福大学公开课：iOS 7应用开发字幕文件](https://github.com/jkyin/Subtitle)
 
 [返回目录](#目录)
@@ -521,7 +521,7 @@
 * [Spring Framework 4.x参考文档](https://github.com/waylau/spring-framework-4-reference)
 * [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) (翻译中)
 * [Spring 系列中文参考指南](https://github.com/jcohy/jcohy-docs)
-* [MyBatis中文文档](http://mybatis.org/mybatis-3/zh/index.html) :worried:
+* [MyBatis中文文档](https://mybatis.org/mybatis-3/zh_CN/index.html)
 * [MyBatis Generator 中文文档](http://mbg.cndocs.tk/) :worried:
 * [用jersey构建REST服务](https://github.com/waylau/RestDemo)
 * [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
@@ -625,7 +625,7 @@
 * ExtJS
     * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
 * Meteor
-    * [Discover Meteor](http://zh.discovermeteor.com/) :worried:
+    * [Discover Meteor](https://github.com/DiscoverMeteor/DiscoverMeteor_zh)
     * [Meteor 中文文档](http://docs.meteorhub.org/#/basic/) :worried:
     * [Angular-Meteor 中文教程](http://angular.meteorhub.org/) :worried:
 * VueJS
@@ -703,7 +703,7 @@
 * [swoole文档及入门教程](https://github.com/LinkedDestiny/swoole-doc)
 * [Composer 中文网](http://www.phpcomposer.com)
 * [Slim 中文文档](http://ww1.minimee.org/php/slim) :worried:
-* [Lumen 中文文档](http://lumen.laravel-china.org/) :worried:
+* [Lumen 中文文档](https://learnku.com/docs/lumen/5.7/)
 * [PHPUnit 中文文档](https://phpunit.de/manual/current/zh_cn/installation.html) :worried:
 * [PHP-LeetCode](https://github.com/wuqinqiang/leetcode-php)
 * [ThinkPHP5.1完全开发手册](https://www.kancloud.cn/manual/thinkphp5_1)
@@ -772,7 +772,7 @@
     * [Django 1.5 文档中文版](https://django-chinese-docs.readthedocs.io/en/latest/) 正在翻译中
     * [Django 2.0 文档中文版](https://docs.djangoproject.com/zh-hans/2.0/)
     * [Django 最佳实践](https://github.com/yangyubo/zh-django-best-practices)
-    * [Django 2.1 搭建个人博客教程](https://www.dusaiphoto.com/article/detail/2/) ( 编写中 ) :worried:
+    * [Django 搭建个人博客教程](https://github.com/stacklens/django_blog_tutorial)
     * [Django搭建简易博客教程](https://www.gitbook.com/book/andrew-liu/django-blog/details)
     * [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
     * [Django 设计模式与最佳实践](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
