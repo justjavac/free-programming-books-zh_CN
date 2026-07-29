@@ -6,7 +6,7 @@
 免费的编程中文书籍索引，欢迎投稿。
 
 - 国外程序员在 [stackoverflow](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read/1713%231713) 推荐的程序员必读书籍，[中文版](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html "一个合格的程序员应该读过哪些书")。
-- [stackoverflow](http://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read) 上的程序员应该阅读的非编程类书籍有哪些？ [中文版](what-non-programming-books-should-programmers-read.md) :worried:
+- 程序员应该阅读的非编程类书籍有哪些？ [中文版](what-non-programming-books-should-programmers-read.md)（原帖为 stackoverflow 上已删除的[问题 38210](https://web.archive.org/web/20170103152138/http://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read)）
 - [github](https://github.com/EbookFoundation/free-programming-books) 上的一个流行的编程书籍索引  [中文版](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md)
 
 如果这个仓库对你有帮助，欢迎 star。如果这个仓库帮你提升了技能找到了工作，可以请我喝杯咖啡：
@@ -207,7 +207,7 @@
 * [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
 * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
 * [Neo4j 简体中文手册 v1.8](http://docs.neo4j.org.cn/) :worried:
-* [Neo4j .rb 中文資源](http://neo4j.tw/) :worried:
+* [Neo4j .rb 中文資源](https://web.archive.org/web/20130716014446/http://neo4j.tw/) :worried:
 * [Disque 使用教程](http://disquebook.com) :worried:
 * [Apache Spark 设计与实现](https://github.com/JerryLead/SparkInternals/tree/master/markdown)
 
@@ -242,8 +242,8 @@
 ## 项目相关
 
 * [持续集成（第二版）](http://article.yeeyan.org/view/2251/94882) (译言网) :worried:
-* [让开发自动化系列专栏](http://www.ibm.com/developerworks/cn/java/j-ap/) :worried:
-* [追求代码质量](http://www.ibm.com/developerworks/cn/java/j-cq/) :worried:
+* [让开发自动化系列专栏](https://web.archive.org/web/20181023074323/https://www.ibm.com/developerworks/cn/java/j-ap/) :worried:
+* [追求代码质量](https://web.archive.org/web/20181023194039/https://www.ibm.com/developerworks/cn/java/j-cq/) :worried:
 * [selenium 中文文档](https://github.com/fool2fish/selenium-doc) :worried:
 * [Selenium Webdriver 简易教程](https://github.com/it-ebooks-0/it-ebooks-2016-allinone/blob/master/Selenium%20Webdriver%20%E7%AE%80%E6%98%93%E6%95%99%E7%A8%8B.epub) (EPUB)
 * [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_\(Simplified\)) :worried:
