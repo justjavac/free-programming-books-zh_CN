@@ -106,7 +106,7 @@
 * [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 * [FreeBSD 使用手册](https://www.freebsd.org/doc/zh_CN/books/handbook/index.html)
 * [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
-* [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html) :worried:
+* [Linux 构建指南](https://www.jinbuguo.com/lfs/lfs62/index.html)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
 * [Linux Documentation (中文版)](https://www.gitbook.com/book/tinylab/linux-doc/details) :worried:
 * [嵌入式 Linux 知识库 (eLinux.org 中文版)](https://www.gitbook.com/book/tinylab/elinux/details) :worried:
@@ -150,7 +150,7 @@
 * [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) (淘宝团队出品)
 * [Nginx教程从入门到精通](http://www.ttlsa.com/nginx/nginx-stu-pdf/)(PDF版本，运维生存时间出品) :worried:
 * [OpenResty最佳实践](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details) :worried:
-* [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/index.html) :worried:
+* [Apache 中文手册](https://www.jinbuguo.com/apache/manual/index.html)
 
 [返回目录](#目录)
 
@@ -215,7 +215,7 @@
 
 ## PostgreSQL
 
-* [PostgreSQL 8.2.3 中文文档](http://works.jinbuguo.com/postgresql/menu823/index.html) :worried:
+* [PostgreSQL 8.2.3 中文文档](https://www.jinbuguo.com/postgresql/manual/index.html)
 * [PostgreSQL 9.3.1 中文文档](http://www.postgres.cn/docs/9.3/index.html)
 * [PostgreSQL 9.5.3 中文文档](http://www.postgres.cn/docs/9.5/index.html)
 
