@@ -27,6 +27,7 @@
 
 * 语言无关类
   * [操作系统](#操作系统)
+  * [AI](#ai)
   * [智能系统](#智能系统)
   * [分布式系统](#分布式系统)
   * [编译原理](#编译原理)
@@ -115,6 +116,22 @@
 * [SystemTap新手指南](https://spacewander.gitbooks.io/systemtapbeginnersguide_zh/content/index.html)
 * [操作系统思考](https://github.com/wizardforcel/think-os-zh)
 * [Linux 内核实验](https://linux-kernel-labs-zh.github.io/)
+
+[返回目录](#目录)
+
+## AI
+* [大语言模型](https://github.com/LLMBook-zh/LLMBook-zh.github.io)（中国人民大学）
+* [大模型基础](https://github.com/ZJU-LLMs/Foundations-of-LLMs)（浙江大学）
+* [Happy-LLM：从零开始的大语言模型原理与实践教程](https://github.com/datawhalechina/happy-llm)
+* [动手学大模型 Dive into LLMs](https://github.com/Lordog/dive-into-llms)（上海交通大学）
+* [开源大模型食用指南 Self-LLM](https://github.com/datawhalechina/self-llm)
+* [动手学大模型应用开发](https://github.com/datawhalechina/llm-universe)
+* [RAG 技术全栈指南](https://github.com/datawhalechina/all-in-rag)
+* [面向开发者的 LLM 入门教程](https://github.com/datawhalechina/llm-cookbook)
+* [Hello-Agents：从零开始构建智能体](https://github.com/datawhalechina/hello-agents)
+* [深入理解 AI Agent：设计原理与工程实践](https://github.com/bojieli/ai-agent-book)
+* [Hugging Face Agents Course](https://github.com/huggingface/agents-course)（含中文版）
+* [Vibe Vibe：人人都能学会的 AI 编程指南](https://github.com/datawhalechina/vibe-vibe)
 
 [返回目录](#目录)
 
