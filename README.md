@@ -47,6 +47,7 @@
   * [编程艺术](#编程艺术)
   * [游戏引擎](#游戏引擎)
   * [算法](#算法)
+  * [汽车电子](#汽车电子)
   * [其它](#其它)
 
 * 语言相关类
@@ -322,6 +323,18 @@
 ## 算法
 
 * [labuladong 的算法小抄](https://github.com/labuladong/fucking-algorithm)
+
+[返回目录](#目录)
+
+## 汽车电子
+
+* [从沙子到车辙——一个工程师的理解](https://github.com/Lularible/from-sand-to-ruts)（汽车电子全景入门）
+* [PTP技术书——从思想实验到协议实现](https://github.com/Lularible/ptp-book)
+* [HSM技术书——从思想实验到安全基石](https://github.com/Lularible/hsm-book)
+* [UDS技术书——从望闻问切到UDS协议实现](https://github.com/Lularible/uds-book)
+* [存储技术书——在不可靠的硬件上构建可靠的数据家园](https://github.com/Lularible/storage-book)
+* [功能安全——ISO 26262分析与代码实现](https://github.com/Lularible/safety-book-iso26262)
+* [汽车嵌入式软件工程——用建筑学隐喻讲工程化](https://github.com/Lularible/swe-book)
 
 [返回目录](#目录)
 
