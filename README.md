@@ -573,6 +573,7 @@
     * [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
 * TypeScipt
     * [TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/content/) :worried:
+    * [The Concise TypeScript Book（中文版）](https://github.com/gibbok/typescript-book/blob/main/README-zh_CN.md)（免费开源，涵盖 TypeScript 从基础到高级的内容）
 * ExtJS
     * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
 * Meteor
