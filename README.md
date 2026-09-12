@@ -127,6 +127,7 @@
 * [深入理解 AI Agent：设计原理与工程实践](https://github.com/bojieli/ai-agent-book)
 * [Hugging Face Agents Course](https://github.com/huggingface/agents-course)（含中文版）
 * [Vibe Vibe：人人都能学会的 AI 编程指南](https://github.com/datawhalechina/vibe-vibe)
+* [游戏策划实务即用的 AI · Claude Code 活用法](https://github.com/eremes81/game-design-ai-practice-zh-hans)（韩语原书中文版，含繁体版）
 
 [返回目录](#目录)
 
