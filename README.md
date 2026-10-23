@@ -127,6 +127,7 @@
 * [深入理解 AI Agent：设计原理与工程实践](https://github.com/bojieli/ai-agent-book)
 * [Hugging Face Agents Course](https://github.com/huggingface/agents-course)（含中文版）
 * [Vibe Vibe：人人都能学会的 AI 编程指南](https://github.com/datawhalechina/vibe-vibe)
+* [DeepSeek 官方 API 文档（中文版）](https://api-docs.deepseek.com/zh-cn/)
 
 [返回目录](#目录)
 
