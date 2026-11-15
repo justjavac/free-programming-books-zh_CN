@@ -127,6 +127,7 @@
 * [深入理解 AI Agent：设计原理与工程实践](https://github.com/bojieli/ai-agent-book)
 * [Hugging Face Agents Course](https://github.com/huggingface/agents-course)（含中文版）
 * [Vibe Vibe：人人都能学会的 AI 编程指南](https://github.com/datawhalechina/vibe-vibe)
+* [从 Demo 到商用：用 AI 编程，把 Demo 做成能收钱、能长期运行的项目](https://github.com/luochen211/demo-to-production)
 
 [返回目录](#目录)
 
