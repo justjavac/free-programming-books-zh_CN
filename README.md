@@ -334,6 +334,7 @@
 * [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
 * [Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)
 * [系统重构与迁移指南](https://github.com/phodal/migration)
+* [《Tor 解剖》：Tor 底层协议与 Python 实验](https://github.com/aleff-github/onion-routing-anatomy/tree/main/book/zh-Hans)（免费 PDF/EPUB，AI 辅助翻译，尚未经母语者审校）
 
 [返回目录](#目录)
 
